@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_003_07.txt",
+  "scenario_id": "qe_003_07",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186, \u00a7 14": {
+      "raw_text": "Mass. Gen. Laws ch. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Plaintiff alleges that Defendant's failure to adequately address and remedy the water leakage issue constitutes a breach of the covenant of quiet enjoyment under Mass. Gen. Laws ch. 186, \u00a7 14.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 185C, \u00a7 16": {
+      "raw_text": "Mass. Gen. Laws ch. 185C, \u00a7 16",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction is proper in the Boston Housing Court pursuant to Mass. Gen. Laws ch. 186, \u00a7 14 and Mass. Gen. Laws ch. 185C, \u00a7 16.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

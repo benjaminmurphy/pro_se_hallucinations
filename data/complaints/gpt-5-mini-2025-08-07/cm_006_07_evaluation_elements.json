@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_006_07.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an Existing Order entered May 15, 2021 in Norfolk Probate and Family Court and describes the custody allocation (Plaintiff primary physical custody; Defendant alternate weekends and one midweek visit). Those factual allegations establish a prior custody/parenting-time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Plaintiff clearly specifies the relief sought: (a) prohibit the Defendant\u2019s live\u2011in partner from being present during Defendant\u2019s parenting time, or (b) require all Defendant parenting time be supervised (mutually agreed or agency\u2011approved). Temporary emergency relief for supervised visits or partner exclusion is also requested."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete post\u2011judgment facts: Defendant began cohabiting with a Partner who has assault convictions and a prior restraining order; children report frequent yelling and fear; an instance of physical contact left a visible mark on a child; a neighbor called police and police documented a disturbance. These factual allegations, not mere legal conclusions, plausibly constitute a material and substantial change affecting the children since entry of the Existing Order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Plaintiff links the alleged change to the children\u2019s safety and welfare (children\u2019s fear, physical mark, police involvement, Partner\u2019s assaultive history) and alleges that exclusion of the Partner or supervised visits are narrowly tailored to protect them. The complaint also identifies relevant best\u2011interest factors and seeks evaluations/DCF involvement, adequately pleading that the requested modifications are in the children\u2019s best interests."
+    }
+  }
+}

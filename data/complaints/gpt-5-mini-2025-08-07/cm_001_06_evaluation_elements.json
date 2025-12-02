@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_001_06.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads and attaches (or will attach) an Existing Order entered May 15, 2020, and repeatedly references that order as the prior custody/parenting-time judgment the Court may modify."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The petition clearly describes the requested change: limit Respondent\u2019s weekly overnight parenting time to nights when he is off work and able to provide direct care, convert missed overnights to equivalent daytime/makeup time, and related temporary and procedural relief."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a concrete, post-judgment change in circumstances \u2014 Respondent\u2019s change to a regular night-shift schedule (approx. 7 p.m.\u20137 a.m.) that routinely conflicts with court-ordered overnights \u2014 and alleges resulting unscheduled drop-offs, use of an unfamiliar roommate as caregiver, and observable fatigue/disruption in the children, facts that are pleaded to show a material and substantial impact on the children since entry of the Existing Order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The petition alleges that the requested limitation is narrowly tailored to preserve meaningful contact while protecting the children\u2019s safety, sleep, routines, and stability, and ties the requested relief to those specific harms (fatigue, disrupted routines, caregiving gaps), which sufficiently pleads that modification is necessary in the children\u2019s best interests."
+    }
+  }
+}

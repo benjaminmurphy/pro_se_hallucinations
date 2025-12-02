@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_008_10.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly states an Existing Order entered April 15, 2022, identifies its terms (shared legal custody; Plaintiff primary residential parent; Defendant substantial weekend time including Sunday nights), and lists Exhibit A as the prior order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint specifies alternative remedies: (a) grant Plaintiff final decision-making authority for school attendance/educational decisions, or (b) reduce/eliminate Defendant's school-night overnights (including Sunday nights); it also seeks related orders (documentation, monitoring, temporary relief, evaluator)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete factual changes since the 4/15/2022 order: repeated Monday absences after Defendant's weekends during 2024\u20132025 without medical documentation, refusals to facilitate tutoring, resulting truancy warnings and significant academic decline \u2014 facts that, if proven, plausibly establish a material and substantial change affecting the child."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint ties the requested changes to Emily's welfare: alleges absences and missed tutoring have produced truancy notices and declining grades/tests and seeks modifications aimed at ensuring regular school attendance and educational stability, which are core best-interest considerations."
+    }
+  }
+}

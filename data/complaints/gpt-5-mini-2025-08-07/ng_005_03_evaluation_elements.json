@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_005_03.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/controlled the ladder stored adjacent to Plaintiff\u2019s parking area and pleads the general duty to exercise reasonable care in storage/securing of hazardous items (\u00b6\u00b65-6,16). Those factual allegations reasonably establish a duty to avoid foreseeable harm to users of the shared driveway."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant habitually stored the unsecured ladder, received repeated warnings from Plaintiff, acknowledged the problem, promised to secure or move it, but failed to do so (\u00b6\u00b67-9,17), which sufficiently pleads a breach of the asserted duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that because the ladder was unsecured it was blown by a gust of wind and fell onto Plaintiff\u2019s vehicle (\u00b6\u00b69,10,18). Those facts support a but\u2011for nexus: but for the ladder being left unsecured by Defendant, it would not have fallen onto the vehicle."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads that Plaintiff warned Defendant the ladder could fall in windy conditions and that Defendant failed to secure it (\u00b6\u00b67-8,17), establishing that harm of a falling ladder in wind was foreseeable and that the damage was a proximate result of Defendant\u2019s conduct (\u00b6\u00b69,11,18)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete property damage (dented hood, cracked windshield) and out\u2011of\u2011pocket economic losses (repair/replacement costs, insurance deductible, rental car costs) and seeks compensatory relief (\u00b6\u00b610-12,19; Prayer A)."
+    }
+  }
+}

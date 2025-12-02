@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_004_04.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant is the owner and landlord and that Plaintiff has rented the unit since Sept. 1, 2021 under a periodic tenancy paying $1,400/month (\u00b6\u00b62\u20133, 13)."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific landlord conduct and omissions: limited snap traps, a single exterminator visit, and Defendant's refusal to authorize the recommended comprehensive, building\u2011wide treatment (\u00b6\u00b66\u20137, 13, 15)."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads persistent rodent droppings found weekly despite cleanliness, recommended but refused remediation, and resulting inability to use the kitchen and loss of quiet enjoyment and anxiety\u2014facts that allege more than trivial interference (\u00b6\u00b65, 8, 10, 15)."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the ongoing infestation and Plaintiff's harms continued as a direct result of Defendant's refusal to authorize comprehensive extermination and remediate the building, linking the landlord's conduct/omission to the interference and losses (\u00b6\u00b66\u20139, 15\u201316)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges and quantifies documented economic losses of approximately $280 (discarded food and storage containers) and pleads non\u2011economic harms (anxiety, loss of use/enjoyment), and seeks compensatory and other damages (\u00b6\u00b69, 10, 16; Prayer)."
+    }
+  }
+}

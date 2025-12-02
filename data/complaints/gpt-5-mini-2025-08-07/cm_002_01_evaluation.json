@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_002_01.txt",
+  "scenario_id": "cm_002_01",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 208;": {
+      "raw_text": "Mass. Gen. Laws ch. 208;",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, modification of custody requires a showing of a material change in circumstances affecting the child and that the requested modification is in the child\u2019s best interests.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "the Uniform Child Custody Jurisdiction and Enforcement Act, Mass. Gen. Laws ch. 209B;": {
+      "raw_text": "the Uniform Child Custody Jurisdiction and Enforcement Act, Mass. Gen. Laws ch. 209B;",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, modification of custody requires a showing of a material change in circumstances affecting the child and that the requested modification is in the child\u2019s best interests.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119 (statutes addressing child welfare and the best interests of the child)": {
+      "raw_text": "Mass. Gen. Laws ch. 119 (statutes addressing child welfare and the best interests of the child)",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 119 (statutes addressing child welfare and the best interests of the child)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

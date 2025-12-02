@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_010_06.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads that Defendant is owner/occupant of property with a large branch overhanging a public sidewalk and expressly alleges a duty to exercise reasonable care in maintaining trees/branches over the public way (\u00b6\u00b61.2, 2.2, 3.2). Those facts adequately allege a landowner\u2019s duty to lawful sidewalk users."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the major branch was visibly cracked and drooping for a long period, neighbors notified Defendant, Defendant acknowledged the reports and promised to act but took no reasonable steps to inspect, secure, warn, or remove the hazardous limb (\u00b6\u00b62.2\u20132.3, 3.3). Those factual allegations adequately plead a breach of the alleged duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the cracked branch suddenly fractured and fell onto Plaintiff during a routine storm, causing her injuries, and that Defendant\u2019s failure to inspect/remove the dangerous branch allowed that event to occur (\u00b6\u00b62.4\u20132.5, 3.4). Those allegations plausibly plead that the injuries would not have occurred but for Defendant\u2019s failure to act."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the hazardous condition was visible and overhung a public sidewalk, Defendant knew or should have known, and the branch falling during ordinary weather was a foreseeable consequence of failing to remedy the danger (\u00b6\u00b62.2\u20132.4, 3.4). These facts adequately plead proximate (foreseeable) causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific physical injuries (shoulder strain, bruises), medical treatment, missed work, itemized past medical expenses (~$1,200) and lost wages (~$600), and ongoing pain and suffering (\u00b6\u00b62.5\u20132.6, 4.1). Those allegations adequately plead actual damages."
+    }
+  }
+}

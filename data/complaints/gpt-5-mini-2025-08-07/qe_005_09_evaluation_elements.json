@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_005_09.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges a written lease for Apt. 2 (\u00b65) and expressly identifies Defendant as the landlord/owner who receives rent and manages the property (\u00b62). Those factual allegations adequately plead a landlord\u2013tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges repeated complaints to Defendant (\u00b611), that Defendant spoke once to the upstairs tenants but thereafter stated he \u201ccan\u2019t control how people live\u201d and failed to take remedial steps (\u00b612), and that he had the ability but failed to enforce the lease or pursue remedies (\u00b613, \u00b621\u201322). Those facts plead an act/omission by the landlord (a failure to act/enforce)."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges ongoing, severe noise (heavy stomping, late-night loud music, furniture dragging) occurring nightly and after 10:00 p.m., repeatedly waking her and disrupting sleep (\u00b68\u20139), with measurable harm to sleep (\u00b614) and attempts to mitigate that failed (\u00b616). Those allegations are sufficient to plead a substantial interference with quiet enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges the noise originates from the upstairs tenants (\u00b67\u20139), that she repeatedly notified Defendant (\u00b611), that Defendant knew of the problem and failed to take reasonable steps to abate it (\u00b612\u201313, \u00b621\u201322), and expressly alleges the landlord\u2019s failure proximately caused the continued disturbance (\u00b617, \u00b623). These allegations adequately connect the landlord\u2019s conduct/omission to the ongoing interference."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific harms and expenses: diminished sleep (averaging 4\u20135 hours/night) and a work warning (\u00b614), prescription sleep medication (\u00b615) with a stated monthly cost, out\u2011of\u2011pocket mitigation expenses (\u00b616), and broader emotional/quality\u2011of\u2011life harms and economic losses (\u00b617, \u00b623). These allegations sufficiently plead damages."
+    }
+  }
+}

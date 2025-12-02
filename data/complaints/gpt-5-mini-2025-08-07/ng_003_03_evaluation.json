@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_003_03.txt",
+  "scenario_id": "ng_003_03",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 3,
+  "statute_citations": 2,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 2,
+  "citations": {
+    "M.G.L. c. 260, \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00a7 2A (governing actions for personal injury).": {
+      "raw_text": "M.G.L. c. 260, \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00a7 2A (governing actions for personal injury).",
+      "citation_type": "statute",
+      "proposition": "This action is commenced within all applicable statutes of limitation, including without limitation M.G.L. c. 260, \u00a7 2A (governing actions for personal injury).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 231, \u00a7 85": {
+      "raw_text": "M.G.L. c. 231, \u00a7 85",
+      "citation_type": "statute",
+      "proposition": "Plaintiff further pleads and relies upon the Massachusetts statute of limitations applicable to personal injury actions, M.G.L. c. 260, \u00a7 2A, and principles of apportionment and comparative fault recognized in Massachusetts (see M.G.L. c. 231, \u00a7 85).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Brown v. Kendall, 60 Mass. (5 Cush.) 292 (1850)": {
+      "raw_text": "Brown v. Kendall, 60 Mass. (5 Cush.) 292 (1850)",
+      "citation_type": "case",
+      "proposition": "Plaintiff pleads and relies upon Massachusetts negligence law and principles established by the Massachusetts courts and recognized authorities, including but not limited to the duty of a possessor of land to exercise reasonable care for the safety of invitees (see Restatement (Second) of Torts \u00a7 343 and \u00a7 343A), and Massachusetts authorities recognizing the general negligence standard of ordinary care (see Brown v. Kendall, 60 Mass. (5 Cush.) 292 (1850)).",
+      "is_valid": true,
+      "courtlistener_id": "6535730",
+      "case_name": "Brown v. Kendall",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Brown v. Kendall is a foundational Massachusetts case establishing the general negligence standard of ordinary care and the plaintiff\u2019s burden to prove lack of due care. It does not, however, concern premises liability or the duty of possessors of land to invitees, nor does it address Restatement (Second) of Torts \u00a7\u00a7 343 or 343A concepts. Thus, it supports only the portion of the proposition referring to the general negligence standard of ordinary care, but not the broader premise\u2011liability / invitee\u2011duty proposition as framed.",
+      "relevant_excerpt": "\u201cIn using this term, ordinary care, it may be proper to state, that what constitutes ordinary care will vary with the circumstances of cases. In general, it means that kind and degree of care, which prudent and cautious men would use, such as is required by the exigency of the case, and such as is necessary to guard against probable danger. \u2026 [I]f it appears that the defendant was doing a lawful act, and unintentionally hit and hurt the plaintiff, then unless it also appears \u2026 that the defendant is chargeable with some fault, negligence, carelessness, or want of prudence, the plaintiff \u2026 is not entitled to recover.\u201d"
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)",
+      "citation_type": "case",
+      "proposition": "See also established tort principles as articulated in Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (foreseeability as an element of proximate cause), MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916) (duty of care to avoid foreseeable risk), and other controlling authorities cited by Massachusetts courts.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion squarely addresses foreseeability in defining the scope of negligence liability, holding that duty (and thus actionable negligence) extends only to those within the range of reasonably foreseeable risk. Cardozo expressly grounds duty and negligence in \"the risk reasonably to be perceived,\" which is a foreseeability-based limit on proximate cause. That is precisely the tort principle for which the proposition cites Palsgraf, so the case is being used accurately.",
+      "relevant_excerpt": "\u201cThe risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension\u2026 Here, by concession, there was nothing in the situation to suggest to the most cautious mind that the parcel wrapped in newspaper would spread wreckage through the station.\u201d"
+    },
+    "MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916)": {
+      "raw_text": "MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916)",
+      "citation_type": "case",
+      "proposition": "See also established tort principles as articulated in Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (foreseeability as an element of proximate cause), MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916) (duty of care to avoid foreseeable risk), and other controlling authorities cited by Massachusetts courts.",
+      "is_valid": true,
+      "courtlistener_id": "3616523",
+      "case_name": "MacPherson v. . Buick Motor Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "medium",
+      "support_reasoning": "The proposition attributes to MacPherson a broad principle that there is a duty of care to avoid foreseeable risk owed by a manufacturer beyond privity. The quoted text, however, is Chief Judge Willard Bartlett\u2019s dissent, which explicitly rejects extending duty beyond the immediate vendee except for inherently dangerous products. The binding majority opinion by Cardozo (not reproduced here) does support the foreseeability-based duty rule, but the specific excerpt provided does not; it argues against expanding duty, so this text does not support the claimed proposition.",
+      "relevant_excerpt": "\u201cI think that these rulings\u2026extend the liability of the vendor of a manufactured article further than any case which has yet received the sanction of this court\u2026 It has heretofore been held in this state that the liability of the vendor of a manufactured article for negligence\u2026does not extend to strangers\u2026 but is confined to the immediate vendee. The exceptions to this general rule\u2026are cases in which the article sold was of such a character that danger to life or limb was involved in the ordinary use thereof; in other words, where the article sold was inherently dangerous.\u201d"
+    }
+  }
+}

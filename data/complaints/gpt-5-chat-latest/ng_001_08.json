@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_001_08",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Emily Carter",
+  "defendant": "Somerville Grocery Store, Inc."
+}

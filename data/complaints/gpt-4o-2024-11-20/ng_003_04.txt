@@ -1,0 +1,83 @@
+```plaintext
+Michael Thompson,                         )  
+    Plaintiff,                            )  
+                                          )  
+v.                                        )          Civil Action No. _______________  
+                                          )  
+HomeGoods Discount Store,                 )  
+    Defendant.                            )  
+
+                              COMPLAINT AND JURY DEMAND  
+
+Plaintiff Michael Thompson, by and through himself, brings this Complaint against Defendant HomeGoods Discount Store for personal injuries caused by the Defendant's negligence, and alleges as follows:  
+
+### PARTIES  
+1. Plaintiff Michael Thompson ("Plaintiff") is an adult individual who resides at [Plaintiff's Address], Massachusetts.  
+2. Defendant HomeGoods Discount Store ("Defendant") is a retail corporation conducting business at 123 Main St, Lowell, MA 01851.  
+
+### JURISDICTION AND VENUE  
+3. This Court has jurisdiction over this matter pursuant to G.L. c. 212, § 4 because the Plaintiff’s claims arise under Massachusetts law, and the amount in controversy exceeds $50,000.  
+4. Venue is proper under G.L. c. 223, § 1 because the Defendant conducts business in Middlesex County, and the events giving rise to this action occurred within Middlesex County.  
+
+### FACTUAL ALLEGATIONS  
+5. On or about September 15, 2023, Plaintiff was lawfully on the premises of Defendant's retail store located at 123 Main St, Lowell, MA 01851, as an invitee.  
+6. Plaintiff was shopping for kitchen items in one of the aisles of the Defendant's store when an unsecured box fell from a high shelf in the kitchenware section.  
+7. The box contained a toaster oven and was heavy. The box fell after another customer, while pushing a shopping cart, lightly bumped a lower shelf.  
+8. Defendant had stacked multiple heavy boxes on high shelves without using safety straps, barriers, or any other measures to prevent boxes from falling from the upper levels.  
+9. The box struck the Plaintiff on his shoulder and the side of his head, immediately causing dizziness and a headache.  
+10. Defendant’s store manager observed the incident, completed an incident report, and offered Plaintiff a coupon, but failed to take further corrective action.  
+11. Later that evening, Plaintiff’s symptoms worsened, prompting him to seek medical attention at the hospital.  
+12. Plaintiff was diagnosed with a mild concussion and a shoulder strain.  
+13. As a result of Defendant’s negligence, Plaintiff incurred $1,200 in medical expenses and approximately $800 in lost wages due to his inability to work as a delivery driver for several days.  
+14. Plaintiff also experienced physical pain, emotional distress, and a temporary inability to engage in his usual activities, including playing in his weekly soccer league for approximately one month.  
+
+### COUNT I: NEGLIGENCE  
+15. Plaintiff restates and incorporates by reference the allegations set forth in Paragraphs 1 through 14 as if fully set forth herein.  
+16. Defendant owed a duty of care to Plaintiff and all customers lawfully on its premises to provide a safe shopping environment, including the proper storage and securing of merchandise on store shelves.  
+17. Defendant breached its duty of care by failing to:  
+    a. Safely secure the heavy boxes stacked on high shelving;  
+    b. Provide adequate barriers or straps to prevent boxes from falling;  
+    c. Inspect the shelving and storage practices to ensure reasonably safe conditions for customers; and  
+    d. Implement and enforce practices that would minimize the risk of falling merchandise.  
+18. Defendant knew or reasonably should have known that stacking heavy boxes on high shelves without securing them created a foreseeable and unreasonable risk of harm to customers, including Plaintiff.  
+19. Defendant’s failure to take reasonable precautions to prevent the foreseeable hazard was a direct and proximate cause of Plaintiff’s injuries.  
+20. As a result of Defendant’s negligence, Plaintiff has suffered damages, including but not limited to:  
+    a. Physical pain and suffering;  
+    b. Emotional distress;  
+    c. Medical expenses estimated at $1,200;  
+    d. Lost wages in the amount of approximately $800; and  
+    e. Loss of enjoyment of life and recreational activities.  
+
+### APPLICABLE LAW AND LEGAL AUTHORITY  
+21. Under Massachusetts law, property owners owe a duty to exercise reasonable care to maintain their premises in a condition that does not present an unreasonable risk of harm to lawful visitors. *Papadopoulos v. Target Corp.*, 457 Mass. 368 (2010).  
+22. A failure to correct known hazardous conditions or to take reasonable measures to inspect and remedy potentially dangerous conditions constitutes negligence. *Oliveri v. Mass. Bay Transp. Auth.*, 363 Mass. 165 (1973).  
+23. Where harm is foreseeable, a business owner may be held liable for injuries resulting from unsafe conditions, including improperly secured merchandise. See *Dos Santos v. Coleta*, 465 Mass. 148 (2013).  
+24. Defendant had a duty under *Sheehan v. Roche Bros. Supermarkets, Inc.*, 448 Mass. 780 (2007), to take reasonable precautions to protect customers from known or foreseeable dangers created by unsafe stacking of merchandise.  
+25. Plaintiff, as an invitee, was entitled to the highest duty of care under Massachusetts law. See *Mounsey v. Ellard*, 363 Mass. 693 (1973).  
+26. Defendant breached its legal duties as described above, directly causing Plaintiff’s injuries and damages.  
+27. Massachusetts law recognizes damages for physical and emotional harm caused by a defendant’s negligence. See *Rodriguez v. Cambridge Hous. Auth.*, 443 Mass. 697 (2005).  
+28. A business owes an active duty to inspect and prevent risks within its premises when merchandise is stored in ways that create hazardous conditions for customers. See *Lindstrom v. Stop & Shop, Inc.*, 41 Mass. App. Ct. 504 (1996).  
+
+### PRAYER FOR RELIEF  
+WHEREFORE, Plaintiff respectfully requests that this Honorable Court:  
+A. Award Plaintiff compensatory damages in an amount to be determined at trial, but not less than $50,000;  
+B. Award Plaintiff all medical expenses incurred as a result of Defendant's negligence, totaling approximately $1,200;  
+C. Award Plaintiff lost wages in the amount of approximately $800;  
+D. Award Plaintiff damages for pain and suffering, emotional distress, and loss of enjoyment of life;  
+E. Assess costs and prejudgment interest against Defendant; and  
+F. Grant such further relief as the Court deems just and proper.  
+
+### DEMAND FOR JURY TRIAL  
+Pursuant to Rule 38 of the Massachusetts Rules of Civil Procedure, Plaintiff demands a trial by jury on all issues so triable.  
+
+Respectfully submitted this 1st day of December, 2025.  
+
+/s/ Michael Thompson  
+Michael Thompson, Pro Se  
+[Plaintiff’s Address]  
+Lowell, MA 01851  
+(617) 555-0123  
+psm1443@gmail.com  
+```
+
+**Note:** Be sure to fill in your address and verify the information matches court procedures for filing complaints in Middlesex County. Review local rules regarding filing deadlines, court fees, and service of process.

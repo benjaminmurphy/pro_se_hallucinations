@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_005_08.txt",
+  "scenario_id": "qe_005_08",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 1,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071, 1074\u201375 (D.C. Cir. 1970)": {
+      "raw_text": "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071, 1074\u201375 (D.C. Cir. 1970)",
+      "citation_type": "case",
+      "proposition": "See Restatement (Second) of Property: Landlord & Tenant \u00a7 5.1 (1977); Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071, 1074\u201375 (D.C. Cir. 1970) (recognizing relationships between habitability, quiet enjoyment, and landlord obligation to control conditions of the premises and co-tenants); see also Massachusetts caselaw recognizing landlord obligations to abate substantial interferences with tenants\u2019 possession and use by reason of other tenants or conditions within landlord\u2019s control.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 186": {
+      "raw_text": "M.G.L. c. 186",
+      "citation_type": "statute",
+      "proposition": "Relevant statutory authorities include, without limitation, M.G.L. c. 186 (general landlord-tenant law), M.G.L. c. 239 (summary process provisions related to possession and enforcement), and M.G.L. c. 93A (unfair or deceptive practices where applicable).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 239": {
+      "raw_text": "M.G.L. c. 239",
+      "citation_type": "statute",
+      "proposition": "Relevant statutory authorities include, without limitation, M.G.L. c. 186 (general landlord-tenant law), M.G.L. c. 239 (summary process provisions related to possession and enforcement), and M.G.L. c. 93A (unfair or deceptive practices where applicable).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 93A": {
+      "raw_text": "M.G.L. c. 93A",
+      "citation_type": "statute",
+      "proposition": "Relevant statutory authorities include, without limitation, M.G.L. c. 186 (general landlord-tenant law), M.G.L. c. 239 (summary process provisions related to possession and enforcement), and M.G.L. c. 93A (unfair or deceptive practices where applicable).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

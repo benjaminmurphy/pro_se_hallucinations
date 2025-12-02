@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_009_07.txt",
+  "scenario_id": "cm_009_07",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 1,
+  "statute_citations": 3,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 209C (UCCJEA)": {
+      "raw_text": "Mass. Gen. Laws ch. 209C (UCCJEA)",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over custody and visitation matters pursuant to the Massachusetts probate and family court jurisdiction under the Massachusetts General Laws and the Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA), Mass. Gen. Laws ch. 209C (UCCJEA).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. ch. 208": {
+      "raw_text": "M.G.L. ch. 208",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, custody and visitation orders may be modified upon a showing of a material change in circumstances affecting the welfare of the child and that modification is in the child\u2019s best interests (see, e.g., generally M.G.L. ch. 208 and case law construing the probate court\u2019s continuing authority over custody).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119": {
+      "raw_text": "Mass. Gen. Laws ch. 119",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 119 (inclusive of provisions concerning the protection and welfare of children and authority of courts to consider children\u2019s welfare) [as applicable]",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Troxel v. Granville, 530 U.S. 57 (2000)": {
+      "raw_text": "Troxel v. Granville, 530 U.S. 57 (2000)",
+      "citation_type": "case",
+      "proposition": "- Troxel v. Granville, 530 U.S. 57 (2000) (recognizing fundamental parental rights and the need to consider parental decisionmaking balanced with the child\u2019s best interests)",
+      "is_valid": true,
+      "courtlistener_id": "1087668",
+      "case_name": "Troxel v. Granville",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The Troxel plurality explicitly recognizes the fundamental liberty interest of parents in the care, custody, and control of their children and holds that state interference (even when framed in terms of the child\u2019s best interests) must give special weight to parental decisionmaking. While the Court does not adopt a rigid harm standard or fully equate parental rights with the best-interests test, it squarely discusses the need to respect fit parents\u2019 decisions when balancing against state and third-party claims based on children\u2019s best interests. Thus the case supports citing it for recognition of fundamental parental rights and the requirement that parental decisions be central in any best-interests analysis.",
+      "relevant_excerpt": "\u201cThe liberty interest at issue in this case\u2014the interest of parents in the care, custody, and control of their children\u2014is perhaps the oldest of the fundamental liberty interests recognized by this Court. \u2026 In light of this extensive precedent, it cannot now be doubted that the Due Process Clause of the Fourteenth Amendment protects the fundamental right of parents to make decisions concerning the care, custody, and control of their children. \u2026 [I]f a fit parent's decision of the kind at issue here becomes subject to judicial review, the court must accord at least some special weight to the parent's own determination.\u201d"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_002_10.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/controlled the Dog, knew of park leash rules, and cites statutes and common-law duties to exercise reasonable care in controlling animals and comply with leash requirements (\u00b6\u00b62,6\u20138,17\u201318). Those facts adequately plead a duty to foreseeable park users including Plaintiff."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific facts showing breach: the Dog was off-leash while Defendant kept the leash over his shoulder, Defendant customarily allowed the Dog off-leash, and he failed to restrain or call the Dog back when it charged Plaintiff (\u00b6\u00b68\u201311,19). These factual allegations sufficiently plead a breach of the alleged duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that but for Defendant\u2019s allowing the Dog to run loose and the Dog\u2019s aggressive charge toward Plaintiff, Plaintiff would not have swerved off the path, tripped over the concealed root, and suffered the fractured wrist (\u00b6\u00b610\u201312,20). Those allegations support the but\u2011for causal link."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the harm was a foreseeable result of permitting an uncontrolled dog to charge a passerby \u2014 that such conduct creates the very risk that someone will take evasive action and be injured \u2014 and cites controlling foreseeability/proximate cause authorities (\u00b6\u00b610\u201312,20,26). These allegations adequately plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies concrete injuries and losses: fractured wrist, emergency treatment and brace, approximately $3,500 in medical bills, about $1,200 in lost wages, and claims for pain and suffering and other economic/non\u2011economic losses (\u00b6\u00b611,14,21). These allegations adequately plead actual damages."
+    }
+  }
+}

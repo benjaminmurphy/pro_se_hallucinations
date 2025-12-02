@@ -1,0 +1,93 @@
+{
+  "complaint_file": "cm_006_05.txt",
+  "scenario_id": "cm_006_05",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 2,
+  "statute_citations": 4,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Mass. Gen. Laws ch. 209B": {
+      "raw_text": "Mass. Gen. Laws ch. 209B",
+      "citation_type": "statute",
+      "proposition": "This Court has subject matter jurisdiction over this action pursuant to the Massachusetts Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA), Mass. Gen. Laws ch. 209B, and other applicable statutes, and venue is properly laid in this Court as the Probate and Family Court that entered the existing custody order.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a751A": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a751A",
+      "citation_type": "statute",
+      "proposition": "See, e.g., Mass. Gen. Laws ch. 209B (UCCJEA) (jurisdictional framework); Mass. Gen. Laws ch. 119, \u00a7\u00a751A, 51B (child abuse reporting and investigation statutes that inform protective concerns); and controlling case law establishing that a parent\u2019s cohabitation with a potentially dangerous third party, incidents of violence in the home, and threats to the children\u2019s safety constitute material changes warranting modification.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a751B": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a751B",
+      "citation_type": "statute",
+      "proposition": "See, e.g., Mass. Gen. Laws ch. 209B (UCCJEA) (jurisdictional framework); Mass. Gen. Laws ch. 119, \u00a7\u00a751A, 51B (child abuse reporting and investigation statutes that inform protective concerns); and controlling case law establishing that a parent\u2019s cohabitation with a potentially dangerous third party, incidents of violence in the home, and threats to the children\u2019s safety constitute material changes warranting modification.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208": {
+      "raw_text": "Mass. Gen. Laws ch. 208",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 208 (statutory provisions concerning divorce and family law jurisdiction and procedures) and related Probate and Family Court rules governing modification of custody and visitation.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Troxel v. Granville, 530 U.S. 57 (2000)": {
+      "raw_text": "Troxel v. Granville, 530 U.S. 57 (2000)",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts have broad discretion to impose reasonable restrictions on parenting time and to order supervised visitation where necessary to protect a child\u2019s safety and welfare, balancing parental rights with the child\u2019s best interests.",
+      "is_valid": true,
+      "courtlistener_id": "1087668",
+      "case_name": "Troxel v. Granville",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Troxel is a U.S. Supreme Court case concerning the constitutional limits on state interference with a fit parent\u2019s decisions, in the context of a third\u2011party (grandparent) visitation statute. It does not address Massachusetts law, supervised visitation, or the scope of trial\u2011court discretion to impose visitation conditions to protect child safety; if anything, it emphasizes that courts must give \u201cspecial weight\u201d to a fit parent\u2019s decisions rather than freely impose their own best\u2011interests judgment. Thus it does not provide authority for the proposition that Massachusetts courts have broad discretion to order reasonable restrictions or supervised parenting time for child protection reasons.",
+      "relevant_excerpt": "\u201cAccordingly, so long as a parent adequately cares for his or her children (i. e., is fit), there will normally be no reason for the State to inject itself into the private realm of the family\u2026 The problem here is not that the Washington Superior Court intervened, but that when it did so, it gave no special weight at all to Granville\u2019s determination of her daughters\u2019 best interests\u2026 the Due Process Clause does not permit a State to infringe on the fundamental right of parents to make child rearing decisions simply because a state judge believes a \u2018better\u2019 decision could be made.\u201d"
+    },
+    "In re Marriage of Coady": {
+      "raw_text": "In re Marriage of Coady",
+      "citation_type": "case",
+      "proposition": "- In re Marriage of Coady, and other Massachusetts SJC/Appeals Court precedent recognizing court authority to modify custody/visitation where material change affects welfare of child.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

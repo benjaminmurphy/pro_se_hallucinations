@@ -1,0 +1,41 @@
+{
+  "complaint_file": "ng_006_07.txt",
+  "scenario_id": "ng_006_07",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 223, \u00a7 9.": {
+      "raw_text": "Massachusetts General Laws Chapter 223, \u00a7 9.",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 223, \u00a7 9.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "MGL c. 90, \u00a7 14.": {
+      "raw_text": "MGL c. 90, \u00a7 14.",
+      "citation_type": "statute",
+      "proposition": "The Defendant's conduct constitutes negligence under Massachusetts common law and statutes, including MGL c. 90, \u00a7 14.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

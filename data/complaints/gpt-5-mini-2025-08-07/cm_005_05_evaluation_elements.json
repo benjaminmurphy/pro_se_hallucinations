@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_005_05.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Yes. The complaint expressly alleges an Existing Order entered April 15, 2022 providing joint legal custody, primary residence with Petitioner, and a regular visitation schedule for Respondent (see \u00b66). Those factual allegations establish an existing custody/parenting-time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Yes. The complaint identifies concrete relief requested (e.g., award Petitioner primary physical custody; restructure Respondent\u2019s parenting time; retain joint legal custody but impose enforceable scheduling rules; counseling; make-up time; parenting coordinator; temporary injunctive relief) in the Request for Relief (\u00b6A\u2013I). Those are specific modifications of the Existing Order."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Yes. The complaint alleges specific, fact-based changes since entry of the Existing Order: Respondent\u2019s repeated unilateral enrollment of the children in activities during Petitioner\u2019s parenting time without notice or consent (\u00b69), disparaging statements to the children about Petitioner (\u00b610), resulting child distress and physical symptoms (recurrent stomach aches, anxiety on exchange days) and undermining of parenting time (\u00b611\u201312). It also alleges attempted good-faith resolution with continuing conduct (\u00b613). Those factual allegations, if proven, plausibly constitute a material and substantial change affecting the children\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Yes. The complaint links the alleged conduct to concrete harms to the children (emotional distress, anxiety, physical symptoms, instability) and contends modification and the specific remedies requested are necessary to protect the children\u2019s welfare and stability (\u00b611\u201314, Request for Relief \u00b6B\u2013F). Those allegations sufficiently plead that the requested modification is in the children\u2019s best interests."
+    }
+  }
+}

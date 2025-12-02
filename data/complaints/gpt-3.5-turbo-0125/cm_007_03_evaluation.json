@@ -1,0 +1,41 @@
+{
+  "complaint_file": "cm_007_03.txt",
+  "scenario_id": "cm_007_03",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 1,
+  "statute_citations": 1,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Massachusetts General Laws Chapter 208, Section 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "Pursuant to Massachusetts General Laws Chapter 208, Section 28, the Court may modify a custody order upon a showing of a substantial and material change in circumstances.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)": {
+      "raw_text": "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)",
+      "citation_type": "case",
+      "proposition": "The case of Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985), establishes that a material change in circumstances affecting the best interests of the child is a key factor in custody modifications.",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Yannas is a removal/relocation case, not a custody\u2011modification case, and it does not articulate a requirement of a \u201cmaterial change in circumstances\u201d as a prerequisite to modifying custody. The opinion focuses on how to determine the child\u2019s best interests when a custodial parent seeks to remove children from the Commonwealth, adopting the \u201creal advantage\u201d standard and discussing best\u2011interests factors. It nowhere frames the analysis as a custody modification requiring proof of a material change in circumstances, so it does not support the specific proposition claimed.",
+      "relevant_excerpt": "\u201cThe Massachusetts removal statute, G. L. c. 208, \u00a7 30 (1984 ed.), provides that \u2018[a] minor child of divorced parents who is a native of . . . this commonwealth . . . shall not, if of suitable age to signify his consent, be removed out of this commonwealth without such consent, or, if under that age, without the consent of both parents, unless the court upon cause shown otherwise orders.\u2019 The words \u2018upon cause shown\u2019 mean only that removal must be in the best interests of the child . . . and thus the central question in this case is how these \u2018best interests\u2019 are to be determined.\u201d"
+    }
+  }
+}

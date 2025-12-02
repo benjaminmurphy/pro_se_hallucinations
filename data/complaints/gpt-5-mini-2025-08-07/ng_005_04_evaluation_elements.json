@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_005_04.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff and Defendant are neighbors who share a common driveway and that Defendant stored a tall ladder adjacent to the shared driveway (\u00b6\u00b65\u20136). It expressly pleads Defendant owed lawful users of the driveway a duty to exercise reasonable care in storing/securing potentially dangerous objects (\u00b615). Those factual allegations adequately plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant repeatedly left the ladder unsecured in a position where it could fall, was warned on multiple occasions by Plaintiff about the risk, acknowledged he would secure or move the ladder, but failed to do so (\u00b6\u00b66\u20138, 16). Those facts sufficiently allege a breach of the duty to secure the ladder."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that on March 15 a gust of wind caused the unsecured ladder to fall and strike Plaintiff\u2019s vehicle (\u00b69) and that as a direct result the vehicle was damaged and required repairs (\u00b610). Those allegations support but-for causation because the harm would not have occurred but for the ladder being unsecured."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges he warned Defendant that the ladder might fall on windy days and requested it be secured or moved, and that the ladder\u2019s falling and striking the vehicle was a reasonably foreseeable consequence of leaving it unsecured (\u00b6\u00b67\u20138, 16, 18). Those allegations adequately plead proximate/foreseeable causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific economic damages: dented hood and cracked windshield, repair costs, payment of an insurance deductible, rental-car expenses while repairs were made, and other out-of-pocket losses (\u00b6\u00b610\u201312, 17, 19). Plaintiff seeks compensatory damages to be proven at trial. These allegations sufficiently plead actual damages."
+    }
+  }
+}

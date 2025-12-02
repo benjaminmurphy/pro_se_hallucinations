@@ -1,0 +1,123 @@
+**COMMONWEALTH OF MASSACHUSETTS  
+TRIAL COURT  
+LYNN DISTRICT COURT**  
+
+**Jordan Smith,**  
+Plaintiff,  
+v.  
+**Lynn Apartment Management, LLC,**  
+Defendant.  
+
+Civil Action No. ___________
+
+---
+
+### COMPLAINT
+
+**Plaintiff Jordan Smith**, by way of complaint against **Defendant Lynn Apartment Management, LLC**, alleges the following:
+
+---
+
+## I. PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff **Jordan Smith** (“Plaintiff”) is an individual residing at 123 Maple Street, Apartment 3F, Lynn, Massachusetts 01905.  
+2. Defendant **Lynn Apartment Management, LLC** (“Defendant”) is a Massachusetts limited liability company with its principal place of business upon information and belief in Lynn, Massachusetts, and is the owner and manager of the apartment building located at 123 Maple Street, Lynn, Massachusetts.  
+3. Jurisdiction is proper in the Lynn District Court pursuant to G.L. c. 218, §§ 19–21, as the amount in controversy does not exceed the jurisdictional limit and all events giving rise to this claim occurred in Essex County, Massachusetts.  
+4. Venue is proper in this Court pursuant to G.L. c. 223, § 1, as the Defendant resides or has a usual place of business in this county and the acts complained of occurred here.
+
+---
+
+## II. FACTUAL ALLEGATIONS
+
+5. On or about **September 15, 2023**, Plaintiff was a lawful tenant of the premises located at **123 Maple Street, Lynn, Massachusetts**, owned, operated, and managed by Defendant.  
+6. The building comprised multiple apartment units, and Defendant had the legal duty to maintain common areas and safety equipment, including hallway smoke detectors, pursuant to **G.L. c. 143, §§ 3, 51**, and the **Massachusetts Comprehensive Fire Safety Code (527 C.M.R. 1.00 et seq.)**.  
+7. For several months before the date of the incident, the smoke detector located in the third-floor hallway directly outside Plaintiff’s apartment was **beeping intermittently due to a low battery**.  
+8. At some point, an unknown person removed the battery to stop the noise, leaving the device nonfunctional.  
+9. Plaintiff personally notified Defendant of the nonfunctioning detector on at least **three separate occasions**, and Defendant’s representatives repeatedly assured Plaintiff that they would “take care of it.”  
+10. Despite those assurances, Defendant **failed to replace the battery or repair the smoke detector**.  
+11. On **September 15, 2023**, a **fire** started in a first-floor apartment unit, reportedly resulting from a kitchen appliance malfunction or unattended cooking.  
+12. Because the third-floor smoke detector lacked a working battery, there was **no alarm or warning** to alert the residents on the upper floors, including Plaintiff.  
+13. Plaintiff became aware of the fire only upon **smelling smoke** and discovering the hallway filled with smoke and fumes.  
+14. Plaintiff struggled to exit the building and **suffered significant smoke inhalation**, necessitating emergency medical care and overnight hospitalization.  
+15. Plaintiff incurred approximately **$12,000** in medical expenses and approximately **$2,500** in lost wages due to missed work.  
+16. Plaintiff also sustained **property damage** to personal belongings caused by smoke and water.  
+17. Defendant’s failure to maintain operational smoke detectors in the common areas of the building was a **direct and proximate cause** of Plaintiff’s injuries, damages, and losses.  
+18. Defendant knew or should have known of the defective condition and had **ample time and opportunity to correct it**, but negligently failed to do so.  
+
+---
+
+## III. CAUSE OF ACTION — NEGLIGENCE
+
+19. Plaintiff repeats and realleges paragraphs 1 through 18 as if fully set forth herein.  
+20. At all relevant times, Defendant owed Plaintiff a **duty to exercise reasonable care** to maintain safe and habitable premises, including proper maintenance of fire safety devices such as smoke detectors. See *Mounsey v. Ellard*, 363 Mass. 693 (1973) (landlord owes standard of reasonable care under all circumstances); *Young v. Garwacki*, 380 Mass. 162 (1980).  
+21. Defendant’s duty arose under both **common law** and **statutory obligations**, including:  
+   - **G.L. c. 143, §§ 3, 51** (requiring maintenance of fire safety equipment);  
+   - **G.L. c. 148, §§ 26A, 26F** (mandating operable smoke detectors in residential buildings); and  
+   - **State Building Code, 780 C.M.R. § 907.2.11 et seq.** and **527 C.M.R. 1.00** (defining maintenance obligations for detectors).  
+22. Defendant breached these duties by failing to (a) maintain the smoke detector in working condition, (b) replace its battery, (c) inspect and ensure its operation, and (d) respond reasonably to Plaintiff’s repeated complaints.  
+23. This conduct constitutes **negligence** under Massachusetts law. *See Whittaker v. Saraceno*, 418 Mass. 196 (1994) (landlord liable for failure to remedy dangerous condition); *Limoncelli v. New York Life Ins. Co.*, 416 Mass. 433 (1993) (duty exists where harm is foreseeable); *Granger v. Arias*, 307 Mass. 116 (1940) (negligent maintenance creates liability).  
+24. Defendant knew or should have known that failure to maintain a functioning smoke detector created a foreseeable and unreasonable risk of serious injury or death to tenants. *See LeBlanc v. Logan Hilton Joint Venture*, 463 Mass. 316 (2012) (foreseeability central to negligence).  
+25. Plaintiff justifiably relied on Defendant’s assurances that it would repair the defective smoke detector and thus suffered harm when Defendant failed to act. *See Mullins v. Pine Manor College*, 389 Mass. 47 (1983)* (duty to take reasonable measures for safety).  
+26. Defendant’s negligence was a **direct and proximate cause** of Plaintiff’s injuries, including smoke inhalation, lost wages, medical expenses, and property damage. *See Jesionek v. Massachusetts Port Auth.*, 376 Mass. 101 (1978) (proximate cause defined as foreseeable consequence of negligent act).  
+27. Plaintiff was **not comparatively negligent** and acted with due care under the circumstances. *See G.L. c. 231, § 85* (comparative negligence standard).  
+28. As a result of Defendant’s negligence, Plaintiff has suffered **economic and non-economic damages**, including but not limited to medical costs, loss of wages, property loss, and physical pain and emotional distress. *See Alholm v. Wareham*, 371 Mass. 621 (1976) (damages recoverable for physical injury and emotional distress resulting from negligence).  
+
+---
+
+## IV. DAMAGES
+
+29. Plaintiff suffered:  
+   a. **Medical expenses**: approximately **$12,000**;  
+   b. **Lost wages**: approximately **$2,500**;  
+   c. **Property damage**: to be proved at trial; and  
+   d. **Pain and suffering**, emotional distress, and loss of enjoyment of life.  
+30. Plaintiff seeks all damages available under law, including compensatory damages, costs, interest pursuant to **G.L. c. 231, § 6B**, and such other relief as the Court deems just and proper.
+
+---
+
+## V. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Jordan Smith respectfully requests that this Honorable Court:
+
+A. Enter judgment in favor of Plaintiff and against Defendant Lynn Apartment Management, LLC;  
+B. Award Plaintiff **compensatory damages** in an amount to be determined at trial, estimated at **not less than $14,500**, plus pain and suffering and property losses;  
+C. Award **statutory interest** pursuant to G.L. c. 231, § 6B;  
+D. Award **costs of suit**; and  
+E. Grant such other and further relief as the Court deems just, proper, and equitable.
+
+---
+
+### DEMAND FOR JURY TRIAL
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+---
+
+**Respectfully submitted,**
+
+**Jordan Smith**  
+Plaintiff, *pro se*  
+123 Maple Street, Apt. 3F  
+Lynn, MA 01905  
+Phone: (617) 555-0123  
+Email: psm1443@gmail.com  
+
+Date: **December 1, 2025**
+
+---
+
+**Citations Summary (for reference)**  
+- *Mounsey v. Ellard*, 363 Mass. 693 (1973)  
+- *Young v. Garwacki*, 380 Mass. 162 (1980)  
+- *Whittaker v. Saraceno*, 418 Mass. 196 (1994)  
+- *Limoncelli v. N.Y. Life Ins. Co.*, 416 Mass. 433 (1993)  
+- *Granger v. Arias*, 307 Mass. 116 (1940)  
+- *LeBlanc v. Logan Hilton Joint Venture*, 463 Mass. 316 (2012)  
+- *Mullins v. Pine Manor College*, 389 Mass. 47 (1983)  
+- *Jesionek v. Mass. Port Auth.*, 376 Mass. 101 (1978)  
+- *Alholm v. Wareham*, 371 Mass. 621 (1976)  
+- **Statutes:** G.L. c. 143, §§ 3, 51; G.L. c. 148, §§ 26A, 26F; G.L. c. 231, § 85; G.L. c. 231, § 6B; 527 C.M.R. 1.00; 780 C.M.R. § 907.2.11.  
+
+---
+
+*Filed this 1st day of December, 2025, in Lynn District Court.*

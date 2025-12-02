@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_009_07.txt",
+  "scenario_id": "ng_009_07",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Donoghue v. Stevenson, [1932] A.C. 562": {
+      "raw_text": "Donoghue v. Stevenson, [1932] A.C. 562",
+      "citation_type": "case",
+      "proposition": "See, e.g., Restatement (Second) of Torts \u00a7\u00a7 282, 299A, 343 (duty to maintain premises in safe condition); see also Donoghue v. Stevenson, [1932] A.C. 562 (establishing modern duty of care principle); Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate causation analyses).",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Not found",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)",
+      "citation_type": "case",
+      "proposition": "See, e.g., Restatement (Second) of Torts \u00a7\u00a7 282, 299A, 343 (duty to maintain premises in safe condition); see also Donoghue v. Stevenson, [1932] A.C. 562 (establishing modern duty of care principle); Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate causation analyses).",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Palsgraf does not deal with a premises-liability duty to maintain land in a safe condition, nor does it articulate the broad modern duty-of-care principle associated with Donoghue v. Stevenson. In the quoted portion, Cardozo explicitly brackets off questions of proximate cause and focuses instead on the relational nature of duty and negligence\u2014concluding there was no duty to the plaintiff because she was outside the zone of foreseeable risk. The opinion actually says the law of proximate causation is \u2018foreign to the case,\u2019 so citing it specifically as a proximate causation analysis is also inaccurate in context.",
+      "relevant_excerpt": "\u201cThe law of causation, remote or proximate, is thus foreign to the case before us. The question of liability is always anterior to the question of the measure of the consequences that go with liability. If there is no tort to be redressed, there is no occasion to consider what damage might be recovered if there were a finding of a tort. We may assume, without deciding, that negligence, not at large or in the abstract, but in relation to the plaintiff, would entail liability for any and all consequences, however novel or extraordinary.\u201d"
+    },
+    "Massachusetts General Laws": {
+      "raw_text": "Massachusetts General Laws",
+      "citation_type": "statute",
+      "proposition": "Representative statutory and regulatory authorities include, without limitation, Massachusetts General Laws and relevant building and fire code provisions concerning life-safety devices (e.g., statutes and regulations governing smoke detectors and landlord responsibilities) and municipal inspection and housing codes.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

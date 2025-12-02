@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_002_02",
+  "category": "landlord_tenant",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jordan Lee",
+  "defendant": "Martha Johnson"
+}

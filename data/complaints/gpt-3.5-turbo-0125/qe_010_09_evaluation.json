@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_010_09.txt",
+  "scenario_id": "qe_010_09",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Massachusetts General Laws, Chapter 186, Section 14": {
+      "raw_text": "Massachusetts General Laws, Chapter 186, Section 14",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws, Chapter 186, Section 14, guarantees tenants the right to quiet enjoyment, which includes the right to a healthy living environment free from mold and other potential health hazards.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973)": {
+      "raw_text": "Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973)",
+      "citation_type": "case",
+      "proposition": "The case law in Massachusetts, such as Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973) and McKenna v. Begin, 29 Mass. App. Ct. 914 (1990), confirms the landlord's duty to maintain premises in a habitable condition under the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "2000597",
+      "case_name": "Boston Housing Authority v. Hemingway",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This concurrence/dissent in Hemingway recognizes an implied obligation related to statutory and code-based habitability standards and argues that the landlord\u2019s duty and the tenant\u2019s rent obligation should be mutually interdependent. However, it does not ground that duty in, or tie it to, the traditional covenant of quiet enjoyment; instead it treats habitability as a separate implied agreement or warranty. Thus, citing this case specifically for a landlord\u2019s habitability duty \"under the covenant of quiet enjoyment\" overstates and mischaracterizes its holding and reasoning.",
+      "relevant_excerpt": "\"As the first step in the removal of the roadblock discussed above I would reverse that rule and hold instead (a) that the various statutes, ordinances, by-laws, rules, regulations and codes prescribing minimum standards for dwelling units impose on the landlord, for the benefit of his tenants, an obligation to comply with those minimum standards, and (b) that by renting such a unit the landlord impliedly agrees with his tenant (i) that at the time of the renting the unit complies with those standards and (ii) that during the term of the renting he will do whatever such legal provisions require him to do for compliance with such standards.\""
+    },
+    "McKenna v. Begin, 29 Mass. App. Ct. 914 (1990)": {
+      "raw_text": "McKenna v. Begin, 29 Mass. App. Ct. 914 (1990)",
+      "citation_type": "case",
+      "proposition": "The case law in Massachusetts, such as Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973) and McKenna v. Begin, 29 Mass. App. Ct. 914 (1990), confirms the landlord's duty to maintain premises in a habitable condition under the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "6584460",
+      "case_name": "Commonwealth v. Blonde",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion is a criminal arson case focused on sufficiency of the evidence and consciousness of guilt. It does not discuss landlord-tenant law, the implied warranty of habitability, or the covenant of quiet enjoyment, nor does it mention Boston Housing Authority v. Hemingway. Therefore, it does not provide authority for a landlord\u2019s duty to maintain premises in a habitable condition under the covenant of quiet enjoyment.",
+      "relevant_excerpt": "Arson cases typically are made out on a web of circumstantial evidence. See, e.g., Commonwealth v. Walter, 10 Mass. App. Ct. 255; 257-259 (1980); Commonwealth v. Shuman, 17 Mass. App. Ct. 441, 442-447 (1984); Commonwealth v. Jacobson, 19 Mass. App. Ct. 666, 674 (1985); Commonwealth v. Mezzanotti, 26 Mass. App. Ct. 522, 525-527 (1988). Here, as in the Cardenuto case, there is no web of evidence. There are only isolated strands... That is not enough to permit a finding of guilty beyond a reasonable doubt."
+    }
+  }
+}

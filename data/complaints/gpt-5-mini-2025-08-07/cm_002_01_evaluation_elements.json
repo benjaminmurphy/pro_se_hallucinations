@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_002_01.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an Existing Order entered April 15, 2021 establishing Plaintiff as primary physical custodian and Defendant's midweek overnight and every-other-weekend time (\u00b62.1). The complaint also states the Existing Order was entered in Middlesex and instructs attaching a copy as an exhibit, sufficiently alleging an existing custody/parenting-time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies precise relief: permanently remove the Wednesday midweek overnight from Defendant\u2019s schedule and adjust weekend time or exchange locations to reduce midweek travel (\u00b65.1\u20135.3). It also seeks temporary interim relief if necessary (\u00b65.4). These are concrete, specific modifications."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant obtained new employment and plans to relocate to New Hampshire, placing him about 90 minutes from the child's school and thereby creating lengthy midweek travel (\u00b63.1\u20133.3). It further alleges Defendant intends to keep the same midweek overnight despite the move (\u00b63.2) and that the relocation will substantially affect the child\u2019s routine, school attendance, extracurricular participation, and emotional well\u2011being (\u00b63.4\u20133.5; \u00b66.1\u20136.3). These factual allegations adequately plead a material and substantial change in circumstances."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint connects the alleged change to the child's best interests, alleging likely sleep disruption and impaired school performance (\u00b66.1), interference with important after\u2011school activities (\u00b66.2), and observed anxiety and behavioral changes (\u00b63.4; \u00b66.3). It cites relevant best\u2011interests factors (\u00b64.2) and proposes narrowly tailored relief to protect schooling, extracurricular participation, and emotional health (\u00b65.1\u20135.3; \u00b66.4), sufficiently pleading that the requested modification is in the child\u2019s best interests."
+    }
+  }
+}

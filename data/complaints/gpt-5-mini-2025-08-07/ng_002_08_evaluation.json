@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_002_08.txt",
+  "scenario_id": "ng_002_08",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 260, \u00a7 2A (statute of limitations for personal injury actions).": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A (statute of limitations for personal injury actions).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 260, \u00a7 2A (statute of limitations for personal injury actions).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 140, et seq. (statutes governing dogs; owner responsibilities and animals running at large) (see generally Mass. Gen. Laws ch. 140, \u00a7\u00a7 136\u2013174).": {
+      "raw_text": "Mass. Gen. Laws ch. 140, et seq. (statutes governing dogs; owner responsibilities and animals running at large) (see generally Mass. Gen. Laws ch. 140, \u00a7\u00a7 136\u2013174).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 140, et seq. (statutes governing dogs; owner responsibilities and animals running at large) (see generally Mass. Gen. Laws ch. 140, \u00a7\u00a7 136\u2013174).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 140, \u00a7\u00a7 136\u2013174": {
+      "raw_text": "Mass. Gen. Laws ch. 140, \u00a7\u00a7 136\u2013174",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 140, et seq. (statutes governing dogs; owner responsibilities and animals running at large) (see generally Mass. Gen. Laws ch. 140, \u00a7\u00a7 136\u2013174).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

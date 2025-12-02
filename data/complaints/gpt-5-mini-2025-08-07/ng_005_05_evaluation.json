@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_005_05.txt",
+  "scenario_id": "ng_005_05",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 2,
+  "statute_citations": 3,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 260, \u00a7 2A": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A",
+      "citation_type": "statute",
+      "proposition": "Pursuant to Mass. Gen. Laws ch. 260, \u00a7 2A, actions of tort for personal injury or property damage must be commenced within three years after the cause of action accrues.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 231, \u00a7 85": {
+      "raw_text": "Mass. Gen. Laws ch. 231, \u00a7 85",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 231, \u00a7 85 (provisions concerning comparative liability/apportionment) and other provisions governing civil actions (see Mass. Gen. Laws ch. 231).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 231": {
+      "raw_text": "Mass. Gen. Laws ch. 231",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 231, \u00a7 85 (provisions concerning comparative liability/apportionment) and other provisions governing civil actions (see Mass. Gen. Laws ch. 231).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R. Co., 248 N.Y. 339 (1928)": {
+      "raw_text": "Palsgraf v. Long Island R. Co., 248 N.Y. 339 (1928)",
+      "citation_type": "case",
+      "proposition": "- Palsgraf v. Long Island R. Co., 248 N.Y. 339 (1928) (foreseeability and proximate cause principles).",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion is a foundational articulation of foreseeability as a limitation on duty and, by extension, on proximate cause in negligence. Cardozo holds that negligence is relational and that liability exists only where the defendant\u2019s conduct created a reasonably foreseeable risk of harm to the particular plaintiff, rejecting liability for highly unforeseeable consequences. Although Cardozo frames the issue primarily as one of duty rather than \u2018proximate cause,\u2019 the case is routinely cited for foreseeability and proximate cause principles in negligence law.",
+      "relevant_excerpt": "\u201cThe risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension\u2026 These cases aside, wrong is defined in terms of the natural or probable, at least when unintentional\u2026 Here, by concession, there was nothing in the situation to suggest to the most cautious mind that the parcel wrapped in newspaper would spread wreckage through the station.\u201d"
+    },
+    "Donoghue v. Stevenson [1932] A.C. 562": {
+      "raw_text": "Donoghue v. Stevenson [1932] A.C. 562",
+      "citation_type": "case",
+      "proposition": "- Donoghue v. Stevenson [1932] A.C. 562 (establishing general duty of care principles).",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Not found",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

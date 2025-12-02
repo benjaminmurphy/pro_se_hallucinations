@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_007_10.txt",
+  "scenario_id": "cm_007_10",
+  "category": "custody_modification",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 4,
+  "statute_citations": 1,
+  "valid_citations": 4,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 2,
+  "citations": {
+    "**M.G.L. c. 208, \u00a7 28**": {
+      "raw_text": "**M.G.L. c. 208, \u00a7 28**",
+      "citation_type": "statute",
+      "proposition": "Under **M.G.L. c. 208, \u00a7 28**, child custody orders may be modified where there has been a material and substantial change in circumstances and where modification is in the best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Rolde v. Rolde*, 12 Mass. App. Ct. 398, 421 N.E.2d 521 (1981).": {
+      "raw_text": "*Rolde v. Rolde*, 12 Mass. App. Ct. 398, 421 N.E.2d 521 (1981).",
+      "citation_type": "case",
+      "proposition": "Under **M.G.L. c. 208, \u00a7 28**, child custody orders may be modified where there has been a material and substantial change in circumstances and where modification is in the best interests of the child.",
+      "is_valid": true,
+      "courtlistener_id": "2134691",
+      "case_name": "Rolde v. Rolde",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion discusses the standards for an initial custody determination in a divorce action, focusing on the best interests of the child and parental fitness. It does not involve or analyze a request to modify an existing custody order, nor does it mention or apply M.G.L. c. 208, \u00a7 28 or the \u201cmaterial and substantial change in circumstances\u201d standard. Thus, it does not provide authority for the proposition about modification of custody orders under \u00a7 28.",
+      "relevant_excerpt": "\u201cHowever, in deciding issues involving custody, the overriding concern of the court must be the promotion of the best interests of the children and their general welfare. \u2026 The judge did not abuse his discretion. He correctly applied these principles in deciding this question, and his conclusions are amply supported by his subsidiary findings, which are founded on the evidence.\u201d"
+    },
+    "*Yannas v. Frondistou-Yannas*, 395 Mass. 704, 712, 481 N.E.2d 1153 (1985);": {
+      "raw_text": "*Yannas v. Frondistou-Yannas*, 395 Mass. 704, 712, 481 N.E.2d 1153 (1985);",
+      "citation_type": "case",
+      "proposition": "Courts have consistently recognized that the safety, stability, and emotional well-being of the child are paramount considerations in determining a child\u2019s best interests.",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion repeatedly emphasizes that the governing standard under the removal statute is the \u201cbest interests of the child\u201d and explains that this requires attention to the child\u2019s quality of life and the impact of the move on the child\u2019s emotional, physical, and developmental needs. The court explicitly notes that in removal cases \u201cthe effect on the child of any removal is most important\u201d and that the best-interests inquiry focuses on how the child\u2019s life may be improved or harmed, showing that the child\u2019s safety, stability, and emotional well-being are paramount considerations.",
+      "relevant_excerpt": "\u201cThe words \u2018upon cause shown\u2019 mean only that removal must be in the best interests of the child\u2026 Cases involving removal of a child from the jurisdiction present difficult choices. Unless one is to apply a fixed but arbitrary rule, the issue can be resolved only on a case by case basis. The effect on the child of any removal is most important. An evaluation of the best interests of the child requires attention to whether the quality of the child\u2019s life may be improved by the change\u2026 and the extent to which moving or not moving will affect the emotional, physical, or developmental needs of the child.\u201d"
+    },
+    "*Mason v. Coleman*, 447 Mass. 177, 181, 850 N.E.2d 513 (2006).": {
+      "raw_text": "*Mason v. Coleman*, 447 Mass. 177, 181, 850 N.E.2d 513 (2006).",
+      "citation_type": "case",
+      "proposition": "Courts have consistently recognized that the safety, stability, and emotional well-being of the child are paramount considerations in determining a child\u2019s best interests.",
+      "is_valid": true,
+      "courtlistener_id": "6579384",
+      "case_name": "Mason v. Coleman",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "medium",
+      "support_reasoning": "The opinion applies and describes the \u201cbest interests of the child\u201d standard in a removal/relocation context and evaluates factors like the child\u2019s educational and social development, emotional harm from parental conflict, and the importance of maintaining relationships with both parents. While the court does not use the exact phrasing that safety, stability, and emotional well-being are \u2018paramount,\u2019 its analysis clearly treats those aspects of the child\u2019s welfare as central to the best-interests determination, which is consistent with the claimed proposition.",
+      "relevant_excerpt": "\u201c\u2018[T]he best interests of the child standard is one grounded in the particular needs and circumstances of the individual child in question.\u2019\u2026 Where physical custody is shared and neither parent has a clear majority of custodial responsibility, the child\u2019s interests will typically \u2018favor protection of the child\u2019s relationships with both parents because both are, in a real sense, primary to the child\u2019s development.\u2019\u2026 [T]he judge\u2019s findings that their current schools were superior, that uprooting the children would be difficult for them, [and] that the move would impair the father\u2019s parenting to the detriment of their interests\u2026 [show] that removal is not in the children\u2019s best interests.\u201d}"
+    },
+    "*Custody of Kali*, 439 Mass. 834, 841, 792 N.E.2d 635 (2003).": {
+      "raw_text": "*Custody of Kali*, 439 Mass. 834, 841, 792 N.E.2d 635 (2003).",
+      "citation_type": "case",
+      "proposition": "When a parent\u2019s physical impairment impacts their ability to care for a child\u2019s daily needs and safety, modification is warranted to protect the best interests of the child.",
+      "is_valid": true,
+      "courtlistener_id": "6578759",
+      "case_name": "Custody of Kali",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion does not address modification of an existing custody order due to a parent\u2019s physical impairment, nor does it discuss a parent whose physical condition compromises the child\u2019s daily care or safety. Instead, the case applies the general \u201cbest interests of the child\u201d standard and statutory factors under G.L. c. 209C, \u00a7 10(a) in an original custody determination between two fit parents. There is no holding or reasoning that a change in custody is warranted when a parent\u2019s physical impairment affects caregiving ability, so it does not support the specific proposition claimed.",
+      "relevant_excerpt": "\u201cThe required considerations of the second paragraph of G. L. c. 209C, \u00a7 10 (a), neither replace the \u2018best interests of the child\u2019 standard nor limit the factors that a judge may consider in determining what custodial arrangements are in the best interests of the child.\u2026 In most cases, however, if the child has been living with one parent for some time, the child\u2019s needs are being adequately met under that parent\u2019s care, and that parent is capable of continuing to care for the child, it is not in the child\u2019s best interests to disrupt that successful arrangement.\u201d"
+    }
+  }
+}

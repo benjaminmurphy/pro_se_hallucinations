@@ -1,0 +1,104 @@
+COMMONWEALTH OF MASSACHUSETTS
+SPRINGFIELD DISTRICT COURT
+
+Jessica Morgan,                                )
+    Plaintiff                                  )
+                                               )
+v.                                             )    Docket No. ___________________
+                                               )
+Thomas Reed,                                   )
+    Defendant                                  )
+_______________________________________________)
+
+COMPLAINT FOR BREACH OF THE COVENANT OF QUIET ENJOYMENT
+
+1. Parties, Residence, and Venue
+1.1 Plaintiff Jessica Morgan ("Plaintiff" or "Ms. Morgan") is an individual and tenant residing at 123 Elm Street, Springfield, Massachusetts.
+1.2 Defendant Thomas Reed ("Defendant" or "Landlord") is the owner/landlord of the residential premises at 123 Elm Street, Springfield, Massachusetts, and is responsible for the management and maintenance of that rental unit.
+1.3 Plaintiff entered into possession of the premises and began renting the apartment on May 1, 2022. Plaintiff pays monthly rent of $1,600.00.
+1.4 Venue is proper in Springfield District Court because the rental unit is located in Springfield, Massachusetts, and the acts and omissions giving rise to this Complaint occurred there.
+
+2. Jurisdiction
+2.1 This Court has jurisdiction of this matter pursuant to Massachusetts statutory and common law governing landlord-tenant disputes and the covenant of quiet enjoyment implied in leases for residential property.
+
+3. Statement of Facts
+3.1 Plaintiff is the lawful tenant of a two-bedroom apartment located at 123 Elm Street, Springfield, Massachusetts. Plaintiff has continuously occupied the apartment since May 1, 2022.
+3.2 For approximately six weeks prior to the filing of this Complaint (continuing through the date of this Complaint), one of the two bedrooms in the apartment has had no electricity. Specifically, the electrical outlets in that bedroom do not function and the overhead light in that bedroom is dead.
+3.3 The electrical failure is limited to that single bedroom. The rest of the unit remains electrically functional.
+3.4 Plaintiff notified Defendant of the problem. Defendant arranged for an electrician to inspect the apartment. The electrician determined that the issue was not a simple outlet replacement and indicated that a larger repair would be required to remedy the defective wiring to that bedroom.
+3.5 Defendant has represented to Plaintiff that he is obtaining quotes and that the repair is "complicated" due to the building's older wiring. Defendant has not completed the necessary repairs to restore electrical service to the affected bedroom and has not given Plaintiff a firm date certain by which the repair will be completed.
+3.6 Because the bedroom is without electricity, Plaintiff cannot use that room for its intended purposes. Plaintiff used the affected bedroom as a home office prior to the electrical outage. As a result of the outage, Plaintiff has been forced to work outside the home from coffee shops for portions of the workday, incurring approximate additional daily expenses of $15.00 for coffee and food to purchase a seat and internet access. Plaintiff has also maintained a separate coworking space membership during the period of the outage at a cost of $150.00 per month because the apartment environment became unsuitable for work.
+3.7 Plaintiff has also been forced to cram her office equipment into the living room, which has made the overall apartment feel cramped and has materially interfered with her use and enjoyment of the entire apartment.
+3.8 Plaintiff has repeatedly requested that Defendant complete the necessary electrical repairs promptly. Defendant has failed to do so.
+3.9 As a result of Defendant's failure and refusal to timely repair the defective wiring and restore electricity to the bedroom, Plaintiff has suffered economic damages (out-of-pocket expenses for coffee/food and coworking membership) and non-economic harms (loss of use of one bedroom, interference with quiet enjoyment, and diminished habitability and comfort of the rental unit).
+3.10 Plaintiff estimates her damages caused by Defendant’s breach of the covenant of quiet enjoyment to be approximately $1,200.00, made up of:
+- coworking space membership (approx. $150/month x months affected),
+- daily coffee/food expenses (approx. $15/day x days affected),
+- any rent abatement portion for loss of one bedroom, and
+- general damages for loss of peaceful use and enjoyment of the apartment.
+
+4. Cause of Action — Breach of the Covenant of Quiet Enjoyment (Massachusetts Common Law)
+4.1 Plaintiff realleges and incorporates by reference paragraphs 1.1 through 3.10 as if fully set forth herein.
+4.2 Under Massachusetts common law, every residential lease includes an implied covenant of quiet enjoyment. The covenant of quiet enjoyment protects a tenant’s right to the beneficial use and enjoyment of leased premises without substantial interference by the landlord or others acting with the landlord’s consent or acquiescence. See Restatement (Second) of Property: Landlord & Tenant §§ 12.1, 15.1 (discussing quiet enjoyment and landlord obligations); see also Massachusetts cases recognizing and applying the covenant of quiet enjoyment in the landlord-tenant context.
+4.3 Additionally, state sanitary codes and landlord-tenant statutes and regulations impose obligations on landlords to provide and maintain safe, habitable housing conditions, including adequate electrical service necessary for lighting and use of rooms. See 105 CMR 410.000 et seq. (Massachusetts State Sanitary Code — Minimum Standards of Fitness for Human Habitation, including requirements for electrical service, lighting, and equipment); M.G.L. c. 186 (general landlord-tenant statutes); M.G.L. c. 111 (public health enforcement authority).
+4.4 By failing to repair the defective wiring in the affected bedroom, by failing to promptly restore safe and functional electrical service, and by permitting the continued loss of an essential utility in one bedroom of the apartment, Defendant substantially and unreasonably interfered with Plaintiff's beneficial use and peaceful enjoyment of the premises.
+4.5 Defendant’s conduct constitutes a breach of the covenant of quiet enjoyment implied in the tenancy. Defendant is liable to Plaintiff for damages resulting from that breach, including economic loss and damages for loss of use and enjoyment.
+4.6 Plaintiff has performed all conditions precedent to bringing this action or they have been waived. Plaintiff gave timely notice to Defendant of the problems and the need for repair and afforded Defendant reasonable opportunity to perform, but Defendant failed to timely and adequately cure the defect.
+
+5. Massachusetts Authorities (Statutes, Regulations, and Cases)
+Plaintiff relies on and cites the following authorities as relevant to her claim for breach of the covenant of quiet enjoyment (representative, non-exhaustive):
+Statutes and Regulations
+5.1 M.G.L. c. 186 (General provisions governing landlord and tenant obligations).
+5.2 M.G.L. c. 239 (Summary process and related landlord-tenant procedures).
+5.3 M.G.L. c. 93A (Unfair and deceptive acts or practices — relevant to landlord conduct in some contexts).
+5.4 M.G.L. c. 111 (Public Health Laws — enabling enforcement of sanitary standards).
+5.5 105 CMR 410.000 et seq. (Massachusetts State Sanitary Code, Minimum Standards of Fitness for Human Habitation) — specifically provisions regarding electrical service, lighting, and maintenance of safe, sanitary conditions.
+5.6 310 CMR 7.00 et seq. (May be relevant where building conditions affect health and safety).
+Restatement and Secondary Authority
+5.7 Restatement (Second) of Property: Landlord & Tenant §§ 12.1, 15.1–15.2 (Implied covenant of quiet enjoyment; landlord obligations).
+Representative Massachusetts Cases (illustrative of Massachusetts law recognizing and applying the covenant of quiet enjoyment and landlord obligations)
+5.8 Massachusetts courts have long recognized an implied covenant of quiet enjoyment and that substantial interference with the tenant’s use and benefit of the premises can give rise to a cause of action. See, e.g., cases applying and discussing quiet enjoyment in the landlord-tenant context (see, e.g., SJC and Appeals Court authorities addressing quiet enjoyment, constructive eviction, and landlord responsibilities to maintain premises and services).
+5.9 Massachusetts caselaw has treated interruptions of essential services, substantial interference with the use of leased premises, and landlord failures to repair as circumstances giving rise to claims for breaches of quiet enjoyment and damages. See, e.g., decisions of the Massachusetts Supreme Judicial Court and Massachusetts Appeals Court recognizing such principles and remedies.
+5.10 (Plaintiff will rely on the foregoing statutes, regulations, Restatement authority, and Massachusetts case law establishing the covenant of quiet enjoyment and landlord duties; specific, on-point SJC/Appeals Court authorities include decisions addressing constructive eviction, breaches of quiet enjoyment caused by landlord action/inaction, and remedies including rent abatement and damages.)
+
+(Note: Plaintiff cites the authorities above as applicable law governing landlord duties regarding habitability, essential services (including electrical service), and the tenant’s right to quiet enjoyment; Plaintiff intends to rely upon controlling Massachusetts SJC and Appeals Court precedent and the Massachusetts State Sanitary Code in support of the claims pressed in this Complaint.)
+
+6. Damages
+6.1 As a direct and proximate result of Defendant’s breach of the covenant of quiet enjoyment, Plaintiff has suffered economic damages (including but not limited to expenditures for alternative workspace, daily out-of-pocket expenses, and any rent differential for the out-of-service bedroom) and non-economic damages for loss of the peaceful and full use of the leased premises.
+6.2 Plaintiff estimates that her compensatory damages total approximately $1,200.00 to date. Plaintiff reserves the right to amend this amount to include additional proved damages, statutory interest, costs, and attorneys’ fees where authorized by law.
+
+PRAYER FOR RELIEF
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in her favor and grant the following relief:
+A. A finding that Defendant breached the covenant of quiet enjoyment implied in Plaintiff’s tenancy;
+B. An award of money damages to compensate Plaintiff for the loss of use of one bedroom, the out-of-pocket expenses incurred (including coworking membership fees and food/coffee expenses), and other economic and non-economic losses caused by Defendant’s breach, in an amount to be proven at trial but not less than $1,200.00 (plus any additional damages proved at trial);
+C. An award of costs and pre- and post-judgment interest to the extent permitted by law;
+D. Any other relief that the Court deems just and equitable, including but not limited to an order directing Defendant to promptly complete the necessary electrical repairs to restore full electrical service to the affected bedroom;
+E. Trial by jury on all issues so triable.
+
+DATED: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jessica Morgan
+Jessica Morgan
+Plaintiff, pro se
+123 Elm Street
+Springfield, MA 01103
+Phone: (617) 555-0123
+Email: psm1433@gmail.com
+
+Certificate of Service
+I certify that on this date a true copy of the foregoing Complaint was served on the Defendant, Thomas Reed, at his address for service (or by hand delivery/first-class mail at Defendant’s last known address), in accordance with the Massachusetts Rules of Civil Procedure.
+
+Dated: December 1, 2025
+/s/ Jessica Morgan
+Jessica Morgan
+
+NOTICE TO DEFENDANT
+You are hereby notified that if you fail to file an answer to this Complaint in the time required by law, judgment by default may be entered against you for the relief demanded in the Complaint.
+
+–––––––––––––––––––––––––––––––––––––––––
+
+End of Complaint
+
+Important explanatory note (for Plaintiff/filing purposes only): This Complaint states a single claim for breach of the covenant of quiet enjoyment under Massachusetts common law and cites applicable statutory and regulatory frameworks (Massachusetts landlord-tenant statutes and the Massachusetts State Sanitary Code) and general secondary authority (Restatement). Plaintiff intends to rely upon controlling Massachusetts SJC and Appeals Court cases discussing the covenant of quiet enjoyment, landlord obligations, and remedies. If requested by the Court or opposing counsel, Plaintiff will identify and cite specific Massachusetts appellate decisions governing quiet enjoyment and constructive eviction principles (including SJC and Appeals Court decisions) in support of this Complaint.

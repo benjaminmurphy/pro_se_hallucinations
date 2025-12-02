@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_005_06.txt",
+  "scenario_id": "ng_005_06",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 2,
+  "statute_citations": 3,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 223, \u00a7 1": {
+      "raw_text": "Mass. Gen. Laws ch. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Hampden County pursuant to Mass. Gen. Laws ch. 223, \u00a7 1 and related venue statutes because the acts and omissions giving rise to this action occurred in Hampden County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 260, \u00a7 2A (statute of limitations for actions of tort)": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A (statute of limitations for actions of tort)",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 260, \u00a7 2A (statute of limitations for actions of tort) and related provisions governing the commencement of actions in Massachusetts;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 231 and ch. 223": {
+      "raw_text": "Mass. Gen. Laws ch. 231 and ch. 223",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 231 and ch. 223 (jurisdictional and venue provisions for civil actions);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R. Co., 248 N.Y. 339 (1928)": {
+      "raw_text": "Palsgraf v. Long Island R. Co., 248 N.Y. 339 (1928)",
+      "citation_type": "case",
+      "proposition": "- Palsgraf v. Long Island R. Co., 248 N.Y. 339 (1928) (foreseeability and proximate cause principles);",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion directly grounds negligence and duty in foreseeability and explicitly distinguishes duty and proximate cause, rejecting liability where the plaintiff was outside the range of foreseeable risk. Cardozo repeatedly states that the \"risk reasonably to be perceived defines the duty\" and that negligence is relational, thus making Palsgraf a leading authority on foreseeability as a limit on duty and, functionally, on proximate cause. The case is properly cited for foreseeability and proximate cause principles, even though Cardozo frames the issue primarily as one of duty rather than damages causation.",
+      "relevant_excerpt": "\"The risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension... These cases aside, wrong is defined in terms of the natural or probable, at least when unintentional... The range of reasonable apprehension is at times a question for the court, and at times, if varying inferences are possible, a question for the jury.\""
+    },
+    "MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916)": {
+      "raw_text": "MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916)",
+      "citation_type": "case",
+      "proposition": "- MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916) (duty principles);",
+      "is_valid": true,
+      "courtlistener_id": "3616523",
+      "case_name": "MacPherson v. . Buick Motor Co.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "MacPherson v. Buick Motor Co. is the foundational New York case redefining negligence duty principles in product-liability contexts, extending a manufacturer's duty of care beyond the immediate purchaser to foreseeable users and bystanders of potentially dangerous products. Although the excerpt is Chief Judge Bartlett\u2019s dissent arguing against that expansion, the case as a whole (majority by Cardozo, J.) is widely and correctly cited for its duty principles. Thus, the citation to MacPherson for \u201cduty principles\u201d is accurate and supported by the decision, even though this passage reflects the opposing view.",
+      "relevant_excerpt": "\u201cI think that these rulings, which have been approved by the Appellate Division, extend the liability of the vendor of a manufactured article further than any case which has yet received the sanction of this court\u2026 It has heretofore been held in this state that the liability of the vendor of a manufactured article for negligence\u2026 is confined to the immediate vendee. The exceptions\u2026 are cases in which the article sold was of such a character that danger to life or limb was involved\u2026 In the case at bar\u2026 the learned trial judge instructed the jury that an automobile is not an inherently dangerous vehicle.\u201d"
+    }
+  }
+}

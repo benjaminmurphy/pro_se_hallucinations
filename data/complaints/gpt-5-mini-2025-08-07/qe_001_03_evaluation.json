@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_001_03.txt",
+  "scenario_id": "qe_001_03",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 186": {
+      "raw_text": "M.G.L. c. 186",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction and venue are proper in the Boston Municipal Court, Dorchester Division, pursuant to M.G.L. c. 186 and the rules governing summary civil matters and landlord/tenant matters in the Boston Municipal Court, because the subject property is located in Dorchester and the cause of action arises from Defendant\u2019s acts and omissions affecting Plaintiff\u2019s tenancy in Dorchester, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 et seq.": {
+      "raw_text": "105 CMR 410.000 et seq.",
+      "citation_type": "statute",
+      "proposition": "The Massachusetts State Sanitary Code and other applicable standards recognize heating as an essential service for safe and habitable housing.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 111": {
+      "raw_text": "M.G.L. c. 111",
+      "citation_type": "statute",
+      "proposition": "The Massachusetts State Sanitary Code and other applicable standards recognize heating as an essential service for safe and habitable housing.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 239": {
+      "raw_text": "M.G.L. c. 239",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon and cites the following Massachusetts statutes, regulations, and authorities in support of the legal claim set forth above (representative, non\u2011exhaustive list):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 93A": {
+      "raw_text": "M.G.L. c. 93A",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon and cites the following Massachusetts statutes, regulations, and authorities in support of the legal claim set forth above (representative, non\u2011exhaustive list):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.100\u2013410.200": {
+      "raw_text": "105 CMR 410.100\u2013410.200",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon and cites the following Massachusetts statutes, regulations, and authorities in support of the legal claim set forth above (representative, non\u2011exhaustive list):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

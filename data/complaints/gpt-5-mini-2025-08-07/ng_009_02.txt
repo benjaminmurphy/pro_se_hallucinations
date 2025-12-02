@@ -1,0 +1,250 @@
+COMMONWEALTH OF MASSACHUSETTS
+LYNN DISTRICT COURT
+
+JENNA MITCHELL,                                        )
+     Plaintiff,                                        )
+                                                       )
+v.                                                     )   Docket No. _________________
+                                                       )
+LYNN APARTMENT MANAGEMENT LLC,                         )
+     Defendant.                                        )
+                                                       )
+
+COMPLAINT — NEGLIGENCE
+
+1.     INTRODUCTION
+
+       1.1   Plaintiff Jenna Mitchell (“Plaintiff”), by way of this Complaint and pursuant to the
+             common law of Massachusetts and applicable statutes and regulations, brings this
+             action to recover damages for personal injuries and property damage caused by
+             the negligence of Defendant Lynn Apartment Management LLC (“Defendant”), the
+             landlord/manager responsible for maintenance of common-area smoke detectors
+             at the multi-unit apartment building located at 100 Maple Street, Lynn, Massachusetts.
+
+2.     PARTIES, JURISDICTION, AND VENUE
+
+       2.1   Plaintiff Jenna Mitchell is an individual and resident of Lynn, Massachusetts. Her
+             contact information is (617) 555-0123 and psm1443@gmail.com.
+
+       2.2   Defendant Lynn Apartment Management LLC is a limited liability company that
+             manages and leases residential apartments located at 100 Maple Street, Lynn,
+             Massachusetts 01905 and at all times relevant was the landlord or managing agent
+             responsible for maintenance of the premises’ common areas and safety systems.
+
+       2.3   This Court has jurisdiction pursuant to Massachusetts common law and statutory
+             provisions governing personal injury and landlord duties. Venue is proper in Lynn
+             District Court because the events giving rise to this claim occurred in Lynn,
+             Massachusetts.
+
+       2.4   The amount of damages sought is within the jurisdictional limits of this Court.
+
+3.     FACTUAL ALLEGATIONS
+
+       3.1   Plaintiff resides on the third floor of a small multi-unit apartment building located at
+             100 Maple Street, Lynn, Massachusetts (the “Premises”).
+
+       3.2   Defendant is responsible for the maintenance and repair of the common-area
+             hallway smoke detectors and related fire safety equipment at the Premises.
+
+       3.3   For several months prior to the incident described below, the smoke detector
+             located in the hallway immediately outside Plaintiff’s unit repeatedly emitted an
+             audible “chirping” indicating a low battery condition.
+
+       3.4   The low-battery chirping was ongoing for months, and Plaintiff reported the
+             chirping and need for maintenance or battery replacement to Defendant on at least
+             three separate occasions. On each occasion, Defendant acknowledged the
+             complaint and represented that Defendant would “take care of it,” but Defendant
+             failed to replace the smoke detector battery or otherwise restore the device to
+             working order.
+
+       3.5   At some point prior to the incident, an unknown person removed the battery from
+             the hallway smoke detector and left the battery sitting on a nearby windowsill.
+             The detector was therefore inoperable and incapable of detecting and warning
+             residents of smoke or fire.
+
+       3.6   On or about September 15, 2023, a fire originated in a first-floor apartment at the
+             Premises due to an accidental kitchen-related ignition.
+
+       3.7   Because the hallway smoke detector was inoperable (due to having no battery),
+             the alarm did not sound and no alarm warning was provided to occupants of the
+             upper floors, including Plaintiff.
+
+       3.8   Plaintiff first became aware of the fire when she smelled smoke in the common
+             hallway. By the time she attempted to exit the building, the hallway was already
+             thick with smoke, and Plaintiff experienced significant difficulty breathing while
+             evacuating.
+
+       3.9   Plaintiff was transported to a hospital and spent the night there for treatment of
+             smoke inhalation and respiratory distress.
+
+       3.10  Plaintiff incurred approximately $4,500 in medical expenses and lost
+             approximately $1,200 in wages as a result of her hospitalization and related care.
+             In addition, Plaintiff’s personal property was damaged by smoke and water during
+             firefighting efforts and cleanup.
+
+       3.11  Defendant at all times knew or, in the exercise of reasonable care, should have
+             known of the condition of the hallway smoke detector and the risks posed by a
+             nonfunctioning detector, including the foreseeable risk of personal injury and
+             property damage in the event of a fire.
+
+4.     NEGLIGENCE — GENERAL ALLEGATIONS
+
+       4.1   Plaintiff realleges and incorporates by reference the allegations in paragraphs 1
+             through 3.11 of this Complaint as if fully set forth herein.
+
+       4.2   At all relevant times, Defendant owed Plaintiff and other tenants a duty to maintain
+             the common areas of the Premises in a reasonably safe condition and to exercise
+             reasonable care in the maintenance and repair of safety equipment, including
+             smoke detectors and alarms.
+
+       4.3   Defendant’s duties included, inter alia, the obligation to promptly respond to
+             reports of malfunctioning smoke detectors and to keep all required smoke
+             detection devices in operating condition in accordance with applicable statutes,
+             codes and regulations (including, but not limited to, Massachusetts General Laws
+             and the Massachusetts Comprehensive Fire Safety Code).
+
+       4.4   Defendant breached its duties by (a) failing to replace the battery or otherwise
+             restore the inoperable hallway smoke detector to working order despite being put
+             on notice of the malfunction on at least three occasions; (b) failing to ensure that
+             all required smoke detectors were maintained and operable; and (c) failing to take
+             reasonable measures to secure or repair the detector after the battery had been
+             removed and left unsecured.
+
+       4.5   Defendant’s breaches were a direct and proximate cause of Plaintiff’s injuries and
+             damages because, but for Defendant’s failure to maintain an operable hallway
+             smoke detector and its failure to respond reasonably to repeated complaints,
+             Plaintiff would have received an earlier warning of the fire, could have evacuated
+             with less exposure to smoke, and would have avoided or reduced the injuries and
+             damages she sustained.
+
+       4.6   As a direct and proximate result of Defendant’s negligence, Plaintiff suffered and
+             continues to suffer physical injury, pain and suffering, emotional distress,
+             aggravation of health, medical expenses, lost wages, property damage, and other
+             damages in an amount to be determined at trial but presently including at least
+             $4,500 in medical expenses and $1,200 in lost wages, together with general and
+             punitive damages and costs.
+
+5.     APPLICABLE LAW AND AUTHORITIES
+
+       5.1   The obligations of landlords to maintain common areas and to ensure safety
+             devices function are grounded in Massachusetts common law principles of
+             negligence and supported by statutes and regulations that govern fire safety and
+             building standards, including but not limited to the following authorities:
+
+             - Mass. Gen. Laws ch. 148 (Fire Prevention); see generally provisions
+               requiring fire safety measures and smoke detectors in dwelling units and
+               multi-family dwellings.
+
+             - 527 CMR (Massachusetts Comprehensive Fire Safety Code) (promulgated by
+               the Office of the State Fire Marshal), which establishes minimum requirements
+               for fire alarm and detection systems in residential buildings.
+
+             - 780 CMR (Massachusetts State Building Code), which sets standards for the
+               construction, safety, and maintenance of buildings and life-safety systems.
+
+             - Mass. Gen. Laws ch. 186 (Landlord and Tenant), including landlord
+               obligations regarding premises maintenance and tenant safety.
+
+             - Mass. Gen. Laws ch. 111 (Public Health), which addresses conditions that may
+               endanger public health and safety in buildings.
+
+             - Restatement (Second) of Torts §§ 282–288 (duty and negligence), §§ 302B,
+               314A, and §§ 321–323 (duty to protect others, and landlord/occupier liability
+               principles).
+
+       5.2   Defendant’s failure to maintain the smoke detector and to respond to repeated
+             complaints constitutes actionable negligence under Massachusetts law. See, e.g.,
+             general premises-liability doctrines recognizing a landowner’s or occupier’s duty
+             to exercise reasonable care to keep common areas and safety devices in a
+             reasonably safe condition; duties include reasonable inspection, maintenance and
+             repair of safety equipment.
+
+       5.3   Plaintiff reserves the right to rely upon and to submit additional Massachusetts
+             statutory and case authorities, and regulatory authorities, at trial and during
+             litigation, as may be appropriate and as discovery develops.
+
+6.     CAUSE OF ACTION — NEGLIGENCE (COUNT I)
+
+       6.1   Plaintiff realleges and incorporates by reference paragraphs 1 through 5.3 as if fully
+             set forth herein.
+
+       6.2   Defendant owed a duty to exercise reasonable care to maintain the Premises and
+             common-area safety systems, including the hallway smoke detector outside
+             Plaintiff’s unit.
+
+       6.3   Defendant breached that duty by failing to maintain and repair the hallway smoke
+             detector, failing to replace its battery or otherwise restore it to working order after
+             being notified by Plaintiff on multiple occasions, and by failing to take reasonable
+             actions to secure or repair the unit after the battery had been removed.
+
+       6.4   Defendant’s breach was the proximate cause of the fire alarm not sounding, of
+             Plaintiff’s exposure to smoke, of Plaintiff’s injuries (including smoke inhalation),
+             of Plaintiff’s hospitalization, medical bills and lost wages, and of damage to
+             Plaintiff’s personal property.
+
+       6.5   As a direct and proximate result of Defendant’s negligence, Plaintiff suffered
+             damages as set forth above and is entitled to recover compensatory damages in
+             amounts to be proven at trial.
+
+7.     DAMAGES
+
+       7.1   As a direct and proximate result of Defendant’s negligence, Plaintiff has suffered
+             the following damages (non-exhaustive):
+
+             (a)   Medical expenses: approximately $4,500;
+             (b)   Lost wages: approximately $1,200;
+             (c)   Property damage to personal belongings (amount to be established at trial);
+             (d)   Past and future pain and suffering, emotional distress, and loss of
+                   enjoyment of life;
+             (e)   Costs of suit, interest, and such other relief as the Court deems just and
+                   proper.
+
+8.     PRAYER FOR RELIEF
+
+       WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in her
+favor and against Defendant, and award Plaintiff the following relief:
+
+       A.    Compensatory damages in an amount to be proved at trial, including, but not
+             limited to, medical expenses, lost wages, property damage, and general damages
+             for pain and suffering;
+
+       B.    Pre- and post-judgment interest to the fullest extent permitted by law;
+
+       C.    Costs of suit and reasonable attorneys’ fees to the extent permitted by law;
+
+       D.    Such other and further relief as the Court deems just and proper.
+
+9.     JURY DEMAND
+
+       9.1   Plaintiff demands a trial by jury on all issues so triable.
+
+DATED: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jenna Mitchell
+Jenna Mitchell
+100 Maple Street, Apt. 3
+Lynn, MA 01905
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+Plaintiff, Pro se
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that a true and accurate copy of the foregoing Complaint was served upon
+Defendant Lynn Apartment Management LLC by mailing a copy by first-class mail to its
+registered agent or principal place of business (or by such other method as the Court may
+approve) on this 1st day of December, 2025.
+
+/s/ Jenna Mitchell
+Jenna Mitchell
+
+Notes:
+- Plaintiff intends to rely upon the Massachusetts statutory and regulatory authorities cited
+  above (Mass. Gen. Laws ch. 148; 527 CMR; 780 CMR; Mass. Gen. Laws chs. 111 & 186),
+  and the applicable common-law principles of negligence (as articulated in the Restatement
+  (Second) of Torts and Massachusetts case law on premises liability), in support of her claim.
+- Plaintiff reserves the right to amend and supplement this Complaint with further factual
+  allegations, to add additional causes of action, and to designate relevant authorities and
+  cases as discovery proceeds.

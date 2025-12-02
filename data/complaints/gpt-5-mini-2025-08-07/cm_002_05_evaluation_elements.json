@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_002_05.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 3.1 alleges a March 15, 2021 Probate and Family Court order awarding primary physical custody to Plaintiff and scheduled parenting time for Defendant (Wednesday overnights and alternating weekends), and paragraph 3.2 states that order is controlling."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 6.1\u20136.3 and the Prayer (8.2\u20138.4) identify specific changes: suspend/remove Defendant\u2019s midweek Wednesday overnight(s), modify alternating weekend time to workable arrangements (examples provided), require exchanges in/near Cambridge at times that do not cause missed school, and seek temporary suspension pending hearing."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 4.2\u20134.4 allege a concrete change: Defendant intends to relocate to New Hampshire, increasing travel to ~90 minutes each way for midweek exchanges, causing disruptions (missed/late school, missed activities, sleep disruption, anxiety) \u2014 facts that sufficiently describe a material and substantial change affecting the child and the ability to follow the prior order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint repeatedly alleges the requested modifications are necessary to protect Sophie\u2019s physical, emotional, and educational welfare (\u00b6\u00b64.3\u20134.5, 5.2, 7.2) and ties the specific harms (school interference, sleep loss, anxiety, disrupted routine) to why continuation of the existing schedule would be detrimental and why the proposed changes serve the child\u2019s best interests."
+    }
+  }
+}

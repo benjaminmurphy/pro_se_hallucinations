@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_010_09.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies an Existing Order dated May 15, 2016 and describes its terms (primary physical residence to father; mother has limited weekend visits and one weeknight dinner visit). The pleading thus alleges an existing custody/parenting-time judgment on its face."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint requests increased parenting time for the mother, including regular overnight parenting time (weekdays and/or alternating weekends), a revised parenting schedule increasing total time with the mother, and related procedural orders (exchange/communication/therapeutic services). Those specific changes are described sufficiently to inform the court and the defendant of the relief sought."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete factual changes since 2016 that bear on parenting: the mother completed graduate school, now has stable employment and daytime hours, lives in a larger two-bedroom apartment with a separate bedroom for the child, has a strengthened relationship with the child, the child\u2019s therapist recommends increased time, the child wrote a letter requesting more time, and the father\u2019s refusal/anger causes tension. Those factual allegations plausibly plead a material and substantial change in circumstances affecting the child\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the modification is in Sophie\u2019s best interests, citing the child\u2019s stated preference, the therapist\u2019s recommendation, and that increased parenting time will promote the child\u2019s emotional, developmental, and physical welfare and maintain stability/continuity of care. Those factual allegations sufficiently plead that the requested modification is justified by the child\u2019s best interests."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_003_04.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Plaintiff was a lawful business invitee and that Defendant was the owner/occupier of the Premises (\u00b6\u00b62,5,16) and expressly pleads Defendant\u2019s duty to maintain the premises and store merchandise safely (\u00b616). These factual allegations adequately allege the requisite duty of care owed to an invitee."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific facts showing how Defendant failed to exercise reasonable care: heavy appliance boxes were stacked five to six high without straps, guards, or other restraining devices and Defendant failed to adopt or enforce safe stacking procedures or warn invitees (\u00b6\u00b66,13,17). Those factual allegations adequately plead a breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that an ordinary bump by another customer caused a box to dislodge and fall because the boxes were stacked unsafely and unsecured (\u00b67) and that the falling box struck Plaintiff causing injury (\u00b68). These facts support a but\u2011for inference that but for the unsafe stacking/unsecured boxes the box would not have fallen and injured Plaintiff."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that unsafe stacking of heavy merchandise created an unreasonable risk that boxes would fall when subjected to normal customer traffic, and that the falling box striking Plaintiff was the reasonably foreseeable result of that unsafe storage (\u00b6\u00b66,7,13,18). Those allegations adequately plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads concrete, actual damages: diagnosis of a mild concussion and shoulder strain (\u00b610), approximately $1,200 in medical expenses and approximately $800 in lost earnings to date (\u00b611), plus pain and suffering, emotional distress, and loss of enjoyment of life (\u00b6\u00b611\u201312,19). These allegations adequately plead damages."
+    }
+  }
+}

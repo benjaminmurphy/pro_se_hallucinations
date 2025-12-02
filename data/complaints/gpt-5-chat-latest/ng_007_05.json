@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_007_05",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Ethan Johnson",
+  "defendant": "Brockton Community Center"
+}

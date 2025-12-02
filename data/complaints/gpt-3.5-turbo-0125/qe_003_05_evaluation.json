@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_003_05.txt",
+  "scenario_id": "qe_003_05",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 186, Section 14": {
+      "raw_text": "Massachusetts General Laws Chapter 186, Section 14",
+      "citation_type": "statute",
+      "proposition": "Defendant's actions constitute a breach of the implied covenant of quiet enjoyment under Massachusetts General Laws Chapter 186, Section 14.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Chapter 186, Section 15B": {
+      "raw_text": "Chapter 186, Section 15B",
+      "citation_type": "statute",
+      "proposition": "This action arises under the laws of the Commonwealth of Massachusetts governing landlord-tenant relationships, including but not limited to Massachusetts General Laws Chapter 186, Section 14 and Chapter 186, Section 15B.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 185C, Section 3": {
+      "raw_text": "Massachusetts General Laws Chapter 185C, Section 3",
+      "citation_type": "statute",
+      "proposition": "The Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 185C, Section 3 and Chapter 218, Section 19.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Chapter 218, Section 19": {
+      "raw_text": "Chapter 218, Section 19",
+      "citation_type": "statute",
+      "proposition": "The Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 185C, Section 3 and Chapter 218, Section 19.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_004_02.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges an Existing Order entered Sept. 15, 2018 awarding Petitioner primary physical custody and limiting Respondent to short weekday visits and one Sunday afternoon visit with no overnights (\u00b6\u00b62.1\u20132.2)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint requests allowing Respondent overnight parenting time and proposes a specific framework (every-other-weekend Fri\u2013Sun overnights, possible weeknight overnights, exchange/transport arrangements) while seeking Court flexibility to adopt an appropriate schedule (\u00b6\u00b65.1\u20135.2, 4.2, Prayer \u00b67)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges factual changes since the 2018 order: Respondent now has his own apartment with a separate bedroom (\u00b63.2(a)); the child is older (3 \u2192 8) and attends school full time with different needs (\u00b63.2(b)); the current short-visit schedule causes disruption to school/homework and logistical strain (\u00b63.2(c)); and the parties agree a change is appropriate (\u00b63.2(d)). These facts tie to the circumstances underlying the original no-overnight restriction and are pleaded as substantial and material (\u00b63.3, Prayer \u00b67.1(a))."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the requested modification serves the child's best interests by honoring Daniel's expressed desire for sleepovers, providing a safe sleeping environment at Respondent's apartment, reducing disruption/fatigue from current shuttling which harms schooling and routines, promoting meaningful contact with both parents, and proposing safeguards (gradual introduction, monitoring, status hearings) to protect welfare (\u00b66.1\u20136.2; \u00b63.2(a)\u2013(c); \u00b65.2)."
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_005_01.txt",
+  "scenario_id": "qe_005_01",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts venue statutes and local rules": {
+      "raw_text": "Massachusetts venue statutes and local rules",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in this Court pursuant to the Massachusetts venue statutes and local rules because the dwelling is located in Somerville and the actions giving rise to this complaint occurred there.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186 (Massachusetts landlord and tenant law) (general statutory framework governing landlord-tenant relationships).": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Massachusetts landlord and tenant law) (general statutory framework governing landlord-tenant relationships).",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 186 (Massachusetts landlord and tenant law) (general statutory framework governing landlord-tenant relationships).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A (Consumer Protection Act) \u2014 recognized as relevant to landlord practices in certain contexts (authoritative for remedy and interpretation where applicable).": {
+      "raw_text": "Mass. Gen. Laws ch. 93A (Consumer Protection Act) \u2014 recognized as relevant to landlord practices in certain contexts (authoritative for remedy and interpretation where applicable).",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 93A (Consumer Protection Act) \u2014 recognized as relevant to landlord practices in certain contexts (authoritative for remedy and interpretation where applicable).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary process and dispossessories) \u2014 framework related to possession and occupancy.": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary process and dispossessories) \u2014 framework related to possession and occupancy.",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 239 (Summary process and dispossessories) \u2014 framework related to possession and occupancy.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Somerville Municipal Code provisions governing noise and nuisance (local ordinance authority to abate unreasonable noise and disturbance).": {
+      "raw_text": "Somerville Municipal Code provisions governing noise and nuisance (local ordinance authority to abate unreasonable noise and disturbance).",
+      "citation_type": "statute",
+      "proposition": "Somerville Municipal Code provisions governing noise and nuisance (local ordinance authority to abate unreasonable noise and disturbance).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

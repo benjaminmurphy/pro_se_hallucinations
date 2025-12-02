@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_008_01",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Emily Carter",
+  "defendant": "Quincy Dining LLC"
+}

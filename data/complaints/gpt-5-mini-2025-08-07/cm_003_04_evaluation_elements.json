@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_003_04.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges that the Probate and Family Court entered an order on May 15, 2021 providing shared legal custody and a parenting schedule (Michael resides majority time with Petitioner and visits Respondent on certain weekends), and pleads jurisdiction based on that prior order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint requests concrete relief: immediate suspension of overnight visits (or supervised overnights) as interim relief and, permanently, elimination or restriction of overnight unsupervised visits in favor of supervised visitation or an alternative schedule, plus testing, evaluation, and other protective conditions."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific, post\u2011order factual changes: child statements about Respondent's \"special drinks\" and impairment; a neighbor's video showing Respondent stumbling while handling the child; school reports that Michael is unusually exhausted after weekend visits; and an overall increased safety risk \u2014 facts that, if proven, constitute a material and substantial change affecting the child's welfare since the May 15, 2021 order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint ties the alleged change to the child's safety and well\u2011being (risk of impairment while supervising the child, evidence of exhaustion, concerns about supervision), and requests modifications narrowly tailored to protect Michael (supervised visits, testing, treatment, exchange protocols), adequately alleging that the requested relief is necessary and in the child's best interests."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_005_02.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/controlled the ladder and the portion of the driveway/fence adjacent to Plaintiff\u2019s parking area (\u00b6\u00b61.2, 3.1\u20133.2) and expressly pleads Defendant owed a duty to exercise reasonable care to prevent foreseeable harm (\u00b6\u00b63.7, 4.2)."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific conduct amounting to breach: repeatedly storing a tall, unsecured ladder leaned against the fence adjacent to Plaintiff\u2019s parking area, failing to secure or move it despite Plaintiff\u2019s repeated requests and promises by Defendant not kept (\u00b6\u00b63.2\u20133.4, 4.3)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a gust of wind toppled the unsecured ladder and it fell onto Plaintiff\u2019s vehicle while she was backing into the driveway (\u00b63.4), and alleges the harm would not have occurred but for Defendant\u2019s failure to secure or remove the ladder (\u00b6\u00b63.4\u20133.5, 4.5)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the risk of the ladder falling onto a vehicle was foreseeable (Plaintiff warned Defendant; \u00b63.3) and alleges the ladder\u2019s toppling was a direct and proximate result of Defendant\u2019s failure to secure it (\u00b6\u00b63.4\u20133.5, 4.5)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads concrete economic damages: dented hood and cracked windshield, repair costs, insurance deductible, and rental vehicle expenses while repairs were made (\u00b6\u00b63.5\u20133.6, 4.6\u20134.7)."
+    }
+  }
+}

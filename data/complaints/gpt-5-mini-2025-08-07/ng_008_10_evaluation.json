@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_008_10.txt",
+  "scenario_id": "ng_008_10",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 2,
+  "statute_citations": 4,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Donoghue v. Stevenson, [1932] A.C. 562 (foundational duty principles)": {
+      "raw_text": "Donoghue v. Stevenson, [1932] A.C. 562 (foundational duty principles)",
+      "citation_type": "case",
+      "proposition": "At all relevant times, Defendant owed a duty of reasonable care to Plaintiff, as an invitee on Defendant\u2019s premises, to maintain the premises in a reasonably safe condition and to warn of or make safe dangerous conditions of which Defendant knew or in the exercise of reasonable care should have known.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause principles)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause principles)",
+      "citation_type": "case",
+      "proposition": "Occupiers of land owe invitees a duty to exercise reasonable care in maintaining the premises in a safe condition and to warn of dangerous conditions known to the occupier that are not obvious to the invitee.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The Palsgraf opinion addresses the relational nature of duty and proximate cause in negligence, not the specific premises-liability duty owed by land occupiers to invitees. Cardozo\u2019s analysis focuses on whether the railroad owed any duty to this particular plaintiff based on foreseeability, not on maintaining premises in a safe condition or warning of non-obvious dangers. The case is thus not authority for the invitee-duty proposition and is being cited for the wrong legal principle.",
+      "relevant_excerpt": "\u201cThe conduct of the defendant\u2019s guard, if a wrong in its relation to the holder of the package, was not a wrong in its relation to the plaintiff, standing far away. Relatively to her it was not negligence at all. Nothing in the situation gave notice that the falling package had in it the potency of peril to persons thus removed. Negligence is not actionable unless it involves the invasion of a legally protected interest, the violation of a right.\u201d"
+    },
+    "Mass. Gen. Laws ch. 260, \u00a7 2A (three-year limitation period for personal injury actions)": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A (three-year limitation period for personal injury actions)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff timely files this action within the applicable statute of limitations for personal injury actions under Massachusetts law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 8(a) (short and plain statement of the claim)": {
+      "raw_text": "Mass. R. Civ. P. 8(a) (short and plain statement of the claim)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff also intends to rely on applicable Massachusetts procedural authorities including Mass. R. Civ. P. 8(a) (short and plain statement of the claim), Mass. R. Civ. P. 10(a) (caption), and Mass. R. Civ. P. 11 (signing of pleadings).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 10(a) (caption)": {
+      "raw_text": "Mass. R. Civ. P. 10(a) (caption)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff also intends to rely on applicable Massachusetts procedural authorities including Mass. R. Civ. P. 8(a) (short and plain statement of the claim), Mass. R. Civ. P. 10(a) (caption), and Mass. R. Civ. P. 11 (signing of pleadings).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 11 (signing of pleadings)": {
+      "raw_text": "Mass. R. Civ. P. 11 (signing of pleadings)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff also intends to rely on applicable Massachusetts procedural authorities including Mass. R. Civ. P. 8(a) (short and plain statement of the claim), Mass. R. Civ. P. 10(a) (caption), and Mass. R. Civ. P. 11 (signing of pleadings).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

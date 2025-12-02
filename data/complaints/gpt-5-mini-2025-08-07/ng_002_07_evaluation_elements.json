@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_002_07.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/controlled the dog, that Greenough Park had posted leash requirements, and that Defendant knew or should have known of the leash rule but regularly allowed the dog off-leash. Paragraphs 2, 6\u20137 and 21 expressly plead facts establishing a duty to exercise reasonable care in controlling the animal and obey posted leash requirements."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific facts that the dog was running loose, Defendant held an unattached leash over his shoulder some 30 feet away and did not have the dog under reasonable control, and that Defendant regularly allowed the dog off-leash despite posted rules (\u00b6\u00b67,9\u201311,22). Those factual allegations sufficiently allege a breach of the duty to control the animal."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a direct factual sequence: the dog charged/barked at Plaintiff on the path (\u00b69), Plaintiff swerved off the path to avoid the dog (\u00b611), then tripped over an exposed root and fell, sustaining injuries (\u00b611\u201312). Those allegations are adequate at the pleading stage to show that but for Defendant\u2019s failure to control the dog, Plaintiff would not have swerved and fallen."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that Defendant\u2019s failure to control the dog created a foreseeable risk that a park user would take evasive action, fall, and be injured, and cites supporting authority (\u00b623). The pleaded facts (dog charging, Plaintiff\u2019s evasive maneuver, resulting fall and injury) sufficiently allege the injury was a foreseeable consequence of the defendant\u2019s conduct for pleading purposes, despite the lack of physical contact (\u00b613)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads concrete, compensable damages: displaced wrist fracture, contusions/abrasions, emergency treatment and follow-up care (approx. $5,500), lost wages (approx. $2,000), and non-economic harms such as pain and suffering and emotional distress (\u00b612,15,24). These allegations adequately plead actual damages."
+    }
+  }
+}

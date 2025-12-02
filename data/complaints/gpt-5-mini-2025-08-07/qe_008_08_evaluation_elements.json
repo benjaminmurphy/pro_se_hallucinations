@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_008_08.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 1\u20134 and 3 allege Plaintiff is a residential tenant at the premises, Defendant is the owner/landlord and the party to whom Plaintiff pays rent, and the tenancy is month\u2011to\u2011month \u2014 facts that establish a landlord\u2013tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 7\u201310 and 20 allege Defendant had control over common areas and responsibility for locks, was notified of the broken main entry lock, acknowledged the problem, promised to fix it, but failed to arrange or complete repair \u2014 an alleged landlord omission. "
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 11\u201314 and 21 allege unauthorized entry through the unsecured door, theft of Plaintiff\u2019s package, and evidence of someone sleeping in the basement causing reasonable fear for personal safety and loss of use/enjoyment \u2014 factual allegations sufficient to plead a substantial, not merely trivial, interference. "
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 8\u201311 and 20\u201321 tie the broken/unrepaired main entry lock (after notice) to unauthorized entry and resulting theft and intrusions, alleging the landlord\u2019s failure to repair was the proximate cause of the interference. "
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 12, 15\u201316 and 22 allege specific monetary losses ($120 stolen package; \u2248$200 for security/deadbolt = $320) and non\u2011monetary harms (emotional distress, annoyance, loss of use), sufficiently pleading damages for purposes of the claim."
+    }
+  }
+}

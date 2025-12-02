@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_007_02.txt",
+  "scenario_id": "ng_007_02",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 3,
+  "statute_citations": 3,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 1,
+  "citations": {
+    "G.L. c. 218, \u00a7 19": {
+      "raw_text": "G.L. c. 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction is proper in this Court pursuant to G.L. c. 218, \u00a7 19, as the amount in controversy is within the jurisdictional limits of the District Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Brockton District Court pursuant to G.L. c. 223, \u00a7 1, as the events giving rise to this Complaint occurred at the Defendant's facility in Brockton, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "**Jesionek v. Massachusetts Port Authority**, 376 Mass. 101 (1978)": {
+      "raw_text": "**Jesionek v. Massachusetts Port Authority**, 376 Mass. 101 (1978)",
+      "citation_type": "case",
+      "proposition": "The negligence of Defendant constitutes a breach of the standard of care owed under Massachusetts law, including but not limited to the principles established in **Jesionek v. Massachusetts Port Authority**, 376 Mass. 101 (1978) (duty of reasonable care extends to protecting individuals from foreseeable harm); **Fitzsimmons v. National Grid**, 77 Mass. App. Ct. 122 (2010) (failure to act reasonably in the face of foreseeable risks constitutes actionable negligence); and **Cottam v. CVS Pharmacy**, 436 Mass. 316 (2002) (a duty to warn exists when harm is foreseeable).",
+      "is_valid": true,
+      "courtlistener_id": "2017129",
+      "case_name": "Jesionek v. Massachusetts Port Authority",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "Jesionek directly applies general Massachusetts negligence principles to hold that a landowner has a duty to exercise reasonable care to protect persons lawfully on its premises from foreseeable harm caused by third parties\u2019 misuse of dangerous instrumentalities the landowner failed to secure. The court emphasizes foreseeability of harm to visitors such as the plaintiff and holds that such foreseeable misuse does not break the chain of causation. This aligns with citing Jesionek for the proposition that the duty of reasonable care extends to protecting individuals from foreseeable harm under Massachusetts law.",
+      "relevant_excerpt": "\"The general rule is that '[t]he act of a third person, intervening and contributing a condition necessary to the injurious effect of the original negligence, will not excuse the first wrongdoer, if such act ought to have been foreseen.' ... Under the facts of this case the jury would have been warranted in concluding that the actions of the seaman were foreseeable. ... It was also reasonably foreseeable... that unauthorized operation would likely cause harm to persons known to pass through the area, such as those visiting the ships.\""
+    },
+    "**Fitzsimmons v. National Grid**, 77 Mass. App. Ct. 122 (2010)": {
+      "raw_text": "**Fitzsimmons v. National Grid**, 77 Mass. App. Ct. 122 (2010)",
+      "citation_type": "case",
+      "proposition": "The negligence of Defendant constitutes a breach of the standard of care owed under Massachusetts law, including but not limited to the principles established in **Jesionek v. Massachusetts Port Authority**, 376 Mass. 101 (1978) (duty of reasonable care extends to protecting individuals from foreseeable harm); **Fitzsimmons v. National Grid**, 77 Mass. App. Ct. 122 (2010) (failure to act reasonably in the face of foreseeable risks constitutes actionable negligence); and **Cottam v. CVS Pharmacy**, 436 Mass. 316 (2002) (a duty to warn exists when harm is foreseeable).",
+      "is_valid": true,
+      "courtlistener_id": "6589356",
+      "case_name": "Commonwealth v. Degray",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This Fitzsimmons opinion concerns Fourth Amendment and art. 14 search-and-seizure law, specifically probable cause to search a vehicle\u2019s trunk based on the odor and presence of marijuana. It does not analyze negligence, standards of reasonable care in tort, duties to protect from foreseeable harm, or duties to warn. Citing this case for a negligence-duty/standard-of-care proposition misstates its holding and doctrinal focus.",
+      "relevant_excerpt": "\u201cIn sum, we conclude that the search of the trunk in this case was reasonable\u2026 All of these factors support a connection between the contraband and the automobile, a connection not present in Garden. As the court noted in Garden, supra at 53, the discovery of even a small amount of contraband in the passenger compartment, which might only be for personal use, can extend the scope of the search to include the trunk.\u201d"
+    },
+    "**Cottam v. CVS Pharmacy**, 436 Mass. 316 (2002)": {
+      "raw_text": "**Cottam v. CVS Pharmacy**, 436 Mass. 316 (2002)",
+      "citation_type": "case",
+      "proposition": "The negligence of Defendant constitutes a breach of the standard of care owed under Massachusetts law, including but not limited to the principles established in **Jesionek v. Massachusetts Port Authority**, 376 Mass. 101 (1978) (duty of reasonable care extends to protecting individuals from foreseeable harm); **Fitzsimmons v. National Grid**, 77 Mass. App. Ct. 122 (2010) (failure to act reasonably in the face of foreseeable risks constitutes actionable negligence); and **Cottam v. CVS Pharmacy**, 436 Mass. 316 (2002) (a duty to warn exists when harm is foreseeable).",
+      "is_valid": true,
+      "courtlistener_id": "6578465",
+      "case_name": "Cottam v. CVS Pharmacy",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion explicitly recognizes that once CVS voluntarily undertook to provide warnings, it assumed a duty to perform that undertaking with due care and could be liable in negligence for failing to do so. The court frames this in standard Massachusetts negligence terms (existence of duty, breach, causation, and foreseeability) and affirms a verdict against CVS based on a negligent failure to warn of a foreseeable, serious side effect. Thus, Cottam is correctly cited for the proposition that a duty to warn exists where harm is foreseeable and that negligent failure to meet that duty is actionable under Massachusetts law, albeit in the specific context of a voluntarily assumed duty by a pharmacy.",
+      "relevant_excerpt": "\u201cTo recover for negligence, a plaintiff must show \u2018the existence of an act or omission in violation of a\u2026duty owed to the plaintiff[s] by the defendant.\u2019 \u2026 A pharmacy, like any other person or entity, may voluntarily assume a duty that would not otherwise be imposed on it, and thus may voluntarily assume a duty to provide information, advice or warnings to its customers. Massachusetts recognizes that \u2018a duty voluntarily assumed must be performed with due care\u2019\u2026. \u2018If a person voluntarily assumes a duty\u2026that person may be liable for harm caused because of the negligent performance of his undertaking.\u2019\u201d"
+    },
+    "**G.L. c. 231, \u00a7 85**": {
+      "raw_text": "**G.L. c. 231, \u00a7 85**",
+      "citation_type": "statute",
+      "proposition": "Defendant\u2019s conduct is further in violation of the reasonable care standards set forth under **G.L. c. 231, \u00a7 85**, which outlines general principles of negligence liability in the Commonwealth.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

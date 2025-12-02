@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_010_04.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies and incorporates the May 15, 2018 custody/parenting-time order (the \u201c2018 Order\u201d), alleges it awarded primary physical residence to Respondent and limited Petitioner\u2019s time, and states a copy is in the court file (\u00b63.1\u20133.2; Exhibits listed)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint specifies the requested modification: increase Petitioner\u2019s residential time with the child, including regular weeknight and weekend overnight parenting time, expanded weekday/weekend time, and related schedule changes (\u00b64.1\u20134.2(a)\u2013(d); Prayer for Relief B)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges factual changes since 2018 that the prior order expressly relied on: Petitioner finished graduate school, obtained stable full\u2011time daytime employment with predictable hours, moved from a studio to a two\u2011bedroom with a private room for the child, the child is older (now 10), the child and therapist prefer increased time, and Respondent refuses to negotiate (\u00b65.1\u20135.8). Those allegations plausibly establish a material and substantial change in circumstances from the facts at entry of the 2018 Order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the modification is necessary for the child\u2019s best interests and pleads supporting facts: therapist\u2019s recommendation that increased time would benefit the child\u2019s emotional wellbeing, the child\u2019s written statement expressing a desire for more overnights, a strengthened parent\u2013child relationship, and improved, stable housing and parental availability (\u00b65.2\u20135.6, \u00b68 Prayer). Those factual allegations reasonably tie the requested change to the child\u2019s best interests."
+    }
+  }
+}

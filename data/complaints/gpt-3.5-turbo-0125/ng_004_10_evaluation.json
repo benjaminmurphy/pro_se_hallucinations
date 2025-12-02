@@ -1,0 +1,28 @@
+{
+  "complaint_file": "ng_004_10.txt",
+  "scenario_id": "ng_004_10",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 84, Section 15": {
+      "raw_text": "Massachusetts General Laws Chapter 84, Section 15",
+      "citation_type": "statute",
+      "proposition": "Plaintiff brings this action pursuant to the laws of Massachusetts, including but not limited to Massachusetts General Laws Chapter 84, Section 15, which imposes a duty to keep sidewalks safe for public use.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

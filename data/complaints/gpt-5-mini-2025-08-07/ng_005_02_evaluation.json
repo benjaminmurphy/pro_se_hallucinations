@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_005_02.txt",
+  "scenario_id": "ng_005_02",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Brown v. Kendall, 60 Mass. (6 Cush.) 292 (1850)": {
+      "raw_text": "Brown v. Kendall, 60 Mass. (6 Cush.) 292 (1850)",
+      "citation_type": "case",
+      "proposition": "Defendant owed Plaintiff a duty to exercise reasonable care under the circumstances.",
+      "is_valid": true,
+      "courtlistener_id": "6535730",
+      "case_name": "Brown v. Kendall",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The court expressly states that where a defendant is engaged in a lawful act and causes unintentional harm, he is liable only if he failed to exercise \u201cdue care, adapted to the exigency of the case,\u201d and that such want of due care is an element of the plaintiff\u2019s case. This clearly recognizes a duty on the defendant to exercise ordinary/reasonable care under the circumstances and ties liability to breach of that duty. The discussion of \u201cordinary care\u201d and its variation with circumstances directly supports the proposition.",
+      "relevant_excerpt": "\u201cIf the act of hitting the plaintiff was unintentional, on the part of the defendant, and done in the doing of a lawful act, then the defendant was not liable, unless it was done in the want of exercise of due care, adapted to the exigency of the case\u2026 In using this term, ordinary care, it may be proper to state, that what constitutes ordinary care will vary with the circumstances of cases. In general, it means that kind and degree of care, which prudent and cautious men would use, such as is required by the exigency of the case\u2026\u201d"
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339, 162 N.E. 99 (1928)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339, 162 N.E. 99 (1928)",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s breach was the direct and proximate cause of the ladder falling and of the resulting damage to Plaintiff\u2019s vehicle.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition concerns whether a defendant\u2019s breach was the direct and proximate cause of a ladder falling and damaging a vehicle. Palsgraf deals with railroad guards dislodging a package of fireworks, the resulting explosion, and injury to a distant passenger, and focuses on duty and foreseeability rather than proximate cause of property damage from a falling ladder. The opinion explicitly states that the law of proximate causation is \u201cforeign to the case\u201d because there was no duty to the plaintiff, so it does not support the asserted causation proposition.",
+      "relevant_excerpt": "\u201cThe law of causation, remote or proximate, is thus foreign to the case before us. The question of liability is always anterior to the question of the measure of the consequences that go with liability. If there is no tort to be redressed, there is no occasion to consider what damage might be recovered if there were a finding of a tort.\u201d"
+    },
+    "Mass. Gen. Laws ch. 260, \u00a7 2A": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A",
+      "citation_type": "statute",
+      "proposition": "The applicable statute of limitations for tort claims in Massachusetts is set forth at Mass. Gen. Laws ch. 260, \u00a7 2A; Plaintiff brings this action within the applicable limitations period.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 223, \u00a7 1": {
+      "raw_text": "Mass. Gen. Laws ch. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Hampden Superior Court because the motor vehicle property damage and the acts and omissions giving rise to this claim occurred at 123 Maple Street, Springfield, Hampden County, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

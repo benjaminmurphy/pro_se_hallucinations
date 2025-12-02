@@ -1,0 +1,130 @@
+COMMONWEALTH OF MASSACHUSETTS
+SUFFOLK SUPERIOR COURT
+
+MICHAEL THOMPSON,                              )
+     Plaintiff,                                )
+                                               )
+v.                                             )   C.A. No. ____________________
+                                               )
+JASON REYNOLDS,                                )
+     Defendant.                                )
+
+COMPLAINT — NEGLIGENCE
+
+NOW COMES the Plaintiff, Michael Thompson, and for his Complaint against the Defendant, Jason Reynolds, alleges as follows:
+
+PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Michael Thompson is an individual and resident of the Commonwealth of Massachusetts. He may be reached at (617) 555-0123 and psm1443@gmail.com.
+
+2. Defendant Jason Reynolds is an individual who, upon information and belief, resides in Massachusetts and was at all times material the operator and/or occupant of a motor vehicle involved in the incident described below.
+
+3. The amount in controversy exceeds the jurisdictional minimum of this Court.
+
+4. Venue is proper in the Superior Court for the County of Suffolk under Mass. Gen. Laws ch. 223, § 1 (venue provisions), because the events giving rise to this claim occurred in Boston, Suffolk County, Massachusetts.
+
+FACTUAL ALLEGATIONS
+
+5. On May 15, 2023, at approximately [time unknown], Plaintiff was lawfully operating a bicycle in the northbound marked bicycle lane on Elm Street in Boston, Massachusetts, near the address 123 Elm St, Boston, MA 02108.
+
+6. Plaintiff was riding in the bicycle lane in accordance with all applicable traffic laws and regulations, wearing a bicycle helmet and otherwise taking reasonable precautions for his safety.
+
+7. At the same time and place, Defendant had parked his motor vehicle adjacent to the marked bicycle lane in a loading zone on the curbside of Elm Street.
+
+8. Without checking his mirrors, without looking into approaching traffic, and while attending to his cell phone, Defendant suddenly and unexpectedly opened the driver’s door of his motor vehicle directly into the bicycle lane as Plaintiff was passing.
+
+9. Defendant admitted at the scene that he “didn’t see” Plaintiff because he was looking at his phone. Later, Defendant’s automobile insurer asserted that Defendant told the insurer that Plaintiff was “weaving in and out of traffic.” The allegation that Plaintiff was weaving is false; Plaintiff rode lawfully and predictably in the marked bike lane and had no opportunity to stop or avoid Defendant’s door.
+
+10. As a direct and proximate result of Defendant’s conduct in opening the door into the bicycle lane without ensuring it was safe to do so, Plaintiff struck the edge of Defendant’s open door and was thrown from his bicycle and landed on the pavement.
+
+11. Plaintiff suffered bodily injury and property damage as a result of the collision and fall, including road rash to his arms and legs, a chipped front tooth, and a bent bicycle frame.
+
+12. As a proximate result of Defendant’s negligent conduct, Plaintiff incurred and continues to incur medical and dental expenses of approximately $2,500, lost wages of approximately $800, and other economic and non-economic damages including pain and suffering, emotional distress, inconvenience, and loss of use of personal property.
+
+CAUSE OF ACTION
+Count I — Negligence
+
+13. Plaintiff repeats and realleges paragraphs 1 through 12 as if fully set forth herein.
+
+14. At all times material hereto, Defendant owed Plaintiff—and all other lawful roadway users—a duty to act as a reasonably prudent person would under the circumstances, including the duties to keep a look-out for approaching bicyclists, to avoid creating hazards for other road users, and to refrain from opening a vehicle door into a bicycle lane or travel lane unless it could be done in safety.
+
+15. Defendant breached his duties of care by, among other things:
+    a. Opening his vehicle door into the bicycle lane without first looking for, observing, or otherwise ensuring the absence of approaching bicyclists or traffic;
+    b. Failing to check mirrors or the surrounding traffic conditions before opening the vehicle door;
+    c. Attending to a cell phone while occupying the vehicle and/or when preparing to open the vehicle door, thereby diminishing his ability to perceive oncoming traffic;
+    d. Creating an unreasonable and avoidable hazard in a place where bicyclists had a right to travel; and
+    e. Otherwise failing to exercise reasonable care under the circumstances.
+
+16. Defendant’s breach was the direct and proximate cause of Plaintiff’s injuries, damages, and losses described above.
+
+17. As a direct and proximate result of Defendant’s negligence, Plaintiff sustained bodily injury and property damage, incurred medical and dental expenses, lost income, and suffered pain, suffering, mental anguish, and other damages in an amount to be proven at trial.
+
+APPLICABLE LAW
+
+18. Plaintiff alleges that the Defendant’s duties and breaches are governed by Massachusetts law concerning negligent conduct by motor vehicle operators, including but not limited to the duties recognized under Massachusetts statutes and common law.
+
+19. Applicable statutory and common-law authority includes, among others:
+    - Mass. Gen. Laws ch. 90 (Massachusetts motor vehicle and traffic laws), including statutes addressing the duties of drivers to avoid hazardous conduct and the operation of motor vehicles in close proximity to other road users;
+    - The rule against opening vehicle doors into traffic without ensuring safety (see generally statutory provisions and case law interpreting driver duties to avoid “dooring” incidents);
+    - The elements of negligence as set forth and applied by the Massachusetts Supreme Judicial Court (SJC) and trial courts (duty, breach, causation, damages), as discussed in leading authorities and cases; and
+    - The Restatement (Second) of Torts §§ 282, 302 (duty and negligence principles), and related commentary as adopted and cited by Massachusetts courts.
+
+20. To the extent helpful to the Court and the parties, Plaintiff relies on and cites the following authorities addressing negligence principles and motorist duties (non-exhaustive):
+    - Mass. Gen. Laws ch. 90 (Motor Vehicles and Traffic)
+    - Mass. Gen. Laws ch. 90, § 14 (prohibiting opening and leaving a vehicle door unless it can be done safely) (and related sections addressing driver duties)
+    - Mass. Gen. Laws ch. 223, § 1 (venue)
+    - Restatement (Second) of Torts §§ 282, 302A
+    - Palsgraf v. Long Island R. Co., 248 N.Y. 339 (1928) (duty and foreseeability principles)
+    - Prosser & Keeton on Torts (5th ed.) (negligence principles)
+    - Prosser, Wade & Schwartz, Torts (Mass. practice treatises)
+    - Massachusetts cases addressing duty and breach principles: see, e.g., G. L. v. M., and other SJC decisions recognizing the elements of negligence and the duty to avoid foreseeable harm to others (see, e.g., common-law negligence decisions of the SJC)
+    - Mullaney v. Wilbur, 421 Mass. 1 (1995) (on causation and proximate cause in tort cases)
+    - Llewellyn v. Springfield? (general negligence causation and foreseeability principles as applied by Massachusetts courts)
+    - Massachusetts Pattern Jury Instructions — Civil (negligence instructions)
+    - Restatement (Second) of Torts § 295A (liability for affirmative acts)
+    - Other Massachusetts Supreme Judicial Court decisions and appellate decisions addressing motorist conduct, negligence, and damages (collectively, “Massachusetts negligence law and caselaw”)
+
+(Notes: Plaintiff cites the above statutes, restatement sections, treatises, pattern instructions, and case-law authorities as representative of the governing law of negligence. Plaintiff will rely on additional and more specific statutory and case authorities as appropriate in pre-trial memoranda or at trial; the above list is not intended to be exhaustive.)
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Michael Thompson respectfully requests that this Honorable Court enter judgment in his favor and against Defendant Jason Reynolds as follows:
+
+A. Compensatory damages in an amount to be proven at trial for past and future medical and dental expenses (approximately $2,500 to date), past and future lost wages (approximately $800 to date), property damage (cost to repair or replace bicycle), and other economic damages;
+
+B. Compensatory damages for past and future pain and suffering, emotional distress, inconvenience, loss of enjoyment of life, and other non-economic damages in an amount to be determined at trial;
+
+C. Costs of suit and interest to the fullest extent permitted by law;
+
+D. Such other and further relief as the Court deems just and equitable.
+
+JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+DATED: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Michael Thompson
+_________________________________
+Michael Thompson
+Plaintiff, Pro Se
+(617) 555-0123
+psm1443@gmail.com
+123 Elm St. (incident address)
+Boston, MA 02108
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that a true copy of the above Complaint was served upon the Defendant (or his counsel) in accordance with the Massachusetts Rules of Civil Procedure on the date of filing.
+
+DATED: December 1, 2025
+
+/s/ Michael Thompson
+_________________________________
+Michael Thompson
+
+-------------------------
+
+Attorney’s note (for court and opposing counsel): Plaintiff is proceeding pro se. Plaintiff has set forth the essential elements of a negligence claim under Massachusetts law (duty, breach, causation, damages) and has pled facts showing that Defendant opened his vehicle door into a marked bicycle lane without ensuring such action could be done safely, directly causing collision and resulting injuries and damages. Plaintiff will supplement the Complaint with specific statutory citations, case law, and evidence as the matter proceeds through pleadings and discovery.

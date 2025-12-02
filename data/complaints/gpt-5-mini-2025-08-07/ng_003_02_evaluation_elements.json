@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_003_02.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff was a business invitee on Defendant's retail premises (\u00b63.1) and expressly pleads Defendant owed the ordinary-care duty to maintain the premises and warn of dangerous conditions, citing Restatement \u00a7343 and Massachusetts authority (\u00b64.2, \u00b66.2). These factual allegations adequately establish duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific factual acts amounting to breach: heavy appliance boxes stacked five to six high without straps, guards, or other restraints (\u00b63.2), and alleges failures to train, supervise, inspect, and warn (\u00b64.3(a)\u2013(d)). Those factual allegations sufficiently plead a breach of the alleged duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that a customer bumped a lower shelf, and because the boxes were insecurely stacked and unrestrained, a heavy box fell from near the top and struck Plaintiff (\u00b63.3). Those facts support a but-for causal link \u2014 but for the insecure stacking/failure to secure the merchandise, the box would not have fallen and struck Plaintiff."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Factual allegations make the injury a foreseeable result of the conduct: unsecured heavy merchandise in an aisle frequented by customers could foreseeably fall and cause injury (\u00b63.2\u20133.3, \u00b64.3(d), \u00b64.4). The complaint also expressly pleads proximate causation (\u00b63.6, \u00b64.4, \u00b66.4)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete injuries and economic damages: diagnosed mild concussion and shoulder strain, dizziness and headache, approximately $2,500 in medical expenses, approximately $1,200 in lost wages, pain and suffering, and loss of enjoyment of life (\u00b63.4\u20133.5, \u00b64.4, \u00b66.5). These allegations adequately plead actual damages."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_009_05.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant is owner and landlord of 123 Maple St. and that Plaintiff has rented the two\u2011bedroom apartment from Defendant since June 1, 2022, paying $1,300/month \u2014 facts that establish a landlord\u2011tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant arranged an electrician but has not effected a permanent repair or restored electrical service to the affected bedroom despite representations that he was obtaining quotes and promises to repair \u2014 an omission/failure to act."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges one of two bedrooms has had no electricity for approximately six weeks, denying use as a bedroom and home office, forcing Plaintiff to work off\u2011site, incur daily expenses and a coworking membership, and crowding the living area \u2014 facts alleging substantial interference with use and enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff notified Defendant, the electrician identified defective wiring requiring repair, and Defendant\u2019s failure to timely repair is the reason the bedroom remains unusable \u2014 alleging a direct causal link between Defendant\u2019s omission and the interference."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific economic damages (approx. $15/day expenses, $150/month coworking membership, estimated total ~$1,800 to date) and non\u2011economic harms (loss of quiet enjoyment, inconvenience, lost productivity), and seeks compensatory relief."
+    }
+  }
+}

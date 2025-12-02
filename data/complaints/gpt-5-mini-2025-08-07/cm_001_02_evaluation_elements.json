@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_001_02.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges an Existing Order entered May 15, 2020 by this Court providing joint legal custody with Plaintiff having primary physical custody and a specified parenting schedule (\u00b63.1). This directly establishes an existing custody/parenting-time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint requests concrete changes to the parenting schedule (\u00b66.2\u20136.3), including limiting Defendant\u2019s overnight parenting time to nights he is not scheduled to work, requiring production of his work schedule, advance notice and approval of third\u2011party caregivers, and an alternative daytime/limited schedule \u2014 i.e., specific relief is pleaded."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges detailed factual changes since the prior order: Defendant accepted overnight employment (\u00b64.2) that conflicts with scheduled overnights and has led to exhaustion, leaving children with Plaintiff on short notice, placement with unknown third parties, and impaired supervision (\u00b64.3). It also contrasts the prior daytime schedules when the plan functioned (\u00b64.4). These allegations support a material and substantial change affecting the children\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint links the alleged change to best\u2011interest factors (\u00b65.1\u20135.2), alleging adverse effects on the children\u2019s routine, sleep, supervision and safety and asserting that modification is necessary to ensure stable, predictable care (\u00b65.2, \u00b66.1). Those factual allegations adequately plead that the requested modification is intended to serve the children\u2019s best interests."
+    }
+  }
+}

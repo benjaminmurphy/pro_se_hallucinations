@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_004_03.txt",
+  "scenario_id": "cm_004_03",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 3,
+  "statute_citations": 1,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 1,
+  "citations": {
+    "The Massachusetts General Laws Chapter 208, Section 28, provide the court with the authority to modify custody orders based on the best interests of the child.": {
+      "raw_text": "The Massachusetts General Laws Chapter 208, Section 28, provide the court with the authority to modify custody orders based on the best interests of the child.",
+      "citation_type": "statute",
+      "proposition": "The Massachusetts General Laws Chapter 208, Section 28, provide the court with the authority to modify custody orders based on the best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)": {
+      "raw_text": "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)",
+      "citation_type": "case",
+      "proposition": "Relevant case law, including but not limited to Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985), and Blixt v. Blixt, 437 Mass. 649 (2002), emphasize that the primary consideration in custody matters is the child's best interests, taking into account their age, needs, and preferences.",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion repeatedly frames both the custody and removal questions in terms of the children\u2019s best interests, and discusses those interests with reference to the children\u2019s needs (emotional, physical, developmental), circumstances, and to some extent their wishes. It expressly interprets the governing statute as requiring that removal be in the child\u2019s best interests and describes the best\u2011interests inquiry as the paramount concern in custody/removal decisions. This aligns with the proposition that the primary consideration in custody matters is the child\u2019s best interests, taking account of age, needs, and preferences.",
+      "relevant_excerpt": "\u201cThe words \u2018upon cause shown\u2019 mean only that removal must be in the best interests of the child \u2026 and thus the central question in this case is how these \u2018best interests\u2019 are to be determined. \u2026 An evaluation of the best interests of the child requires attention to whether the quality of the child\u2019s life may be improved by the change \u2026 and the extent to which moving or not moving will affect the emotional, physical, or developmental needs of the child. \u2026 [T]he best interests of the children always remain the paramount concern.\u201d"
+    },
+    "Blixt v. Blixt, 437 Mass. 649 (2002)": {
+      "raw_text": "Blixt v. Blixt, 437 Mass. 649 (2002)",
+      "citation_type": "case",
+      "proposition": "Relevant case law, including but not limited to Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985), and Blixt v. Blixt, 437 Mass. 649 (2002), emphasize that the primary consideration in custody matters is the child's best interests, taking into account their age, needs, and preferences.",
+      "is_valid": true,
+      "courtlistener_id": "6578569",
+      "case_name": "Blixt v. Blixt",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "medium",
+      "support_reasoning": "The case is not a custody case but a grandparent-visitation constitutional challenge; however, the court repeatedly relies on and incorporates the traditional Massachusetts \"best interests of the child\" standard used in custody and visitation matters, expressly citing Yannas as an example of how \"best interests\" governs such decisions. The opinion confirms that best interests\u2014considering welfare and potential harm to the child\u2014is the controlling standard in this domain, which is broadly consistent with the proposition, though it does not specifically detail age, needs, and preferences in this excerpt.",
+      "relevant_excerpt": "\"The statute adopts the \u2018best interests of the child\u2019 standard as the test for determining visitation. This standard has long been used in Massachusetts to decide issues of custody and visitation and other issues relating to child welfare. The statute, however, uses the standard in a new context... As we have mentioned, an appellate court may, in an appropriate case, construe a statute to render it constitutional. See, e.g., Yannas v. Frondistou-Yannas, 395 Mass. 704, 710-712 (1985) (discussing relevant factors bearing on \u2018best interests\u2019 of children...).\""
+    },
+    "Bower v. Bournay-Bower, 469 Mass. 690 (2014)": {
+      "raw_text": "Bower v. Bournay-Bower, 469 Mass. 690 (2014)",
+      "citation_type": "case",
+      "proposition": "Additionally, the case of Bower v. Bournay-Bower, 469 Mass. 690 (2014), highlights the importance of a child's evolving needs as they grow older, supporting the modification of custody orders to reflect changing circumstances.",
+      "is_valid": true,
+      "courtlistener_id": "2735268",
+      "case_name": "Bower v. Bournay-Bower",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion is about the Probate and Family Court\u2019s inherent authority to appoint parenting coordinators and the limits on delegating judicial power, not about modifying custody orders due to children\u2019s evolving needs. The only discussion of modification standards (material and substantial change and best interests) is to emphasize that a parenting coordinator cannot be delegated that statutory role. The case does not analyze or highlight a child\u2019s changing needs as a basis for modifying custody, so it does not support the stated proposition.",
+      "relevant_excerpt": "\u201cBy statute, if a party seeks a modification of a final judgment of divorce, a judge may make a judgment modifying his or her earlier judgment provided the judge finds that \u2018a material and substantial change in the circumstances of the parties has occurred and the judgment of modification is necessary in the best interests of the children.\u2019 G. L. c. 208, \u00a7 28. No such standard governs the parent coordinator in the order at issue in this case.\u201d"
+    }
+  }
+}

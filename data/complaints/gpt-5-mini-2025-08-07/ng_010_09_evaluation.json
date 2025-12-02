@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_010_09.txt",
+  "scenario_id": "ng_010_09",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Agis v. Howard Johnson Co., 371 Mass. 140 (1976)": {
+      "raw_text": "Agis v. Howard Johnson Co., 371 Mass. 140 (1976)",
+      "citation_type": "case",
+      "proposition": "The elements of a negligence claim are well established under Massachusetts law: a legal duty to conform to a certain standard of conduct, a breach of that duty, a reasonably close causal connection between the conduct and the resulting injury, and actual loss or damage.",
+      "is_valid": true,
+      "courtlistener_id": "2078606",
+      "case_name": "Agis v. Howard Johnson Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion is about recognizing and defining the intentional or reckless infliction of emotional distress, not about the general elements of a negligence claim. The court never sets out the standard four-part negligence test (duty, breach, causation, damages); instead it articulates four elements specific to the intentional infliction tort. Therefore, this case does not provide authority for the stated negligence proposition.",
+      "relevant_excerpt": "\u201cIn light of what we have said, we hold that one who, by extreme and outrageous conduct and without privilege, causes severe emotional distress to another is subject to liability for such emotional distress even though no bodily harm may result. However, in order for a plaintiff to prevail in a case for liability under this tort, four elements must be established. It must be shown (1) that the actor intended to inflict emotional distress or that he knew or\u2026 (2) that the conduct was \u2018extreme and outrageous\u2019\u2026 (3) that the actions of the defendant were the cause of the plaintiff\u2019s distress\u2026 and (4) that the emotional distress\u2026 was \u2018severe\u2019\u2026.\u201d"
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)",
+      "citation_type": "case",
+      "proposition": "Massachusetts law recognizes the duty of landowners and occupiers to exercise reasonable care with respect to conditions on their property that foreseeably endanger others, including the maintenance of trees and branches that pose a hazard to pedestrians.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition concerns Massachusetts premises-liability law and landowners\u2019 duty regarding hazardous property conditions like trees and branches. Palsgraf is a New York Court of Appeals decision addressing the relational concept of duty and foreseeability in negligence generally, in the context of railroad guards and an exploding package. It neither discusses landowner/occupier duties, property conditions, or tree maintenance, nor does it interpret or apply Massachusetts law. Accordingly, it does not provide authority for the specific Massachusetts landowner-duty proposition stated.",
+      "relevant_excerpt": "\u201cIn every instance, before negligence can be predicated of a given act, back of the act must be sought and found a duty to the individual complaining, the observance of which would have averted or avoided the injury\u2026 The risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension.\u201d"
+    },
+    "Mass. Gen. Laws ch. 231, \u00a7 85": {
+      "raw_text": "Mass. Gen. Laws ch. 231, \u00a7 85",
+      "citation_type": "statute",
+      "proposition": "Comparative negligence and apportionment principles apply in Massachusetts, allowing the trier of fact to allocate fault between plaintiff and defendant(s), if any, as provided by statute and case law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 260, \u00a7 2A": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A",
+      "citation_type": "statute",
+      "proposition": "The statute of limitations for personal injury actions in Massachusetts is three years from the date of cause of action, as set forth in Mass. Gen. Laws ch. 260, \u00a7 2A.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

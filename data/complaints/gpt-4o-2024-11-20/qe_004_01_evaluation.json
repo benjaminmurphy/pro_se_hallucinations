@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_004_01.txt",
+  "scenario_id": "qe_004_01",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 3,
+  "statute_citations": 2,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 1,
+  "citations": {
+    "G.L. c. 218, \u00a7 19": {
+      "raw_text": "G.L. c. 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to G.L. c. 218, \u00a7 19, as the amount in controversy is less than $25,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts General Laws c. 186, \u00a7 14, a landlord who directly or indirectly interferes with a tenant's quiet enjoyment of their rental property is liable for damages and subject to other remedies.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "See *Simon v. Solomon*, 385 Mass. 91, 102-03 (1982).": {
+      "raw_text": "See *Simon v. Solomon*, 385 Mass. 91, 102-03 (1982).",
+      "citation_type": "case",
+      "proposition": "The covenant of quiet enjoyment imposes a statutory obligation on landlords to ensure tenants can use and enjoy their leased premises free from substantial interference.",
+      "is_valid": true,
+      "courtlistener_id": "2038443",
+      "case_name": "Simon v. Solomon",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion directly discusses the covenant/statutory right of quiet enjoyment under G.L. c. 186, \u00a7 14 and explains that \u2018quiet enjoyment\u2019 protects tenants against serious interferences with their tenancy that impair the character and value of the premises. It further links this statutory protection to the landlord\u2019s underlying duty to maintain sanitary, habitable conditions and holds the landlord liable where repeated flooding interfered with the tenant\u2019s quiet enjoyment. This aligns with the proposition that the covenant/statute imposes an obligation on landlords to ensure tenants can use and enjoy the premises free from substantial interference.",
+      "relevant_excerpt": "\u201cThe phrase \u2018quiet enjoyment\u2019 is a familiar term in landlord-tenant law, signifying the tenant\u2019s right to freedom from serious interferences with his tenancy \u2014 acts or omissions that \u2018impair the character and value of the leased premises.\u2019\u2026 Every tenancy is deemed to entail an implied covenant that the landlord will not disturb this right during the tenancy.\u2026 When the Legislature chose the words \u2018quiet enjoyment\u2019\u2026 it must have intended to incorporate these cases into the statute.\u201d"
+    },
+    "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 284 (1994).": {
+      "raw_text": "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 284 (1994).",
+      "citation_type": "case",
+      "proposition": "Defendant's failure to take reasonable measures to resolve the infestation constitutes a substantial interference with Plaintiff's legal right to quiet enjoyment of her home, as recognized in *Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 284 (1994).",
+      "is_valid": true,
+      "courtlistener_id": "2069029",
+      "case_name": "Doe v. New Bedford Housing Authority",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The court squarely holds under the covenant of quiet enjoyment that if a landlord fails to take reasonable (including relatively easy) measures to remove persons whose conduct seriously interferes with tenants\u2019 use of the premises, that failure can constitute a substantial interference with quiet enjoyment. While the facts concern criminal drug activity rather than pests, the legal principle is that an omission to take reasonable remedial measures in the face of a serious, known condition on the property can breach quiet enjoyment. Thus, the case supports the general proposition that failure to take reasonable steps to resolve a serious condition interfering with tenancy can substantially interfere with quiet enjoyment, even though it does not specifically address infestations.",
+      "relevant_excerpt": "\u201cIf the defendant has failed to take any action to remove from the area of its control persons engaged in unlawful activity, then the defendant permitted a condition to exist that substantially interfered with the tenancies of the plaintiffs and thus breached the covenant of quiet enjoyment.\u2026 We do believe, however, that if the defendant has failed to take any measures, especially those measures which can be undertaken relatively easily, to remove unwelcome persons from the property that it owns and controls, and the presence of those persons seriously interferes with the tenancy, then the defendant may be liable for a breach of the covenant of quiet enjoyment.\u201d"
+    },
+    "See *Haddad v. Gonzalez*, 410 Mass. 855, 871-72 (1991).": {
+      "raw_text": "See *Haddad v. Gonzalez*, 410 Mass. 855, 871-72 (1991).",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s insufficient response to the rodent issue further demonstrates a willful and knowing disregard of the obligations imposed on landlords under Massachusetts law, warranting recovery by Plaintiff.",
+      "is_valid": true,
+      "courtlistener_id": "2013415",
+      "case_name": "Haddad v. Gonzalez",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion does involve severe infestations with cockroaches and rodents and finds the landlord liable under the warranty of habitability, covenant of quiet enjoyment, and c. 93A, including multiple damages for willful and knowing conduct. However, the cited pages (871\u201372) concern emotional-distress damages under chapter 93A and do not specifically analyze an \u2018insufficient response to the rodent issue\u2019 as an independent basis showing willful and knowing disregard of statutory landlord obligations. The rodent/cockroach facts appear earlier as part of the general unsanitary conditions, not as a separately discussed ground for enhanced liability, so the case does not directly support the precise proposition stated.",
+      "relevant_excerpt": "\u201cAmong other defects, the judge found that: \u2026 (8) the apartment was infested with cockroaches and rodents. \u2026 The judge ordered Haddad to repair most of the defects by August 22, 1983. He also ordered Haddad to install a heating system by September 15, 1983, and to have the apartment treated by a professional exterminator. \u2026 On September 9, 1983, the inspector again made an inspection of the premises and reported that unrepaired defects remained. Gonzalez moved out of the apartment on September 15, 1983.\u201d"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_002_09.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an existing Middlesex Probate and Family Court custody order dated June 15, 2021 awarding primary physical custody to Petitioner and specifying Respondent\u2019s parenting time (\u00b6\u00b6 1.4, 2.1)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies concrete relief: removal of Respondent\u2019s midweek (Wednesday) overnight parenting time and modification of alternating weekend parenting time with a proposed weekend schedule, exchange location, transportation duties, and summer/school-break provisions (\u00b6\u00b6 5.1\u20135.4, Relief and WHEREFORE)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a factual change since the 2021 order: Respondent\u2019s planned relocation to New Hampshire and the resulting practical effects (approx. 90-minute one-way drives, missed after\u2011school activities, early departures, and observed increased anxiety/stress in the child) that materially affect the viability of the current midweek schedule (\u00b6\u00b6 3.2\u20133.6, 6.1). These factual allegations plead a material and substantial change in circumstances. "
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the requested modifications are necessary to protect Emily\u2019s schooling, extracurricular participation, sleep, emotional well\u2011being, and safety and to minimize travel burden while preserving meaningful parenting time (\u00b6\u00b6 3.3\u20133.5, 5.1\u20135.3, 6.1\u20136.2). Those factual allegations sufficiently tie the requested changes to the child\u2019s best interests for pleading purposes."
+    }
+  }
+}

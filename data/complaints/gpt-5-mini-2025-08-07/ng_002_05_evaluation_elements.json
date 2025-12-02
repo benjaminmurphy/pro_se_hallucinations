@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_002_05.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the defendant owned/controlled the dog, was aware of posted leash rules, and expressly pleads a duty to keep the dog under control and comply with leash requirements (\u00b6\u00b62,6,19). These factual allegations sufficiently plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific acts and omissions: defendant allowed a large dog to run off\u2011leash, held a leash but did not attach it, failed to control the dog, and disregarded posted rules (\u00b6\u00b67,9,20). Those factual allegations adequately plead a breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that the dog charged, causing the plaintiff to swerve to avoid a bite, and while swerving she tripped over a tree root and fell, fracturing her wrist (\u00b6\u00b68,10\u201312,21). Those allegations plausibly state that but for defendant\u2019s failure to control/leash the dog, the swerve and resulting injury would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the dog\u2019s charging and the defendant\u2019s lack of control foreseeably caused the plaintiff to take evasive action that led to her fall and injury, and expressly pleads proximate causation (\u00b6\u00b616,21,26). For pleading purposes, forcing an evasive action that results in injury is a foreseeable consequence of an uncontrolled, charging dog, so proximate cause is adequately alleged."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a diagnosed broken wrist, emergency treatment, approximately $5,000 in medical expenses, $1,200 in lost wages, and non\u2011economic harms (pain and suffering, emotional distress, loss of enjoyment) (\u00b6\u00b612\u201315,22). These allegations sufficiently plead actual damages."
+    }
+  }
+}

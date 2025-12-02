@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_008_07.txt",
+  "scenario_id": "ng_008_07",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 4,
+  "statute_citations": 2,
+  "valid_citations": 3,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "Brown v. Kendall, 60 Mass. ___ (19th century)": {
+      "raw_text": "Brown v. Kendall, 60 Mass. ___ (19th century)",
+      "citation_type": "case",
+      "proposition": "Brown v. Kendall, 60 Mass. ___ (19th century) (recognizing duty of ordinary care in negligence actions);",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Kallal v. City of Boston, 338 Mass. 25 (1958)": {
+      "raw_text": "Kallal v. City of Boston, 338 Mass. 25 (1958)",
+      "citation_type": "case",
+      "proposition": "Kallal v. City of Boston, 338 Mass. 25 (1958) (premises liability and duty to maintain safe conditions);",
+      "is_valid": true,
+      "courtlistener_id": "6573151",
+      "case_name": "Beaumont v. Director of Hospitals & Superintendent of the Boston City Hospital",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case is a civil service/mandamus decision about the procedural rights of a public employee challenging her removal and the effect of waiver by seeking administrative review. It does not concern premises liability, landowner duties, or an obligation to maintain safe physical conditions. Therefore, citing Kallal v. City of Boston for a premises liability duty is inaccurate and unsupported by the opinion\u2019s holding or reasoning.",
+      "relevant_excerpt": "\"This is a petition for a writ of mandamus to restore the petitioner to her position in the civil service, from which, it is alleged, she has been improperly removed... So here, the petitioner could have challenged the removal in mandamus proceedings on the ground of insufficient notice at the time she received it, but she saw fit not to do so and requested the administrative review afforded by \u00a7 43 (b). Having done so, she must be deemed to have waived the deficiency in the notice...\""
+    },
+    "Spear v. Boston & Maine R.R., 332 Mass. 81 (1955)": {
+      "raw_text": "Spear v. Boston & Maine R.R., 332 Mass. 81 (1955)",
+      "citation_type": "case",
+      "proposition": "Spear v. Boston & Maine R.R., 332 Mass. 81 (1955) (reasonable care and foreseeability);",
+      "is_valid": true,
+      "courtlistener_id": "2133088",
+      "case_name": "Kerr v. Director of the Division of Employment Security",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion concerns whether a lump-sum distribution from an employer\u2019s profit\u2011sharing trust constitutes \u201cremuneration\u201d that can reasonably be allocated to subsequent weeks for purposes of unemployment benefits. The court\u2019s analysis turns on statutory interpretation of the Massachusetts Employment Security Law and on the nature of the trust interest, not on a general common\u2011law standard of reasonable care or foreseeability. The case does not discuss negligence, duty of care, or foreseeability in the tort sense, so it does not support the cited proposition.",
+      "relevant_excerpt": "\u201cIn the case before us, however, its seems plain that the payment of $1,231.70 was not made with reference to any possible period of unemployment. It was made because the trust was maintained for employees and it was natural that it should contain some provision whereby a beneficiary whose employment ceased should be paid his share and should cease to be a beneficiary. The amount paid to Kerr was exactly his share in the trust fund.\u201d"
+    },
+    "L.B. Foster Co. v. A & M Constr. Co., 402 Mass. 1 (1988)": {
+      "raw_text": "L.B. Foster Co. v. A & M Constr. Co., 402 Mass. 1 (1988)",
+      "citation_type": "case",
+      "proposition": "L.B. Foster Co. v. A & M Constr. Co., 402 Mass. 1 (1988) (proximate cause principles);",
+      "is_valid": true,
+      "courtlistener_id": "2076799",
+      "case_name": "Boston Edison Co. v. Board of Assessors of Boston",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion is a state tax assessment and property classification case involving valuation of utility property; it does not discuss negligence, causation-in-fact, or proximate cause principles. The term \u2018proximate cause\u2019 does not appear, and no causation analysis is conducted in tort or any analogous context. Therefore, it does not support a proposition about proximate cause principles.",
+      "relevant_excerpt": "We are dealing in a specialized area in which fair market value normally cannot be determined with meaningful assistance from comparable sales or by the capitalization of income. Utilities may well have a valid complaint that for rate purposes one agency (the department) values their property at net book cost in a time of generally rising costs, while, for local tax purposes, the board places a substantially higher value on their property. The two processes are different, however, and the fact that there is a difference in valuation is not unlawful."
+    },
+    "Mass. Gen. Laws ch. 231, \u00a7 85": {
+      "raw_text": "Mass. Gen. Laws ch. 231, \u00a7 85",
+      "citation_type": "statute",
+      "proposition": "Alternatively, if Plaintiff is found to have been negligent, any such negligence was slight compared to Defendant\u2019s negligence, and under Massachusetts law any recovery should be reduced only in proportion to any comparative fault pursuant to Mass. Gen. Laws ch. 231, \u00a7 85.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 260, \u00a7 2A": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 260, \u00a7 2A (statute of limitations for personal injury actions);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

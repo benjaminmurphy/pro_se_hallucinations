@@ -1,0 +1,192 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**SPRINGFIELD DISTRICT COURT**  
+HAMPDEN, SS.
+
+---
+
+**JESSICA HARTMAN,**  
+Plaintiff,  
+
+v.                                                  
+
+**THOMAS JENKINS,**  
+Defendant.  
+
+Docket No. ___________
+
+---
+
+### COMPLAINT  
+(Breach of Covenant of Quiet Enjoyment – G.L. c. 186, § 14)
+
+---
+
+Plaintiff, Jessica Hartman (“Plaintiff” or “Ms. Hartman”), for her Complaint against Defendant Thomas Jenkins (“Defendant” or “Mr. Jenkins”), alleges as follows:
+
+---
+
+### I. PARTIES
+
+1. Plaintiff Jessica Hartman is an individual residing at 123 Elm Street, Apartment ___, Springfield, Hampden County, Massachusetts 01105.
+
+2. Upon information and belief, Defendant Thomas Jenkins is an individual who owns and/or operates residential rental property located at 123 Elm Street, Springfield, Hampden County, Massachusetts 01105 (the “Premises”), and is a “landlord” within the meaning of Massachusetts landlord‑tenant law, including but not limited to G.L. c. 186.
+
+---
+
+### II. JURISDICTION AND VENUE
+
+3. This action arises under the statutory covenant of quiet enjoyment codified at G.L. c. 186, § 14 and related Massachusetts common law.
+
+4. The amount in controversy, exclusive of interest and costs, is less than $50,000.
+
+5. Pursuant to G.L. c. 218, §§ 19–19A, the Springfield District Court has jurisdiction over this matter because the damages sought fall within the jurisdictional limits of the District Court and the claims arise under Massachusetts statutory and common law.
+
+6. Venue is proper in the Springfield District Court under G.L. c. 223, § 2 and G.L. c. 218, § 19 because the Premises are located in Springfield, Hampden County, and the causes of action arose within this Court’s territorial jurisdiction.
+
+---
+
+### III. FACTUAL ALLEGATIONS
+
+7. On or about May 1, 2022, Plaintiff entered into a residential tenancy with Defendant for a two‑bedroom apartment located at 123 Elm Street, Springfield, MA 01105 (the “Apartment” or “Unit”).
+
+8. Plaintiff’s tenancy began as of May 1, 2022, and has continued on a month‑to‑month basis (or under a written lease renewed or continued thereafter). Plaintiff has consistently paid rent when due.
+
+9. Plaintiff’s monthly rent for the Apartment is $1,600.
+
+10. One of the two bedrooms in the Apartment was used by Plaintiff as a home office for work purposes, including computer use, internet access, and other work activities that require reliable electrical service.
+
+11. The covenant of quiet enjoyment is implied into Plaintiff’s tenancy by G.L. c. 186, § 14 and by common law. See, e.g., **Lowery v. Robinson**, 13 Mass. App. Ct. 982 (1982) (recognizing statutory covenant under G.L. c. 186, § 14); **Blackett v. Olanoff**, 371 Mass. 714 (1977).
+
+12. At all relevant times, Defendant, as landlord and owner, was responsible for maintaining the building’s electrical system and ensuring that the Apartment was fit for human habitation and reasonably suitable for the purposes for which it was rented, including use of both bedrooms. See **Boston Housing Auth. v. Hemingway**, 363 Mass. 184, 191–200 (1973) (implied warranty of habitability and landlord’s duty to maintain essential services); **Young v. Garwacki**, 380 Mass. 162, 168–69 (1980).
+
+13. On or about mid‑October 2025 (approximately six weeks before December 1, 2025), a serious electrical problem arose in one of the two bedrooms of the Apartment: the electrical outlets stopped working and the overhead light fixture ceased functioning (the “Electrical Defect”).
+
+14. The remainder of the Apartment’s electrical service continued to function, but the affected bedroom, previously used as Plaintiff’s home office, was left without any electrical service and could not be used for its intended purpose.
+
+15. Plaintiff promptly notified Defendant of the Electrical Defect and requested prompt repair, thereby giving Defendant actual notice of the condition. See **Simon v. Solomon**, 385 Mass. 91, 102–03 (1982) (landlord’s duty upon notice of substantial interference); **Al-Ziab v. Mourgis**, 424 Mass. 847, 850–51 (1997).
+
+16. In response, Defendant sent an electrician to inspect the affected bedroom. The electrician informed Plaintiff and/or Defendant that the problem required a “bigger repair” due to issues with the building’s old wiring and could not be fixed by a simple, minor repair.
+
+17. Despite having actual notice of the Electrical Defect and knowledge that a significant repair was needed to restore electric service to the bedroom, Defendant failed to promptly arrange for the necessary work and has allowed the condition to persist for approximately six weeks as of December 1, 2025.
+
+18. Defendant has told Plaintiff that he is “getting quotes” and that repairs are “complicated” because of the age of the building’s wiring, but he has not completed the repairs or otherwise restored electricity to the bedroom in a timely fashion.
+
+19. Because of the Electrical Defect and Defendant’s failure to remedy it, Plaintiff has been completely unable to use one of the two bedrooms in the Apartment for over a month, including for its principal use as a home office.
+
+20. As a direct and foreseeable result, Plaintiff has been forced to relocate her work activities outside the Apartment and to incur additional, out‑of‑pocket expenses, including but not limited to:
+
+   a. Approximately $15 per day on coffee and food at coffee shops in order to have a place to sit and work with reliable power and internet; and  
+
+   b. A coworking space membership costing approximately $150 per month.
+
+21. Plaintiff’s office furniture, computer equipment, papers, and other work‑related items have been displaced from the affected bedroom and crammed into the living room of the Apartment, substantially reducing Plaintiff’s usable living space and making the Apartment crowded, disorganized, and significantly less comfortable and livable.
+
+22. The loss of an entire bedroom, particularly one used as a home office, and the resulting disruption, crowding, and expenses have substantially interfered with Plaintiff’s use and enjoyment of the Apartment as a whole.
+
+23. The lack of electricity in the bedroom for approximately six weeks and counting constitutes a material deprivation of an essential service and renders that room effectively uninhabitable and unusable for its intended purpose. See **Hemingway**, 363 Mass. at 199–200 (substantial deficiencies in essential facilities breach landlord’s contractual obligations); **Brown v. LeClair**, 20 Mass. App. Ct. 976, 977–78 (1985).
+
+24. Defendant’s failure to remedy the Electrical Defect within a reasonable time after notice violates his duties under G.L. c. 186, § 14 and the Massachusetts State Sanitary Code. See **G.L. c. 186, § 14**; **Hemingway**, 363 Mass. at 192–95; **Crowell v. McCaffrey**, 377 Mass. 443, 451–52 (1979).
+
+25. The Massachusetts State Sanitary Code, 105 C.M.R. 410.000 et seq., requires landlords to maintain electrical facilities and fixtures in good repair and proper operating condition in compliance with applicable codes. See, e.g., **105 C.M.R. 410.351, 410.351(A)** (requirements for electrical service and outlets).
+
+26. Although the present action is brought solely under the covenant of quiet enjoyment, the Sanitary Code standards are relevant to whether Defendant has allowed conditions that substantially interfere with Plaintiff’s tenancy and enjoyment of the Premises. See **Berman & Sons, Inc. v. Jefferson**, 379 Mass. 196, 199–201 (1979) (violations of sanitary code relevant to landlord liability).
+
+27. Defendant’s delay and failure to promptly address the known Electrical Defect constitute at least a “serious interference with the tenant’s quiet enjoyment” of the Premises within the meaning of G.L. c. 186, § 14. See **Blackett**, 371 Mass. at 717–19 (landlord liable for substantial interference even if not intentional in the narrow sense when condition is natural consequence of landlord’s acts or omissions); **Simon**, 385 Mass. at 102–04.
+
+28. At all relevant times, Plaintiff has remained current on rent and has complied with her obligations as a tenant.
+
+29. Plaintiff has suffered and continues to suffer actual damages as a result of Defendant’s conduct, including but not limited to:
+
+   a. Loss of use of one of the Apartment’s two bedrooms for at least six weeks;  
+
+   b. Loss of the ability to work from home as intended;  
+
+   c. Additional transportation, food, beverage, and workspace costs estimated at approximately $15 per day for coffee shop workdays;  
+
+   d. A coworking membership fee of approximately $150 per month;  
+
+   e. Inconvenience, loss of enjoyment, disruption of daily life, and stress resulting from the unavailability of a functional home office and the crowding of the living room; and  
+
+   f. Diminution in the fair rental value of the Apartment during the period of the Electrical Defect.
+
+30. Based on the foregoing, Plaintiff reasonably estimates her actual damages to be at least $450 as of the filing of this Complaint, and damages continue to accrue so long as the Electrical Defect remains unrepaired.
+
+---
+
+### IV. CAUSE OF ACTION  
+**Breach of Covenant of Quiet Enjoyment – G.L. c. 186, § 14**
+
+31. Plaintiff re‑alleges and incorporates by reference the allegations contained in Paragraphs 1 through 30 as if fully set forth herein.
+
+32. G.L. c. 186, § 14 provides, in relevant part, that a landlord shall not “directly or indirectly interfere with the quiet enjoyment” of a residential tenant, and establishes a statutory covenant of quiet enjoyment in every residential tenancy.
+
+33. To prevail on a claim under G.L. c. 186, § 14, a tenant must show that the landlord has, directly or indirectly, seriously interfered with the tenant’s quiet enjoyment of the leased premises. See **Al-Ziab**, 424 Mass. at 850–51; **Lowery**, 13 Mass. App. Ct. at 982–83.
+
+34. Under Massachusetts law, a “serious interference” with quiet enjoyment can arise from conditions or defects in the premises where the landlord knows or should know of the conditions and fails to remedy them within a reasonable time. See **Simon**, 385 Mass. at 102–04; **Blackett**, 371 Mass. at 718–19.
+
+35. The covenant of quiet enjoyment protects the tenant from substantial impairment of the character and value of the leased premises for the purposes for which they are rented, including the provision of essential services like electricity. See **Hemingway**, 363 Mass. at 192–200; **Crowell**, 377 Mass. at 451–52.
+
+36. Defendant had actual notice of the Electrical Defect affecting one bedroom in Plaintiff’s Apartment, including the complete loss of electrical service to that room’s outlets and overhead light.
+
+37. Despite this notice, Defendant failed to take timely and effective steps to repair the wiring and restore electricity to the affected bedroom, allowing the condition to persist for approximately six weeks (and counting).
+
+38. Defendant’s failure to restore essential electrical service to one of the Apartment’s two bedrooms within a reasonable time constitutes a substantial and serious interference with Plaintiff’s quiet enjoyment of the Premises and deprives her of the use of a significant portion of the Apartment.
+
+39. Defendant’s conduct and omissions were at least negligent and were the natural and probable consequence of his decision not to arrange for prompt repairs despite knowing that the bedroom was unusable and that Plaintiff relied on it as a home office. Under Massachusetts law, such conduct constitutes an “indirect” interference within the meaning of G.L. c. 186, § 14. See **Blackett**, 371 Mass. at 718–19.
+
+40. As in **Simon v. Solomon**, where continuing conditions substantially interfered with a tenant’s use and enjoyment of the premises, Defendant’s failure to correct the Electrical Defect after notice has caused an ongoing and substantial interference with Plaintiff’s tenancy and quiet enjoyment.
+
+41. The ongoing deprivation of an entire bedroom and home office, the inability to work from home, the crowding of Plaintiff’s living room with office equipment, and the need to incur coworking and coffee shop expenses together constitute a serious interference with Plaintiff’s quiet enjoyment of the Apartment.
+
+42. As a direct and proximate result of Defendant’s breach of the covenant of quiet enjoyment under G.L. c. 186, § 14, Plaintiff has suffered actual damages, including but not limited to lost use and enjoyment, expenses, inconvenience, and diminution in rental value.
+
+43. Pursuant to G.L. c. 186, § 14, a landlord who breaches the covenant of quiet enjoyment is liable for actual and consequential damages or for rent‑related damages (three months’ rent or three times actual damages, whichever is greater), as well as reasonable attorney’s fees and costs. See **Berman & Sons**, 379 Mass. at 200–01; **Wesson v. Leone Enters., Inc.**, 437 Mass. 708, 720–21 (2002).
+
+44. Plaintiff, proceeding pro se, seeks her actual damages, and, to the extent applicable under G.L. c. 186, § 14, the statutory minimum of three months’ rent or three times actual damages, whichever is greater, plus costs. (Plaintiff understands that attorney’s fees may not be available where she is self‑represented.)
+
+45. Plaintiff reasonably estimates her actual monetary damages as at least $450 to date, exclusive of statutory multipliers, costs, and any additional damages that may accrue if the Electrical Defect is not repaired.
+
+---
+
+### V. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Jessica Hartman respectfully requests that this Honorable Court enter judgment in her favor and against Defendant Thomas Jenkins, and award the following relief:
+
+A. A finding and declaration that Defendant has breached the covenant of quiet enjoyment under G.L. c. 186, § 14 by allowing a serious interference with Plaintiff’s use and enjoyment of the Premises to persist after notice;
+
+B. An award of actual damages in an amount to be determined at trial, but not less than Four Hundred Fifty Dollars ($450), for Plaintiff’s losses, including but not limited to:
+
+   1. Loss of use of one bedroom and home office;  
+   2. Coworking space membership fees;  
+   3. Coffee shop and related work‑location expenses;  
+   4. Diminution in the fair rental value of the Apartment during the period of the Electrical Defect; and  
+   5. Inconvenience, disruption, and loss of enjoyment;
+
+C. To the extent available and appropriate under G.L. c. 186, § 14, an award of three months’ rent or three times the actual damages, whichever is greater;
+
+D. An order awarding Plaintiff her taxable costs of this action, including filing fees and service costs;
+
+E. Such further legal and equitable relief as the Court deems just and proper, including but not limited to any appropriate injunctive or declaratory relief to ensure restoration of electrical service and prevent further breaches of quiet enjoyment.
+
+---
+
+### VI. JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable as of right.
+
+---
+
+Respectfully submitted,  
+
+**Plaintiff,**  
+**Jessica Hartman**  
+By herself, pro se
+
+Date: December 1, 2025  
+
+/s/ Jessica Hartman  
+Jessica Hartman  
+123 Elm Street, Apt. ___  
+Springfield, MA 01105  
+Tel: (617) 555‑0123  
+Email: psm1433@gmail.com

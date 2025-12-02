@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_001_08.txt",
+  "scenario_id": "cm_001_08",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Mass. Gen. Laws ch. 208": {
+      "raw_text": "Mass. Gen. Laws ch. 208",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction under the Massachusetts Probate and Family Court statutes and rules governing modification of custody and parenting schedules, including Mass. Gen. Laws ch. 208 and related statutory and case law regulating custody and modification.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119": {
+      "raw_text": "Mass. Gen. Laws ch. 119",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 119 and related provisions concerning the welfare of children and the Court\u2019s authority to act in the child\u2019s best interest;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Troxel v. Granville, 530 U.S. 57 (2000)": {
+      "raw_text": "Troxel v. Granville, 530 U.S. 57 (2000)",
+      "citation_type": "case",
+      "proposition": "See Mass. Gen. Laws ch. 208 (custody provisions); see also Troxel v. Granville, 530 U.S. 57 (2000) (recognizing parental rights and the child\u2019s best interests standard).",
+      "is_valid": true,
+      "courtlistener_id": "1087668",
+      "case_name": "Troxel v. Granville",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Troxel does clearly recognize fundamental parental rights, but it does not endorse or adopt a free\u2011standing \u201cchild\u2019s best interests\u201d standard as a constitutional principle. Rather, the plurality criticizes Washington\u2019s statute for allowing a pure best\u2011interests determination by a judge to override the decisions of a fit parent without giving special weight to parental choices. Citing Troxel for the general existence of parental rights is accurate, but citing it as recognizing a child\u2019s best\u2011interests standard is misleading and not supported by the holding or reasoning.",
+      "relevant_excerpt": "\u201cAccordingly, so long as a parent adequately cares for his or her children (i. e., is fit), there will normally be no reason for the State to inject itself into the private realm of the family to further question the ability of that parent to make the best decisions concerning the rearing of that parent's children. \u2026 The problem here is not that the Washington Superior Court intervened, but that when it did so, it gave no special weight at all to Granville's determination of her daughters' best interests.\u201d (530 U.S. at 68\u201369)"
+    }
+  }
+}

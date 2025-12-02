@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_002_06.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/controlled the dog, was in the park where posted signs required leashes, and pleads that Defendant owed a duty to exercise reasonable care to lawful park users including controlling and restraining his dog. These factual allegations adequately plead a duty to Plaintiff."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant regularly allowed the dog to run loose, that on the date in question he held the leash over his shoulder and was inattentive some 30 feet away while the dog charged Plaintiff in violation of posted leash rules. Those factual allegations sufficiently plead a breach of the duty to control the dog."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that Plaintiff swerved off the path to avoid the charging dog, tripped on a concealed root, fell and fractured her wrist, and expressly alleges that but for Defendant\u2019s allowing the dog to run loose and charge Plaintiff she would not have been forced off the path or suffered the injury. Those facts adequately plead actual (but\u2011for) causation at the pleading stage."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the injury (fall and wrist fracture) was a foreseeable consequence of allowing a large dog to run loose and charge a path user and that a reasonable person would anticipate evasive action could cause a fall. Those allegations adequately plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages including an acute wrist fracture, emergency treatment and approximately $5,200 in medical expenses, about $2,000 in lost wages, and non\u2011economic losses (pain and suffering, lost enjoyment), which sufficiently pleads actual damages."
+    }
+  }
+}

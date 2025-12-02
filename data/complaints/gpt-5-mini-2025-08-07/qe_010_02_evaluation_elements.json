@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_010_02.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges an express residential lease beginning May 1, 2022, the monthly rent, continuous occupancy, and identifies Defendant as owner/landlord of the premises \u2014 facts that establish a landlord\u2011tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant inspected, acknowledged the mold, offered only surface cleaning, and refused to remediate underlying causes or improve ventilation \u2014 a factual omission/failure to act by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges recurrent mold growth in the bathroom (spreading to the ceiling), loss of use/enjoyment, damaged personal property, and new/ongoing respiratory symptoms, and expressly alleges the condition materially interfered with tenancy \u2014 sufficient factual allegations of substantial interference at the pleading stage."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint links the mold condition to the alleged interference and alleges the landlord knew of the mold yet refused effective remediation; it also alleges a physician\u2019s opinion that Plaintiff\u2019s symptoms are consistent with mold exposure, together supporting a plausible causal connection between the landlord\u2019s omission and the interference."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint itemizes $60 in out\u2011of\u2011pocket property loss, seeks $440 in general damages (total $500), and alleges medical injury, emotional distress, and diminished habitability \u2014 factual allegations of compensable damages."
+    }
+  }
+}

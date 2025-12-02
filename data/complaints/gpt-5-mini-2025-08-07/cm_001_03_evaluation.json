@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_001_03.txt",
+  "scenario_id": "cm_001_03",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 1,
+  "statute_citations": 3,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Mass. Gen. Laws ch. 208": {
+      "raw_text": "Mass. Gen. Laws ch. 208",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 208 (statutes governing divorce, custody and related matters), including the Court\u2019s continuing jurisdiction over custody and parenting arrangements;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a7 39": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a7 39",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 119, \u00a7 39 (statutory obligations concerning protection of children and reporting);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 215": {
+      "raw_text": "Mass. Gen. Laws ch. 215",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 215 and other provisions conferring jurisdiction and powers on the Probate and Family Court to issue orders for the care, custody and protection of minors.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Troxel v. Granville, 530 U.S. 57 (2000)": {
+      "raw_text": "Troxel v. Granville, 530 U.S. 57 (2000)",
+      "citation_type": "case",
+      "proposition": "Applicable case law recognizes that modification of a custody order requires a showing of a material change in circumstances affecting the welfare of the children and that the child\u2019s best interests govern the modification determination.",
+      "is_valid": true,
+      "courtlistener_id": "1087668",
+      "case_name": "Troxel v. Granville",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Troxel is a U.S. Supreme Court substantive due process/grandparent-visitation case, not a custody\u2011modification case. The opinion does not discuss the standard for modifying an existing custody order, does not require a showing of material change in circumstances, and only references \u201cbest interests\u201d in critiquing a Washington nonparent visitation statute. It therefore does not establish or affirm the proposition that modification of a custody order requires a material change in circumstances and that best interests govern the modification decision.",
+      "relevant_excerpt": "\u201cSection 26.10.160(3)\u2026provides: \u2018Any person may petition the court for visitation rights at any time including, but not limited to, custody proceedings. The court may order visitation rights for any person when visitation may serve the best interest of the child whether or not there has been any change of circumstances.\u2019 \u2026 The Washington nonparental visitation statute is breathtakingly broad.\u201d"
+    }
+  }
+}

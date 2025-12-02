@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_008_06.txt",
+  "scenario_id": "ng_008_06",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 3,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "M.G.L. c. 260, \u00a7 2A.": {
+      "raw_text": "M.G.L. c. 260, \u00a7 2A.",
+      "citation_type": "statute",
+      "proposition": "Massachusetts law generally provides a three-year statute of limitations for personal injury claims.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 231, \u00a7 85 (comparative negligence and apportionment of fault);": {
+      "raw_text": "M.G.L. c. 231, \u00a7 85 (comparative negligence and apportionment of fault);",
+      "citation_type": "statute",
+      "proposition": "Plaintiff intends to rely upon Massachusetts statutory and common law principles of negligence and comparative fault, including without limitation:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Brown v. Kendall, 60 Mass. (1 Cush.) 292 (1850) (general principles of negligence);": {
+      "raw_text": "Brown v. Kendall, 60 Mass. (1 Cush.) 292 (1850) (general principles of negligence);",
+      "citation_type": "case",
+      "proposition": "As the owner and operator of the business premises where Plaintiff was injured, Defendant owed Plaintiff, as an invitee, a duty to exercise reasonable care to keep the premises in a reasonably safe condition, to warn invitees of dangerous conditions of which it had actual or constructive knowledge, and to take reasonable steps to discover and eliminate hazards.",
+      "is_valid": true,
+      "courtlistener_id": "6535730",
+      "case_name": "Brown v. Kendall",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion is a general negligence case about accidental personal injury from the defendant\u2019s act of separating fighting dogs, not a premises-liability or invitee-duty case. It discusses the standard of ordinary care and burden of proof for unintentional harms, but nowhere addresses duties of a business owner to invitees, duties to inspect premises, or to warn of or correct dangerous conditions. Therefore it does not provide authority for the specific business-invitee duty proposition stated.",
+      "relevant_excerpt": "\"In using this term, ordinary care, it may be proper to state, that what constitutes ordinary care will vary with the circumstances of cases. In general, it means that kind and degree of care, which prudent and cautious men would use, such as is required by the exigency of the case, and such as is necessary to guard against probable danger.\""
+    },
+    "Byrne v. Boadle, (English Court of Exchequer, 1863) (rise of res ipsa loquitur principles)": {
+      "raw_text": "Byrne v. Boadle, (English Court of Exchequer, 1863) (rise of res ipsa loquitur principles)",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s breach was a substantial factor in bringing about Plaintiff\u2019s harm and the harm was a foreseeable consequence of leaving water and ice on a tiled pedestrian walkway without warning.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (foreseeability considerations).": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (foreseeability considerations).",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s breach was a substantial factor in bringing about Plaintiff\u2019s harm and the harm was a foreseeable consequence of leaving water and ice on a tiled pedestrian walkway without warning.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition concerns substantial-factor causation and foreseeability in a slip\u2011and\u2011fall context (water and ice on a tiled walkway), but Palsgraf addresses a different issue: the scope of duty and foreseeability of harm to a remote plaintiff from an unforeseeable explosion. Cardozo\u2019s opinion expressly brackets off proximate-cause/consequence questions and focuses instead on whether there was any duty to the injured plaintiff at all. It therefore does not establish or affirm the specific principle that a defendant\u2019s breach is a substantial factor in causing, and makes foreseeable, harm from slipping on a wet/icy walkway.",
+      "relevant_excerpt": "\u201cThe law of causation, remote or proximate, is thus foreign to the case before us. The question of liability is always anterior to the question of the measure of the consequences that go with liability. If there is no tort to be redressed, there is no occasion to consider what damage might be recovered if there were a finding of a tort. We may assume, without deciding, that negligence, not at large or in the abstract, but in relation to the plaintiff, would entail liability for any and all consequences, however novel or extraordinary\u2026\u201d"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_002_07.txt",
+  "scenario_id": "qe_002_07",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws, Chapter 186 (G.L. c. 186) \u2014 landlord and tenant provisions.": {
+      "raw_text": "Massachusetts General Laws, Chapter 186 (G.L. c. 186) \u2014 landlord and tenant provisions.",
+      "citation_type": "statute",
+      "proposition": "Relevant statutes, regulations, and authorities include, without limitation: - Massachusetts General Laws, Chapter 186 (G.L. c. 186) \u2014 landlord and tenant provisions.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 239 (G.L. c. 239) \u2014 summary process (eviction) procedures and related landlord-tenant provisions.": {
+      "raw_text": "Massachusetts General Laws, Chapter 239 (G.L. c. 239) \u2014 summary process (eviction) procedures and related landlord-tenant provisions.",
+      "citation_type": "statute",
+      "proposition": "Relevant statutes, regulations, and authorities include, without limitation: - Massachusetts General Laws, Chapter 239 (G.L. c. 239) \u2014 summary process (eviction) procedures and related landlord-tenant provisions.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 111 (G.L. c. 111) \u2014 public health statutes enabling enforcement of housing codes by local boards of health.": {
+      "raw_text": "Massachusetts General Laws, Chapter 111 (G.L. c. 111) \u2014 public health statutes enabling enforcement of housing codes by local boards of health.",
+      "citation_type": "statute",
+      "proposition": "Relevant statutes, regulations, and authorities include, without limitation: - Massachusetts General Laws, Chapter 111 (G.L. c. 111) \u2014 public health statutes enabling enforcement of housing codes by local boards of health.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts State Sanitary Code, 105 CMR 410.000 et seq. (Minimum Standards of Fitness for Human Habitation).": {
+      "raw_text": "Massachusetts State Sanitary Code, 105 CMR 410.000 et seq. (Minimum Standards of Fitness for Human Habitation).",
+      "citation_type": "statute",
+      "proposition": "Relevant statutes, regulations, and authorities include, without limitation: - Massachusetts State Sanitary Code, 105 CMR 410.000 et seq. (Minimum Standards of Fitness for Human Habitation).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

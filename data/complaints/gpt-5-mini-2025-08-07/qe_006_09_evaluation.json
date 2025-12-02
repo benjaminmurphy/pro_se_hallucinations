@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_006_09.txt",
+  "scenario_id": "qe_006_09",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 2,
+  "statute_citations": 4,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws, Chapter 186 (Landlord and Tenant) (general landlord-tenant law).": {
+      "raw_text": "Massachusetts General Laws, Chapter 186 (Landlord and Tenant) (general landlord-tenant law).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on Massachusetts common law and the statutory and regulatory framework governing residential housing:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 239 (Summary Process) (venue and procedural context for landlord-tenant matters).": {
+      "raw_text": "Massachusetts General Laws, Chapter 239 (Summary Process) (venue and procedural context for landlord-tenant matters).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on Massachusetts common law and the statutory and regulatory framework governing residential housing:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 111 (Public Health), and authority to promulgate the State Sanitary Code.": {
+      "raw_text": "Massachusetts General Laws, Chapter 111 (Public Health), and authority to promulgate the State Sanitary Code.",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on Massachusetts common law and the statutory and regulatory framework governing residential housing:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 et seq. (Massachusetts State Sanitary Code\u2014Minimum Standards of Fitness for Human Habitation).": {
+      "raw_text": "105 CMR 410.000 et seq. (Massachusetts State Sanitary Code\u2014Minimum Standards of Fitness for Human Habitation).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on Massachusetts common law and the statutory and regulatory framework governing residential housing:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Javins v. First National Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970) (seminal case recognizing landlord obligations and tenant remedies for housing defects).": {
+      "raw_text": "Javins v. First National Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970) (seminal case recognizing landlord obligations and tenant remedies for housing defects).",
+      "citation_type": "case",
+      "proposition": "Key Cases (representative precedent on implied warranty of habitability, quiet enjoyment, and landlord repair obligations in landlord-tenant law, including influential decisions that Massachusetts courts have considered):",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Hilder v. St. Peter, 478 A.2d 202 (Vt. 1984) (discussing warranty of habitability principles).": {
+      "raw_text": "Hilder v. St. Peter, 478 A.2d 202 (Vt. 1984) (discussing warranty of habitability principles).",
+      "citation_type": "case",
+      "proposition": "Key Cases (representative precedent on implied warranty of habitability, quiet enjoyment, and landlord repair obligations in landlord-tenant law, including influential decisions that Massachusetts courts have considered):",
+      "is_valid": true,
+      "courtlistener_id": "2315224",
+      "case_name": "Hilder v. St. Peter",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "Hilder v. St. Peter is a leading Vermont decision expressly adopting the implied warranty of habitability in residential leases, treating leases as contracts with interdependent landlord and tenant obligations, and detailing landlord repair duties and tenant remedies (rent abatement, repair-and-deduct, damages). The court relies explicitly on Boston Housing Authority v. Hemingway and other modern warranty-of-habitability precedents, making it a representative and influential case on these landlord-tenant doctrines; while it focuses more on habitability than on quiet enjoyment per se, it clearly supports the core proposition regarding implied habitability warranty and landlord repair obligations that Massachusetts courts consider.",
+      "relevant_excerpt": "\u201cTherefore, we now hold expressly that in the rental of any residential dwelling unit an implied warranty exists in the lease, whether oral or written, that the landlord will deliver over and maintain, throughout the period of the tenancy, premises that are safe, clean and fit for human habitation\u2026 Because we hold that the lease of a residential dwelling creates a contractual relationship between the landlord and tenant, the standard contract remedies of rescission, reformation and damages are available to the tenant when suing for breach of the implied warranty of habitability.\u201d"
+    }
+  }
+}

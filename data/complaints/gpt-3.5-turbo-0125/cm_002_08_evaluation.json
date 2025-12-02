@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_002_08.txt",
+  "scenario_id": "cm_002_08",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 3,
+  "statute_citations": 1,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Massachusetts General Laws Chapter 208, Section 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "Pursuant to Massachusetts General Laws Chapter 208, Section 28, the Court may modify a custody order upon a showing of a substantial and material change in circumstances that warrants a modification in the best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Rosenthal v. Maney, 51 Mass.App.Ct. 257 (2001)": {
+      "raw_text": "Rosenthal v. Maney, 51 Mass.App.Ct. 257 (2001)",
+      "citation_type": "case",
+      "proposition": "In the landmark case of Rosenthal v. Maney, 51 Mass.App.Ct. 257 (2001), the Court held that a proposed modification to a custody arrangement must be based on a substantial change in circumstances affecting the child's welfare.",
+      "is_valid": true,
+      "courtlistener_id": "6586710",
+      "case_name": "Rosenthal v. Maney",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion directly addresses the standard for modification of custody orders under G.L. c. 208, \u00a7 28 and holds that a modification must be based on a material and substantial change in circumstances relating to the parties and the child\u2019s welfare. The court expressly distinguishes a relocation request from a custody-modification request and states that custody modification requires such a substantial change in circumstances beyond the proposed move itself. This aligns with the proposition that a proposed custody modification must rest on a substantial change in circumstances affecting the child\u2019s welfare.",
+      "relevant_excerpt": "\u201cOur decision today, that a request for modification of custody is distinct from a request to relocate and must be based on a material and substantial change in circumstances other than the move, is consistent with these decisions and with G. L. c. 208, \u00a7 28 (\u2018the court may make a judgment modifying its earlier judgment as to the care and custody of the minor children of the parties provided that the court finds that a material and substantial change in circumstances of the parties has occurred and the judgment of modification is necessary in the best interests of the children\u2019).\u201d"
+    },
+    "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)": {
+      "raw_text": "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)",
+      "citation_type": "case",
+      "proposition": "Furthermore, in Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985), the Court established that any custody modification must be in the child\u2019s best interests and address the current circumstances affecting the child\u2019s well\u2011being.",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Yannas does reiterate that removal decisions under G.L. c. 208, \u00a7 30 must be based on the child\u2019s best interests, but it does not establish a general rule that any custody modification must be in the child\u2019s best interests and address current circumstances affecting the child\u2019s well-being. The case is specifically about relocation (removal) by a custodial parent and articulates the \u2018real advantage\u2019 standard within the best\u2011interests framework, not a broad rule governing all custody modifications. Thus, the proposition overstates and generalizes the holding beyond what Yannas decides.",
+      "relevant_excerpt": "\u201cThe Massachusetts removal statute, G. L. c. 208, \u00a7 30 (1984 ed.), provides that\u2026 a minor child\u2026 shall not\u2026 be removed out of this commonwealth\u2026 unless the court upon cause shown otherwise orders. The words \u2018upon cause shown\u2019 mean only that removal must be in the best interests of the child\u2026 and thus the central question in this case is how these \u2018best interests\u2019 are to be determined. \u2026 An evaluation of the best interests of the child requires attention to whether the quality of the child\u2019s life may be improved by the change\u2026.\u201d"
+    },
+    "Gilmore v. Gilmore, 369 Mass. 598 (1976)": {
+      "raw_text": "Gilmore v. Gilmore, 369 Mass. 598 (1976)",
+      "citation_type": "case",
+      "proposition": "Additionally, under Gilmore v. Gilmore, 369 Mass. 598 (1976), the Court emphasized the importance of ensuring that the child's best interests are paramount in any custody modification proceeding.",
+      "is_valid": true,
+      "courtlistener_id": "2087615",
+      "case_name": "Gilmore v. Gilmore",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion explicitly frames custody determinations around the child\u2019s best interests and treats procedural fairness (the right to cross-examine the guardian ad litem) as essential to accurately determining those interests. In remanding for a new custody hearing because the guardian could not be cross-examined, the court emphasizes that reliable fact-finding is necessary to decide \"what is in the best interests of the child,\" thereby making those interests paramount in the custody proceeding.",
+      "relevant_excerpt": "We are mindful of the court\u2019s need for assistance in arriving at a just resolution of custody cases. There is no question that court-appointed investigators can help a judge to determine what is in the best interests of a child, \"[t]he governing principle by which the court must be guided.\" Hersey v. Hersey, 271 Mass. 545, 555 (1930). In a custody proceeding, a judge makes a determination as to what is in the best interests of the child on the basis of facts presented at trial as well as facts gathered by the court-appointed investigators."
+    }
+  }
+}

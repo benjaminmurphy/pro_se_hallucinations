@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_009_01.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads a residential tenancy (lease began Jan 15, 2022), tenant status, rental address, monthly rent, and identifies Defendant as landlord/owner (or landlord agent), which factually establishes a landlord\u2011tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges affirmative acts (Defendant engaged an electrician, obtained quotes) and, more importantly, an omission/delay (Defendant failed to promptly effectuate permanent repair, did not provide timetable or adequate remedy), which are acts/omissions by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the bedroom lost electrical service for approximately six weeks, preventing its intended use as a home office, forcing Plaintiff to work elsewhere, incur expenses, and crowd the living room \u2014 facts that plausibly allege a material/substantial interference with use and enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint links the interference to Defendant\u2019s conduct: electrician reported wiring issues to Defendant, Defendant delayed repairs and failed to provide remedies, and Plaintiff alleges those delays proximately caused the loss of use and related expenses."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint itemizes out\u2011of\u2011pocket expenses (approx. $15/day for coffee/food, $150/month coworking) and loss of use, and asserts a specific damage figure ($450), which sufficiently pleads damages."
+    }
+  }
+}

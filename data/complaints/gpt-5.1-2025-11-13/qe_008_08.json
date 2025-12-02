@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_008_08",
+  "category": "landlord_tenant",
+  "model": "gpt-5.1-2025-11-13",
+  "plaintiff": "Jessica Ramirez",
+  "defendant": "Mark Wilson"
+}

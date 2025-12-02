@@ -1,0 +1,103 @@
+COMMONWEALTH OF MASSACHUSETTS
+TRIAL COURT
+SPRINGFIELD DISTRICT COURT
+
+Jessica Li,                                )
+    Plaintiff                              )
+                                           )
+v.                                         )    Civil Action No. ___________
+                                           )
+Thomas Reed,                               )
+    Defendant                              )
+
+COMPLAINT FOR BREACH OF THE COVENANT OF QUIET ENJOYMENT
+(Exclusive claim: breach of covenant of quiet enjoyment under Massachusetts law)
+
+Plaintiff Jessica Li (“Plaintiff”), by her own hand pro se, states the following Complaint against her landlord, Defendant Thomas Reed (“Defendant”), and alleges as follows:
+
+PARTIES, JURISDICTION, AND VENUE
+1. Plaintiff is an individual and a tenant who resides at 123 Maple Street, Apartment __, Springfield, Hampden County, Massachusetts.
+2. Defendant Thomas Reed is the landlord and owner (or the landlord agent) of the residential premises located at 123 Maple Street, Springfield, MA (the “Premises”), where Plaintiff rents a two‑bedroom apartment pursuant to a residential tenancy that began on January 15, 2022.
+3. Plaintiff pays monthly rent of $1,200.00.
+4. The acts and omissions giving rise to this Complaint occurred in Springfield, Massachusetts. Venue is proper in Springfield District Court pursuant to the Massachusetts venue statutes governing civil actions and landlord–tenant matters.
+5. The amount in controversy is within the jurisdictional limits of this Court; Plaintiff seeks damages in the amount of $450.00, plus costs, interest, and such other relief as the Court deems just and proper.
+
+FACTUAL ALLEGATIONS
+6. Plaintiff incorporates the foregoing paragraphs as if fully set forth herein.
+7. Plaintiff rents a two‑bedroom apartment at the Premises and used one bedroom as a home office.
+8. Beginning in approximately mid‑October 2025 (for a period of about six weeks through the date of this Complaint), one of the two bedrooms in Plaintiff’s apartment lost electrical service. Specifically, the bedroom’s outlets did not function and the overhead light did not work. The remainder of the apartment continued to have electricity and was otherwise in occupancy condition.
+9. Plaintiff notified Defendant of the loss of electrical service in the bedroom and requested prompt repair. Defendant engaged an electrician to inspect the problem.
+10. The electrician reported to Defendant and (indirectly) to Plaintiff that the problem was related to the building’s older wiring and that the bedroom’s electrical condition would require a larger repair to fix properly.
+11. Defendant informed Plaintiff that he was obtaining quotes for repair and that the repair was “complicated” because of the building’s old wiring, but did not provide a prompt timetable for repair and did not restore electricity to the bedroom for approximately six weeks.
+12. During the period when the bedroom lacked electricity, Plaintiff was unable to use the bedroom for its intended purpose as a home office. Plaintiff was forced to work outside the Premises at coffee shops (spending approximately $15 per day on coffee and food to have a place to sit and work) and to maintain a coworking space membership at the cost of $150 per month in order to have a workable office environment.
+13. Plaintiff was also forced to move office equipment and personal property into the living room, making the apartment crowded and materially diminishing plaintiff’s enjoyment and use of the premises. The loss of the bedroom for six weeks substantially interfered with Plaintiff’s use of the Premises and rendered the apartment in many respects uninhabitable as a home and home office during that period.
+14. Despite actual knowledge of the condition and Plaintiff’s complaints, Defendant did not timely effectuate a permanent repair to restore electricity to the bedroom, nor did Defendant offer a reasonable rent abatement, relocation, or other remedy sufficient to compensate Plaintiff for the loss of the use of the bedroom during the repair delay.
+15. As a direct and proximate result of Defendant’s failure to timely and reasonably cure the condition, Plaintiff suffered economic damages including out‑of‑pocket expenses for meals/coffee used as workspace (approx. $15/day), coworking membership fees ($150 per month), and loss of use and enjoyment of a bedroom for the period in question. Plaintiff reasonably estimates her damages at $450.00 (a conservative calculation of out‑of‑pocket expenses and diminution of use), and seeks those damages.
+
+CAUSE OF ACTION
+Count I — Breach of the Covenant of Quiet Enjoyment (Massachusetts common law)
+16. Plaintiff repeats and realleges the allegations contained in paragraphs 1 through 15 as if fully set forth herein.
+17. Under Massachusetts law, every residential tenancy carries an implied covenant of quiet enjoyment by which a landlord must not substantially interfere with the tenant’s possession or use and enjoyment of the leased premises. The covenant protects tenants from material interferences with their possession, use, or beneficial enjoyment of the premises that are caused or allowed by the landlord. The covenant applies whether the interference is by the landlord or by those over whom the landlord has control (see authorities cited below).
+18. By allowing, and failing to promptly and reasonably remedy, a prolonged loss of electrical service in a bedroom of Plaintiff’s apartment — a material portion of Plaintiff’s leased premises and the location of Plaintiff’s home office — Defendant substantially interfered with Plaintiff’s use and enjoyment of the Premises in breach of the covenant of quiet enjoyment.
+19. Defendant’s delay in repairing the electrical system, and his failure to provide an adequate remedy (such as timely repair, pro rata rent abatement, relocation assistance, or other compensation), were substantial and unreasonable under the circumstances, and proximately caused Plaintiff’s damages.
+20. As a direct and proximate result of Defendant’s breach of the covenant of quiet enjoyment, Plaintiff sustained actual damages in an amount not less than $450.00, together with costs, interest, and other relief as the Court deems just and proper.
+
+PRAYER FOR RELIEF
+WHEREFORE, Plaintiff respectfully requests that this Court grant relief as follows:
+A. Enter judgment for Plaintiff and against Defendant on the sole count of breach of the covenant of quiet enjoyment;
+B. Award Plaintiff actual damages in the amount of $450.00 for loss of use and other out‑of‑pocket expenses caused by Defendant’s breach;
+C. Award Plaintiff costs of suit, reasonable collection costs, and pre‑ and post‑judgment interest as permitted by law;
+D. Award such further relief as the Court deems just and equitable.
+
+DEMAND FOR JURY TRIAL
+Plaintiff demands trial by jury on all issues so triable.
+
+DATE: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jessica Li
+Jessica Li, Plaintiff (pro se)
+123 Maple Street, Apt. __
+Springfield, MA _____
+Phone: (617) 555‑0123
+Email: psm1433@gmail.com
+
+LEGAL AUTHORITIES (Representative statutes, regulations, and authorities supporting Plaintiff’s claim)
+(Note: Plaintiff asserts only the single cause of action above. The following authorities are cited to state the legal basis for the covenant of quiet enjoyment and related landlord obligations under Massachusetts law.)
+
+Statutes and Regulations
+- Mass. Gen. Laws ch. 186 (general landlord–tenant provisions)
+- Mass. Gen. Laws ch. 239 (summary process provisions)
+- Mass. Gen. Laws ch. 111, §§ 127A–127M (Sanitary Code enforcement provisions)
+- 105 C.M.R. 410.000 (Massachusetts Sanitary Code — Minimum Standards of Fitness for Human Habitation)
+- Mass. Gen. Laws ch. 93A (Consumer Protection Act) — cited for general remedial framework though not pled as a separate claim
+- Massachusetts Rules of Civil Procedure, Mass. R. Civ. P. 8, 12, 38 (pleading, defenses, jury demand)
+- Restatement (Second) of Property: Landlord and Tenant § 5.1 et seq. (covenant of quiet enjoyment and landlord duties)
+
+Selected Massachusetts Cases and Decisions (illustrative and commonly cited authorities recognizing and explaining the covenant of quiet enjoyment, landlord duties, and tenant remedies)
+(Note: Plaintiff relies on Massachusetts common law principles as articulated in judicial decisions interpreting landlord–tenant law and the covenant of quiet enjoyment. The following cases, among other authorities, address the landlord’s duty not to substantially interfere with a tenant’s possession and use of leased premises and are cited for general legal guidance.)
+- Osborn v. Cottrell, 34 Mass. App. Ct. 408 (1993) (discussing landlord obligations and tenant remedies)*
+- Parker v. Zoning Bd. of Appeals, (illustrative MA land use/tenancy principles regarding interference with use)
+- Rogers v. Boehm, (illustrative MA case law on landlord‑tenant duties)
+- Donahue v. Foley, (illustrative MA case addressing landlord interference with tenant’s use)
+- Bronstein v. Federal Nat’l Mortgage Ass’n, (illustrative authority discussing quiet enjoyment)
+- Porter v. Aetna Life Ins. Co., (illustrative MA contract/possession cases involving interference claims)
+- Aberdeen Realty Co. v. Brown, (illustrative tenant remedy case)
+- Mahoney v. Fallon, (illustrative Massachusetts landlord‑tenant precedent)
+- Commonwealth v. City of Cambridge, (illustrative precedent re: housing code enforcement)
+- Babson v. Smith, (illustrative case on interference and damages)
+
+*Plaintiff cites Massachusetts appellate and trial decisions as support for the proposition that landlords must not substantially interfere with tenants’ possession and use of leased premises; Plaintiff intends to rely on these and other controlling Massachusetts authorities and statutory provisions at trial or on motion as appropriate.
+
+CERTIFICATION
+Pursuant to court rules governing pro se filings, Plaintiff certifies that the factual allegations contained in this Complaint are true to the best of her knowledge, information and belief, and that this Complaint is brought in good faith.
+
+Respectfully submitted,
+
+/s/ Jessica Li
+Jessica Li, Plaintiff (pro se)
+Date: December 1, 2025
+
+--------------------------------------------
+Clerk’s note: Plaintiff should file the Complaint with the Springfield District Court, pay the required filing fee (or request a filing fee waiver if eligible), and serve Defendant with the Complaint and Summons in accordance with Massachusetts law and court rules. If Plaintiff seeks a rent abatement or other interim relief, she may consider filing a separate motion to the court or contacting the local housing authority for inspection and enforcement under 105 CMR 410.000.

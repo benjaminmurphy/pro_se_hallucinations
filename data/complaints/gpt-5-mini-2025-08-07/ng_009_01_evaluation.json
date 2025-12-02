@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_009_01.txt",
+  "scenario_id": "ng_009_01",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "- Massachusetts General Laws, Chapter 260, Section 2A (statute of limitations for actions on account of negligence; three-year limitation applicable to personal injury).": {
+      "raw_text": "- Massachusetts General Laws, Chapter 260, Section 2A (statute of limitations for actions on account of negligence; three-year limitation applicable to personal injury).",
+      "citation_type": "statute",
+      "proposition": "The duties and standards applied to a landlord\u2019s maintenance obligations and to premises liability claims in Massachusetts are well-established in statute, regulation, and case law. Relevant authorities include, without limitation:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Massachusetts General Laws, Chapter 148 (statutes and regulations concerning building and safety standards, including smoke detector requirements for residential premises).": {
+      "raw_text": "- Massachusetts General Laws, Chapter 148 (statutes and regulations concerning building and safety standards, including smoke detector requirements for residential premises).",
+      "citation_type": "statute",
+      "proposition": "The duties and standards applied to a landlord\u2019s maintenance obligations and to premises liability claims in Massachusetts are well-established in statute, regulation, and case law. Relevant authorities include, without limitation:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- 105 C.M.R. 410.000 et seq. (Massachusetts State Sanitary Code \u2014 Minimum Standards of Fitness for Human Habitation), which includes requirements for smoke detectors and tenant safety in residential dwellings.": {
+      "raw_text": "- 105 C.M.R. 410.000 et seq. (Massachusetts State Sanitary Code \u2014 Minimum Standards of Fitness for Human Habitation), which includes requirements for smoke detectors and tenant safety in residential dwellings.",
+      "citation_type": "statute",
+      "proposition": "The duties and standards applied to a landlord\u2019s maintenance obligations and to premises liability claims in Massachusetts are well-established in statute, regulation, and case law. Relevant authorities include, without limitation:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

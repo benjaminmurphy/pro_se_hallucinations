@@ -1,0 +1,28 @@
+{
+  "complaint_file": "ng_002_04.txt",
+  "scenario_id": "ng_002_04",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 140, \u00a7 155": {
+      "raw_text": "Mass. Gen. Laws ch. 140, \u00a7 155",
+      "citation_type": "statute",
+      "proposition": "The Defendant's negligence constitutes a violation of Massachusetts common law and statutory duties, including but not limited to Mass. Gen. Laws ch. 140, \u00a7 155 and common law negligence principles.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

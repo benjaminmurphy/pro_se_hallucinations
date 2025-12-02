@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_005_10",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "plaintiff": "Rachel Thompson",
+  "defendant": "Mark Henderson"
+}

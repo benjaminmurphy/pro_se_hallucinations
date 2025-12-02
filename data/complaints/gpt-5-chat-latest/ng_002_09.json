@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_002_09",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jessica Freeman",
+  "defendant": "Tom Holland"
+}

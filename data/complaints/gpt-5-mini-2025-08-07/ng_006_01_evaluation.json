@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_006_01.txt",
+  "scenario_id": "ng_006_01",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause principles)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause principles)",
+      "citation_type": "case",
+      "proposition": "The risk that a person opening a motor vehicle door into an adjacent bike lane would strike and injure a passing bicyclist was foreseeable.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Palsgraf concerns the scope of duty and foreseeability in determining whether the defendant\u2019s conduct was negligent as to a particular plaintiff, but it does not address motor vehicles, bike lanes, or dooring-type accidents. The case stands for the principle that liability depends on risks reasonably foreseeable to an ordinarily prudent person, not for any specific holding that the risk of hitting a bicyclist with a car door is foreseeable. Using Palsgraf to assert that this particular traffic risk was foreseeable overstates and misapplies its general foreseeability framework to a specific factual scenario it never considered.",
+      "relevant_excerpt": "\u201cThe risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension\u2026 These cases aside, wrong is defined in terms of the natural or probable, at least when unintentional\u2026 Here, by concession, there was nothing in the situation to suggest to the most cautious mind that the parcel wrapped in newspaper would spread wreckage through the station.\u201d"
+    },
+    "MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916) (duty principles)": {
+      "raw_text": "MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916) (duty principles)",
+      "citation_type": "case",
+      "proposition": "Plaintiff relies on the following (non\u2011exhaustive) legal authorities to support the elements of duty, breach, causation, and damages in this negligence action:",
+      "is_valid": true,
+      "courtlistener_id": "3616523",
+      "case_name": "MacPherson v. . Buick Motor Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This excerpt is a dissenting opinion that argues against expanding a manufacturer's tort duty to a subvendee for a non\u2013inherently-dangerous product, and therefore resists recognizing a broad duty in negligence. While the case as a whole (through Cardozo\u2019s majority) is famous for expanding duty principles, the quoted portion does not support using MacPherson to show that established authorities already support the elements of duty, breach, causation, and damages; it instead contests that expansion. Thus, this specific opinion text does not affirm the proposition for which it is being cited.",
+      "relevant_excerpt": "\"The plaintiff was injured in consequence of the collapse of a wheel of an automobile manufactured by the defendant corporation... The present suit is an action for negligence brought by the subvendee of the motor car against the manufacturer as the original vendor... I think that these rulings... extend the liability of the vendor of a manufactured article further than any case which has yet received the sanction of this court... It has heretofore been held in this state that the liability... does not extend to strangers... but is confined to the immediate vendee.\""
+    },
+    "Massachusetts General Laws, Chapter 90 (Rules of the Road) (see generally provisions governing motor vehicle operation and obligations to other road users)": {
+      "raw_text": "Massachusetts General Laws, Chapter 90 (Rules of the Road) (see generally provisions governing motor vehicle operation and obligations to other road users)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the following (non\u2011exhaustive) legal authorities to support the elements of duty, breach, causation, and damages in this negligence action:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 260 (statute of limitations and related procedural provisions)": {
+      "raw_text": "M.G.L. c. 260 (statute of limitations and related procedural provisions)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the following (non\u2011exhaustive) legal authorities to support the elements of duty, breach, causation, and damages in this negligence action:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

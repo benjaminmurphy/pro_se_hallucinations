@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_001_08",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "plaintiff": "Jessica Langford",
+  "defendant": "Mark Silverman"
+}

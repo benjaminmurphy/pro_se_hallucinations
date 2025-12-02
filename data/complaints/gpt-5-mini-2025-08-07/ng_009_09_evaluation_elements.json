@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_009_09.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned, managed, controlled the building and common hallways/safety devices and cites statutory and common-law duties (M.G.L. c.148, 780 CMR, Restatement \u00a7343). These factual allegations adequately show a landlord/possessor duty to maintain smoke detectors."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the hallway smoke detector intermittently chirped for months, Plaintiff notified Defendant on at least three occasions, Defendant promised to act but failed to repair/replace or otherwise ensure operation, and the battery was removed\u2014facts that sufficiently plead a failure to perform the maintenance obligation."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the first-floor fire occurred, the hallway detector was inoperative so no audible alarm warned Plaintiff, Plaintiff only became aware after smoke had filled the hallway, and as a result suffered smoke inhalation and related harms. Those facts plausibly allege that but for the inoperative detector (and Defendant\u2019s failure to maintain it) Plaintiff would have received timely warning and avoided or mitigated the injuries."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges foreseeable consequences of a nonworking smoke detector (lack of warning, exposure to smoke, injury), cites proximate-cause/foreseeability authority, and ties Defendant\u2019s conduct to the harms. Those allegations adequately plead proximate causation at the pleading stage."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint specifies physical injury (smoke inhalation), emergency treatment and overnight admission, itemized past medical expenses (~$7,000), lost wages (~$2,500), and property damage to be proved at trial\u2014sufficiently alleging actual damages."
+    }
+  }
+}

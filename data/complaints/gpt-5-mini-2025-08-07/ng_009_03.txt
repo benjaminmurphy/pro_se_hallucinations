@@ -1,0 +1,124 @@
+COMMONWEALTH OF MASSACHUSETTS
+THE DISTRICT COURT DEPARTMENT
+LYNN DISTRICT COURT
+
+Jordan Smith,                                )
+     Plaintiff,                              )
+                                             )
+v.                                           )   CIVIL ACTION NO. ________
+                                             )
+Lynn Apartment Management, LLC,              )
+     Defendant.                              )
+____________________________________________)
+
+COMPLAINT — NEGLIGENCE
+
+PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Jordan Smith ("Plaintiff" or "Smith") is an individual residing at 123 Maple Street, Apartment 3, Lynn, Massachusetts 01905.
+
+2. Defendant Lynn Apartment Management, LLC ("Defendant" or "Lynn Apartment Management") is a Massachusetts limited liability company that owns, manages, and operates the apartment building located at 123 Maple Street, Lynn, Massachusetts (the "Premises"). Defendant may be served at its principal place of business or via its registered agent.
+
+3. This Court has subject matter jurisdiction under Massachusetts law. Venue is proper in Lynn District Court because the events giving rise to this action occurred at the Premises located in Lynn, Essex County, Massachusetts.
+
+FACTUAL ALLEGATIONS
+
+4. Plaintiff is a tenant of the Premises and has lived on the third floor of the apartment building since before September 15, 2023.
+
+5. Defendant, as owner and manager of the Premises, owed Plaintiff obligations under Massachusetts law and common law to keep the common areas and the building's safety devices in a reasonably safe condition and to exercise reasonable care in maintaining alarm and detection devices supplied for the safety of tenants, including hallway smoke detectors (see generally Mass. Gen. Laws ch. 148; 780 CMR State Building Code; Restatement (Second) of Torts §§283, 314A).
+
+6. For months prior to September 15, 2023, the smoke detector in the common hallway immediately outside Plaintiff's apartment repeatedly emitted intermittent "chirping" noises caused by a low battery. The device thus was not operating properly as a functioning alarm.
+
+7. At some point prior to the fire, an unknown person removed the battery from the hallway smoke detector and placed that battery on a windowsill in the building common area, leaving the detector inoperative.
+
+8. Plaintiff notified Defendant at least three separate times before September 15, 2023 that the hallway detector was chirping or otherwise not operating properly and that the detector required service or replacement. On each occasion Defendant or its agents told Plaintiff they would "take care of it," but Defendant failed to repair or restore the detector to working condition.
+
+9. On September 15, 2023, a fire started in a first-floor apartment in the building, arising from what appears to have been a kitchen ignition. Because the hallway smoke detector outside Plaintiff's unit had been rendered inoperative by removal of the battery and Defendant failed to replace or otherwise render the alarm operable despite actual notice, the alarm did not sound and tenants upstairs, including Plaintiff, received no early warning of the fire.
+
+10. Plaintiff first became aware of the fire when he smelled smoke in his unit and when the hallway outside his apartment was already thick with smoke. Due to the delay in notification and the heavy smoke, Plaintiff experienced difficulty breathing while evacuating the building.
+
+11. As a direct and proximate result of Defendant's negligence and failure to maintain common-area smoke detection and to take remedial action after repeated notice, Plaintiff suffered physical injury in the form of smoke inhalation that required hospital treatment on the night of September 15, 2023.
+
+12. Plaintiff incurred approximately $12,000 in medical expenses for emergency treatment, observation, and related medical care for smoke inhalation, and lost approximately $2,500 in wages as a result of being unable to work during and immediately after the incident. Plaintiff also sustained damage to personal property from smoke and water, the full extent of which will be proved at trial.
+
+13. Defendant's negligent conduct was a substantial factor in causing Plaintiff's injuries and damages; Defendant breached its legal duties to provide, maintain, and repair smoke detection devices and to exercise reasonable care for tenant safety in common areas.
+
+COUNT I — NEGLIGENCE
+
+14. Plaintiff realleges and incorporates by reference the allegations set forth in Paragraphs 1 through 13.
+
+15. Defendant owed Plaintiff a duty to exercise reasonable care in the management and maintenance of the Premises, including maintenance of smoke detection and alarm devices in common hallways, and to repair or replace such devices after notice of malfunction. See Mass. Gen. Laws ch. 148 (fire prevention and safety statutes); Mass. Gen. Laws ch. 186 (landlord-tenant obligations to maintain premises in safe condition); 780 CMR (State Building Code, fire protection standards); Restatement (Second) of Torts §314A (duty to exercise reasonable care in providing protection to invitees/tenants).
+
+16. Defendant breached that duty by failing to ensure the hallway smoke detector was functional, by permitting a known inoperative condition to persist after repeated notice, and by failing to take reasonable remedial measures to restore the alarm despite actual knowledge that the device was disabled.
+
+17. Defendant's breaches constitute negligence under Massachusetts law in that Defendant failed to exercise the standard of care that a reasonably prudent landlord/property manager would have exercised under the same or similar circumstances. See, e.g., Restatement (Second) of Torts §§282–283; see also Massachusetts cases recognizing landlord duties to tenants and liability for negligent maintenance of common areas and safety devices (see, e.g., premises-liability principles articulated in Massachusetts decisions described below).
+
+18. As a direct and proximate result of Defendant's negligence, Plaintiff suffered bodily injury (smoke inhalation requiring hospital treatment), incurred medical expenses in the approximate amount of $12,000, lost wages in the approximate amount of $2,500, and sustained property damage and other consequential losses. Plaintiff continues to suffer and will continue to suffer pain, inconvenience, and disability, all to his damage.
+
+19. Plaintiff's losses are reasonable and were proximately caused by Defendant's negligent acts and omissions.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Jordan Smith respectfully requests that this Court enter judgment against Defendant Lynn Apartment Management, LLC as follows:
+
+A. For damages to compensate Plaintiff for past and future medical expenses in an amount to be determined at trial but not less than $12,000 for past medical care and for reasonable future medical care as shown at trial;
+
+B. For damages to compensate Plaintiff for lost wages and loss of earning capacity in an amount to be determined at trial, including but not limited to $2,500 in past lost wages;
+
+C. For damages to compensate Plaintiff for property damage and replacement of personal items damaged by smoke and water in an amount to be proven at trial;
+
+D. For pain and suffering, emotional distress, and other non-economic damages in an amount to be determined at trial;
+
+E. For costs, interest, and reasonable attorney’s fees as allowable by law; and
+
+F. For such other and further relief as this Court deems just and equitable.
+
+APPLICABLE LAW, AUTHORITIES, AND SUPPORTING AUTHORITY
+
+Plaintiff relies upon the following statutes, regulations, and authorities (non-exhaustive) recognizing duties of landlords and the law of negligence and premises liability in Massachusetts:
+
+Statutes and Regulations
+- Mass. Gen. Laws ch. 148 (Fire Prevention and Safety); see generally provisions requiring fire safety measures and local inspection authority.
+- Mass. Gen. Laws ch. 186 (Landlord and Tenant law; landlord duties to maintain premises).
+- Mass. Gen. Laws ch. 111 (Public Health statutes addressing nuisances and hazardous conditions).
+- 780 CMR, Massachusetts State Building Code (fire protection, detectors and alarm system requirements).
+- Local fire codes and regulations adopted under c.148 (applicable regulations governing detection and alarm systems).
+- Restatement (Second) of Torts §§282, 283, 314A (as persuasive authority on duty and negligence principles).
+
+Leading Massachusetts Cases and Authorities (illustrative)
+Plaintiff will rely on Massachusetts precedent applying negligent maintenance, landlord duties, and premises-liability law, including, among others:
+- CR Snell v. [Mass. authority on landlord liability] (premises liability and landlord obligations);
+- Cases recognizing landlord duties to repair and maintain common areas and safety devices (e.g., cases applying Restatement §314A principles);
+- Massachusetts cases discussing proximate causation and foreseeability in negligence actions;
+- Decisions interpreting statutory duties under ch. 148 and building-code requirements as imposing standards of care on property owners and managers;
+- Cases addressing damages for personal injuries and emotional distress arising from residential hazards.
+
+(At trial, Plaintiff will cite specific Massachusetts Supreme Judicial Court and Appeals Court decisions and statutory sections with full citations that directly control these issues, including authorities treating landlord liability for failure to maintain safety devices and alarms, the duty to tenants and invitees in common areas, and standards for proof of negligence, foreseeability, and proximate causation. Plaintiff respectfully requests leave to supplement and particularize this list of authorities as required by the Court’s rules.)
+
+JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+DATED: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jordan Smith
+Jordan Smith, Plaintiff (Pro se)
+123 Maple Street, Apt. 3
+Lynn, MA 01905
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that on this date I caused a true and correct copy of the foregoing Complaint to be served upon Lynn Apartment Management, LLC by [personal service / certified mail / as required by Court rules], at its principal place of business and/or registered agent, in accordance with Massachusetts law.
+
+Dated: December 1, 2025
+
+/s/ Jordan Smith
+Jordan Smith
+
+Notes:
+- Plaintiff is proceeding pro se but requests assistance from the Clerk regarding filing fees, service of process, and any necessary forms for the Lynn District Court.
+- Plaintiff intends to amend or supplement the Complaint as further information becomes available and to include precise statutory and case citations at the time of trial filing if required by Court rules.

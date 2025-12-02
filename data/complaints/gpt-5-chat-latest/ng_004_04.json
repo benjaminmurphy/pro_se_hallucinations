@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_004_04",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jessica Turner",
+  "defendant": "Anna Brooks"
+}

@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_006_10.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 2.2 identifies an Existing Order entered May 15, 2021 awarding Plaintiff primary physical custody and granting Defendant alternate weekends and one midweek visit, which sufficiently pleads a prior custody/parenting-time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 6.2\u20136.5 and 7.1 set out concrete remedies sought (prohibit Resident Partner during unsupervised parenting time; require supervised visits; interim restrictions; disclosure of Resident Partner\u2019s identity/criminal history; access to records), which plainly specify the requested modification(s)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 4.1\u20134.6 allege post-judgment facts that bear directly on the children\u2019s safety and welfare\u2014Defendant\u2019s new cohabiting partner with a prior assault conviction and prior restraining order; reports of yelling, slamming doors, and physical aggression in the children\u2019s presence; an alleged incident leaving a visible mark; and a police call\u2014allegations that, if proven, constitute a material and substantial change since entry of the Existing Order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 5.1\u20135.4 tie the alleged post-judgment facts to the statutory best-interests standard and expressly allege that restricting or supervising Defendant\u2019s parenting time is necessary to protect the children\u2019s physical safety and emotional wellbeing; the complaint therefore alleges that the requested modification is in the children\u2019s best interests."
+    }
+  }
+}

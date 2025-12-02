@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_010_02.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges Defendant is the owner/occupant of the property with a large cracked branch overhanging a public sidewalk (\u00b6\u00b62,6) and explicitly pleads he owed persons lawfully using the sidewalk a duty to maintain trees/branches and warn or remedy known hazards (\u00b615). Those facts adequately plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant knew (neighbors informed him and he acknowledged by saying he would \u201cdeal with it in the spring\u201d) yet failed to inspect, remediate, secure, prune or obtain an arborist (\u00b6\u00b67\u20138,16). Those factual allegations sufficiently plead a breach of the asserted duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges the cracked branch unexpectedly fractured and fell onto her while she was lawfully on the sidewalk (\u00b69), striking her and causing injury (\u00b610), and alleges these injuries resulted from Defendant\u2019s failure to inspect/secure the branch (\u00b611). These allegations are sufficient at pleading stage to state but\u2011for causation (but for Defendant\u2019s failure to remedy the known dangerous branch, the branch would not have fallen on Plaintiff)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges the branch was visibly cracked, overhung the public walkway, Defendant was aware or should have been aware, and the fall was a reasonably foreseeable consequence of leaving the hazard unrepaired (\u00b6\u00b66\u20139,17). Those facts adequately plead proximate causation based on foreseeability."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific actual damages: medical treatment and approx. $2,500 in medical expenses, approx. $600 in lost wages, and past/future pain and suffering and other losses (\u00b6\u00b611\u201313,18; Prayer B). Those allegations sufficiently plead damages."
+    }
+  }
+}

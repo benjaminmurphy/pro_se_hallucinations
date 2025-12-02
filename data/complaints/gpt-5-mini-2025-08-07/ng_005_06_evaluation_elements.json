@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_005_06.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a shared driveway and that Defendant stored a tall ladder adjacent to Plaintiff\u2019s parking area and expressly pleads Defendant owed a duty to take reasonable precautions to prevent foreseeable harm (\u00b6\u00b66\u20138, 13). These factual allegations are sufficient to plead a duty to exercise ordinary care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific facts showing breach: Defendant left the ladder stored outdoors, unsecured and leaning against the fence, failed to secure or move it despite Plaintiff\u2019s repeated warnings and his promises to do so (\u00b6\u00b67\u20139, 14)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the ladder tipped and fell during gusty wind and struck Plaintiff\u2019s vehicle because it was unsecured; it pleads that but for Defendant\u2019s leaving the ladder unsecured and failing to secure/move it, the ladder would not have fallen onto the car (\u00b6\u00b69\u201311, 14)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the harm was a foreseeable and proximate result of Defendant\u2019s conduct: an unsecured ladder stored adjacent to a driveway could reasonably be expected to fall onto a nearby vehicle, and Plaintiff had given Defendant express notice of the risk (\u00b6\u00b68, 9, 15)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete, non-speculative damages: dented hood, cracked windshield, repair costs, payment of insurance deductible, rental car expenses while repairs were made, and other out-of-pocket costs (\u00b6\u00b610\u201311, 16)."
+    }
+  }
+}

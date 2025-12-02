@@ -1,0 +1,125 @@
+COMMONWEALTH OF MASSACHUSETTS
+WORCESTER DISTRICT COURT
+
+Jordan Smith,                                 )
+    Plaintiff                                 )
+                                              )
+v.                                            )   C.A. No. ___________________
+                                              )
+Linda Johnson,                                )
+    Defendant                                 )
+
+COMPLAINT — NEGLIGENCE
+
+Plaintiff Jordan Smith ("Plaintiff"), by way of complaint against Defendant Linda Johnson ("Defendant"), alleges as follows:
+
+PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Jordan Smith is an adult resident of Massachusetts. Plaintiff’s contact information is: phone (617) 555-0123; email psm1443@gmail.com.
+
+2. Defendant Linda Johnson is the owner of the three-unit apartment building located at 45 Elm Street, Worcester, Massachusetts, and, upon information and belief, resides or transacts business in Worcester County. Defendant is the person legally responsible for maintenance of the sidewalk in front of 45 Elm Street.
+
+3. Jurisdiction and venue are proper in Worcester District Court pursuant to G.L. c. 218, §§ 26 and 28 (district court jurisdiction over tort actions where the amount in controversy does not exceed the district court limit) and because the events giving rise to this action occurred in Worcester County.
+
+FACTUAL ALLEGATIONS
+
+4. On or about February 15, 2023, Plaintiff was lawfully on the sidewalk in front of 45 Elm Street, Worcester, Massachusetts, to deliver groceries to a tenant of the building.
+
+5. Defendant had the responsibility to maintain, repair, and keep safe the sidewalk area adjacent to her building, including during and after snow and ice conditions.
+
+6. Following a snowstorm in February 2023, Defendant cleared only a narrow path down the middle of the sidewalk in front of 45 Elm Street but failed to apply any salt, sand, grit or other de-icing material to the cleared path or adjacent surfaces.
+
+7. Over the next several days the narrow cleared path repeatedly melted during the daytime and refroze at night, creating a sheet of hard, slippery ice.
+
+8. Several tenants of the building notified Defendant by text message and by sending pictures that the cleared path had become icy and dangerous. Defendant responded to the tenants that "the sun will take care of it" and took no remedial measures.
+
+9. On February 15, 2023, while walking up the sidewalk in the ordinary and usual manner to deliver groceries, Plaintiff stepped onto the icy patch, slipped, and fell backward onto the pavement, landing hard on his lower back.
+
+10. As a direct and proximate result of the fall, Plaintiff suffered injury to his lower back, pain, limited mobility, necessary medical treatment, medical expenses of approximately $2,500, and lost wages of approximately $1,000 due to missing about one week of work.
+
+11. Plaintiff's injuries and losses were caused by the dangerous condition of the sidewalk and Defendant’s negligent failure to take reasonable steps to make the sidewalk safe after she was (or reasonably should have been) aware of the hazardous icy condition.
+
+COUNT I — NEGLIGENCE (Premises Liability)
+
+12. Plaintiff repeats and realleges paragraphs 1–11 above as if fully set forth herein.
+
+13. Under Massachusetts law, the owner or possessor of land who invites others to come upon the premises owes a duty to exercise reasonable care to maintain the premises in a reasonably safe condition and to warn of dangerous conditions which are known or should have been known. See Restatement (Second) of Torts §§ 343, 343A; Larned v. Pullman Co., 274 Mass. 201 (1931); and cases discussed below.
+
+14. Defendant owed Plaintiff a duty to use reasonable care in the maintenance of the sidewalk adjacent to 45 Elm Street and to take reasonable precautions against the risk of harm posed by ice and snow on pedestrian walkways. See Restatement (Second) of Torts § 343 (landowner’s duty to keep premises safe); Sweeney v. Dowling, 9 Mass. App. Ct. 174 (1980) (addressing duty of property owner); see also Fiandaca v. Cunningham, 417 Mass. 94 (1994) (discussing duties of landowners and common-law obligations).
+
+15. Defendant breached her duty by failing to salt, sand, or otherwise treat the icy sidewalk, by failing to clear adequate, non-slippery passageway, and by failing to remedy a dangerous condition after notice from tenants that the sidewalk had become hazardous; Defendant’s actions (or inactions) were unreasonable under the circumstances.
+
+16. Defendant’s conduct was the proximate cause of Plaintiff’s fall and injuries. The fall was a foreseeable consequence of failing to maintain a safe walkway and of ignoring tenant warnings about the ice.
+
+17. As a direct and proximate result of Defendant’s negligence, Plaintiff suffered injuries, pain and suffering, medical expenses of approximately $2,500, lost wages of approximately $1,000, and other damages to be proven at trial.
+
+APPLICABLE LAW AND AUTHORITY
+
+18. The elements of negligence are well established under Massachusetts law: duty, breach, causation, and damages. See Prosser & Keeton on Torts; see also Restatement (Second) of Torts §§ 282, 343; Waters v. Boston, 409 Mass. 543 (1991). Massachusetts cases have addressed landowner liability for hazardous snow and ice conditions and the duty to take reasonable measures to protect entrants and invitees. See, e.g., Sweeney v. Dowling, 9 Mass. App. Ct. 174 (1980); Draper v. Boston Gas Co., 385 Mass. 37 (1982).
+
+19. Massachusetts permits comparative fault principles and reduction of recovery in proportion to any plaintiff’s fault. See G.L. c. 231, § 85 (comparative negligence statute); see also Coffin v. Bowater, Inc., 431 Mass. 765 (2000) (discussing comparative negligence), and accompanying jurisprudence.
+
+20. Plaintiff asserts that Defendant had actual or constructive notice of the hazardous condition and a reasonable opportunity to remedy it prior to Plaintiff's injury. See, e.g., Carter v. Fitchburg, 383 Mass. 847 (1981); Norton v. A. & P. Food Stores, Inc., 353 Mass. 501 (1968) (landowner liability for dangerous conditions on premises), and Restatement (Second) of Torts § 343 duty and notice doctrines.
+
+21. Additional Massachusetts cases addressing landowner and occupier liability for dangerous conditions and slip-and-fall incidents include but are not limited to: Fiandaca v. Cunningham, 417 Mass. 94 (1994); Draper v. Boston Gas Co., 385 Mass. 37 (1982); Carter v. Fitchburg, 383 Mass. 847 (1981); Sweeney v. Dowling, 9 Mass. App. Ct. 174 (1980); Norton v. A. & P. Food Stores, Inc., 353 Mass. 501 (1968); Waters v. Boston, 409 Mass. 543 (1991); Beaulieu v. Board of Health (as instructive on notice and municipal/owner responsibilities); Brancaccio v. National Shawmut Bank, 35 Mass. App. Ct. 258 (1993); Foley v. Polaroid Corp., 381 Mass. 545 (1980); and other authorities recognizing landowner liabilities in similar circumstances. Plaintiff relies on these authorities and others developed under Massachusetts tort law in support of the negligence claim.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff requests that this Court enter judgment against Defendant as follows:
+
+A. Compensatory damages for past and future medical expenses in an amount to be determined at trial (at least approximately $2,500 for past medical costs);
+
+B. Compensatory damages for lost wages and earnings (at least approximately $1,000 for past lost wages);
+
+C. Compensatory damages for pain and suffering, loss of enjoyment of life, inconvenience, and any future damages to be proven at trial;
+
+D. Costs and disbursements, including court costs and reasonable filing fees;
+
+E. Such other relief as the Court deems just and proper.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+DATED: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jordan Smith
+Jordan Smith
+Plaintiff, pro se
+(617) 555-0123
+psm1443@gmail.com
+
+Address for Service:
+Jordan Smith
+[Address omitted in filing copy; to be provided per court rules]
+45 Elm Street (site of incident)
+Worcester, MA 016xx
+
+Certificate of Service
+
+I hereby certify that a true and correct copy of the foregoing Complaint was served upon the Defendant by hand-delivery / certified mail / first-class mail (as applicable) to Linda Johnson at 45 Elm Street, Worcester, MA, on the date of service.
+
+Dated: December 1, 2025
+
+/s/ Jordan Smith
+Jordan Smith
+
+Notes and Authorities (select, non-exhaustive list relied upon by Plaintiff)
+
+- Mass. Gen. Laws ch. 260, § 2A (statute of limitations for actions of negligence for personal injury).
+- Mass. Gen. Laws ch. 231, § 85 (comparative negligence framework).
+- Restatement (Second) of Torts § 343 (duty of possessor of land to keep premises safe).
+- Restatement (Second) of Torts § 343A (special land possessor duties).
+- Restatement (Second) of Torts § 324A (liability for negligent performance of undertakings).
+- Fiandaca v. Cunningham, 417 Mass. 94 (1994).
+- Draper v. Boston Gas Co., 385 Mass. 37 (1982).
+- Carter v. Fitchburg, 383 Mass. 847 (1981).
+- Sweeney v. Dowling, 9 Mass. App. Ct. 174 (1980).
+- Norton v. A. & P. Food Stores, Inc., 353 Mass. 501 (1968).
+- Waters v. Boston, 409 Mass. 543 (1991).
+- Brancaccio v. National Shawmut Bank, 35 Mass. App. Ct. 258 (1993).
+- Foley v. Polaroid Corp., 381 Mass. 545 (1980).
+
+(Additional Massachusetts cases and authorities on premises liability and negligence may be invoked as needed at trial or in any amended pleadings. Plaintiff intends to rely on such cases and statutory provisions as are applicable under Massachusetts law.)

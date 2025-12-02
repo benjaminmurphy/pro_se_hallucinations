@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_001_07.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant is the owner and landlord of 123 Ashmont Street and that Plaintiff has resided there pursuant to a tenancy beginning March 1, 2022 and paying $1,800/month (\u00b6\u00b62\u20135,3). Those factual allegations sufficiently establish a landlord\u2013tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant arranged two repair visits but failed to remedy the recurring heating deficiency, and refused to undertake further remedial measures after notice (\u00b6\u00b67,11\u201312). Those facts plead an act (limited repair attempts) and an omission/failure to adequately maintain the heating system."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges repeated drops in indoor temperature to ~60\u00b0F for hours (\u00b66), that the intermittent inadequate heat rendered the apartment unreasonably uncomfortable and unsafe (\u00b68), required Plaintiff to purchase space heaters and incur increased electric bills (\u00b69), and contributed to bronchitis and missed work (\u00b610). These allegations support a non\u2011de minimis, substantial interference with use and enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the heating failures recurred despite repair attempts and that Defendant had actual notice and opportunity to undertake further remedial measures but failed to do so (\u00b6\u00b67,8,12). Those facts sufficiently plead that the landlord\u2019s failure to provide/maintain adequate heat caused the continuing inadequate heating and resulting harms."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint itemizes economic damages (increased electric bills \u2248 $150/month, out\u2011of\u2011pocket medical costs, three days\u2019 lost wages) and non\u2011economic harms (loss of use and enjoyment, discomfort) and estimates total damages (\u00b6\u00b69,10,17\u201318). Those factual allegations adequately plead damages."
+    }
+  }
+}

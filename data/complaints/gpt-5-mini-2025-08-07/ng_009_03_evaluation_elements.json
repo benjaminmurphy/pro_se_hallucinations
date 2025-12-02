@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_009_03.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owns/manages the building and explicitly pleads statutory and common-law obligations to maintain common areas and smoke-detection devices (\u00b6\u00b62,5,15), which adequately alleges a duty to Plaintiff as a tenant."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific facts showing the detector was inoperative for months (\u00b66), the battery was removed (\u00b67), Plaintiff gave Defendant repeated notice (\u00b68), Defendant promised to act but did not, and Defendant failed to repair or restore the device (\u00b6\u00b68,16). Those facts sufficiently allege a breach of the duty to maintain alarms."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a fire occurred (\u00b69), the hallway detector was rendered inoperative and did not sound (\u00b69), tenants received no early warning, and Plaintiff suffered smoke inhalation while evacuating (\u00b6\u00b69\u201311). It plausibly alleges that but for the inoperative detector/Defendant\u2019s failure to repair, Plaintiff would have received earlier warning and would not have suffered the injuries claimed."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads that disabling or failing to maintain a smoke detector foreseeably removes early warning and can lead to smoke inhalation and related injury (\u00b6\u00b65,9,11,16). Defendant\u2019s actual notice of the malfunction strengthens foreseeability; these facts adequately plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint specifically alleges physical injury requiring hospital treatment (\u00b611), approximately $12,000 in medical expenses and $2,500 in lost wages (\u00b612), property damage (\u00b612), and ongoing pain and suffering (\u00b618), which adequately pleads actual damages."
+    }
+  }
+}

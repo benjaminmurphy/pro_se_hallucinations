@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_005_09.txt",
+  "scenario_id": "ng_005_09",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 3,
+  "statute_citations": 2,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Mass. Gen. Laws ch. 212, \u00a7 4": {
+      "raw_text": "Mass. Gen. Laws ch. 212, \u00a7 4",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to Mass. Gen. Laws ch. 212, \u00a7 4, as the amount in controversy exceeds the statutory minimum.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 223, \u00a7 1": {
+      "raw_text": "Mass. Gen. Laws ch. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue in this Court is proper under Mass. Gen. Laws ch. 223, \u00a7 1, as the events giving rise to this suit occurred in Hampden County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "See Mounsey v. Ellard, 363 Mass. 693, 708 (1973).": {
+      "raw_text": "See Mounsey v. Ellard, 363 Mass. 693, 708 (1973).",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, Defendant owed Plaintiff a duty to act with reasonable care to avoid creating hazardous or dangerous conditions on the shared driveway, which both Plaintiff and Defendant had a right to use for vehicular access.",
+      "is_valid": true,
+      "courtlistener_id": "2031209",
+      "case_name": "Mounsey v. Ellard",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "low",
+      "support_reasoning": "The quoted portion of Mounsey v. Ellard is a brief concurrence by Justice Kaplan discussing the abandonment of licensee/invitee distinctions and questioning the continued special treatment of trespassers. It does not mention shared driveways, co-users of an easement, or a specific duty between neighboring property users regarding hazardous conditions on a driveway. While the broader Mounsey decision concerns an occupier\u2019s duty of reasonable care, the provided text does not clearly establish the specific proposition about a shared driveway duty under Massachusetts law.",
+      "relevant_excerpt": "\"The court holds that the measure of responsibility of an occupier should no longer depend on whether the injured person is characterized as a 'licensee' rather than an 'invitee,' or vice versa; the question is to turn on other, more vital factors. But footnote 7 seems to say that 'trespassers' stand apart, that that characterization is to remain decisive or highly influential. This tends to perpetuate, although on a smaller scale, the kind of tradition-bound and mistaken analysis that I had supposed the court was aiming to correct.\""
+    },
+    "See Donovan v. Johnson, 301 Mass. 12, 14 (1938).": {
+      "raw_text": "See Donovan v. Johnson, 301 Mass. 12, 14 (1938).",
+      "citation_type": "case",
+      "proposition": "Defendant knew or should have known that his failure to properly secure or relocate the aluminum ladder created an unreasonable risk that it might fall and cause damage, particularly during windy conditions.",
+      "is_valid": true,
+      "courtlistener_id": "6569153",
+      "case_name": "Donovan v. Johnson",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion concerns whether an injured milk-truck driver could sue a co-employee in tort notwithstanding the workers\u2019 compensation act, and whether he was owed ordinary care while riding on the defendant\u2019s truck. It does not involve ladders, wind, premises liability, or a duty to secure objects against falling, nor does it address a \u2018knew or should have known\u2019 standard about an unreasonable risk from an unsecured ladder. Therefore, it provides no authority for the specific proposition cited.",
+      "relevant_excerpt": "\"The evidence warranted a finding that the plaintiff was riding on the defendant\u2019s truck for the benefit of the defendant, and consequently was entitled to have the defendant exercise the full measure of reasonable care for his safety... The direction of a verdict for the defendant on the first count, which was for ordinary negligence, was error.\""
+    },
+    "See Jesionek v. Massachusetts Port Authority, 376 Mass. 101, 106 (1978).": {
+      "raw_text": "See Jesionek v. Massachusetts Port Authority, 376 Mass. 101, 106 (1978).",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s breach of his duty of care was the direct and proximate cause of the damages sustained by Plaintiff.",
+      "is_valid": true,
+      "courtlistener_id": "2017129",
+      "case_name": "Jesionek v. Massachusetts Port Authority",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "medium",
+      "support_reasoning": "The opinion directly addresses causation and holds that the jury could find the defendant\u2019s negligent failure to secure the forklift was a culpable and direct cause of plaintiff\u2019s injury, despite the intervening act of the intoxicated seaman. While the case is framed as a sufficiency-of-the-evidence question (whether the case may go to the jury) rather than a definitive finding of proximate cause as a matter of law, it affirms that defendant\u2019s breach can be found to be the direct and proximate cause under Massachusetts law. Thus it reasonably supports the cited proposition.",
+      "relevant_excerpt": "\u201cThe general rule is that \u2018[t]he act of a third person, intervening and contributing a condition necessary to the injurious effect of the original negligence, will not excuse the first wrongdoer, if such act ought to have been foreseen. The original negligence still remains a culpable and direct cause of the injury.\u2019\u2026 It was thus reasonably foreseeable that the forklift, when left unsecured\u2026 would be operated by unauthorized persons\u2026 Consequently, a jury could have found that the plaintiff\u2019s injury was caused by a negligent act for which the authority was responsible.\u201d"
+    }
+  }
+}

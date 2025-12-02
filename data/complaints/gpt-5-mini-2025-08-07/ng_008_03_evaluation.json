@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_008_03.txt",
+  "scenario_id": "ng_008_03",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. R. Civ. P. 1": {
+      "raw_text": "Mass. R. Civ. P. 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in the Superior Court, County of Barnstable, because Plaintiff intends to file this action in the Barnstable Superior Court (as Plaintiff chooses), and because Quincy Dine\u2011In does business in the Commonwealth.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 8": {
+      "raw_text": "Mass. R. Civ. P. 8",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in the Superior Court, County of Barnstable, because Plaintiff intends to file this action in the Barnstable Superior Court (as Plaintiff chooses), and because Quincy Dine\u2011In does business in the Commonwealth.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 10": {
+      "raw_text": "Mass. R. Civ. P. 10",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in the Superior Court, County of Barnstable, because Plaintiff intends to file this action in the Barnstable Superior Court (as Plaintiff chooses), and because Quincy Dine\u2011In does business in the Commonwealth.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 260, \u00a7 2A": {
+      "raw_text": "M.G.L. c. 260, \u00a7 2A",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in the Superior Court, County of Barnstable, because Plaintiff intends to file this action in the Barnstable Superior Court (as Plaintiff chooses), and because Quincy Dine\u2011In does business in the Commonwealth.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 38": {
+      "raw_text": "Mass. R. Civ. P. 38",
+      "citation_type": "statute",
+      "proposition": "Plaintiff hereby demands a trial by jury on all issues so triable pursuant to Mass. R. Civ. P. 38.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 11": {
+      "raw_text": "Mass. R. Civ. P. 11",
+      "citation_type": "statute",
+      "proposition": "Massachusetts Rules of Civil Procedure, Mass. R. Civ. P. 8, 10, 11, 38 (pleadings, signatures, and jury trial);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

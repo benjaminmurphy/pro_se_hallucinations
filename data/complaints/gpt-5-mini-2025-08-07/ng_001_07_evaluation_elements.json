@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_001_07.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned, controlled, managed, and maintained the premises (\u00b62), that Plaintiff was a lawful invitee on the premises (\u00b66, Count I \u00b616), and expressly pleads the possessor\u2019s duty to maintain safe premises and warn of dangers (\u00b616). These facts adequately plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a visible puddle of spilled milk in the dairy aisle (\u00b67\u20138), absence of any warnings or barriers (\u00b69), an employee who noticed the spill but delayed cleaning (\u00b610), and asserts failure to inspect, clean, or warn (\u00b611, \u00b617). These factual allegations sufficiently plead a breach of the duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges she stepped into the spill and slipped and fell, striking her hip (\u00b67) and that as a result she required medical treatment and therapy (\u00b612\u201313). Those allegations state that but for the spill/Defendant\u2019s failure to remedy/warn, the fall and resulting injuries would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads that spilled liquids are a foreseeable hazard likely to cause customers to slip and be injured (\u00b618) and alleges the specific spill was substantial (cart tracks) and unwarned (\u00b68\u201311). Those facts adequately allege the injuries were a foreseeable, proximate result of Defendant\u2019s conduct."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific past economic losses (\u2248$1,200 medical expenses and \u2248$800 lost wages) (\u00b613, \u00b620, \u00b622(a)\u2013(b)) and ongoing pain, disability, and future medical and wage losses (\u00b614, \u00b622(c)). These allegations sufficiently plead actual damages."
+    }
+  }
+}

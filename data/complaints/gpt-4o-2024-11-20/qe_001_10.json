@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_001_10",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "plaintiff": "Sarah Thompson",
+  "defendant": "John Mitchell"
+}

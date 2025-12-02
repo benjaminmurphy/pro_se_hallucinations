@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_006_03.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads an existing court order: paragraph 3.1 alleges a March 15, 2021 Probate and Family Court order awarding primary physical custody to Petitioner and specifying Respondent\u2019s visitation; paragraph 1.3 and venue allegations tie the order to this court."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Paragraph 7 specifically requests concrete relief: exclusion of Respondent\u2019s Partner (and similar adults) from parenting time, or alternatively supervised visitation with defined terms; it also seeks temporary/ex parte relief, background checks, and DCF/law-enforcement referral\u2014thus the requested modifications are plainly identified."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges factual changes since the prior order: Respondent now cohabits with a partner who has an assault conviction and a prior restraining order (\u00b6\u00b64.2, 6.1), and specific incidents while the children were in Respondent\u2019s care (frequent loud fights, slamming doors, a grabbing incident leaving a visible mark, and a police response) are alleged (\u00b6\u00b64.3\u20134.4, 6.1). Those allegations, if proven, sufficiently plead a material and substantial change affecting the children\u2019s safety and welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the partner\u2019s history and the described incidents present an immediate risk to the children\u2019s physical safety and emotional well\u2011being (\u00b6\u00b64.4, 6.1\u20136.2) and that the children are not exposed to such risks in Petitioner\u2019s home; it expressly bases the requested modifications on protecting the children\u2019s safety and welfare and the best\u2011interests standard (\u00b6\u00b65.1, 7.1, 6.2). These factual allegations tie the requested relief to the children\u2019s best interests."
+    }
+  }
+}

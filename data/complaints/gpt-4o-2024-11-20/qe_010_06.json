@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_010_06",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "plaintiff": "Jessica Thompson",
+  "defendant": "Karen Reynolds"
+}

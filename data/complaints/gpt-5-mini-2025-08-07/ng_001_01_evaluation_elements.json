@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_001_01.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant owned/operated the grocery store and that Plaintiff was a business invitee on the premises (\u00b6\u00b62,5) and expressly pleads the occupier\u2019s duty to keep the premises reasonably safe and to inspect/warn (\u00b616). Those factual allegations adequately establish a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific factual breaches: a large puddle of spilled milk remained (\u00b66\u20137), no warnings were posted (\u00b68), and an employee admitted noticing the spill minutes earlier but delayed cleaning (\u00b69, \u00b618). Paragraph 17 lists these failures as breaches."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Plaintiff stepped into the spilled milk and slipped and fell (\u00b66) and that, as a direct result of Defendant\u2019s negligence, she slipped and sustained a hip sprain (\u00b619). Those allegations support a but\u2011for causal link \u2014 but for the unremediated spill, the fall would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The injuries alleged (slip from a visible spill causing a hip sprain) are a foreseeable consequence of leaving a substantial puddle unremedied; the complaint pleads foreseeability and proximate cause (\u00b617\u201319). The employee\u2019s admission that he noticed the spill shortly before the fall further supports proximate causation (\u00b69, \u00b618)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete damages: past medical expenses (~$1,200, \u00b613, \u00b620(a)), past lost wages (~$1,800, \u00b613, \u00b620(b)), ongoing pain, therapy, emotional distress, and loss of enjoyment of life (\u00b611\u201314, \u00b620(c)). These allegations adequately plead actual damages."
+    }
+  }
+}

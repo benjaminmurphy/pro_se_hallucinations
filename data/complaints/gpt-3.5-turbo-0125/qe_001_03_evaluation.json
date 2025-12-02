@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_001_03.txt",
+  "scenario_id": "qe_001_03",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Massachusetts General Laws Chapter 218, Section 21": {
+      "raw_text": "Massachusetts General Laws Chapter 218, Section 21",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 218, Section 21, as the actions giving rise to this Complaint occurred within the jurisdiction of the Boston Municipal Court, Dorchester Division.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 186, Section 14": {
+      "raw_text": "Massachusetts General Laws Chapter 186, Section 14",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws Chapter 186, Section 14 guarantees tenants the right to quiet enjoyment, which includes the right to have essential services such as heat provided in a habitable condition.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973)": {
+      "raw_text": "Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973)",
+      "citation_type": "case",
+      "proposition": "Relevant case law, including Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973) and Tenneco West, Inc. v. Millison, 361 Mass. 160 (1972), establishes that a breach of the covenant of quiet enjoyment occurs when a landlord fails to provide essential services as required by law.",
+      "is_valid": true,
+      "courtlistener_id": "2000597",
+      "case_name": "Boston Housing Authority v. Hemingway",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "medium",
+      "support_reasoning": "This separate opinion discusses implying a landlord obligation tied to compliance with housing codes and suggests making the tenant\u2019s rent obligation mutually interdependent with the landlord\u2019s duty to meet those legal standards. However, it is a concurrence/dissent, not the majority holding, and it frames the issue as an implied contractual obligation/warranty based on statutes and codes, not as a breach of the covenant of quiet enjoyment. The excerpt does not establish that failure to provide essential services as required by law constitutes a breach of the covenant of quiet enjoyment, so it does not support the proposition as phrased.",
+      "relevant_excerpt": "\u201cAs the first step in the removal of the roadblock discussed above I would reverse that rule and hold instead (a) that the various statutes, ordinances, by-laws, rules, regulations and codes prescribing minimum standards for dwelling units impose on the landlord, for the benefit of his tenants, an obligation to comply with those minimum standards, and (b) that by renting such a unit the landlord impliedly agrees with his tenant (i) that at the time of the renting the unit complies with those standards and (ii) that during the term of the renting he will do whatever such legal provisions require him to do for compliance with such standards.\u201d}"
+    },
+    "Tenneco West, Inc. v. Millison, 361 Mass. 160 (1972)": {
+      "raw_text": "Tenneco West, Inc. v. Millison, 361 Mass. 160 (1972)",
+      "citation_type": "case",
+      "proposition": "Relevant case law, including Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973) and Tenneco West, Inc. v. Millison, 361 Mass. 160 (1972), establishes that a breach of the covenant of quiet enjoyment occurs when a landlord fails to provide essential services as required by law.",
+      "is_valid": true,
+      "courtlistener_id": "2075794",
+      "case_name": "Rowe Contracting Co. v. State Tax Commission",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion concerns sales and use tax exemptions for machinery and supplies used in a stone crushing operation. It does not discuss landlord\u2011tenant law, covenants of quiet enjoyment, or any duty to provide essential services. Citing this case as authority on breaches of the covenant of quiet enjoyment is therefore inaccurate and unrelated to the proposition stated.",
+      "relevant_excerpt": "The question for decision is the extent to which the statute (c. 14) exempts from excise the acquisition or use of machinery, machinery parts, and supplies used or consumed in the taxpayer\u2019s stone crushing operations."
+    }
+  }
+}

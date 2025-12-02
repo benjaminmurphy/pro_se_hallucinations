@@ -1,0 +1,137 @@
+COMMONWEALTH OF MASSACHUSETTS
+HAMPDEN COUNTY SUPERIOR COURT
+
+Carlos Martinez,                           )
+    Plaintiff                             )
+                                          )
+v.                                        )   Civil Action No. ____________
+                                          )
+Thomas Reed,                              )
+    Defendant                             )
+
+COMPLAINT — NEGLIGENCE
+
+PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Carlos Martinez ("Plaintiff") is an individual residing at 123 Maple Street, Springfield, Hampden County, Massachusetts.
+
+2. Defendant Thomas Reed ("Defendant") is an individual who, upon information and belief, resides in Springfield, Massachusetts and at all relevant times resided next door to Plaintiff and shared the driveway at 123 Maple Street, Springfield, Massachusetts.
+
+3. Venue is proper in Hampden County Superior Court pursuant to the Massachusetts venue statutes because the acts and omissions giving rise to this action occurred in Hampden County and Defendant resides in Hampden County.
+
+4. This Court has jurisdiction over the subject matter and the parties.
+
+FACTS
+
+5. Plaintiff and Defendant are neighbors who each occupy separate units in a duplex and share a common driveway located at 123 Maple Street, Springfield, Massachusetts.
+
+6. Defendant kept a tall aluminum extension ladder propped and leaning against the wooden fence that runs along the shared driveway, adjacent to the area where Plaintiff routinely parked and backed his vehicle.
+
+7. Plaintiff, on multiple occasions prior to the incident, told Defendant that the ladder was unsecured, that it worried Plaintiff that it might fall onto Plaintiff’s vehicle, and that wind could tip the ladder over. Defendant acknowledged those statements and said he would tie the ladder down or otherwise secure or move it, but Defendant failed to do so.
+
+8. On or about March 15, 2023, during a windy day, Plaintiff was backing his vehicle into the shared driveway at 123 Maple Street.
+
+9. A gust of wind caused the unsecured ladder that Defendant had left propped against the fence to tip over and fall onto Plaintiff’s vehicle, striking the hood and the windshield.
+
+10. As a direct result, Plaintiff’s vehicle sustained damage to the hood and a cracked windshield. The vehicle remained operable, but required bodywork and windshield replacement.
+
+11. Plaintiff incurred out-of-pocket expenses including, but not limited to, the vehicle insurance deductible and costs of renting a replacement vehicle for more than a week while his vehicle was being repaired.
+
+12. Plaintiff has sustained property damage and related consequential economic losses as a result of Defendant’s conduct.
+
+CAUSE OF ACTION
+Count I — Negligence
+
+13. Plaintiff incorporates by reference paragraphs 1 through 12 as if fully set forth herein.
+
+14. At all relevant times, Defendant owed Plaintiff and other foreseeable persons using the shared driveway a duty to exercise reasonable care in storing, securing, and maintaining items on or adjacent to the shared driveway in a manner that would not create an unreasonable risk of harm or damage to persons or property.
+
+15. Defendant breached that duty by negligently leaving a tall aluminum extension ladder unsecured and propped against the wooden fence adjacent to the driveway, despite being on notice from Plaintiff that the ladder posed a risk and that Defendant had promised to secure or move it.
+
+16. Defendant’s failure to secure or move the ladder was negligent because a reasonably prudent person in Defendant’s position would have recognized the risk and taken reasonable steps to secure, move, or otherwise prevent the ladder from falling.
+
+17. The foreseeable and natural consequence of Defendant’s breach was that the unsecured ladder could fall in windy conditions and strike vehicles or persons using the driveway. The ladder did, in fact, fall and strike Plaintiff’s vehicle.
+
+18. Defendant’s negligence was the direct and proximate cause of the damage to Plaintiff’s vehicle and the consequential expenses Plaintiff incurred.
+
+19. As a direct and proximate result of Defendant’s negligence, Plaintiff has suffered damages, including property damage to his vehicle, expenses for repair and windshield replacement, insurance deductible payments, rental-car expenses while his vehicle was repaired, and other damages to be proven at trial.
+
+CLAIM FOR RELIEF — NEGLIGENCE
+(Elements: duty, breach, causation, damages)
+
+20. Plaintiff restates and realleges the allegations in paragraphs 1 through 19.
+
+21. Defendant had a legal duty to exercise reasonable care in the storage and maintenance of the ladder on property adjoining the shared driveway.
+
+22. Defendant breached that duty by failing to secure or remove the ladder after being warned of the risk.
+
+23. Defendant’s breach was the proximate cause of Plaintiff’s vehicle damage and related economic losses.
+
+24. Plaintiff suffered actual, compensable damages proximately caused by Defendant’s negligence.
+
+STATUTE OF LIMITATIONS
+
+25. Plaintiff brings this action within the time allowed by Massachusetts law for tort actions. Pursuant to Mass. Gen. Laws ch. 260, § 2A, actions of tort for personal injury or property damage must be commenced within three years after the cause of action accrues. The subject incident occurred on March 15, 2023; this Complaint is filed within the statutory period.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Carlos Martinez respectfully requests that this Court enter judgment in his favor and against Defendant Thomas Reed as follows:
+
+A. Compensatory damages in an amount to be proven at trial, including but not limited to: costs of repairs to the vehicle (including hood repair and windshield replacement), insurance deductible(s) paid by Plaintiff, rental vehicle expenses and other reasonable transportation expenses incurred while Plaintiff’s vehicle was being repaired, and any other economic losses proximately caused by Defendant’s negligence;
+
+B. Costs of suit, including reasonable attorneys’ fees if authorized by law;
+
+C. Pre- and post-judgment interest as allowed by law;
+
+D. Such other and further relief as the Court deems just and proper.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+DATED: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Carlos Martinez
+Carlos Martinez
+Plaintiff, Pro Se
+123 Maple Street
+Springfield, MA
+Tel: (617) 555-0123
+Email: psm1443@gmail.com
+
+AUTHORITIES (SELECTED)
+
+For the Court’s convenience, and in support of the legal theories invoked (duty, breach, causation, damages, and timeliness), Plaintiff cites the following representative authorities governing negligence and related procedural matters in Massachusetts and general tort law principles:
+
+Statutes
+- Mass. Gen. Laws ch. 260, § 2A (statute of limitations for tort actions).
+- Mass. Gen. Laws ch. 231, § 85 (provisions concerning comparative liability/apportionment) and other provisions governing civil actions (see Mass. Gen. Laws ch. 231).
+
+Restatement and Treatises
+- Restatement (Second) of Torts §§ 282–283 (duty), § 321 (causation), § 323 (physical harm), § 324A (negligent performance of acts), and related sections setting forth the elements of negligence and proximate cause.
+- Prosser and Keeton on Torts (5th ed.) (general treatise on duty, breach, causation, and damages).
+
+Leading Authority on Duty and Foreseeability
+- Palsgraf v. Long Island R. Co., 248 N.Y. 339 (1928) (foreseeability and proximate cause principles).
+- Donoghue v. Stevenson [1932] A.C. 562 (establishing general duty of care principles).
+
+Massachusetts Case Law (Representative principles; Plaintiff relies on Massachusetts common-law negligence principles as developed by the Supreme Judicial Court and lower courts)
+- Massachusetts cases applying common-law negligence principles and foreseeability/duty concepts (Plaintiff will cite controlling SJC and Appellate Division precedent at or before trial and in any pretrial filings as appropriate).
+
+Plaintiff reserves the right to supplement and to cite additional Massachusetts statutes and cases and to provide pinpoint citations in pretrial briefs, motions, and at trial as discovery and further legal research proceed.
+
+CERTIFICATE OF SERVICE
+
+I certify that a true copy of the foregoing Complaint was served upon the Defendant in accordance with the Massachusetts Rules of Civil Procedure.
+
+DATED: December 1, 2025
+
+/s/ Carlos Martinez
+Carlos Martinez
+Plaintiff, Pro Se
+
+---
+
+Note: This pleading is prepared for filing by the pro se Plaintiff. The Complaint sets forth claims for negligence based on the facts provided. Plaintiff intends to and may, as the case proceeds, cite and rely upon specific Massachusetts Supreme Judicial Court and Appeals Court decisions interpreting duty, breach, causation, and comparative fault, together with supporting statutory authority and secondary sources.

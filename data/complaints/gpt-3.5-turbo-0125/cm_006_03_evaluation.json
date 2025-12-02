@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_006_03.txt",
+  "scenario_id": "cm_006_03",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 5,
+  "case_citations": 4,
+  "statute_citations": 1,
+  "valid_citations": 3,
+  "invalid_citations": 1,
+  "supported_propositions": 1,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Massachusetts General Laws Chapter 208, Section 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "A. Massachusetts General Laws Chapter 208, Section 28 provides that custody orders may be modified upon a showing of a substantial and material change in circumstances.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Blixt v. Blixt, 437 Mass. 649 (2002)": {
+      "raw_text": "Blixt v. Blixt, 437 Mass. 649 (2002)",
+      "citation_type": "case",
+      "proposition": "B. The Massachusetts courts have consistently held that the primary consideration in custody matters is the best interests of the child. See Blixt v. Blixt, 437 Mass. 649 (2002); Ross v. Ross, 385 Mass. 30 (1982).",
+      "is_valid": true,
+      "courtlistener_id": "6578569",
+      "case_name": "Blixt v. Blixt",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion explicitly states that the \u2018best interests of the child\u2019 standard has long been used in Massachusetts to decide issues of custody and visitation and other child welfare matters. While Blixt is a grandparent-visitation case, the court directly characterizes best interests as the traditional governing standard in Massachusetts custody/visitation jurisprudence, thereby supporting the proposition about the primary consideration in custody matters.",
+      "relevant_excerpt": "\u201cThe statute adopts the \u2018best interests of the child\u2019 standard as the test for determining visitation. This standard has long been used in Massachusetts to decide issues of custody and visitation and other issues relating to child welfare.\u201d"
+    },
+    "Ross v. Ross, 385 Mass. 30 (1982)": {
+      "raw_text": "Ross v. Ross, 385 Mass. 30 (1982)",
+      "citation_type": "case",
+      "proposition": "B. The Massachusetts courts have consistently held that the primary consideration in custody matters is the best interests of the child. See Blixt v. Blixt, 437 Mass. 649 (2002); Ross v. Ross, 385 Mass. 30 (1982).",
+      "is_valid": true,
+      "courtlistener_id": "2025168",
+      "case_name": "Ross v. Ross",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Ross v. Ross is a property division, alimony, and separate support arrearages case. The opinion does not address child custody, parental rights, or articulate any \u2018best interests of the child\u2019 standard, nor does it contain language about the primary consideration in custody matters. Citing Ross for that custody proposition is therefore inaccurate.",
+      "relevant_excerpt": null
+    },
+    "Department of Soc. Servs. v. Ziemba, 73 Mass. App. Ct. 498 (2009)": {
+      "raw_text": "Department of Soc. Servs. v. Ziemba, 73 Mass. App. Ct. 498 (2009)",
+      "citation_type": "case",
+      "proposition": "C. Further, the presence of individuals with known histories of violence and aggression in close proximity to the children has been deemed detrimental to the children's well-being by the Massachusetts courts. See Department of Soc. Servs. v. Ziemba, 73 Mass. App. Ct. 498 (2009); Heistand v. Heistand, 384 Mass. 20 (1981).",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Heistand v. Heistand, 384 Mass. 20 (1981)": {
+      "raw_text": "Heistand v. Heistand, 384 Mass. 20 (1981)",
+      "citation_type": "case",
+      "proposition": "C. Further, the presence of individuals with known histories of violence and aggression in close proximity to the children has been deemed detrimental to the children's well-being by the Massachusetts courts. See Department of Soc. Servs. v. Ziemba, 73 Mass. App. Ct. 498 (2009); Heistand v. Heistand, 384 Mass. 20 (1981).",
+      "is_valid": true,
+      "courtlistener_id": "2100642",
+      "case_name": "Heistand v. Heistand",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Heistand v. Heistand does not address the effect on children of being in proximity to individuals with histories of violence or aggression. It concerns alimony termination, modification of child support based on income changes, tax allocation, and related procedural issues. There is no discussion of third parties\u2019 violent tendencies, child safety risks, or findings that such proximity is detrimental to children\u2019s well-being, so it does not support the cited proposition.",
+      "relevant_excerpt": "In this case the judge rejected the plaintiff\u2019s request for modification to require that the defendant pay for the expense of orthodontic treatment for one of the minor children. She correctly applied the standard in ruling that the child\u2019s orthodonture needs, which existed prior to the judgment, were not subject to modification. ... The judge did order modification on the single basis of the plaintiff\u2019s amended complaint, viz., that the defendant\u2019s salary had increased since entry of the nisi judgment."
+    }
+  }
+}

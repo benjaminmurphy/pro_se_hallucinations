@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_008_04.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff is a tenant at 45 Broadway St, began tenancy on June 1, 2022, pays monthly rent of $1,600, and identifies Defendant as the owner and landlord of the building \u2014 facts that establish a landlord\u2013tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant was notified about a broken main entry door lock (in or about October 2025), promised to fix it, was reminded on two occasions, but did not repair or secure the Door and minimized the problem \u2014 an alleged omission/failure to act by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges unauthorized persons entered through the unsecured Door, multiple tenants had packages stolen, Plaintiff lost a package (~$120), observed evidence of someone sleeping in the basement (causing fear for personal safety), and incurred security expenses \u2014 facts alleging more than minor annoyance and a substantial, objectively reasonable interference with use and enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a causal chain: the Door\u2019s broken lock did not latch, Defendant was put on notice and failed to repair or secure it, unauthorized entry occurred through the unsecured Door leading to thefts and the presence of unauthorized occupants \u2014 alleging proximate causation between Defendant\u2019s omission and the interference/losses."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint quantifies economic losses ($120 stolen package + ~$200 in security expenditures = ~$320), and alleges emotional distress/fear and loss of use and enjoyment; these allegations sufficiently plead damages for purposes of a complaint."
+    }
+  }
+}

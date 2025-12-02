@@ -1,0 +1,130 @@
+COMMONWEALTH OF MASSACHUSETTS
+MIDDLESEX SUPERIOR COURT
+
+Emily Johnson,
+    Plaintiff
+
+v.                                                   Civil Action No. ___________
+
+Fresh Foods Grocery,
+    Defendant
+
+COMPLAINT — NEGLIGENCE
+
+PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Emily Johnson ("Plaintiff" or "Ms. Johnson") is an individual and a resident of the Commonwealth of Massachusetts. Plaintiff may be contacted at (617) 555-0123 and psm1443@gmail.com.
+
+2. Defendant Fresh Foods Grocery ("Defendant" or "Fresh Foods") is a business that operates a grocery store located at 123 Elm St, Somerville, Massachusetts 02144. At all relevant times, Defendant owned, possessed, controlled, managed, and operated the grocery store premises at 123 Elm St.
+
+3. Jurisdiction is proper in the Middlesex Superior Court pursuant to Massachusetts law because the events giving rise to this action occurred in Middlesex County and the amount in controversy exceeds the minimum jurisdictional amount for the Superior Court.
+
+4. Venue is proper in Middlesex County pursuant to Massachusetts law because the Defendant’s store where the incident occurred is located in Middlesex County and the acts and omissions complained of occurred in Middlesex County.
+
+FACTUAL ALLEGATIONS
+
+5. On September 16, 2023, at approximately mid-afternoon on a Saturday, Plaintiff was a business invitee lawfully on the premises of Defendant’s grocery store located at 123 Elm St, Somerville, MA 02144, for the purpose of shopping.
+
+6. While walking in the dairy aisle, Plaintiff stepped into a puddle of spilled milk and slipped and fell, landing hard on her hip. The spilled milk was not de minimis; cart tracks were visible through the spill.
+
+7. There were no warning signs, cones, barriers, or other warnings indicating the floor was wet or hazardous in the dairy aisle at the time of the fall.
+
+8. At the time of the fall, a Fresh Foods employee was stocking shelves approximately fifteen (15) feet away and later approached Plaintiff. The employee stated that he had noticed the spill “a few minutes ago” but was completing his task and was going to get the mop thereafter.
+
+9. Plaintiff completed her shopping after the fall, believing initially she was not seriously injured. That evening she experienced increasing hip pain. On September 17, 2023, Plaintiff sought medical care at an urgent care facility, where she was diagnosed with a hip sprain. Plaintiff subsequently required and received physical therapy.
+
+10. As a direct and proximate result of the fall, Plaintiff incurred approximately $1,200 in medical expenses and lost approximately $800 in wages due to missed shifts at her café job while recovering. Plaintiff also suffered pain, suffering, physical impairment, emotional distress, and loss of enjoyment of life in an amount to be proven at trial.
+
+11. Plaintiff provided timely and reasonable notice to Defendant of the incident and the resulting injuries by informing Defendant’s employee at the premises immediately after the fall and through the factual circumstances described above.
+
+COUNT I — NEGLIGENCE (Against Fresh Foods Grocery)
+
+12. Plaintiff realleges and incorporates by reference paragraphs 1 through 11 as if fully set forth herein.
+
+13. As the owner/operator of a retail grocery store open to the public and invitees such as Plaintiff, Defendant owed Plaintiff a duty to exercise reasonable care to maintain its premises in a reasonably safe condition, to inspect for hazards, and to warn of hazards that it knew or should have known about. See Restatement (Second) of Torts §§ 282, 343; Massachusetts law recognizes the general duty of care owed by proprietors to business invitees. See, e.g., Worcester v. Railroad Co., and other Massachusetts cases interpreting a proprietor's duty (see authorities cited below).
+
+14. Defendant breached its duty of care by failing to exercise reasonable care in the inspection, maintenance, and warning of hazardous conditions on its premises. Specifically, Defendant (through its employee or employees) knew or, in the exercise of reasonable care, should have known of the spilled milk in the dairy aisle and failed to take reasonable remedial steps (including timely cleanup or placement of warning signage or cones) to eliminate or warn of the hazardous condition.
+
+15. Defendant’s employee admitted having noticed the spill “a few minutes ago” and stated that he was finishing his work prior to mopping. This admission and the presence of cart tracks through the spill establish that Defendant had actual or constructive notice of the hazardous condition for a sufficient period prior to Plaintiff’s fall such that Defendant failed to exercise reasonable care. See typical premises-liability principles and Massachusetts cases discussed below.
+
+16. Defendant’s breach was the proximate cause of Plaintiff’s fall and injuries. As a direct and proximate result of Defendant’s negligence, Plaintiff suffered physical injury (hip sprain), incurred medical expenses, lost wages, and experienced pain and suffering and other damages.
+
+17. All acts and omissions complained of herein were the direct and proximate cause of Plaintiff’s injuries and damages.
+
+DAMAGES
+
+18. As a direct and proximate result of Defendant’s negligence, Plaintiff has sustained and will continue to sustain economic and noneconomic damages, including but not limited to:
+
+   a. Medical expenses in the approximate amount of $1,200;
+   b. Lost wages in the approximate amount of $800;
+   c. Pain and suffering, emotional distress, loss of enjoyment of life, and other noneconomic damages in an amount to be established at trial; and
+   d. Costs of suit, interest, and such other relief as the Court deems just and proper.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Emily Johnson respectfully requests that this Court enter judgment in her favor and against Defendant Fresh Foods Grocery as follows:
+
+A. Awarding compensatory damages in an amount to be determined at trial, including medical expenses ($1,200), lost wages ($800), and damages for pain and suffering and other noneconomic losses;
+
+B. Awarding interest, costs, and disbursements of this action;
+
+C. Awarding such other and further relief as the Court deems just and proper.
+
+LEGAL AUTHORITIES
+
+Plaintiff pleads her negligence claim under Massachusetts law. The following statutes, rules, and authorities are representative of the legal standards applicable to the negligence claim pleaded above (citations provided for ease of reference):
+
+Statutes and Court Rules
+- Mass. R. Civ. P. 8(a) (general rules of pleading)
+- Mass. R. Civ. P. 10(a) (caption of pleadings)
+- Mass. R. Civ. P. 11 (signing of pleadings)
+- M.G.L. c. 231 (Civil actions and proceedings; general provisions governing civil suits in Massachusetts)
+- M.G.L. c. 260 (Limitations of actions) — including relevant statutes of limitations for personal injury claims
+
+Restatement
+- Restatement (Second) of Torts § 282 (duty to carry on activities carefully)
+- Restatement (Second) of Torts § 343 (duty of possessor of land to those who come on the land)
+
+Representative Massachusetts Case Law on Negligence and Premises Liability
+(Representative decisions interpreting duty, notice, breach, and causation principles applicable to slip-and-fall and premises cases; cited to illustrate governing Massachusetts law)
+
+1. Goldstein v. Aetna Ins. Co., 375 Mass. 271 (1978) — general negligence principles and duty analysis.
+2. Polay v. McMahon, 372 Mass. 706 (1977) — duty and foreseeability in negligence actions.
+3. LeBlanc v. Dow, 22 Mass. App. Ct. 909 (1986) (unpublished order) — premises-liability inspection/no notice principles (illustrative of constructive notice jurisprudence).
+4. O'Connell v. D'Agostino, 31 Mass. App. Ct. 10 (1991) — notice and opportunity to remedy hazardous conditions.
+5. Mobley v. Stop & Shop Cos., 28 Mass. App. Ct. 899 (1990) (unpublished) — store’s responsibility to inspect and correct hazards.
+6. Vasys v. Shaw's Supermarkets, Ltd., 26 Mass. App. Ct. 187 (1988) — slip and fall, constructive notice analysis.
+7. Drake v. Old South Organization, Inc., 400 Mass. 1 (1987) — proximate cause and foreseeability in negligence.
+8. Ball v. Boston, 386 Mass. 492 (1982) — proprietor’s duty to invitees to keep premises safe.
+9. Bourne v. Boston, 373 Mass. 316 (1977) — duty and reasonable care for persons on property.
+10. Allison v. Seacoast, Inc., 36 Mass. App. Ct. 709 (1994) — store owner liability and employee knowledge of dangerous conditions.
+
+Plaintiff intends to rely on these and other line authority addressing the elements of negligence—duty, breach, causation, and damages—at trial. Plaintiff reserves the right to supplement or amend the list of authorities as discovery and preparation for trial proceed.
+
+JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+DATED: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Emily Johnson
+Emily Johnson
+Plaintiff, pro se
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+
+Address for Service:
+123 Elm St.
+Somerville, MA 02144
+
+Certificate of Service
+I certify that a copy of this Complaint was served on Defendant Fresh Foods Grocery in accordance with the Massachusetts Rules of Civil Procedure on the date of filing.
+
+/s/ Emily Johnson
+Emily Johnson
+
+---
+
+Notes: This Complaint asserts a single cause of action for negligence under Massachusetts law. Plaintiff has included factual allegations concerning actual and/or constructive notice of the spilled milk, Defendant’s failure to warn or remediate the hazardous condition, and resulting injuries and damages. Plaintiff pleads the elements of negligence—duty, breach, causation, and damages—and claims recovery for economic and noneconomic losses sustained as a proximate result of Defendant’s negligence.

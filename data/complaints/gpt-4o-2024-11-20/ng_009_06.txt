@@ -1,0 +1,122 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**LYNN DISTRICT COURT**  
+
+---
+
+**Jessica Harper,**  
+**Plaintiff,**  
+v.  
+**Franklin Properties LLC,**  
+**Defendant.**  
+
+**Civil Action No.: [To Be Assigned]**
+
+---
+
+**COMPLAINT AND JURY DEMAND**
+
+**PARTIES**
+
+1. Plaintiff, Jessica Harper ("Plaintiff"), is an individual residing at 23 Maple Street, Apt. 3, Lynn, Massachusetts.
+   
+2. Defendant, Franklin Properties LLC ("Defendant"), is a limited liability company duly organized under the laws of Massachusetts with its principal place of business located at [insert principal office address, if known]. Defendant is the owner and property manager of the residential building located at 23 Maple Street, Lynn, Massachusetts ("the Property").
+
+**JURISDICTION AND VENUE**
+
+3. This Court has jurisdiction over this matter pursuant to G.L. c. 223, § 2, as the Defendant operates and owns property within the Commonwealth of Massachusetts. 
+
+4. Venue is proper in this Court pursuant to G.L. c. 223, § 1, as the Plaintiff resides at the Property in Lynn, Massachusetts, where the events giving rise to this Complaint occurred.
+
+**FACTUAL ALLEGATIONS**
+
+5. At all relevant times, Plaintiff was a lawful tenant of Defendant at the Property.
+
+6. Defendant, as the landlord and owner of the Property, owed all tenants, including Plaintiff, a duty to maintain the Property in a reasonably safe condition, including the obligation to ensure the proper installation and maintenance of smoke detection systems, as required by Massachusetts law.
+
+7. Pursuant to G.L. c. 148, § 26E, and Massachusetts fire safety regulations, Defendant was required to provide functioning smoke detectors in common hallways of multi-family residential buildings.
+
+8. In or about late March 2025, Plaintiff became aware that the smoke detector located in the common hallway outside her apartment unit on the third floor was emitting repeated "chirping" sounds indicating a low battery.
+
+9. Shortly thereafter, an unidentified individual removed the battery from the smoke detector in the hallway to silence the noise, rendering the detector non-functional.
+
+10. Plaintiff personally notified Defendant on at least three occasions—once in April 2025, again in May 2025, and a final time in July 2025—that the hallway smoke detector outside her apartment was non-functional, having been disabled due to the removal of the battery.
+
+11. On each occasion, Defendant expressly assured Plaintiff that the issue would be "taken care of," but failed to take any action to replace the battery or otherwise address the issue.
+
+12. At approximately 11:30 p.m. on September 1, 2023, a fire broke out in the kitchen of a first-floor apartment at the Property.
+
+13. Due to the lack of a functional smoke detector in the common hallway outside Plaintiff's unit, Plaintiff and her family members, who were inside the apartment at the time, received no advance notice of the fire before smoke began to fill the building.
+
+14. Plaintiff first became aware of the fire when she smelled smoke entering her apartment, by which time the hallway was already thick with smoke, making escape difficult and hazardous.
+
+15. Plaintiff sustained smoke inhalation and respiratory distress while attempting to exit the building safely. She was transported to [hospital name, if known] for emergency treatment and subsequently released after an overnight stay.
+
+16. As a direct and proximate result of Defendant's failure to maintain functional smoke detectors at the Property, Plaintiff suffered physical injury, emotional distress, loss of personal property due to smoke and water damage, and financial losses, including but not limited to medical expenses and lost wages.
+
+**CAUSE OF ACTION**  
+**(NEGLIGENCE)**
+
+17. Plaintiff incorporates by reference each of the preceding paragraphs as if fully set forth herein.
+
+18. Defendant owed a duty of care to Plaintiff and other tenants of the Property to maintain the premises in a reasonably safe condition and in compliance with applicable building and fire safety codes, including ensuring the presence and operability of smoke detectors in common areas.
+
+19. Defendant breached its duty by failing to:
+
+   a. Maintain the functional operability of the smoke detector in the third-floor common hallway of the Property, as required by G.L. c. 148, § 26E;  
+   b. Timely replace or repair the smoke detector battery when notified of its removal; and  
+   c. Adequately inspect, maintain, and oversee the safety systems of the Property in a reasonable and professional manner.
+
+20. Defendant's failure to maintain a functional smoke detection system created a foreseeable and unreasonable risk of harm to tenants, including Plaintiff.
+
+21. As a direct and proximate result of Defendant's negligence, Plaintiff suffered significant physical and emotional injuries, as well as financial losses.
+
+22. Defendant's conduct constituted a breach of ordinary care under the circumstances and a violation of statutory duties under G.L. c. 148, § 26E, as well as building and fire safety regulations promulgated by the Massachusetts Office of Public Safety and Inspections.
+
+23. Defendant’s failure to comply with mandatory fire safety standards constitutes negligence per se under Massachusetts law. See, e.g., *St. Germaine v. Pendergast*, 411 Mass. 615 (1992).
+
+**DAMAGES**
+
+24. As a direct and proximate result of Defendant’s negligence, Plaintiff suffered the following damages:
+
+   a. Medical expenses in the amount of approximately $4,200, attributable to treatment of her smoke inhalation and respiratory distress;  
+   b. Lost wages in the approximate amount of $1,500 due to missed work caused by her injuries;  
+   c. Permanent respiratory complications and emotional distress caused by the traumatic nature of the fire and its aftermath;  
+   d. Loss of personal property as a result of smoke and water damage to Plaintiff’s belongings.
+
+**LEGAL AUTHORITIES**
+
+25. The Plaintiff’s claim is supported by longstanding Massachusetts case law and statutes, including but not limited to:  
+   - G.L. c. 148, § 26E (requiring functional smoke detectors in multi-unit residences);  
+   - *Pridgen v. Boston Housing Authority*, 364 Mass. 696 (1974) (landlords have a duty of reasonable care to maintain safe premises for tenants);  
+   - *Young v. Garwacki*, 380 Mass. 162 (1980) (failure to fulfill statutory safety requirements may constitute negligence);  
+   - *Lindberg v. Rankin*, 372 Mass. 475 (1977) (landlord's obligations to protect tenants against foreseeable risks);  
+   - *Kingston v. Meadow Green-Wildcat Corp.*, 19 Mass. App. Ct. 630 (1985) (negligent maintenance of common areas creating liability for injuries);  
+   - *Sheehan v. Weaver*, 467 Mass. 734 (2014) (affirming landlord's duty of reasonable care);  
+   - G.L. c. 186, § 15 (landlord's obligation for habitability);  
+   - G.L. c. 93A, § 2 (unfair or deceptive practices of landlords);  
+   - Massachusetts fire safety regulations, 527 C.M.R. § 1.10.1.1;  
+   - *Coughlin v. Pitman*, 407 Mass. 724 (1990) (violations of safety statutes as evidence of negligence).
+
+**PRAYER FOR RELIEF**
+
+WHEREFORE, Plaintiff Jessica Harper demands judgment against Defendant Franklin Properties LLC as follows:
+
+1. For compensatory damages in an amount to be determined at trial;  
+2. For Plaintiff’s costs and reasonable attorneys’ fees, if applicable;  
+3. For pre-judgment and post-judgment interest as permitted by law;  
+4. For such other and further relief as the Court deems just and proper.
+
+**JURY DEMAND**
+
+Plaintiff hereby demands a trial by jury on all claims so triable.
+
+Respectfully submitted,  
+
+**Jessica Harper,**  
+**Pro Se Plaintiff**  
+23 Maple Street, Apt. 3  
+Lynn, MA 01902  
+Tel.: (617) 555-0123  
+Email: psm1443@gmail.com  
+
+**Dated**: December 1, 2025

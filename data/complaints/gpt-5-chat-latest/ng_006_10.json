@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_006_10",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Mark Johnson",
+  "defendant": "Ryan Smith"
+}

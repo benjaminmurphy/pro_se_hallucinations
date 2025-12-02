@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_008_04.txt",
+  "scenario_id": "ng_008_04",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Mass. Gen. Laws Ann. ch. 218, \u00a7 4": {
+      "raw_text": "Mass. Gen. Laws Ann. ch. 218, \u00a7 4",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Mass. Gen. Laws Ann. ch. 218, \u00a7 4, as the amount in controversy exceeds the jurisdictional minimum.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Golston v. Boston Restaurant Associates, Inc., 409 Mass. 277 (1991).": {
+      "raw_text": "Golston v. Boston Restaurant Associates, Inc., 409 Mass. 277 (1991).",
+      "citation_type": "case",
+      "proposition": "Defendant Quincy Bistro LLC owed a duty of care to maintain safe premises for its patrons under the principles of common law negligence as recognized in Golston v. Boston Restaurant Associates, Inc., 409 Mass. 277 (1991).",
+      "is_valid": true,
+      "courtlistener_id": "2091243",
+      "case_name": "Commonwealth v. White",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Golston v. Boston Restaurant Associates, Inc., 409 Mass. 277 (1991), as excerpted here, does not address premises liability, duties of care owed by a business to patrons, or common-law negligence standards for maintaining safe premises. Instead, it concerns a criminal rape conviction and an ineffective assistance of counsel claim. Because the case does not discuss a restaurant\u2019s or bar\u2019s duty to maintain safe premises for patrons, it cannot serve as authority for the proposition that Quincy Bistro LLC owed such a duty.",
+      "relevant_excerpt": "For the defendant to prevail on his claim of ineffective assistance of counsel, we must conclude, first, that defense counsel\u2019s performance fell \u201cmeasurably below that which might be expected from an ordinary fallible lawyer\u201d and, second, that the defendant\u2019s case was prejudiced by counsel\u2019s conduct such that the conduct \u201chas likely deprived the defendant of an otherwise available, substantial ground of defence.\u201d Commonwealth v. Saferian, 366 Mass. 89, 96 (1974)."
+    },
+    "Cimino v. Milford Keg, Inc., 385 Mass. 323 (1982).": {
+      "raw_text": "Cimino v. Milford Keg, Inc., 385 Mass. 323 (1982).",
+      "citation_type": "case",
+      "proposition": "Defendant's negligence was the direct and proximate cause of Plaintiff's injuries and resulting damages, in violation of the standards set forth in Cimino v. Milford Keg, Inc., 385 Mass. 323 (1982).",
+      "is_valid": true,
+      "courtlistener_id": "2038751",
+      "case_name": "Cimino v. Milford Keg, Inc.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion directly addresses proximate cause and holds that a tavern\u2019s negligent service of alcohol to an intoxicated patron can be found by a jury to be the proximate cause of injuries suffered by third parties on the highway. The court explains that, given the foreseeability of drunk driving, serving an intoxicated patron may constitute negligence and that resulting highway injuries fall within the scope of the foreseeable risk, thus supporting the proposition that defendant\u2019s negligence was the direct and proximate cause of plaintiff\u2019s injuries and damages.",
+      "relevant_excerpt": "\u201cTherefore, evidence that a tavern keeper served intoxicating liquor to a patron the tavern keeper knew, or reasonably should have known, was intoxicated is sufficient to warrant a jury finding that the tavern keeper took such a risk, and that injuries to a highway traveler as a result of being struck by a vehicle improperly operated by the intoxicated patron, due to his intoxication, were proximately caused by the tavern keeper\u2019s negligent act.\u2026 A jury may also infer that service of liquor to an intoxicated patron is the proximate cause of injuries sustained by a traveler\u2026.\u201d"
+    }
+  }
+}

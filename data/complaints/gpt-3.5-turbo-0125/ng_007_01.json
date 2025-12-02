@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_007_01",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "plaintiff": "Jason Callahan",
+  "defendant": "Brockton Community Center"
+}

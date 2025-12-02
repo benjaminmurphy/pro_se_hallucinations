@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_009_02.txt",
+  "scenario_id": "qe_009_02",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant statutes)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant statutes)",
+      "citation_type": "statute",
+      "proposition": "See Mass. Gen. Laws ch. 186 (Landlord and Tenant statutes) and the Code of Massachusetts Regulations governing housing standards, including 105 CMR 410.000: Minimum Standards of Fitness for Human Habitation.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000: Minimum Standards of Fitness for Human Habitation.": {
+      "raw_text": "105 CMR 410.000: Minimum Standards of Fitness for Human Habitation.",
+      "citation_type": "statute",
+      "proposition": "See Mass. Gen. Laws ch. 186 (Landlord and Tenant statutes) and the Code of Massachusetts Regulations governing housing standards, including 105 CMR 410.000: Minimum Standards of Fitness for Human Habitation.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary process)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary process)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on, and preserves, all applicable statutory and common-law authorities concerning landlord obligations, quiet enjoyment, repairs, and tenant remedies, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 (public health statutes governing local boards of health and housing complaints)": {
+      "raw_text": "Mass. Gen. Laws ch. 111 (public health statutes governing local boards of health and housing complaints)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on, and preserves, all applicable statutory and common-law authorities concerning landlord obligations, quiet enjoyment, repairs, and tenant remedies, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 4": {
+      "raw_text": "Mass. R. Civ. P. 4",
+      "citation_type": "statute",
+      "proposition": "- Arrange proper service of the Complaint and Summons on Defendant in accordance with Massachusetts law (see Mass. R. Civ. P. 4 and related statutes).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

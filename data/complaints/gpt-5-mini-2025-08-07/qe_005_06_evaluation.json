@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_005_06.txt",
+  "scenario_id": "qe_005_06",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186": {
+      "raw_text": "Mass. Gen. Laws ch. 186",
+      "citation_type": "statute",
+      "proposition": "See, e.g., Massachusetts case law recognizing and applying the covenant of quiet enjoyment; the general landlord-tenant statutory framework in Massachusetts (Mass. Gen. Laws ch. 186) and other authorities governing landlord duties and tenant remedies are applicable.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (summary process)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (summary process)",
+      "citation_type": "statute",
+      "proposition": "(Authorities relevant to the covenant of quiet enjoyment and landlord obligations include, by way of example and not limitation: Mass. Gen. Laws ch. 186; Mass. Gen. Laws ch. 239 (summary process) and related provisions; Mass. Gen. Laws ch. 93A (for some contexts of landlord conduct); the State Sanitary Code and 105 CMR 410.000 (habitable housing standards); and Massachusetts caselaw addressing landlord obligations and the covenant of quiet enjoyment.)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A (for some contexts of landlord conduct)": {
+      "raw_text": "Mass. Gen. Laws ch. 93A (for some contexts of landlord conduct)",
+      "citation_type": "statute",
+      "proposition": "(Authorities relevant to the covenant of quiet enjoyment and landlord obligations include, by way of example and not limitation: Mass. Gen. Laws ch. 186; Mass. Gen. Laws ch. 239 (summary process) and related provisions; Mass. Gen. Laws ch. 93A (for some contexts of landlord conduct); the State Sanitary Code and 105 CMR 410.000 (habitable housing standards); and Massachusetts caselaw addressing landlord obligations and the covenant of quiet enjoyment.)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "the State Sanitary Code": {
+      "raw_text": "the State Sanitary Code",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on and invokes applicable Massachusetts common law principles regarding landlord liability for interference with quiet enjoyment, and on statutes and regulations that identify and define landlord obligations with respect to condition and use of residential premises, including the State Sanitary Code, and on all relevant Massachusetts authority that recognizes remedies for tenants injured by substantial and continuing interference.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 (habitable housing standards)": {
+      "raw_text": "105 CMR 410.000 (habitable housing standards)",
+      "citation_type": "statute",
+      "proposition": "(Authorities relevant to the covenant of quiet enjoyment and landlord obligations include, by way of example and not limitation: Mass. Gen. Laws ch. 186; Mass. Gen. Laws ch. 239 (summary process) and related provisions; Mass. Gen. Laws ch. 93A (for some contexts of landlord conduct); the State Sanitary Code and 105 CMR 410.000 (habitable housing standards); and Massachusetts caselaw addressing landlord obligations and the covenant of quiet enjoyment.)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111": {
+      "raw_text": "Mass. Gen. Laws ch. 111",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 111 and the State Sanitary Code (public health and habitability standards; 105 CMR 410.000 et seq.)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

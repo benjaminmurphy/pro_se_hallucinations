@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_001_06.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads Defendant is the owner/operator of a grocery store and that Plaintiff was a business invitee on the premises; cites Massachusetts premises\u2011liability duty and alleges Defendant owed the duty to keep aisles safe and warn of hazards."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a large puddle of spilled milk, absence of any warnings or barriers, and that an employee saw the spill \u2018a few minutes ago\u2019 but did not clean or warn \u2014 alleging failure to discover/repair/warn and to supervise employees."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff stepped into the spilled milk, fell heavily onto her hip, and as a direct result sustained a hip sprain and needed medical care and physical therapy, establishing the but\u2011for causal sequence."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "A spill in a store aisle and failure to warn or clean is a foreseeable cause of a slip-and-fall; the employee\u2019s knowledge of the spill further supports proximate causation to the injuries alleged."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific, concrete damages: diagnosed hip sprain, urgent care and physical therapy, approximately $2,500 in medical expenses, about $1,200 in lost wages to date, ongoing pain and other general damages."
+    }
+  }
+}

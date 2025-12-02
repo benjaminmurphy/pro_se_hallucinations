@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_002_10.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an existing court order dated March 15, 2021 awarding primary physical custody to Plaintiff and midweek (Wednesday) overnights and alternate-weekend visitation to Defendant (see \u00b63.1)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint clearly identifies the requested changes: elimination of the midweek (Wednesday) overnight and modification of the alternate-weekend schedule (with specified examples of pickup/drop-off arrangements and temporary suspension) (see \u00b64.1, \u00b67.1\u20137.3, \u00b69.1)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete factual changes since the prior order: Defendant's intent to relocate to New Hampshire (\u00b65.1), increased one-way travel to \u224890+ minutes (\u00b65.2), resulting disruption to school and activities and Sofia's anxiety and missed activities (\u00b65.2\u20135.4). These allegations plainly assert a material and substantial change in circumstances warranting modification (\u00b65.5)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the requested modification is necessary to protect the child's educational needs, emotional well\u2011being, physical health, and safety, and explains how preserving the existing midweek overnight would cause fatigue, school disruption, anxiety, and safety concerns\u2014tying the requested relief to the child's best interests (see \u00b64.1\u20134.2, \u00b65.3\u20135.4, \u00b66.4, \u00b67.2)."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "complaint_file": "cm_010_01.txt",
+  "scenario_id": "cm_010_01",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 6,
+  "case_citations": 4,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 2,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Massachusetts General Laws Chapter 208, Section 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "Pursuant to Massachusetts General Laws Chapter 208, Section 28, the court may modify a custody order upon a showing of a material and substantial change in circumstances.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Bower v. Bournay-Bower, 469 Mass. 690 (2014)": {
+      "raw_text": "Bower v. Bournay-Bower, 469 Mass. 690 (2014)",
+      "citation_type": "case",
+      "proposition": "The case of Bower v. Bournay-Bower, 469 Mass. 690 (2014), established that a child's preference, especially when expressed by a mature child, may constitute a significant factor for the court to consider in custody modification proceedings.",
+      "is_valid": true,
+      "courtlistener_id": "2735268",
+      "case_name": "Bower v. Bournay-Bower",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion is about whether a Probate and Family Court judge may appoint a parenting coordinator with binding authority without the parties\u2019 consent and whether such an order is an unlawful delegation of judicial power. It does not address, analyze, or set any rule regarding the weight to be given to a child\u2019s custodial preference, mature or otherwise, in custody modification proceedings. The claimed proposition is unrelated to the issues actually decided in Bower, so the case does not support it.",
+      "relevant_excerpt": "By statute, if a party seeks a modification of a final judgment of divorce, a judge may make a judgment modifying his or her earlier judgment provided the judge finds that \u201ca material and substantial change in the circumstances of the parties has occurred and the judgment of modification is necessary in the best interests of the children.\u201d G. L. c. 208, \u00a7 28. No such standard governs the parent coordinator in the order at issue in this case."
+    },
+    "Gargano v. Gargano, 429 Mass. 12 (1999)": {
+      "raw_text": "Gargano v. Gargano, 429 Mass. 12 (1999)",
+      "citation_type": "case",
+      "proposition": "In the case of Gargano v. Gargano, 429 Mass. 12 (1999), the Supreme Judicial Court held that a parent's improved circumstances can be grounds for modification of a custody arrangement.",
+      "is_valid": true,
+      "courtlistener_id": "6577812",
+      "case_name": "St. Botolph Citizens Committee, Inc. v. Boston Redevelopment Authority",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Gargano v. Gargano provided here deals entirely with challenges to actions of the Boston Redevelopment Authority and issues of zoning, urban renewal, standing, and certiorari review. It does not concern family law, custody, or modification of custody orders, nor does it discuss parents\u2019 circumstances or standards for modifying custody arrangements. The proposition about a parent's improved circumstances as grounds for custody modification is therefore unrelated to the actual holding of this case.",
+      "relevant_excerpt": "We transferred these consolidated appeals to this court on our own motion to decide whether the plaintiffs can maintain their challenges to a decision made by the Boston Redevelopment Authority (BRA) concerning the development of new residential units in the Fenway Urban Renewal Area. The plaintiffs sought to set aside the BRA\u2019s decision in a six-count complaint seeking review in the nature of certiorari and declaratory judgments."
+    },
+    "Mass. Gen. Laws ch. 208, \u00a7 31": {
+      "raw_text": "Mass. Gen. Laws ch. 208, \u00a7 31",
+      "citation_type": "statute",
+      "proposition": "Additional relevant authority includes Mass. Gen. Laws ch. 208, \u00a7 31, Smith v. Jones, 555 Mass. 123 (2008), and Brown v. Green, 777 Mass. 456 (2016), all of which support the Plaintiff\u2019s position for modification of the custody order.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Smith v. Jones, 555 Mass. 123 (2008)": {
+      "raw_text": "Smith v. Jones, 555 Mass. 123 (2008)",
+      "citation_type": "case",
+      "proposition": "Additional relevant authority includes Mass. Gen. Laws ch. 208, \u00a7 31, Smith v. Jones, 555 Mass. 123 (2008), and Brown v. Green, 777 Mass. 456 (2016), all of which support the Plaintiff\u2019s position for modification of the custody order.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Brown v. Green, 777 Mass. 456 (2016)": {
+      "raw_text": "Brown v. Green, 777 Mass. 456 (2016)",
+      "citation_type": "case",
+      "proposition": "Additional relevant authority includes Mass. Gen. Laws ch. 208, \u00a7 31, Smith v. Jones, 555 Mass. 123 (2008), and Brown v. Green, 777 Mass. 456 (2016), all of which support the Plaintiff\u2019s position for modification of the custody order.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

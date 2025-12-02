@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_008_03.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads that Defendant owned/operated the restaurant premises (\u00b63), that Plaintiff was a business invitee (\u00b66), and expressly alleges the owner/operator duty to maintain and inspect the premises and warn invitees (\u00b616). These factual allegations sufficiently establish a duty of care to invitees."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific facts showing a breach: a server dropped a tray leaving water and ice on the tile floor (\u00b67\u20139); employees did not place warnings or promptly clean the hazard (\u00b68, \u00b69); staff overheard evidence they had been \"dodging that puddle\" (\u00b614); and \u00b617 lists specific failures to inspect, warn, and abate the hazard. Those factual allegations adequately plead a breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that the hallway floor remained wet and slippery, Plaintiff stepped onto that wet area, slipped and twisted her knee (\u00b69\u201311), and that the wet condition resulted from the dropped tray and was not cleaned. Those allegations adequately plead that but for the hazardous wet condition created/left by Defendant\u2019s employee, Plaintiff would not have slipped and been injured."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges (\u00b618) and pleads facts showing foreseeability: a wet, slippery condition in a narrow, high\u2011traffic walkway without warning is a foreseeable cause of slips and injuries. The facts tying the hazard to the injury (\u00b67\u201311, \u00b614) sufficiently plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges actual physical injury (sprained knee) and required medical treatment (\u00b611\u201312), quantified medical expenses (~$2,500) and lost wages (~$1,200) (\u00b613), and alleges pain and suffering and other compensable losses (\u00b613, \u00b619). Those allegations adequately plead damages."
+    }
+  }
+}

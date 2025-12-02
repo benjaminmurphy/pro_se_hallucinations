@@ -1,0 +1,150 @@
+Below is a formatted legal complaint based on the information you provided. The complaint is written in accordance with Massachusetts law and includes the required elements: caption, factual allegations, cause of action, prayer for relief, and signature block. It also cites relevant Massachusetts statutes and case law.
+
+---
+
+**COMMONWEALTH OF MASSACHUSETTS**  
+**MIDDLESEX COUNTY SUPERIOR COURT**  
+**SOMERVILLE DIVISION**  
+__________________________________________  
+**Emily Johnson**  
+Plaintiff,  
+
+v.  
+
+**Fresh Mart Grocery**  
+Defendant.  
+__________________________________________  
+
+**COMPLAINT**  
+
+Plaintiff, Emily Johnson, by way of this Complaint against Defendant, Fresh Mart Grocery, alleges the following:
+
+---
+
+### **INTRODUCTION**  
+
+1. This is an action for negligence arising from injuries suffered by Plaintiff when she slipped and fell in the dairy aisle of Fresh Mart Grocery’s store located at 123 Elm Street, Somerville, Massachusetts, on August 12, 2023.  
+
+2. As a result of the Defendant’s negligence, Plaintiff sustained a hip sprain requiring medical treatment and physical therapy, along with lost wages due to time missed from work.  
+
+---
+
+### **PARTIES**  
+
+3. Plaintiff, Emily Johnson, is an individual residing in Middlesex County, Commonwealth of Massachusetts.  
+
+4. Defendant, Fresh Mart Grocery, is a business entity operating a grocery store located at 123 Elm Street, Somerville, Massachusetts. Defendant conducts business and maintains its principal place of business in Massachusetts and is subject to the jurisdiction of this Court.  
+
+---
+
+### **JURISDICTION AND VENUE**  
+
+5. This Court has subject matter jurisdiction over this action pursuant to M.G.L. c. 212, § 4, as the amount in controversy exceeds $25,000, exclusive of interest and costs.  
+
+6. Venue is proper in the Middlesex County Superior Court pursuant to M.G.L. c. 223, § 1, as the events giving rise to this Complaint occurred in Middlesex County.  
+
+---
+
+### **FACTUAL ALLEGATIONS**  
+
+7. On August 12, 2023, Plaintiff entered Defendant’s store located at 123 Elm Street, Somerville, Massachusetts, to purchase groceries.  
+
+8. At approximately 3:15 PM, while shopping in the dairy aisle, Plaintiff slipped and fell on a puddle of spilled milk that was present on the floor.  
+
+9. The puddle of spilled milk was of significant size, showing visible cart tracks passing through it.  
+
+10. There were no warning signs (e.g., “wet floor” signs or cones) alerting customers to the dangerous condition.  
+
+11. A Fresh Mart employee was stocking shelves approximately fifteen feet away from the area of the spill but failed to take any immediate action to clean the spill or prevent customers from encountering the hazard.  
+
+12. After Plaintiff fell, the employee approached her and admitted he had noticed the spill "a few minutes ago," explaining that he had intended to clean the spill after he finished his task.  
+
+13. Plaintiff completed her shopping, believing at the time that her injuries were not serious. However, her pain worsened later that evening.  
+
+14. The following day, Plaintiff sought medical attention at an urgent care facility, where she was diagnosed with a hip sprain.  
+
+15. Due to her fall, Plaintiff required physical therapy and missed several shifts at her workplace, incurring approximately $1,200 in medical bills and suffering $800 in lost wages.  
+
+16. Defendant had actual and/or constructive knowledge of the hazardous condition and failed to take reasonable steps to address it in a timely manner or warn customers about the danger.  
+
+17. As a direct and proximate result of Defendant’s negligence, Plaintiff suffered personal injuries, incurred significant costs for medical treatment, and endured pain and suffering, emotional distress, and lost income.  
+
+---
+
+### **CAUSE OF ACTION**  
+
+#### **Negligence**  
+
+18. Plaintiff incorporates by reference paragraphs 1 through 17 as though fully set forth herein.  
+
+19. Defendant owed a duty of care to Plaintiff and other invitees to maintain its premises in a reasonably safe condition and to protect invitees from hazardous conditions of which it knew or should have known. **Sheehan v. Roche Brothers Supermarkets, Inc., 448 Mass. 780, 785-86 (2007).**  
+
+20. Defendant breached its duty of care by:  
+   a. Failing to clean the spilled milk in a timely manner;  
+   b. Failing to warn Plaintiff of the hazard by placing warning signs or cones near the spill; and  
+   c. Failing to adequately monitor its premises and train its employees to address hazardous conditions promptly.  
+
+21. Defendant’s breach of duty was a direct and proximate cause of Plaintiff’s injuries and resulting damages. **O'Sullivan v. Shaw, 431 Mass. 201, 204 (2000).**  
+
+22. Defendant knew or should have known about the dangerous condition of the spilled milk given the fact that its employee admitted to observing the spill but took no action to address it. **Papadopoulos v. Target Corp., 457 Mass. 368, 372-73 (2010).**  
+
+23. Defendant’s negligence caused Plaintiff to sustain foreseeable injuries, consistent with longstanding Massachusetts tort principles. **Dos Santos v. Coleta, 465 Mass. 148, 154-55 (2013).**  
+
+24. Under Massachusetts law, business owners are responsible for injuries caused by unsafe conditions on their premises of which they knew or should have known. **Oliveri v. Massachusetts Bay Transp. Auth., 363 Mass. 165, 167 (1973).**  
+
+25. Defendant’s failure to take reasonable precautions reflects actionable negligence under Massachusetts law. **Mullins v. Pine Manor College, 389 Mass. 47, 51 (1983).**  
+
+26. By failing to address a known safety hazard, Defendant created an unreasonable risk of harm to its customers, including Plaintiff. **Young v. Atlantic Richfield Co., 400 Mass. 837, 842 (1987).**  
+
+27. As a direct and proximate result of Defendant’s negligence, Plaintiff suffered damages, including, but not limited to, physical pain and suffering, medical expenses, emotional distress, and lost income.  
+
+---
+
+### **DAMAGES**  
+
+28. Plaintiff has incurred the following damages as a direct and proximate result of Defendant’s negligence:  
+   a. Medical expenses: $1,200;  
+   b. Lost wages: $800;  
+   c. Pain and suffering, emotional distress, and other related damages.  
+
+29. Plaintiff reserves the right to amend this Complaint to conform to the evidence regarding her total damages.  
+
+---
+
+### **PRAYER FOR RELIEF**  
+
+WHEREFORE, Plaintiff, Emily Johnson, respectfully requests that this Court enter judgment against Defendant, Fresh Mart Grocery, and award the following relief:  
+
+1. Compensatory damages for medical expenses, lost wages, pain and suffering, emotional distress, and other damages in an amount to be determined at trial, but in no event less than $25,000;  
+
+2. Prejudgment and postjudgment interest as allowed by law;  
+
+3. Costs of this action; and  
+
+4. Such other and further relief as this Court deems just and proper.  
+
+---
+
+Respectfully submitted,  
+
+**Dated:** December 1, 2025  
+**Emily Johnson**  
+Plaintiff, Pro Se  
+123 Main Street  
+Somerville, MA 02144  
+Phone: (617) 555-0123  
+Email: psm1443@gmail.com  
+
+--- 
+
+**CERTIFICATE OF SERVICE**  
+
+I hereby certify that a copy of the foregoing Complaint was served upon Fresh Mart Grocery by certified mail with return receipt requested to their principal place of business at 123 Elm Street, Somerville, MA, on this 1st day of December 2025.  
+
+**______________________**  
+Emily Johnson  
+Plaintiff, Pro Se  
+
+--- 
+
+This complaint is now ready for filing with the Middlesex County Superior Court. Be sure to include the required filing fee and any additional forms the court requires, such as a civil action cover sheet. Good luck!

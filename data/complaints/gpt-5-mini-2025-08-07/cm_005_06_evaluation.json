@@ -1,0 +1,93 @@
+{
+  "complaint_file": "cm_005_06.txt",
+  "scenario_id": "cm_005_06",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws": {
+      "raw_text": "Massachusetts General Laws",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over the parties and the subject matter of this action pursuant to the Massachusetts General Laws and the Probate and Family Court\u2019s authority to enter and modify orders for custody and parenting time.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208 (provisions governing divorce and related matters, including custody and modification authority);": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (provisions governing divorce and related matters, including custody and modification authority);",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the following Massachusetts statutes and case law as relevant authority for modification of custody and the standards governing material change in circumstances and the best interests of the child:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119 (statutes pertaining to children and families);": {
+      "raw_text": "Mass. Gen. Laws ch. 119 (statutes pertaining to children and families);",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the following Massachusetts statutes and case law as relevant authority for modification of custody and the standards governing material change in circumstances and the best interests of the child:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209C (domestic relations procedures \u2014 as applicable);": {
+      "raw_text": "Mass. Gen. Laws ch. 209C (domestic relations procedures \u2014 as applicable);",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the following Massachusetts statutes and case law as relevant authority for modification of custody and the standards governing material change in circumstances and the best interests of the child:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Dom. Rel. Proc. (Probate and Family Court procedural rules);": {
+      "raw_text": "Mass. R. Dom. Rel. Proc. (Probate and Family Court procedural rules);",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the following Massachusetts statutes and case law as relevant authority for modification of custody and the standards governing material change in circumstances and the best interests of the child:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Rules of the Probate and Family Court and relevant standing orders concerning parenting coordination and expedited resolutions.": {
+      "raw_text": "Rules of the Probate and Family Court and relevant standing orders concerning parenting coordination and expedited resolutions.",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the following Massachusetts statutes and case law as relevant authority for modification of custody and the standards governing material change in circumstances and the best interests of the child:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

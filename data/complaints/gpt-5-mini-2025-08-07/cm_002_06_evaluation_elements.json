@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_002_06.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges a prior court order dated April 15, 2021 setting custody and parenting time (Petitioner primary; Respondent midweek overnights and every-other-weekend) (\u00b6\u00b62.1, 2.2). That factual allegation sufficiently establishes an existing custody/parenting-time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies the requested changes: remove the midweek overnight (Wednesdays), revise weekend time to accommodate Respondent\u2019s New Hampshire residence (examples given such as extended every-other-weekend Friday\u2013Sunday), and retain Petitioner as primary physical custodian (\u00b6\u00b65.4, 9.2\u20139.3). These are concrete, specific modifications."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges facts showing a material change since the 2021 order: Respondent obtained employment requiring relocation to New Hampshire and intends to continue the prior midweek/weekly schedule (\u00b63.1); the relocation increases travel to roughly 90 minutes each way for midweek visits (\u00b63.2); and those logistics materially affect Emily\u2019s welfare and the viability of the midweek overnight (\u00b6\u00b63.3\u20133.5, 5.2). Those allegations (relocation + increased travel/disruption) adequately plead a material and substantial change in circumstances."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that continuing the current schedule would disrupt Emily\u2019s school routine and extracurricular participation, cause anxiety and sleep disruption, and impose undue physical and emotional burden (\u00b6\u00b63.3\u20133.4, 5.3, 7.1). It frames the requested revision as necessary to protect Emily\u2019s continuity, stability, and well-being and pledges supporting evidence (\u00b67.2). Those factual allegations sufficiently plead that the requested modification is in the child\u2019s best interests."
+    }
+  }
+}

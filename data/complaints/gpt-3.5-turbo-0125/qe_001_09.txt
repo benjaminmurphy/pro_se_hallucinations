@@ -1,0 +1,74 @@
+[Your Address]
+[City, State, Zip Code]
+[Phone Number]
+[Email Address]
+
+[Date]
+
+[Name of Court]
+[Address of Court]
+[City, State, Zip Code]
+
+Sarah Thompson
+Plaintiff
+
+v.
+
+William Carter
+Defendant
+
+COMPLAINT
+
+COMES NOW, Plaintiff Sarah Thompson, by and through undersigned counsel, and for her Complaint against Defendant William Carter, alleges as follows:
+
+PARTIES
+
+1. Plaintiff Sarah Thompson is an individual residing at [Your Address], Dorchester, MA 02124.
+
+2. Defendant William Carter is the landlord of the property located at 45 Cedar Grove Road, Dorchester, MA 02124.
+
+JURISDICTION AND VENUE
+
+3. This Court has jurisdiction over this matter pursuant to Massachusetts General Laws § 218, granting authority to the Boston Municipal Court to hear landlord-tenant disputes.
+
+FACTUAL ALLEGATIONS
+
+4. Plaintiff entered into a lease agreement with Defendant for the rental of the property located at 45 Cedar Grove Road, Dorchester, MA 02124, starting on August 1, 2022.
+
+5. Since the commencement of the lease, Plaintiff has experienced persistent issues with the heating system in the rented premises. The heating system in the apartment consistently drops to below comfortable levels, causing discomfort and health problems for Plaintiff.
+
+6. Defendant, after being notified of the heating issues, sent repair personnel to address the problem on two occasions. However, the repairs were insufficient as the heating system continued to malfunction, leading to an ongoing violation of Plaintiff’s right to quiet enjoyment of the premises.
+
+7. Despite the repairs conducted by Defendant, Plaintiff was forced to endure cold temperatures in the apartment, resulting in the purchase and operation of two space heaters to maintain livable conditions. The increased electricity costs associated with operating the space heaters have caused financial harm to Plaintiff, totaling approximately $150 per month.
+
+8. Additionally, the inadequate heating conditions contributed to Plaintiff contracting bronchitis in January, requiring medical treatment and resulting in missed workdays and expenses for antibiotics.
+
+CLAIM FOR RELIEF
+
+9. Plaintiff alleges a violation of the covenant of quiet enjoyment, as recognized under Massachusetts law, including but not limited to Massachusetts General Laws Chapter 186, § 14.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Sarah Thompson respectfully requests that this Honorable Court:
+
+A. Award damages in an amount to be proven at trial but not less than $600 for the breach of the covenant of quiet enjoyment;
+
+B. Grant any further relief as the Court deems just and proper;
+
+C. Award Plaintiff her costs and reasonable attorney's fees under Massachusetts law; and
+
+D. Grant such other and further relief as the Court may deem just and proper.
+
+[Your Signature]
+Sarah Thompson, Plaintiff
+
+CERTIFICATE OF SERVICE
+
+I certify that a true and accurate copy of the foregoing Complaint was served on Defendant William Carter via [method of service] on this [date].
+
+[Your Name]
+Sarah Thompson, Plaintiff
+
+---
+
+This complaint includes allegations specific to the facts provided, cited references to Massachusetts General Laws and relevant statutes, and a prayer for relief in line with the information provided. Let me know if you need any further assistance.

@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_009_05",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jessica Carter",
+  "defendant": "Lynn Apartments LLC"
+}

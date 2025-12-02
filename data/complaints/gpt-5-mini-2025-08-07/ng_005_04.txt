@@ -1,0 +1,113 @@
+COMMONWEALTH OF MASSACHUSETTS
+HAMPDEN COUNTY
+SUPERIOR COURT
+
+Jordan Smith,                                )
+    Plaintiff,                               )
+                                             )
+v.                                           )   Civil Action No. __________________
+                                             )
+Michael Johnson,                             )
+    Defendant.                               )
+
+COMPLAINT — NEGLIGENCE
+
+Plaintiff Jordan Smith (“Plaintiff”), pro se, brings this Complaint against defendant Michael Johnson (“Defendant”), and alleges as follows:
+
+PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Jordan Smith is an individual and resident of Springfield, Massachusetts. Plaintiff may be contacted at (617) 555-0123 and psm1443@gmail.com.
+
+2. Defendant Michael Johnson is an individual believed to reside in Springfield, Massachusetts.
+
+3. Venue is proper in Hampden County Superior Court because the acts and omissions giving rise to this Complaint occurred in Springfield, Hampden County, Massachusetts (M.G.L. c. 223, § 1), and the Court has jurisdiction over tort claims that arise in this county.
+
+4. The incident described herein occurred on March 15, 2023, at or near 123 Elm St., Springfield, Massachusetts.
+
+FACTUAL ALLEGATIONS
+
+5. Plaintiff and Defendant are neighbors who reside in a duplex that shares a common driveway located at 123 Elm St., Springfield, Massachusetts.
+
+6. Defendant owned and, at all relevant times, kept a tall aluminum extension ladder. Defendant frequently leaned that ladder against the wooden fence adjacent to the shared driveway, in close proximity to where Plaintiff parked and was in the habit of backing his vehicle into the driveway.
+
+7. On multiple prior occasions before March 15, 2023, Plaintiff told Defendant that he was concerned the ladder might fall onto Plaintiff’s vehicle, especially on windy days. Plaintiff warned Defendant of the risk and requested that Defendant secure, tie down, or move the ladder.
+
+8. Defendant acknowledged Plaintiff’s concerns and stated he would tie down or move the ladder but did not do so.
+
+9. On March 15, 2023, while Plaintiff was backing his vehicle into the shared driveway at or near 123 Elm St., a gust of wind caused the unsecured ladder to fall from its leaned position against the fence. The ladder struck Plaintiff’s parked vehicle, falling onto the hood and windshield.
+
+10. As a direct result of the ladder striking the vehicle, the vehicle’s hood was dented and the windshield cracked. Plaintiff’s vehicle continued to run, but required bodywork and a replacement windshield.
+
+11. Plaintiff paid an insurance deductible for repairs and incurred the cost of renting a replacement vehicle while his car was being repaired for more than one week.
+
+12. Plaintiff suffered property damage and incurred out-of-pocket expenses as a direct and proximate result of Defendant’s negligent conduct. Plaintiff’s medical expenses are zero and lost wages are zero. Plaintiff’s property damage, insurance deductible, rental-car expenses, and other economic losses are being calculated and will be proved at trial; Plaintiff therefore seeks damages in an amount to be determined at trial, plus costs and interest.
+
+COUNT I — NEGLIGENCE
+
+13. Plaintiff repeats and realleges paragraphs 1 through 12 as if fully set forth herein.
+
+14. Under Massachusetts law, to prevail on a negligence claim a plaintiff must prove that (1) the defendant owed the plaintiff a duty of reasonable care, (2) the defendant breached that duty by failing to conform to the required standard of conduct, (3) the defendant’s breach was both the actual and proximate cause of the plaintiff’s injuries, and (4) the plaintiff suffered damages. See Brown v. Kendall, 60 Mass. (4 Cush.) 292 (1850); Restatement (Second) of Torts §§282–286; see also Massachusetts Civil Jury Instructions (MCJI) — Negligence.
+
+15. Defendant owed Plaintiff and other lawful users of the shared driveway a duty to exercise reasonable care under the circumstances in storing, securing, and maintaining potentially dangerous objects — including a tall aluminum extension ladder placed adjacent to an area where vehicles are parked and backed into. See Brown v. Kendall, supra; Donoghue v. Stevenson [1932] A.C. 562 (establishing broad principles of duty); Restatement (Second) of Torts §§283, 285–286 (duty and scope).
+
+16. Defendant breached his duty of care by failing to secure, tie down, or move the ladder after being warned that it was a hazard and after acknowledging he would do so. Defendant’s conduct in leaving a tall ladder unsecured in a position where it could reasonably be expected to fall onto vehicles or persons was negligent. See Restatement (Second) of Torts §302B (duty of care to prevent foreseeable harm); see also Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (foreseeability as a component of proximate cause).
+
+17. As a direct and proximate result of Defendant’s breach, the ladder was blown over by a gust of wind and struck Plaintiff’s vehicle, causing physical damage to the vehicle’s hood and windshield and causing Plaintiff to incur repair costs, insurance deductible payment, and rental-car expenses.
+
+18. Plaintiff’s damages were the reasonably foreseeable consequence of Defendant’s negligent failure to secure or remove the ladder after notice that it posed a hazard. See MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916) (duty may extend beyond immediate parties where harm is foreseeable); Restatement (Second) of Torts §§284–286; Prosser & Keeton on Torts § 32 (5th ed.).
+
+19. Plaintiff therefore has suffered damages proximately caused by Defendant’s negligence, including but not limited to property damage to the vehicle, repair costs, deductible expenses, rental-car costs, and other incidental expenses, in an amount to be determined at trial.
+
+APPLICABLE AUTHORITY
+
+Plaintiff relies on and cites the following authorities (non-exhaustive), which are applicable to the elements and analysis of negligence under Massachusetts and general common-law principles:
+
+Statutes
+- Mass. Gen. Laws ch. 260, § 2A (statute of limitations for tort actions).
+- Mass. Gen. Laws ch. 223 § 1 (venue provision for county).
+
+Restatement and Treatises
+- Restatement (Second) of Torts §§ 282, 283, 284, 285, 286, 302B (duty, breach, causation, foreseeability, and responsibilities to prevent harm).
+- Prosser & Keeton, Torts (5th ed.) (on duty and breach).
+
+Cases (illustrative and commonly-cited precedents regarding duty, breach, foreseeability, and proximate cause)
+- Brown v. Kendall, 60 Mass. (4 Cush.) 292 (1850).
+- Donoghue v. Stevenson [1932] A.C. 562.
+- Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928).
+- MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916).
+- Other controlling and persuasive authorities: Restatement-related decisions and standard negligence authorities, as well as Massachusetts Civil Jury Instructions (MCJI) on negligence and proximate cause.
+
+(Notes: Plaintiff will supplement and refine legal citations and authority as needed during litigation and in response to any dispositive motions or Court requests. Plaintiff reserves the right to rely on additional Massachusetts cases, statutes, rules, and jury instructions as appropriate.)
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in Plaintiff’s favor and award relief as follows:
+
+A. Compensatory damages in an amount to be determined at trial including, but not limited to, full compensation for property damage, repair costs, insurance deductible reimbursement, rental-car expenses, and other economic losses proximately caused by Defendant’s negligence;
+
+B. Interest, costs, and disbursements allowed by law;
+
+C. Such other and further relief as the Court deems just and proper.
+
+JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+Dated: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jordan Smith
+Jordan Smith, pro se
+123 Elm St.
+Springfield, MA
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+
+Certificate of Service
+I hereby certify that a copy of the foregoing Complaint will be served upon Defendant in accordance with Massachusetts law.
+
+/s/ Jordan Smith
+Jordan Smith
+
+-- End of Complaint --

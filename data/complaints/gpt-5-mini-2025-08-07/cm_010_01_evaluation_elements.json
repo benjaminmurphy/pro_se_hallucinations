@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_010_01.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges a May 15, 2018 Probate & Family Court custody/parenting-time order awarding primary residence to Defendant and states the plaintiff will attach a certified/conformed copy of that order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint requests increased residential time with Plaintiff (including additional overnights and an age-appropriate schedule), and alternatively requests primary physical residence to Plaintiff or shared physical custody with substantially increased parenting time plus a detailed parenting-time schedule\u2014i.e., concrete, identifiable relief is specified."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads specific factual changes since 2018 that were material to the original allocation: Plaintiff completed graduate school, obtained stable full\u2011time daytime employment with parenting availability, moved to a larger two\u2011bedroom residence suitable for overnights, and alleges changes in the child\u2019s emotional condition and bonding (therapist documentation and child\u2019s letter). These allegations plausibly describe a material and substantial change in circumstances."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint ties the alleged changes to the child's welfare: therapist recommendations for increased time to address emotional needs, the child's expressed distress/guilt and written preference, and allegations that current arrangements contribute to emotional stress. Those factual allegations support the claim that the requested modification is in the child's best interests."
+    }
+  }
+}

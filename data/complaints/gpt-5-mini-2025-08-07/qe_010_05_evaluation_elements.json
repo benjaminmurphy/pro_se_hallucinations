@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_010_05.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff entered possession pursuant to a residential tenancy beginning June 1, 2021, remains a tenant, pays $1,200/month rent, and alleges Defendant is owner and landlord who received rent \u2014 sufficient factual allegations to establish a landlord\u2011tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant inspected the unit, offered only to 'clean the existing mold,' refused to repair or replace inadequate bathroom ventilation, blamed Plaintiff\u2019s conduct, and declined further remediation while continuing to accept rent \u2014 specific omissions/acts by the landlord are pleaded."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads persistent mold growth spreading in the bathroom, new respiratory symptoms attributed by Plaintiff\u2019s physician to mold exposure, loss/use impacts (discarded contaminated items), and diminished enjoyment \u2014 facts alleging more than minor annoyance and a substantial interference with quiet enjoyment and habitability."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the bathroom lacks a window, the exhaust fan is the sole and inadequate ventilation source, Defendant declined to fix ventilation or fully remediate, and Plaintiff\u2019s medical provider linked symptoms to mold; these allegations sufficiently tie the landlord\u2019s failure to act to the ongoing mold condition and resulting harms for pleading purposes."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific out\u2011of\u2011pocket losses ($60 for replacement items), medical symptoms and related medical care, diminished use/enjoyment, emotional distress, and seeks rent diminution and other compensatory damages (estimated $600) \u2014 concrete and general damages are pleaded."
+    }
+  }
+}

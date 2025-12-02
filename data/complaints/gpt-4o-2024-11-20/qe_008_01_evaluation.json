@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_008_01.txt",
+  "scenario_id": "qe_008_01",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G.L. c. 218, \u00a7 19": {
+      "raw_text": "G.L. c. 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to G.L. c. 218, \u00a7 19, as the damages claimed are less than $50,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Chelsea District Court under G.L. c. 223, \u00a7 1, as the rental property and the acts and omissions giving rise to this action occurred in Chelsea, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under G.L. c. 186, \u00a7 14, every residential tenancy in Massachusetts includes an implied covenant of quiet enjoyment, which guarantees tenants the right to use and enjoy their rented premises free from substantial interference by the landlord.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts State Sanitary Code, 105 CMR 410.000 et seq.": {
+      "raw_text": "Massachusetts State Sanitary Code, 105 CMR 410.000 et seq.",
+      "citation_type": "statute",
+      "proposition": "Defendant's neglect of his duty to maintain the premises in a safe and secure condition further violates his obligations under governing housing codes, including the Massachusetts State Sanitary Code, 105 CMR 410.000 et seq., which requires landlords to maintain entry doors in operable condition to ensure tenant safety.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_004_01.txt",
+  "scenario_id": "ng_004_01",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G.L. c. 212, \u00a7 4": {
+      "raw_text": "G.L. c. 212, \u00a7 4",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to G.L. c. 212, \u00a7 4, which grants the Superior Court jurisdiction over civil actions seeking damages in excess of $25,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Worcester County pursuant to G.L. c. 223, \u00a7 1 because the Defendant\u2019s property, where the incident occurred, is located in Worcester County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 84, \u00a7 15": {
+      "raw_text": "G.L. c. 84, \u00a7 15",
+      "citation_type": "statute",
+      "proposition": "Under common law and G.L. c. 84, \u00a7 15, the Defendant owed a duty of care to all lawful visitors, including the Plaintiff, to maintain the sidewalk abutting her property in a reasonably safe condition.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 231, \u00a7 6B": {
+      "raw_text": "G.L. c. 231, \u00a7 6B",
+      "citation_type": "statute",
+      "proposition": "Prejudgment interest pursuant to G.L. c. 231, \u00a7 6B;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

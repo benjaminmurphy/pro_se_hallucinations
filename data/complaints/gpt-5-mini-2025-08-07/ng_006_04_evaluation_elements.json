@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_006_04.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant was operating a motor vehicle in public ways and specifically states he owed a duty to other road users including bicyclists (\u00b62, \u00b65, \u00b67, \u00b615). Those factual allegations (rideshare driver, parked adjacent to bike lane) and the legal statement of motorists\u2019 duty adequately plead the existence of a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific misconduct: Defendant opened the driver-side door suddenly and widely into the bicycle lane while reportedly looking at his phone and without checking mirrors (\u00b67\u20139, \u00b611, \u00b616). Those factual allegations sufficiently describe conduct that, if proven, constitutes a breach of the duty to exercise reasonable care."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a direct sequence: as Plaintiff passed in the bike lane Defendant opened his door into the lane, Plaintiff had no time to avoid it, crashed into the door, was ejected and injured (\u00b65, \u00b68\u201310, \u00b618). Those facts adequately plead that but for Defendant\u2019s opening the door as alleged, the collision and injuries would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that opening a vehicle door into an adjacent bike lane created an unreasonable and foreseeable risk of harm to bicyclists (\u00b67, \u00b68, \u00b617) and ties Defendant\u2019s conduct to the injuries sustained (\u00b618). Those allegations adequately plead the foreseeability and proximate causation element."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads concrete damages: physical injuries (road rash, chipped tooth), medical/dental expenses (~$1,200), lost wages (~$600), property damage to the bicycle and other out\u2011of\u2011pocket costs, and pain/suffering and loss of enjoyment (\u00b610, \u00b612, \u00b613, \u00b619). These allegations adequately plead actual damages."
+    }
+  }
+}

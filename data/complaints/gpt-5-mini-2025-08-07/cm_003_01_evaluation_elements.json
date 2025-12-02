@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_003_01.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies an existing custody/parenting-time order entered May 10, 2021 in Middlesex Probate and Family Court and describes its terms (shared legal custody, primary residence with Plaintiff, weekend parenting time and periodic overnights for Defendant)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint plainly specifies the relief sought: immediate temporary emergency suspension of Defendant\u2019s unsupervised overnight parenting time and, permanently, supervised overnights or other conditions (e.g., supervised visitation, substance testing/evaluation, parenting classes), plus appointment of a guardian ad litem and related orders."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific post-2021 facts constituting a material and substantial change: the child\u2019s disclosures about \u201cspecial drinks\u201d and Defendant being unable to walk straight, a neighbor\u2019s video suggesting Defendant was impaired while handling the child late at night, and school reports that the child appears exhausted each Monday \u2014 facts plausibly showing changed circumstances affecting the child\u2019s safety and welfare that were not known at the time of the 2021 order. "
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint connects the asserted changed circumstances to the child\u2019s health and safety and expressly alleges that suspension/conditioning of overnight parenting time and appointment of a guardian ad litem are necessary to protect Jacob\u2019s welfare, thereby alleging that the requested modifications are in the child\u2019s best interests."
+    }
+  }
+}

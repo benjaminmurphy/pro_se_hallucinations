@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_009_05.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owns, manages, controls and is responsible for maintenance of the Premises and common-area life\u2011safety systems (including hallway smoke detectors) (\u00b6\u00b61.2, 3.2, 4.1, 7.2), which sufficiently pleads a duty to tenants to exercise reasonable care in maintenance and inspection."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the hallway detector emitted low\u2011battery chirps for months, its battery was removed leaving it nonfunctional, Plaintiff notified Defendant on at least three occasions and Defendant acknowledged but failed to remedy the condition before the fire (\u00b6\u00b63.3\u20133.6, 4.3\u20134.4), which adequately alleges a breach of the maintenance duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the detector had no battery and did not sound during the September 15 fire, Plaintiff only became aware when she smelled smoke and then suffered smoke inhalation during evacuation, and that an operable detector would likely have provided timely warning to avoid or mitigate her injuries (\u00b6\u00b63.7\u20133.9, 5.2), which pleads the required but\u2011for causal link."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the harm (smoke inhalation, hospitalization, property damage) was a foreseeable result of failing to maintain a smoke detector, that Defendant\u2019s breach was a substantial factor, and no superseding cause is alleged (\u00b6\u00b65.1\u20135.3, 3.4). These allegations adequately plead proximate causation at the pleading stage."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads concrete damages: approximately $5,000 in medical expenses, approximately $1,200 in lost wages, property damage (amount to be proven), and pain and suffering and related general damages (\u00b6\u00b63.9\u20133.10, 6.1\u20136.3), which satisfy the damages element."
+    }
+  }
+}

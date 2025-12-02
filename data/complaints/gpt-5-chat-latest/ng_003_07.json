@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_003_07",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jordan Patel",
+  "defendant": "Home Goods Warehouse"
+}

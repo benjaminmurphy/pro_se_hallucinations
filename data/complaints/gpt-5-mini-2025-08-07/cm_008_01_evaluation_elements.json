@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_008_01.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly identifies a prior custody judgment entered May 15, 2022, reciting that the parties share legal custody, Plaintiff is primary residential parent, and Defendant has substantial weekend time including Sunday nights."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The relief section plainly specifies concrete modifications: grant Plaintiff final decision\u2011making authority over school attendance and educational matters (or alternatively restrict/eliminate Sunday night overnight time), plus orders limiting unilateral \"mental health day\" absences, requiring cooperation with tutoring, and ordering assessments or temporary relief."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads specific facts showing a change since the prior order: recurrent Monday absences multiple times per month following Defendant\u2019s weekend time without medical documentation, repeated refusal to transport to tutoring, resulting truancy warnings and a substantial decline in grades and test scores compared to the status reported to the Court in 2022\u2014allegations sufficient to plead a material and substantial change affecting the child\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges that the requested modifications are necessary to protect Emily\u2019s education, attendance, health, and overall welfare, and seeks narrowly tailored remedies (decision\u2011making authority over school matters, limitation of Sunday overnights, requirement of professional documentation for absences, cooperation with tutoring, and educational assessment) that are directly tied to improving the child\u2019s well\u2011being and thus framed as being in the child\u2019s best interests."
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_006_02.txt",
+  "scenario_id": "qe_006_02",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Massachusetts General Laws Chapter 186, Section 14": {
+      "raw_text": "Massachusetts General Laws Chapter 186, Section 14",
+      "citation_type": "statute",
+      "proposition": "This Complaint is based on the Massachusetts General Laws Chapter 186, Section 14, which establishes the implied warranty of habitability and quiet enjoyment for residential tenants.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "McKenna v. Begin, 363 Mass. 338 (1973)": {
+      "raw_text": "McKenna v. Begin, 363 Mass. 338 (1973)",
+      "citation_type": "case",
+      "proposition": "Additionally, relevant caselaw in Massachusetts includes McKenna v. Begin, 363 Mass. 338 (1973), Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973), and numerous others that support a tenant's right to hot water as an essential service.",
+      "is_valid": true,
+      "courtlistener_id": "2242429",
+      "case_name": "Kaplan v. School Committee of Melrose",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "McKenna v. Begin concerns the rights of a tenured school employee regarding abolition of her position, demotion, and salary reduction under Massachusetts education statutes (G.L. c. 71, \u00a7\u00a7 42A and 43). It does not address landlord-tenant law, housing conditions, or any right to hot water or essential services. Therefore it does not support the proposition that Massachusetts law recognizes a tenant\u2019s right to hot water as an essential service.",
+      "relevant_excerpt": "\u201cThe case before us is different in that the position held by the plaintiff was abolished by the school committee as part of a bona fide reorganization. Thereafter, the plaintiff was the only person in her salary grade, as the judge found on evidence which clearly permitted such a finding, and her reassignment as a teacher at a reduced salary was not in violation of \u00a7 43.\u201d"
+    },
+    "Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973)": {
+      "raw_text": "Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973)",
+      "citation_type": "case",
+      "proposition": "Additionally, relevant caselaw in Massachusetts includes McKenna v. Begin, 363 Mass. 338 (1973), Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973), and numerous others that support a tenant's right to hot water as an essential service.",
+      "is_valid": true,
+      "courtlistener_id": "2000597",
+      "case_name": "Boston Housing Authority v. Hemingway",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "medium",
+      "support_reasoning": "This excerpt focuses on the relationship between housing code violations, implied obligations of landlords, and rent liability; it does not specifically identify or discuss hot water as an essential service or recognize a tenant\u2019s distinct right to hot water. While the broader Hemingway decision is famous for recognizing an implied warranty of habitability tied to sanitary code standards (which elsewhere include hot water), the provided text alone does not clearly ground a specific proposition about a tenant\u2019s right to hot water. Thus, on this record, the citation does not directly support the claimed proposition.",
+      "relevant_excerpt": "\"Since 1960 dwelling units have been subject to the State Sanitary Code... The Code, which has the force of law and applies throughout the Commonwealth, fixes minimum standards of fitness of structures for human habitation. It expressly provides that \u2018[n]o person shall ... let to another for occupancy any dwelling, dwelling unit, or rooming unit... which does not comply\u2019 with its provisions, and further provides a criminal penalty for violation of its provisions. It expressly places the burden on the owner to comply with the prescribed minimum physical standards for rented dwelling units.\""
+    }
+  }
+}

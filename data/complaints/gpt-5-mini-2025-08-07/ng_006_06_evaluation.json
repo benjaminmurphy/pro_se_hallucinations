@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_006_06.txt",
+  "scenario_id": "ng_006_06",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 223": {
+      "raw_text": "Mass. Gen. Laws ch. 223",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Suffolk County Superior Court pursuant to Mass. Gen. Laws ch. 223, and this Court has jurisdiction over the subject matter and the parties.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 90 (Motor Vehicles)": {
+      "raw_text": "Mass. Gen. Laws ch. 90 (Motor Vehicles)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the general negligence law of the Commonwealth of Massachusetts and related authorities, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 231 (Actions, general provisions)": {
+      "raw_text": "Mass. Gen. Laws ch. 231 (Actions, general provisions)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the general negligence law of the Commonwealth of Massachusetts and related authorities, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 8(a) (General rules of pleading)": {
+      "raw_text": "Mass. R. Civ. P. 8(a) (General rules of pleading)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the general negligence law of the Commonwealth of Massachusetts and related authorities, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 10(a) (Caption, parties)": {
+      "raw_text": "Mass. R. Civ. P. 10(a) (Caption, parties)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the general negligence law of the Commonwealth of Massachusetts and related authorities, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 11 (Signatures; representations to the court)": {
+      "raw_text": "Mass. R. Civ. P. 11 (Signatures; representations to the court)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the general negligence law of the Commonwealth of Massachusetts and related authorities, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

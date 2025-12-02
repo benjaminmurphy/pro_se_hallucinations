@@ -1,0 +1,72 @@
+[Your Name]
+[Your Address]
+City, State, Zip
+Phone Number
+Email Address
+
+IN THE SUPERIOR COURT OF HAMPDEN COUNTY
+----------------------------------------------------------------
+Sarah Thompson
+Plaintiff
+
+v.
+
+Mark Johnson
+Defendant
+
+COMPLAINT
+
+1. PARTIES
+
+1.1 Plaintiff Sarah Thompson ("Plaintiff") is an adult individual residing at [Your Address], Springfield, Massachusetts.
+
+1.2 Defendant Mark Johnson ("Defendant") is an adult individual residing at [Defendant's Address], Springfield, Massachusetts.
+
+2. JURISDICTION AND VENUE
+
+2.1 This action arises under the laws of the Commonwealth of Massachusetts governing negligence.
+
+2.2 This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 223, Section 9.
+
+2.3 Venue is proper in Hampden County Superior Court as the events giving rise to the claims occurred at 123 Maple Street, Springfield, MA 01105.
+
+3. FACTUAL ALLEGATIONS
+
+3.1 On March 15, 2023, at 123 Maple Street, Springfield, MA 01105, Defendant negligently maintained a tall aluminum extension ladder against the wooden fence near the shared driveway with Plaintiff.
+
+3.2 Plaintiff had expressed concerns to Defendant on multiple occasions regarding the precarious positioning of the ladder near where Plaintiff parked her car due to the risk of it falling over in windy conditions.
+
+3.3 Despite Plaintiff's warnings and assurances by Defendant that he would secure or relocate the ladder, Defendant failed to take reasonable precautions to prevent the ladder from falling.
+
+3.4 On the aforementioned date, a gust of wind caused the ladder to topple over onto Plaintiff's parked car, resulting in significant damage, including a dented hood and cracked windshield, necessitating repairs and replacement.
+
+4. CAUSE OF ACTION
+
+4.1 Defendant owed Plaintiff a duty of care to maintain his property in a manner that would not pose unreasonable risks of harm to Plaintiff, including safeguarding against objects like the ladder falling onto Plaintiff's car.
+
+4.2 Defendant breached this duty by negligently failing to secure the ladder and prevent it from falling onto Plaintiff's car despite being aware of the risk.
+
+4.3 Defendant's negligence was the proximate cause of Plaintiff's injuries and damages.
+
+5. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Sarah Thompson respectfully requests that this Court enter judgment in her favor and against Defendant Mark Johnson, awarding the following relief:
+
+5.1 Compensatory damages in the amount of $[Insert Amount] for the cost of repairing the car damages, rental car expenses, and any other related losses incurred by Plaintiff.
+
+5.2 Prejudgment interest as allowed by law.
+
+5.3 Costs and reasonable attorney fees.
+
+5.4 Any other relief that the Court deems just and proper.
+
+6. DEMAND FOR JURY TRIAL
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+Date: December 1, 2025
+
+_____________________________
+Sarah Thompson, Plaintiff
+
+[Your Contact Information]

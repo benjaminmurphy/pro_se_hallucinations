@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_007_05.txt",
+  "scenario_id": "cm_007_05",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 3,
+  "statute_citations": 1,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 2,
+  "citations": {
+    "M.G.L. c. 208, \u00a7 28": {
+      "raw_text": "M.G.L. c. 208, \u00a7 28",
+      "citation_type": "statute",
+      "proposition": "Pursuant to M.G.L. c. 208, \u00a7 28, this Honorable Court may modify an existing custody order upon a showing of a substantial and material change in circumstances that warrants a modification to serve the best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)": {
+      "raw_text": "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)",
+      "citation_type": "case",
+      "proposition": "In the case of Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985), the Massachusetts Supreme Judicial Court emphasized the paramount importance of the child's best interests when considering custody modifications.",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion explicitly states that the best interests of the children are the paramount concern in custody-related decisions, including removal from the Commonwealth, and it evaluates the relocation and custody issues by reference to that standard. The court explains that \u201cupon cause shown\u201d in the removal statute means that removal must be in the child\u2019s best interests and repeatedly frames the analysis around how to determine those best interests, while also recognizing their interrelationship with the custodial parent\u2019s well-being. Thus, the case supports the proposition that the child\u2019s best interests are paramount in considering custody modifications.",
+      "relevant_excerpt": "\u201cThe Massachusetts removal statute, G. L. c. 208, \u00a7 30 (1984 ed.), provides that\u2026 \u2018upon cause shown\u2019 mean only that removal must be in the best interests of the child\u2026 and thus the central question in this case is how these \u2018best interests\u2019 are to be determined. \u2026 The \u2018real advantage\u2019 test is grounded on the \u2018realization that after a divorce a child\u2019s subsequent relationship with both parents can never be the same\u2026 Although the best interests of the children always remain the paramount concern\u2026\u2019\u201d}"
+    },
+    "Blixt v. Blixt, 437 Mass. 649 (2002)": {
+      "raw_text": "Blixt v. Blixt, 437 Mass. 649 (2002)",
+      "citation_type": "case",
+      "proposition": "The principles established in Blixt v. Blixt, 437 Mass. 649 (2002), confirm the necessity of revisiting custody arrangements when a parent's health condition significantly impacts their ability to care for the child.",
+      "is_valid": true,
+      "courtlistener_id": "6578569",
+      "case_name": "Blixt v. Blixt",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion concerns the constitutionality and construction of Massachusetts\u2019 grandparent visitation statute and the standards (presumption in favor of fit parents, harm requirement, pleading burdens) governing third\u2011party visitation. It does not address modification or reconsideration of parental custody arrangements, nor does it discuss changes in custody based on a parent\u2019s health condition. Accordingly, it cannot be cited as authority for a principle requiring custody arrangements to be revisited when a parent\u2019s health significantly affects caregiving ability.",
+      "relevant_excerpt": "\u201cThe statute adopts the \u2018best interests of the child\u2019 standard as the test for determining visitation\u2026 To obtain visitation, the grandparents must rebut the presumption\u2026 More specifically, to succeed, the grandparents must allege and prove that the failure to grant visitation will cause the child significant harm by adversely affecting the child\u2019s health, safety, or welfare.\u201d"
+    },
+    "Department of Children & Families v. Abigail, 480 Mass. 87 (2018)": {
+      "raw_text": "Department of Children & Families v. Abigail, 480 Mass. 87 (2018)",
+      "citation_type": "case",
+      "proposition": "Furthermore, in the case of Department of Children & Families v. Abigail, 480 Mass. 87 (2018), the court reaffirmed the obligation to ensure that the child's safety and well-being prevail in custody determinations.",
+      "is_valid": true,
+      "courtlistener_id": "4517092",
+      "case_name": "Commonwealth v. Fredette",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Department of Children & Families v. Abigail, 480 Mass. 87 (2018), is not the case excerpted here; the provided text is a Massachusetts criminal case about felony-murder, aggravated kidnapping, and the merger doctrine. It does not involve the Department of Children & Families, custody, or standards prioritizing a child\u2019s safety and well-being in custody determinations. Accordingly, this opinion does not support the cited proposition about child custody principles.",
+      "relevant_excerpt": "We conclude that because the underlying predicate felony-kidnapping-has an intent or purpose separate and distinct from the act causing physical injury or death, aggravated kidnapping is sufficiently independent of the resulting homicide and, therefore, the merger doctrine is inapplicable. Accordingly, the omission of a merger instruction was not an error, and the defendant's motion for a new trial should not have been granted on that ground."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_009_05.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges a prior custody order entered May 15, 2019 (the \u201c2019 Order\u201d) that awarded primary custody to Plaintiff and set Defendant\u2019s parenting time (alternating weekends plus a midweek Wednesday overnight). This fact establishes an existing custody judgment subject to modification."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint clearly identifies the relief requested: elimination of the weekly Wednesday midweek overnight and adjustment of the alternating weekend schedule (including centrally located exchanges and measures to avoid long overnight/early-morning school-night travel), with examples of alternative arrangements."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant moved ~90 miles to Cape Cod after entry of the 2019 Order, resulting in long round-trip travel for a midweek overnight (pickup midafternoon, ~90\u2011mile drive, return ~4:30 a.m. to arrive for school). These factual allegations plausibly amount to a material and substantial change in circumstances since the prior order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete adverse effects on the child (chronic sleep deprivation, teacher reports of decreased alertness and participation on Thursdays, observed concentration and school-performance declines) and links the requested modification to protecting the child\u2019s physical health, educational needs, and emotional wellbeing. These allegations sufficiently assert that the modification is in the child\u2019s best interests."
+    }
+  }
+}

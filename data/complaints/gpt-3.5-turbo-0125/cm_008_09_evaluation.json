@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_008_09.txt",
+  "scenario_id": "cm_008_09",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 1,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws, Chapter 209B, Section 2.": {
+      "raw_text": "Massachusetts General Laws, Chapter 209B, Section 2.",
+      "citation_type": "statute",
+      "proposition": "The Plaintiff asserts that this Court has jurisdiction over this matter pursuant to Massachusetts General Laws, Chapter 209B, Section 2.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 209, Section 5.": {
+      "raw_text": "Massachusetts General Laws, Chapter 209, Section 5.",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Middlesex Probate and Family Court under Massachusetts General Laws, Chapter 209, Section 5.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "See *Smith v. Jones*, 123 Mass. 456 (2010).": {
+      "raw_text": "See *Smith v. Jones*, 123 Mass. 456 (2010).",
+      "citation_type": "case",
+      "proposition": "Massachusetts caselaw recognizes that a custodial parent's unexplained failure to ensure a child's regular school attendance constitutes a substantial change in circumstances justifying a modification of custody.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 208, Section 28,": {
+      "raw_text": "Massachusetts General Laws, Chapter 208, Section 28,",
+      "citation_type": "statute",
+      "proposition": "Furthermore, Massachusetts General Laws, Chapter 208, Section 28, authorizes the Court to modify a custody order if it is in the best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

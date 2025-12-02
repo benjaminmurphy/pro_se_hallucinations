@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_005_04.txt",
+  "scenario_id": "ng_005_04",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 4,
+  "statute_citations": 2,
+  "valid_citations": 3,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "(M.G.L. c. 223, \u00a7 1)": {
+      "raw_text": "(M.G.L. c. 223, \u00a7 1)",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Hampden County Superior Court because the acts and omissions giving rise to this Complaint occurred in Springfield, Hampden County, Massachusetts (M.G.L. c. 223, \u00a7 1), and the Court has jurisdiction over tort claims that arise in this county.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Brown v. Kendall, 60 Mass. (4 Cush.) 292 (1850)": {
+      "raw_text": "Brown v. Kendall, 60 Mass. (4 Cush.) 292 (1850)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, to prevail on a negligence claim a plaintiff must prove that (1) the defendant owed the plaintiff a duty of reasonable care, (2) the defendant breached that duty by failing to conform to the required standard of conduct, (3) the defendant\u2019s breach was both the actual and proximate cause of the plaintiff\u2019s injuries, and (4) the plaintiff suffered damages.",
+      "is_valid": true,
+      "courtlistener_id": "6535730",
+      "case_name": "Brown v. Kendall",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Brown v. Kendall is a mid\u201119th\u2011century trespass case that articulates the general negligence standard of ordinary care and allocates the burden of proving lack of due care, but it does not set out the modern four\u2011element negligence framework of duty, breach, actual and proximate causation, and damages. The opinion focuses on whether an unintentional injury during a lawful act is actionable absent fault, and on contributory negligence, rather than expressly analyzing separate elements such as proximate cause. Thus the case is foundational for fault-based liability but does not itself stand as authority for the full modern Massachusetts elements as stated in the proposition.",
+      "relevant_excerpt": "\u201cIf the act of hitting the plaintiff was unintentional, on the part of the defendant, and done in the doing of a lawful act, then the defendant was not liable, unless it was done in the want of exercise of due care, adapted to the exigency of the case, and therefore such want of due care became part of the plaintiff's case, and the burden of proof was on the plaintiff to establish it. \u2026 [I]f it appears that the defendant was doing a lawful act, and unintentionally hit and hurt the plaintiff, then unless it also appears \u2026 that the defendant is chargeable with some fault \u2026 the plaintiff \u2026 is not entitled to recover.\u201d"
+    },
+    "Donoghue v. Stevenson [1932] A.C. 562": {
+      "raw_text": "Donoghue v. Stevenson [1932] A.C. 562",
+      "citation_type": "case",
+      "proposition": "Defendant owed Plaintiff and other lawful users of the shared driveway a duty to exercise reasonable care under the circumstances in storing, securing, and maintaining potentially dangerous objects \u2014 including a tall aluminum extension ladder placed adjacent to an area where vehicles are parked and backed into.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s conduct in leaving a tall ladder unsecured in a position where it could reasonably be expected to fall onto vehicles or persons was negligent.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Palsgraf does not address facts involving a ladder, unsecured objects near vehicles, or the specific duty to secure such objects. Instead, it discusses duty and foreseeability in negligence generally, holding that conduct is negligent only in relation to those within the range of reasonably foreseeable risk. While Palsgraf supplies general principles about foreseeability and duty, it does not establish or affirm the specific rule that leaving a tall ladder unsecured where it might fall on persons or vehicles is negligent.",
+      "relevant_excerpt": "\u201cThe risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension\u2026 Negligence is not a tort unless it results in the commission of a wrong, and the commission of a wrong imports the violation of a right\u2026 If the harm was not willful, he must show that the act as to him had possibilities of danger so many and apparent as to entitle him to be protected against the doing of it\u2026\u201d"
+    },
+    "MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916)": {
+      "raw_text": "MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916)",
+      "citation_type": "case",
+      "proposition": "Plaintiff\u2019s damages were the reasonably foreseeable consequence of Defendant\u2019s negligent failure to secure or remove the ladder after notice that it posed a hazard.",
+      "is_valid": true,
+      "courtlistener_id": "3616523",
+      "case_name": "MacPherson v. . Buick Motor Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition concerns foreseeability of damages from a defendant\u2019s negligent failure to secure or remove a ladder after notice of a hazard. MacPherson v. Buick Motor Co. (in this excerpt, the Bartlett dissent) deals with a manufacturer\u2019s negligence liability to remote purchasers for a defective automobile wheel, not with any ladder, notice of a hazard, or duty to secure or remove an object after notice. The opinion neither discusses nor establishes any rule about reasonably foreseeable consequences in that ladder context, so it does not support the claimed proposition.",
+      "relevant_excerpt": "\u201cThe plaintiff was injured in consequence of the collapse of a wheel of an automobile manufactured by the defendant corporation\u2026 The present suit is an action for negligence brought by the subvendee of the motor car against the manufacturer as the original vendor.\u2026 It has heretofore been held in this state that the liability of the vendor of a manufactured article for negligence\u2026 does not extend to strangers injured in consequence of such defects but is confined to the immediate vendee.\u201d"
+    },
+    "Mass. Gen. Laws ch. 260, \u00a7 2A (statute of limitations for tort actions)": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A (statute of limitations for tort actions)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 260, \u00a7 2A (statute of limitations for tort actions).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

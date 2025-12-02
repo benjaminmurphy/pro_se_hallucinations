@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_007_03.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant operates an after-school program that invited children to supervised gym activities and expressly advertised supervision (\u00b6\u00b62,7). Paragraph 17 pleads the specific duties to provide adequate staff supervision, enforce rules, and prevent foreseeable harms\u2014facts sufficient to establish a duty to invitees/participants."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads specific facts showing a breach: staffing plan called for two staff but one left (\u00b69); the remaining staff was inattentive and on her phone (\u00b610); she dismissed warnings and failed to intervene (\u00b6\u00b611\u201312,18(a)\u2013(d)). These allegations adequately state a failure to exercise reasonable care."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that, but for the lack of supervision and failure to intervene, the older boy would not have tackled the child and the child would not have suffered the head injury (\u00b613). Those factual allegations adequately plead actual (but-for) causation at the pleading stage."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the injury (concussion from being tackled on a hard gym floor) was a foreseeable result of leaving children unsupervised and permitting rough play (\u00b619). Those allegations plausibly plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads specific, actual damages: ER diagnosis of concussion and head injury, medical expenses of approximately $5,200, lost wages of approximately $1,500, missed school, pain and suffering and other harms (\u00b6\u00b614\u201315,20)."
+    }
+  }
+}

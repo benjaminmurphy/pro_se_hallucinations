@@ -1,0 +1,28 @@
+{
+  "complaint_file": "cm_009_01.txt",
+  "scenario_id": "cm_009_01",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 209C": {
+      "raw_text": "Mass. Gen. Laws ch. 209C",
+      "citation_type": "statute",
+      "proposition": "Petitioner relies on the Uniform Child Custody Jurisdiction and Enforcement Act (Mass. Gen. Laws ch. 209C) for jurisdictional principles where applicable, and on Massachusetts legal principles recognizing the court\u2019s continuing power to modify custody to serve the best interests of the child when changed circumstances so require.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

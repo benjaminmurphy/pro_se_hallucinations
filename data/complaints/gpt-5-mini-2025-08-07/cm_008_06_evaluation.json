@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_008_06.txt",
+  "scenario_id": "cm_008_06",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 208, \u0016728 (custody and modification of custody orders)": {
+      "raw_text": "Mass. Gen. Laws ch. 208, \u0016728 (custody and modification of custody orders)",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction and venue are proper in the Bristol County Probate and Family Court pursuant to Mass. Gen. Laws ch. 208, \u0016728 (custody and modification of custody orders), and the rules governing the Probate and Family Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 76, \u001671 (compulsory attendance and educational obligations)": {
+      "raw_text": "Mass. Gen. Laws ch. 76, \u001671 (compulsory attendance and educational obligations)",
+      "citation_type": "statute",
+      "proposition": "(Representative statutory and case authority regarding modification, best-interest analysis, school attendance, and the court\u0002s power to allocate educational decision-making and modify parenting time includes, but is not limited to: Mass. Gen. Laws ch. 208, \u0016728; Mass. Gen. Laws ch. 76, \u001671 (compulsory attendance and educational obligations); Mass. Gen. Laws ch. 119, \u0016751A (reporting obligations concerning child welfare); and applicable Massachusetts cases interpreting those statutes and the standard for modification and best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u0016751A (reporting obligations concerning child welfare)": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u0016751A (reporting obligations concerning child welfare)",
+      "citation_type": "statute",
+      "proposition": "(Representative statutory and case authority regarding modification, best-interest analysis, school attendance, and the court\u0002s power to allocate educational decision-making and modify parenting time includes, but is not limited to: Mass. Gen. Laws ch. 208, \u0016728; Mass. Gen. Laws ch. 76, \u001671 (compulsory attendance and educational obligations); Mass. Gen. Laws ch. 119, \u0016751A (reporting obligations concerning child welfare); and applicable Massachusetts cases interpreting those statutes and the standard for modification and best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

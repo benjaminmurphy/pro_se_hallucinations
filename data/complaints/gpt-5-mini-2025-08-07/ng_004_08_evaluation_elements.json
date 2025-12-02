@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_004_08.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owns the building and had responsibility and control over maintenance of the adjacent sidewalk (\u00b6\u00b66,15), and alleges a duty to lawful invitees to exercise reasonable care\u2014facts sufficient to plead a duty in a premises-liability action."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges facts showing Defendant cleared only a narrow path and failed to apply salt/sand or otherwise abate the hazardous condition and failed to warn despite tenant notices and photographs (\u00b6\u00b67,11,17), which adequately alleges breach of the alleged duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that because Defendant did not apply de-icing materials the cleared path became a sheet of ice (\u00b6\u00b67\u20138) and that Plaintiff slipped on that ice and was injured (\u00b610), plausibly alleging that but for Defendant\u2019s failure to treat/warn the ice would not have caused the fall."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Slip-and-fall on untreated ice is a foreseeable consequence of failing to remove or warn about icy sidewalk conditions; the complaint also alleges tenant warnings to Defendant (\u00b611), supporting proximate causation (\u00b612,18)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific economic damages (approx. $2,500 medical expenses and $800 lost wages) and ongoing pain and suffering (\u00b613,19), sufficiently pleading actual damages."
+    }
+  }
+}

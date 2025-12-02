@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_003_04.txt",
+  "scenario_id": "qe_003_04",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 3,
+  "statute_citations": 2,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 3,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 185C, \u00a7 3": {
+      "raw_text": "M.G.L. c. 185C, \u00a7 3",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction pursuant to M.G.L. c. 185C, \u00a7 3, as this action concerns the rights of a residential tenant.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 186, \u00a7 14": {
+      "raw_text": "M.G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Pursuant to M.G.L. c. 186, \u00a7 14, every lease agreement in Massachusetts includes a covenant of quiet enjoyment, which guarantees a tenant's right to use and enjoy the leased premises without substantial interference by the landlord.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 276 (1994).": {
+      "raw_text": "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 276 (1994).",
+      "citation_type": "case",
+      "proposition": "Massachusetts caselaw holds that a landlord\u2019s failure to maintain rental premises in habitable condition can amount to a violation of the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "2069029",
+      "case_name": "Doe v. New Bedford Housing Authority",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The court holds that the landlord\u2019s omissions in responding to pervasive criminal activity on the premises can constitute a breach of the statutory covenant of quiet enjoyment, even though the problem is not a traditional physical defect. It explains that serious interference with use of common areas, caused by the landlord\u2019s failure to take reasonable measures within its control, may violate G.L. c. 186, \u00a7 14. That is consistent with the broader principle that failure to maintain habitable conditions (here, safe, usable common areas) can amount to a quiet enjoyment violation.",
+      "relevant_excerpt": "The covenant of quiet enjoyment protects a tenant\u2019s right to freedom from serious interference with his tenancy \u2014 acts or omissions that impair the character and value of the leasehold. ... If the defendant failed to take any action to remove from the area of its control persons engaged in unlawful activity, then the defendant permitted a condition to exist that substantially interfered with the tenancies of the plaintiffs and thus breached the covenant of quiet enjoyment."
+    },
+    "*Simon v. Solomon*, 385 Mass. 91, 102 (1982).": {
+      "raw_text": "*Simon v. Solomon*, 385 Mass. 91, 102 (1982).",
+      "citation_type": "case",
+      "proposition": "The inconvenience, health hazards, and damage to Plaintiff's personal property caused by Defendant's inaction and delay have substantially impaired Plaintiff\u2019s enjoyment of the apartment.",
+      "is_valid": true,
+      "courtlistener_id": "2038443",
+      "case_name": "Simon v. Solomon",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion squarely deals with flooding, sewage, and unsanitary conditions that damaged the tenant\u2019s property and severely affected her mental and physical use of the apartment. The court holds that the landlord\u2019s failure to remedy the porous wall and repeated flooding violated its duty to maintain sanitary, watertight premises and that these conditions interfered with Solomon\u2019s quiet enjoyment and caused severe emotional harm. This directly supports the idea that such inconvenience, health-related hazards, and property damage substantially impaired the tenant\u2019s enjoyment of the apartment.",
+      "relevant_excerpt": "\u201cThere was evidence at trial that the wall between Solomon\u2019s apartment and the adjoining basement area was extremely porous\u2026 The jury could reasonably conclude that Gem\u2019s failure to do so caused Solomon\u2019s injuries \u2014 that but for Gem\u2019s inaction, no floods would have occurred\u2026. The jury found in answer to a special question\u2026 that the water interfered with Solomon\u2019s quiet enjoyment of her apartment. Therefore, Gem is liable under G. L. c. 186, \u00a7 14\u2026. [T]he recurrent water and sewage left her \u2018withdrawn,\u2019 \u2018depressed,\u2019 and \u2018ashamed\u2019\u2026.\u201d"
+    },
+    "*Haddad v. Gonzalez*, 410 Mass. 855, 872 (1991).": {
+      "raw_text": "*Haddad v. Gonzalez*, 410 Mass. 855, 872 (1991).",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s dismissive responses to Plaintiff\u2019s complaints, as well as his refusal to undertake reasonable repairs, further demonstrate his breach of this covenant.",
+      "is_valid": true,
+      "courtlistener_id": "2013415",
+      "case_name": "Haddad v. Gonzalez",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "medium",
+      "support_reasoning": "The opinion does support the idea that the landlord\u2019s dismissive responses to complaints and refusal to make reasonable repairs demonstrate breach of the tenant-protective covenants (warranty of habitability and quiet enjoyment). The court emphasizes that Gonzalez repeatedly complained, Haddad responded inadequately or offensively (suggesting using the oven for heat, sexualized remark), sent drunken repairmen, and then ignored or defied repair orders, and it upholds findings of liability and substantial damages on that basis. However, the court does not isolate this as a standalone rule about covenants, so the support is inferential rather than in a single explicit statement.",
+      "relevant_excerpt": "Shortly after moving in, Gonzalez began complaining to Haddad about the condition of the apartment, particularly about the lack of adequate heat. Haddad suggested in response that Gonzalez and her family turn on her oven and stove burners for heat... While the matter was pending, Haddad did send some repairmen to the apartment, but the repairmen often were drunk... In late August, 1983, an inspector reinspected the apartment... [and] found that virtually all of the defects identified by the judge remained unrepaired... Based on the findings, as summarized above, the judge found in favor of Gonzalez on each of her counterclaims."
+    }
+  }
+}

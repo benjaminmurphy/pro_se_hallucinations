@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_010_06.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff is a month-to-month tenant of 123 Maple Street beginning May 1, 2022, and alleges Defendant is the owner/landlord of the Premises\u2014facts sufficient to establish a landlord\u2011tenant relationship without reciting legal labels."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific landlord conduct and omissions: Defendant inspected, acknowledged mold, refused to address the bathroom ventilation or make repairs, offered only to clean visible mold, and attributed the problem to Plaintiff\u2014constituting alleged acts/omissions by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges visible mold that spread, ongoing respiratory symptoms (coughing, congestion, wheezing) linked by Plaintiff\u2019s physician to mold exposure, disposal of contaminated personal property, and claimed diminution of habitability and loss of use/enjoyment\u2014facts that sufficiently allege a substantial interference with quiet enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the only bathroom ventilation is an exhaust fan, that mold developed and spread, that Defendant refused to remedy the ventilation deficiency or properly remediate, and that the physician linked Plaintiff\u2019s symptoms to mold exposure\u2014together alleging a causal chain from Defendant\u2019s failure to repair/remediate to ongoing mold exposure and resulting harms."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads concrete damages: medical-related impacts and treatment, disposal of contaminated items (approx. $60), ongoing loss of use/enjoyment and diminution of habitability, and a claimed $200 in compensatory damages\u2014adequately alleging compensable harm."
+    }
+  }
+}

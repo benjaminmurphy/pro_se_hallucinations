@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_007_08.txt",
+  "scenario_id": "ng_007_08",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 260, \u00a7 2A": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A",
+      "citation_type": "statute",
+      "proposition": "This Complaint is filed within the applicable statute of limitations for personal injury actions in the Commonwealth of Massachusetts (see Mass. Gen. Laws ch. 260, \u00a7 2A).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R. Co., 248 N.Y. 339 (1928)": {
+      "raw_text": "Palsgraf v. Long Island R. Co., 248 N.Y. 339 (1928)",
+      "citation_type": "case",
+      "proposition": "See, e.g., Palsgraf v. Long Island R. Co., 248 N.Y. 339 (1928) (concept of foreseeability); Restatement (Second) of Torts \u00a7\u00a7 291-300 (duty and foreseeability); Restatement (Second) \u00a7 324A (liability for negligent performance of an undertaking).",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The portion of Palsgraf quoted is classic authority for the concept of foreseeability as a limitation on duty in negligence. Cardozo explicitly grounds duty in the range of reasonably perceivable risk and repeatedly ties negligence and duty together as relational concepts, which is the same foreseeability-based framework reflected in Restatement (Second) of Torts \u00a7\u00a7 291\u2013300. The case does not address \u00a7 324A\u2019s specific undertaking doctrine, but it directly supports using Palsgraf as authority for the foreseeability concept and its role in defining duty.",
+      "relevant_excerpt": "\u201cThe risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension\u2026 Negligence, like risk, is thus a term of relation\u2026 If the harm was not willful, he must show that the act as to him had possibilities of danger so many and apparent as to entitle him to be protected against the doing of it though the harm was unintended.\u201d"
+    },
+    "Donoghue v. Stevenson, [1932] A.C. 562 (House of Lords)": {
+      "raw_text": "Donoghue v. Stevenson, [1932] A.C. 562 (House of Lords)",
+      "citation_type": "case",
+      "proposition": "Donoghue v. Stevenson, [1932] A.C. 562 (House of Lords) (neighbor principle and duty of care);",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

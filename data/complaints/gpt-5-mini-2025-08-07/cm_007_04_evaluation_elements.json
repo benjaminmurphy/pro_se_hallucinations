@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_007_04.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly pleads an existing March 12, 2019 custody order providing 50/50 shared physical custody on a week-on/week-off rotation (\u00b62.1) and asserts venue because the prior order was entered by this Court (\u00b61.4)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies specific relief: award primary physical custody to Petitioner, modify Respondent\u2019s parenting time to a safety-consistent schedule (including supervised/assisted visits or other conditions), and seeks temporary pendente lite primary custody pending hearing (\u00b62.2, \u00b64.2, \u00b66.1, \u00b68)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a material and substantial change: within the past year Respondent was diagnosed with a progressive neurological condition causing balance problems, multiple falls, and physical limitations; treating physician advised Respondent not be alone with the child in risky situations (\u00b63.2\u20133.3); Respondent has relied on the child for physical assistance and has fallen in the child's presence, creating a new safety risk (\u00b63.4\u20133.5)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint ties the alleged change to the child's best interests, alleging the prior 50/50 schedule now exposes the child to an unjustified safety risk and that modification to primary custody with safety-based parenting time will protect the child while preserving the parent\u2013child relationship (\u00b63.7, \u00b67.1, \u00b64.2)."
+    }
+  }
+}

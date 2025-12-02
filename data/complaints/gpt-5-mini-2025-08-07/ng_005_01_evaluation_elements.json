@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_005_01.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges facts establishing a duty: Defendant is the owner/possessor of the ladder stored adjacent to the shared driveway and the complaint expressly pleads a duty to exercise reasonable care in placing, storing, securing, and maintaining the ladder (\u00b6\u00b65\u20137, 13). Those factual allegations are sufficient at the pleading stage to show a duty to avoid foreseeable harm to neighbors and their property."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific conduct constituting a breach: Defendant left a tall extension ladder unsecured and leaning next to Plaintiff\u2019s parking area, despite Plaintiff\u2019s prior warnings and Defendant\u2019s promises to secure or move it (\u00b6\u00b66\u20137, 14). Those factual allegations adequately plead a failure to exercise reasonable care."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that a gust of wind knocked the unsecured ladder over and it fell onto Plaintiff\u2019s car (\u00b68) and that the harm would not have occurred but for Defendant\u2019s leaving the ladder unsecured (\u00b615). Those allegations suffice to plead but-for causation at the complaint stage."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the ladder\u2019s falling and damage to Plaintiff\u2019s vehicle were a direct and proximate result of Defendant\u2019s conduct (\u00b615\u201316) and includes facts showing foreseeability (Plaintiff warned Defendant the ladder might fall on windy days and Defendant promised to secure it but did not) (\u00b67). Those allegations adequately plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges actual property damage to Plaintiff\u2019s vehicle (dent to hood, cracked windshield), repair and replacement costs, insurance deductible, and rental car expenses while the vehicle was repaired (\u00b68, 9, 16). Those allegations sufficiently plead damages."
+    }
+  }
+}

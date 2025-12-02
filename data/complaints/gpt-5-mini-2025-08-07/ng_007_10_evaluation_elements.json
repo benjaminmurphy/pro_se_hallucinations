@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_007_10.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a custodial/special relationship and premises-possession duties (paras. 6, 7, 17), including representations that children would be supervised and that the Center owed a duty to supervise and protect program attendees."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Specific factual allegations describe inadequate staffing, a staff member leaving the gym, the sole remaining staffer distracted on her phone, dismissal of children\u2019s complaints, and enumerated failures to supervise and intervene (paras. 8\u201311, 18(a)\u2013(e))."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that, but for the lack of supervision and failure to intervene, the older boy would not have tackled the plaintiff\u2019s son with excessive force and the injury would not have occurred (paras. 12, 19). Those factual allegations link the negligent conduct to the injury."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads that unregulated rough play and inadequate supervision created a foreseeable risk of harm, that staff were warned but failed to act, and that the failures were a proximate cause of the concussion (paras. 11, 12, 17, 19)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete damages: diagnosis and treatment for a concussion, pain and cognitive symptoms, missed school, approximately $5,000 in medical expenses, and approximately $1,200 in lost wages (paras. 13\u201314, 20)."
+    }
+  }
+}

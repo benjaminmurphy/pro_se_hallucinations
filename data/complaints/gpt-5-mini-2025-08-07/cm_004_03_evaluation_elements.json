@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_004_03.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly states an existing custody/parenting-time order entered November 15, 2019 (\u00b61.4, \u00b62.1) and alleges venue/jurisdiction predicated on that prior order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint requests concrete changes to the parenting-time arrangement: regular alternate-weekend overnight custody (Fri 6:00 p.m. to Sun 6:00 p.m.), elimination of the three short weekday visits, one midweek evening visit by agreement, and related parenting-plan provisions (\u00b65.2(a)\u2013(c))."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges factual changes since the 2019 order: the Defendant now has separate, appropriate housing with a bedroom for the child (\u00b63.1\u20133.2), the child is now eight and attends school full time and the prior short-visit regime disrupts homework/bedtime (\u00b63.3), and the child has asked for sleepovers (\u00b63.4). These allegations identify altered circumstances affecting the practicality and safety/stability of the prior schedule (\u00b63.6)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the requested modification is necessary for the child's best interests: elimination of disruptive school\u2011night shuttling to protect homework, bedtime routine, and rest (\u00b63.3); the child's expressed desire for sleepovers (\u00b63.4); parental agreement that a revised plan better fits the child's age and school obligations (\u00b63.5); and a proposed parenting plan aimed at stability and addressing holidays, medical care, activities (\u00b65.2(c)). These factual allegations tie the requested changes to the child's welfare and routine rather than parental preference alone."
+    }
+  }
+}

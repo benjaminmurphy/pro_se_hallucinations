@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_009_06",
+  "category": "landlord_tenant",
+  "model": "gpt-5.1-2025-11-13",
+  "plaintiff": "Jasmine Reed",
+  "defendant": "Thomas Blackwood"
+}

@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_008_04.txt",
+  "scenario_id": "ng_008_04",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "- Mass. Gen. Laws ch. 260, \u00a72A (statute of limitations for actions of tort bringing personal injury claims) (applicable time limitations).": {
+      "raw_text": "- Mass. Gen. Laws ch. 260, \u00a72A (statute of limitations for actions of tort bringing personal injury claims) (applicable time limitations).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 260, \u00a72A (statute of limitations for actions of tort bringing personal injury claims) (applicable time limitations).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Massachusetts Rules of Civil Procedure, Mass. R. Civ. P. 8(a), 9(b), 10(a), 11 (pleading requirements and signature obligations).": {
+      "raw_text": "- Massachusetts Rules of Civil Procedure, Mass. R. Civ. P. 8(a), 9(b), 10(a), 11 (pleading requirements and signature obligations).",
+      "citation_type": "statute",
+      "proposition": "- Massachusetts Rules of Civil Procedure, Mass. R. Civ. P. 8(a), 9(b), 10(a), 11 (pleading requirements and signature obligations).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Mass. Gen. Laws ch. 231 (civil actions generally).": {
+      "raw_text": "- Mass. Gen. Laws ch. 231 (civil actions generally).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 231 (civil actions generally).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Mass. Gen. Laws ch. 233, \u00a779 (jurisdictional and venue provisions for tort actions) and other venue statutes as applicable.": {
+      "raw_text": "- Mass. Gen. Laws ch. 233, \u00a779 (jurisdictional and venue provisions for tort actions) and other venue statutes as applicable.",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 233, \u00a779 (jurisdictional and venue provisions for tort actions) and other venue statutes as applicable.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

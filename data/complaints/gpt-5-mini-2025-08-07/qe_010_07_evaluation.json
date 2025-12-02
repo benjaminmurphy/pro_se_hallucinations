@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_010_07.txt",
+  "scenario_id": "qe_010_07",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant)",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, a landlord implicitly covenants that a tenant shall be able to enjoy possession of leased premises without substantial disturbance by the landlord\u2019s acts or omissions and that the premises will be maintained in a condition fit for habitation consistent with applicable statutory and regulatory standards.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 et seq. (sanitary code standards addressing ventilation, heating and maintenance)": {
+      "raw_text": "105 CMR 410.000 et seq. (sanitary code standards addressing ventilation, heating and maintenance)",
+      "citation_type": "statute",
+      "proposition": "The presence of mold in a bathroom, particularly when combined with inadequate ventilation and a landlord\u2019s refusal to remediate or correct ventilation defects, constitutes a substantial interference with the tenant\u2019s use and enjoyment of the premises and may render the premises unfit or unsafe for their ordinary residential use.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary process; venue and related provisions applicable to landlord-tenant matters)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary process; venue and related provisions applicable to landlord-tenant matters)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 239 (Summary process; venue and related provisions applicable to landlord-tenant matters);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 (public health statutes and local board of health authority concerning nuisances and unhealthful living conditions)": {
+      "raw_text": "Mass. Gen. Laws ch. 111 (public health statutes and local board of health authority concerning nuisances and unhealthful living conditions)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 111 (public health statutes and local board of health authority concerning nuisances and unhealthful living conditions);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

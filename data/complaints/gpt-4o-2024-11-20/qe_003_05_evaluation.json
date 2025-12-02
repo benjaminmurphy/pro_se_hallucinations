@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_003_05.txt",
+  "scenario_id": "qe_003_05",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186, \u00a7 14": {
+      "raw_text": "Mass. Gen. Laws ch. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Pursuant to Mass. Gen. Laws ch. 186, \u00a7 14, a landlord is liable for any restriction of a tenant\u2019s quiet enjoyment caused by an act or omission, whether intentional or negligent.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 185C, \u00a7 20": {
+      "raw_text": "Mass. Gen. Laws ch. 185C, \u00a7 20",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Mass. Gen. Laws ch. 185C, \u00a7 20, which vests the Housing Court with jurisdiction over disputes relating to rental housing conditions.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Doe v. New Bedford Housing Authority, 417 Mass. 273, 276 (1994).": {
+      "raw_text": "Doe v. New Bedford Housing Authority, 417 Mass. 273, 276 (1994).",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, every tenant is entitled to the covenant of quiet enjoyment, which guarantees freedom from serious interference with the use and enjoyment of their rental property.",
+      "is_valid": true,
+      "courtlistener_id": "2069029",
+      "case_name": "Doe v. New Bedford Housing Authority",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion explicitly discusses the covenant of quiet enjoyment under G.L. c. 186, \u00a7 14 and describes it as protecting a tenant\u2019s right to be free from serious interference with the tenancy that impairs the character and value of the leasehold. It then applies that standard to conclude that inability to use common areas due to criminal activity would constitute a serious interference with tenants\u2019 use and enjoyment of their homes. This aligns closely with the proposition that every tenant is entitled to a covenant of quiet enjoyment guaranteeing freedom from serious interference with use and enjoyment of rental property.",
+      "relevant_excerpt": "\u201cGeneral Laws c. 186, \u00a7 14, provides, in relevant part, that \u2018any lessor or landlord who directly or indirectly interferes with the quiet enjoyment of any residential premises by the occupant\u2019 shall be punished\u2026 The covenant of quiet enjoyment protects a tenant\u2019s right to freedom from serious interference with his tenancy \u2014 acts or omissions that impair the character and value of the leasehold. \u2026 In this case, we have no doubt that, if the plaintiffs truly are unable to use the common areas of the development\u2026 then the situation constitutes a serious interference with their quiet enjoyment\u2026\u201d"
+    }
+  }
+}

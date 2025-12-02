@@ -1,0 +1,115 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**SPRINGFIELD DISTRICT COURT**  
+____________________________________  
+**JESSICA MORGAN,**  
+Plaintiff,  
+
+v.                                                     Civil Action No. ________  
+
+**THOMAS REED,**  
+Defendant.  
+____________________________________  
+
+### COMPLAINT  
+(Breach of Covenant of Quiet Enjoyment – G.L. c. 186, § 14)
+
+---
+
+### I. PARTIES
+
+1. The Plaintiff, **Jessica Morgan**, is an individual residing at 123 Elm Street, Springfield, Massachusetts.  
+2. The Defendant, **Thomas Reed**, is an individual and landlord doing business in Springfield, Hampden County, Massachusetts, who owns and manages residential rental property located at 123 Elm Street, Springfield, Massachusetts.
+
+---
+
+### II. JURISDICTION AND VENUE
+
+3. Jurisdiction is proper in this Court under **G.L. c. 218, § 19** and **G.L. c. 185C, § 3**, as the property and the events at issue are located in Springfield, Hampden County, Massachusetts.  
+4. Venue is proper in Springfield District Court because the leased premises are situated within this Court’s territorial jurisdiction.
+
+---
+
+### III. FACTUAL ALLEGATIONS
+
+5. On or about **May 1, 2022**, Plaintiff entered into a written residential lease agreement with Defendant for an apartment located at **123 Elm Street, Springfield, Massachusetts** (the “Premises”).  
+6. The monthly rent agreed upon was **$1,600.00**.  
+7. Plaintiff has continuously paid rent in a timely manner and otherwise complied with all lease obligations.  
+8. Beginning in or around **mid-October 2025**, one of the bedrooms in the Premises lost electrical power: the outlets ceased functioning, and the overhead light no longer worked.  
+9. Plaintiff promptly notified Defendant of the condition.  
+10. Defendant arranged for an electrician to inspect the problem. The electrician advised that significant repairs were required to restore proper electrical service to the affected room.  
+11. Despite this notice, Defendant failed to complete necessary repairs and restore electricity for more than six weeks, and as of **December 1, 2025**, the condition remains unresolved.  
+12. As a result, Plaintiff has been unable to use the second bedroom for its intended purpose as a home office.  
+13. Plaintiff has incurred expenses to maintain her ability to work, including approximately **$15 per day** spent purchasing food and coffee at local cafes for workspace, and a **$150-per-month coworking space membership**.  
+14. Plaintiff’s work equipment, files, and furniture have been displaced into the living area, significantly reducing the habitability, comfort, and enjoyment of the apartment.  
+15. Plaintiff notified Defendant repeatedly of these ongoing conditions, but Defendant failed to make timely and adequate repairs.  
+16. Defendant’s failure to restore basic electrical service has substantially interfered with Plaintiff’s use and enjoyment of the Premises and constitutes a breach of the **covenant of quiet enjoyment** implied by **G.L. c. 186, § 14**.  
+17. Plaintiff has suffered consequential and actual damages, including but not limited to loss of use, emotional distress, inconvenience, and out-of-pocket costs estimated at **$1,200** or more.
+
+---
+
+### IV. CAUSE OF ACTION  
+**Count I – Breach of Covenant of Quiet Enjoyment (G.L. c. 186, § 14)**
+
+18. Plaintiff incorporates by reference the allegations of paragraphs 1 through 17 above.  
+19. Under **G.L. c. 186, § 14**, a landlord shall not directly or indirectly interfere with the tenant’s quiet enjoyment of the rented premises.  
+20. Defendant’s failure to maintain electrical service and to repair defective wiring in a timely manner constitutes an “act or omission” that interfered with Plaintiff’s quiet enjoyment, within the meaning of **G.L. c. 186, § 14**.  
+21. The breach of this statute gives rise to statutory damages and reasonable attorney’s fees, even when the tenant proceeds pro se.  
+
+**Applicable Law and Supporting Authorities**
+
+22. Massachusetts recognizes an **implied covenant of quiet enjoyment** in every residential tenancy. *Blackett v. Olanoff*, **371 Mass. 714, 715–17 (1977)** (landlord’s failure to prevent unreasonable interference with tenant’s enjoyment constitutes breach).  
+23. Landlord liability arises from both affirmative acts and omissions. *Simon v. Solomon*, **385 Mass. 91, 102–03 (1982)** (persistent water leakage and failure to repair housing defects constitute breach).  
+24. The covenant protects tenants against “substantial interference with the tenants’ beneficial enjoyment of the premises.” *Doe v. New Bedford Hous. Auth.*, **417 Mass. 273, 284 (1994)**.  
+25. Failure to repair essential services such as electricity, heat, or water constitutes a breach. *Winchester v. O’Brien*, **266 Mass. 33, 36–37 (1929)** (failure to provide utilities amounts to constructive eviction); *Berman & Sons v. Perlman*, **343 Mass. 547, 551 (1962)** (landlord responsible for maintenance affecting habitability).  
+26. The statute, **G.L. c. 186, § 14**, expressly provides that any landlord who “interferes with a tenant’s quiet enjoyment… either directly or indirectly,” is liable for actual and statutory damages.  
+27. Massachusetts courts consistently hold landlords liable under this section for failing to repair serious defects. *Al-Ziab v. Mourgis*, **424 Mass. 847, 853 (1997)** (reiterating statutory basis for damages when landlord fails to maintain habitable premises).  
+28. The duty is nondelegable; landlords cannot excuse performance by citing contractor or structural delays. *Young v. Patukonis*, **24 Mass. App. Ct. 907, 909 (1987)**.  
+29. The existence of unsafe or unusable rooms is sufficient interference even absent total deprivation of possession. *Lowery v. Robinson*, **13 Mass. App. Ct. 982 (1982)**.  
+30. The covenant exists independently of and in addition to any contractual lease obligations. *Hemingway v. Boston Housing Auth.*, **363 Mass. 184, 198–202 (1973)**.  
+31. Because Defendant’s conduct meets the statutory standard of interference, Plaintiff is entitled to recover statutory and actual damages under **G.L. c. 186, § 14**, as well as equitable relief.  
+32. Defendant’s omissions caused Plaintiff undue expenses and personal hardship that were foreseeable results of Defendant’s failure to maintain safe and functional electrical service.
+
+---
+
+### V. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff **Jessica Morgan** respectfully requests that this Honorable Court:
+
+A. Enter judgment in Plaintiff’s favor against Defendant on the claim for breach of the covenant of quiet enjoyment under **G.L. c. 186, § 14**;  
+B. Award Plaintiff actual damages of **$1,200**, or such other amount as the Court deems just and proper, including statutory damages as provided by law;  
+C. Award Plaintiff reasonable costs and any allowable attorney’s fees under **G.L. c. 186, § 14**;  
+D. Order Defendant to promptly complete all necessary repairs to restore full electrical functionality to the leased premises and prevent further interference with Plaintiff’s quiet enjoyment; and  
+E. Grant such other and further relief as the Court finds fair, equitable, and just.
+
+---
+
+### VI. JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+---
+
+### Respectfully submitted,
+
+**Jessica Morgan**  
+Plaintiff, pro se  
+123 Elm Street  
+Springfield, MA 01103  
+Tel: (617) 555‑0123  
+Email: psm1433@gmail.com  
+
+Dated: **December 1, 2025**  
+
+*Signature:* ___________________________  
+**Jessica Morgan**  
+
+---
+
+**Verification**
+
+I, Jessica Morgan, declare under the pains and penalties of perjury that the foregoing Complaint is true and correct to the best of my knowledge and belief.
+
+Dated: December 1, 2025  
+
+Signature: ___________________________  
+**Jessica Morgan**

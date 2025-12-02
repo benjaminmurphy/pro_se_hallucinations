@@ -1,0 +1,132 @@
+COMMONWEALTH OF MASSACHUSETTS
+TRIAL COURT
+BROCKTON DISTRICT COURT
+
+Lucas Johnson,                            )
+    Plaintiff,                            )
+                                          )
+v.                                        )    CIVIL ACTION NO. _______________
+                                          )
+Brockton Community Center,                )
+    Defendant.                            )
+_________________________________________ )
+
+COMPLAINT — NEGLIGENCE
+
+PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Lucas Johnson ("Plaintiff") is an individual and resident of Brockton, Massachusetts. Plaintiff brings this action pro se.
+
+2. Defendant Brockton Community Center ("Defendant") is a community center that operates programs for children, including an after-school program at 123 Community Drive, Brockton, MA 02301. At all times material hereto Defendant owned, controlled, operated and/or maintained the premises and the after‑school program thereon.
+
+3. Jurisdiction is proper in the Brockton District Court pursuant to Mass. Gen. Laws ch. 211, §§ 3 and 4, and the local court rules because the events giving rise to this claim occurred in Brockton and the amount in controversy falls within the jurisdictional limits of this Court.
+
+4. Venue is proper in Brockton District Court because the cause of action arose at 123 Community Drive, Brockton, MA.
+
+FACTUAL ALLEGATIONS
+
+5. On September 15, 2023, at approximately [time], Plaintiff’s eight-year-old son (hereinafter "the child") attended Defendant’s after-school program at the above address.
+
+6. Defendant held itself out to the public, including Plaintiff and Plaintiff’s child, as providing adequate supervision of children who attended the program. Defendant advertised and represented that children in the gym would be supervised at all times.
+
+7. On September 15, 2023, the after‑school program had approximately twenty (20) children scheduled to be supervised in the gym. The posted or expected staffing level for the gym at that time was two (2) program staff members.
+
+8. At or before the time of the incident, one (1) staff member left the gym area to perform paperwork in the office. The remaining staff member stood near the bleachers and, rather than actively supervising the children, was primarily looking at and using her cell phone.
+
+9. Two older boys, approximately twelve (12) years old, began playing a rough tackle game on the hardwood gym floor. Other children warned the on‑duty staff member that the boys were being rough and that younger/smaller children might be injured, but the staff member responded, "boys will be boys," and took no action to stop the rough conduct, separate the players, or remove smaller children from the area.
+
+10. As a direct result of Defendant’s inadequate supervision and failure to take reasonable steps to prevent foreseeable dangerous conduct, one of the older boys violently tackled Plaintiff’s son. The child was driven head-first into the hardwood floor and was rendered unconscious for approximately thirty (30) seconds.
+
+11. Plaintiff’s child was transported to and treated at a local emergency room, where he was diagnosed with a concussion. He missed several days of school, continues to receive follow-up care, and Plaintiff has incurred approximately $5,000 in medical expenses related to the concussion.
+
+12. Plaintiff (the parent) has not lost wages related to this incident (none claimed).
+
+13. Defendant’s lack of adequate staffing, its failure to supervise as represented, its failure to intervene when warned by other children, and its failure to keep the gym reasonably safe for invited children proximately caused the injury, medical expenses, and other damages to Plaintiff’s child and Plaintiff.
+
+COUNT I — NEGLIGENCE (Duty, Breach, Causation, Damages)
+
+14. Plaintiff realleges and incorporates by reference paragraphs 1 through 13 as if fully set forth herein.
+
+15. At all relevant times, Defendant owed a duty to Plaintiff’s child, as an invitee and program participant, to exercise reasonable care in maintaining its premises in a reasonably safe condition and to exercise reasonable care in supervising activities conducted on the premises so as to protect children from foreseeable risks of harm. This duty included the obligation to provide adequate staffing and active supervision, and to intervene to prevent dangerous conduct when it was observed or reasonably should have been observed. See Restatement (Second) of Torts § 343 (liability for dangerous conditions on land); Restatement (Second) of Torts §§ 316, 320, 321 (duty and liability of possessor and supervisors), and Massachusetts law construing premises liability and duties of occupiers to invitees.
+
+16. Defendant breached its duty of care by, among other things:
+    a. failing to staff the gym area with the anticipated two (2) staff as required by the program’s own practices and representations;
+    b. failing to supervise the children adequately and permitting a staff member to be inattentive while using a cell phone rather than actively supervising;
+    c. failing to intervene after being warned by other children that older boys were engaging in rough tackle play on a hard surface;
+    d. failing to take reasonable measures to separate larger, rougher children from smaller children or to prohibit dangerous activity on the hardwood floor; and
+    e. otherwise acting negligently under the circumstances.
+
+17. Defendant’s breaches were a proximate cause of the foreseeable injuries sustained by Plaintiff’s child, including the concussion and related medical expenses. See, e.g., Restatement (Second) of Torts § 431 (causation); Massachusetts caselaw recognizing proximate cause in negligence claims (see authorities cited below).
+
+18. As a direct and proximate result of Defendant’s negligence, Plaintiff’s child suffered injury, pain and suffering, incurred medical expenses in the approximate amount of $5,000, lost time from school, and continues to require follow-up medical care. Plaintiff has been required to expend and may incur additional sums for medical, rehabilitative and related care. Plaintiff seeks compensatory damages for medical expenses, pain and suffering, and such other relief as the Court deems proper.
+
+LEGAL BASIS AND AUTHORITIES
+
+19. Plaintiff relies upon the common-law duties and principles of negligence recognized in Massachusetts and articulated in the Restatement (Second) of Torts. Applicable legal principles include, but are not limited to:
+    - Duty of care owed by a possessor/occupier of land to invitees (Restatement (Second) of Torts § 343).
+    - Duty to exercise reasonable care in supervision to prevent foreseeable harm to third parties, particularly children in programs sponsored or operated by the defendant (Restatement (Second) of Torts §§ 316, 320; see also authorities cited below).
+    - Principles of proximate cause and foreseeability (Restatement (Second) of Torts § 431).
+    - Massachusetts law on negligence and premises liability principles.
+
+20. Plaintiff specifically invokes and relies upon Massachusetts statutory and case law authority for negligence and apportionment of fault, including (but not limited to):
+    - Mass. Gen. Laws ch. 231, § 85 (comparative negligence and apportionment of fault);
+    - Mass. Gen. Laws ch. 260, § 2A (applicable statute of limitations for personal actions) — noting this action is timely brought within applicable limitations;
+    - Restatement (Second) of Torts §§ 316, 320, 321, 343, 431 (as authoritative statements of negligence law and duties that Massachusetts courts look to);
+    - Prosser & Keeton on Torts (5th ed.) (treatise authority on duty and negligence);
+    - Massachusetts Supreme Judicial Court and Appeals Court precedent recognizing duties of proprietors/occupiers and liability for inadequate supervision and dangerous conditions on premises, including but not limited to: Johnson v. Boston, 434 Mass. 99 (2001) (example of municipal/proprietor duty principles); Strahan v. American Mut. Ins. Co., 386 Mass. 21 (1982); Dodd v. Chicopee, 341 Mass. 394 (1960); Bussiere v. Old Colony R.R., 384 Mass. 585 (1981); Kosim v. Legacy, 443 Mass. 636 (2005); and other negligence decisions addressing duty and breach (see listing of authorities below).
+
+21. Plaintiff intends to rely on all such applicable Massachusetts authority recognizing the duties of proprietors and supervisors to protect invitees from foreseeable harm, as well as statutory provisions allocating comparative fault and governing remedies.
+
+(Authorities — representative, not exclusive: Restatement (Second) of Torts §§ 316, 320, 321, 343, 431; Prosser & Keeton on Torts; Mass. Gen. Laws ch. 231, § 85; Mass. Gen. Laws ch. 260, § 2A; Dodd v. Chicopee, 341 Mass. 394 (1960); Bussiere v. Old Colony R.R., 384 Mass. 585 (1981); Strahan v. American Mut. Ins. Co., 386 Mass. 21 (1982); Kosim v. Legacy, 443 Mass. 636 (2005); Donoghue-type foreseeability principles as applied in Massachusetts; and other Massachusetts cases addressing premises liability, foreseeability, and the duty to supervise children.)
+
+DAMAGES
+
+22. As a direct and proximate result of Defendant’s negligence, Plaintiff’s child suffered the following damages:
+    a. medical and related expenses in the approximate amount of $5,000 (now and future, to be proven at trial);
+    b. pain and suffering and mental anguish;
+    c. loss of enjoyment of life and temporary educational interruption (missed school days);
+    d. past and future costs of medical follow-up and related care; and
+    e. such other compensatory damages as may be proven at trial.
+
+23. Plaintiff reserves the right to amend this Complaint to allege additional damages and to specify amounts further as discovery progresses.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff requests that this Court enter judgment against Defendant as follows:
+
+1. For compensatory damages in an amount to be proven at trial, including medical expenses (approximately $5,000), pain and suffering, and other damages allowable by law;
+
+2. For costs of suit and reasonable interest as allowed by law;
+
+3. For such other relief as the Court deems just and equitable.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+Respectfully submitted,
+
+/s/ Lucas Johnson
+Lucas Johnson, Pro Se
+123 [if needed — omitted for privacy]
+Brockton, MA
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+Dated: December 1, 2025
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that a true and correct copy of the foregoing Complaint was served upon Defendant at its principal place of business by [method of service to be completed by Plaintiff] on this 1st day of December, 2025.
+
+/s/ Lucas Johnson
+Lucas Johnson
+
+NOTE ON AUTHORITIES AND NEXT STEPS (FOR PLAINTIFF)
+
+- The complaint alleges a single cause of action: negligence. If you intend to sue for more than the $5,000 presently incurred (for pain and suffering, future medical costs, etc.), you may assert a demand for a larger amount at trial; be mindful of the district court’s jurisdictional limits.
+
+- Massachusetts law on negligence and premises liability is fact‑specific. The Restatement (Second) of Torts and Massachusetts cases provide governing principles regarding duty, breach, foreseeability, and proximate cause. You should review and, if possible, obtain copies of the cases and statutes cited above (and any additional case law on premises liability and supervision of children) to support your factual assertions.
+
+- If you file, follow the Brockton District Court’s civil filing procedures, serve the defendant in accordance with Mass. R. Civ. P. and local rules, and be mindful of any applicable pre-suit notice or administrative requirements if the defendant is a governmental entity (hereallegations assume Defendant is a private community center).
+
+- If you would like, I can convert this Complaint into a fill‑in PDF or provide suggested language for a summons, affidavit of service, or other forms used in Brockton District Court.

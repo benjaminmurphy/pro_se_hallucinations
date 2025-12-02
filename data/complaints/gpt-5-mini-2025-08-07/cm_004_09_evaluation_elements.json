@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_004_09.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an existing custody order entered April 15, 2018 and asserts the Probate and Family Court\u2019s continuing jurisdiction over the parties and child (see \u00b6\u00b62.1, 3.1\u20133.2)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies the specific relief requested: modification of physical custody/parenting time to grant the defendant regular overnight parenting time (alternating weekends and a mid-week overnight) while retaining plaintiff as primary physical custodian, with additional scheduling details in the proposed order (see \u00b6\u00b62.2, 6.2(a)\u2013(b))."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges factual changes since 2018 that, if proven, would constitute a material and substantial change: defendant now has his own apartment with a bedroom suitable for overnight stays (\u00b64.1); the child is older (age 8), in full-time school and expresses a desire for overnights (\u00b64.2); the current short-visit schedule disrupts school routines (\u00b64.3); and both parents recognize the schedule should be adjusted (\u00b64.4). The pleading explicitly ties these facts to a material/substantial change (\u00b64.5)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges how the proposed modification would serve the child\u2019s best interests: promoting stable school/home routines, allowing bonding in a safe home environment, reducing fatigue and school disruption, and respecting the child\u2019s expressed wishes while maintaining plaintiff as primary custodian (\u00b65.1). These factual allegations adequately plead a best\u2011interests justification at the pleading stage."
+    }
+  }
+}

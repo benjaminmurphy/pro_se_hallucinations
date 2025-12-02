@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_004_01.txt",
+  "scenario_id": "qe_004_01",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws, Chapter 185C, Section 21,": {
+      "raw_text": "Massachusetts General Laws, Chapter 185C, Section 21,",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws, Chapter 185C, Section 21, as the action arises from a landlord-tenant relationship within Worcester County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 186, Section 14.": {
+      "raw_text": "Massachusetts General Laws, Chapter 186, Section 14.",
+      "citation_type": "statute",
+      "proposition": "The Defendant's failure to adequately address and remedy the rodent infestation in the rental unit constitutes a breach of the implied warranty of habitability and the covenant of quiet enjoyment, as guaranteed under Massachusetts General Laws, Chapter 186, Section 14.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

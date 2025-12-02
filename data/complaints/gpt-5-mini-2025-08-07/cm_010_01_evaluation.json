@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_010_01.txt",
+  "scenario_id": "cm_010_01",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 208 (statutory provisions governing divorce and custody matters).": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (statutory provisions governing divorce and custody matters).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 208 (statutory provisions governing divorce and custody matters).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209B (Massachusetts enactment of the Uniform Child Custody Jurisdiction and Enforcement Act, UCCJEA) \u2014 jurisdictional rules relevant to custody orders.": {
+      "raw_text": "Mass. Gen. Laws ch. 209B (Massachusetts enactment of the Uniform Child Custody Jurisdiction and Enforcement Act, UCCJEA) \u2014 jurisdictional rules relevant to custody orders.",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 209B (Massachusetts enactment of the Uniform Child Custody Jurisdiction and Enforcement Act, UCCJEA) \u2014 jurisdictional rules relevant to custody orders.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, relevant provisions concerning child welfare and the role of professionals (where applicable).": {
+      "raw_text": "Mass. Gen. Laws ch. 119, relevant provisions concerning child welfare and the role of professionals (where applicable).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 119, relevant provisions concerning child welfare and the role of professionals (where applicable).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 208": {
+      "raw_text": "G.L. c. 208",
+      "citation_type": "statute",
+      "proposition": "Plaintiff will present and rely on applicable Massachusetts SJC and Appeals Court opinions at hearing addressing these principles (statements of principles appear, for example, in Massachusetts appellate decisions construing G.L. c. 208 and applying the best-interests standard to modification requests), as well as any controlling precedent specifically addressing modification where the primary grounds for the original custody allocation (such as parental schooling, housing, or employment constraints) have changed.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

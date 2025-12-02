@@ -1,0 +1,93 @@
+{
+  "complaint_file": "cm_004_01.txt",
+  "scenario_id": "cm_004_01",
+  "category": "custody_modification",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 4,
+  "statute_citations": 2,
+  "valid_citations": 4,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 2,
+  "citations": {
+    "G.L. c. 208, \u00a7 28": {
+      "raw_text": "G.L. c. 208, \u00a7 28",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, G.L. c. 208, \u00a7 28 provides that child custody and parenting time orders may be modified upon a showing that a material and substantial change in circumstances has occurred, and that such a modification is in the best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 208, \u00a7 28A": {
+      "raw_text": "G.L. c. 208, \u00a7 28A",
+      "citation_type": "statute",
+      "proposition": "NOW COMES the Plaintiff, Rachel Bennett, pursuant to G.L. c. 208, \u00a7 28 and G.L. c. 208, \u00a7 28A, and respectfully petitions this Honorable Court to modify the existing custody order issued on April 15, 2019, by the Bristol County Probate and Family Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Custody of Kali, 439 Mass. 834, 840 (2003)": {
+      "raw_text": "Custody of Kali, 439 Mass. 834, 840 (2003)",
+      "citation_type": "case",
+      "proposition": "In determining the best interests of a child, courts must consider a variety of factors, including the child\u2019s age, educational needs, emotional well-being, and each parent\u2019s ability to meet those needs.",
+      "is_valid": true,
+      "courtlistener_id": "6578759",
+      "case_name": "Custody of Kali",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "medium",
+      "support_reasoning": "The opinion discusses the \u2018best interests of the child\u2019 standard and emphasizes that all relevant factors must be weighed in a custody determination. In applying that standard, the court relies on findings about the child\u2019s weekday/school situation, medical and educational needs, emotional and relational ties with each parent, and each parent\u2019s work schedule and ability to meet those needs. While it does not list age, education, and emotional well-being as a formal multi-factor test, its reasoning reflects consideration of a variety of such factors in determining best interests.",
+      "relevant_excerpt": "\u201cHowever, we will not sustain an award of custody \u2018unless all relevant factors in determining the best interests of the child have been weighed.\u2019 \u2026 The judge awarded legal custody of Kali to the mother\u2026 based, in turn, on a number of findings, including\u2026 that the mother provides well for Kali\u2019s physical needs, is concerned with her health and educational issues\u2026 that the father works long hours\u2026 that the mother has more flexible hours and is able to spend more time with Kali during the weekdays\u2026 [and] that it is important that Kali be able to spend as much time as possible with her father\u2026 to continue to foster their close and positive relationship.\u201d}"
+    },
+    "Mason v. Coleman, 447 Mass. 177, 183\u201384 (2006)": {
+      "raw_text": "Mason v. Coleman, 447 Mass. 177, 183\u201384 (2006)",
+      "citation_type": "case",
+      "proposition": "In determining the best interests of a child, courts must consider a variety of factors, including the child\u2019s age, educational needs, emotional well-being, and each parent\u2019s ability to meet those needs.",
+      "is_valid": true,
+      "courtlistener_id": "6579384",
+      "case_name": "Mason v. Coleman",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The court expressly defines the best-interests standard as grounded in the particular needs and circumstances of the individual child and then applies it by evaluating multiple concrete factors: the child\u2019s special educational needs and current school supports, his social and emotional development, the impact of moving homes and schools, and the effect of reduced parenting time with the father. This reasoning aligns with the proposition that courts must consider a variety of factors, including age-related developmental and educational needs, emotional well-being, and each parent\u2019s ability to meet those needs when determining the child\u2019s best interests.",
+      "relevant_excerpt": "\u201c\u2018[T]he best interests of the child standard is one grounded in the particular needs and circumstances of the individual child in question.\u2019 \u2026 The order is based on the judge\u2019s findings that the children\u2019s best interests would be negatively affected by this move. She made detailed written findings that their current schools were superior, that uprooting the children would be difficult for them, that the move would impair the father\u2019s parenting to the detriment of their interests, that potential misconduct by other siblings in the mother\u2019s household weighed against increased physical custody by the mother, and that any financial or other advantage of the move to the mother was unclear.\u201d}"
+    },
+    "Carr v. Carr, 44 Mass. App. Ct. 924, 926 (1998)": {
+      "raw_text": "Carr v. Carr, 44 Mass. App. Ct. 924, 926 (1998)",
+      "citation_type": "case",
+      "proposition": "The Massachusetts courts have long recognized that a modified parenting schedule that responds to the child\u2019s changing needs as they grow is essential for their well-being.",
+      "is_valid": true,
+      "courtlistener_id": "6585923",
+      "case_name": "Carr v. Carr",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion focuses on reaffirming that custody determinations rest in the trial judge\u2019s discretion and are governed by the child\u2019s best interests, particularly the child\u2019s happiness and welfare. It does not discuss modified parenting schedules over time, changing developmental needs as children grow, or the importance of periodically adjusting parenting plans. Accordingly, it does not provide authority for the claimed proposition about evolving parenting schedules being essential for a child\u2019s well-being.",
+      "relevant_excerpt": "\u201cIn any event, in Kendall v. Kendall, 426 Mass. 238 (1997), decided after judgment entered in this case, the Supreme Judicial Court reaffirmed the principle set forth in the Vilakazi decision that the custody of a child is to be determined by the \u2018happiness and welfare of the child\u2019 (371 Mass. at 409) and rests within the discretion of the trial judge. 426 Mass. at 251.\u201d"
+    },
+    "Ardizoni v. Raymond, 40 Mass. App. Ct. 734, 738 (1996)": {
+      "raw_text": "Ardizoni v. Raymond, 40 Mass. App. Ct. 734, 738 (1996)",
+      "citation_type": "case",
+      "proposition": "The Massachusetts courts have long recognized that a modified parenting schedule that responds to the child\u2019s changing needs as they grow is essential for their well-being.",
+      "is_valid": true,
+      "courtlistener_id": "6585388",
+      "case_name": "Ardizoni v. Raymond",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion focuses on whether separating identical twin siblings in a custody modification serves their best interests, emphasizing the presumption that siblings should be kept together. It does not discuss or endorse a general principle that parenting schedules should be modified over time to respond to children\u2019s changing developmental needs. The reasoning is about best interests, material change in circumstances, and sibling unity\u2014not about an evolving or staged parenting plan as essential to well-being.",
+      "relevant_excerpt": "\u201cWhen determining child custody awards in general, or modifications of custody awards based on changed circumstances, the guiding principle always has been the best interests of the children. \u2026 The list of factors within the judge\u2019s purview in child custody matters includes a presumption generally favoring the placement of siblings under one roof.\u201d"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_009_10.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant owned/managed the building, had responsibility for maintenance and repair of common areas and safety devices, and by law/contract/tenancy had a duty to supply, install, maintain, inspect, and repair hallway smoke detectors\u2014facts that sufficiently plead a landlord's duty of care to tenants."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the hallway detector periodically chirped for months, Plaintiff notified Defendant at least three times, and Defendant failed to repair, replace, or otherwise maintain the device, thereby alleging factual conduct that constitutes a breach of the alleged duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges the detector was inoperable (battery removed), the hallway alarm did not sound during the August 15 fire, and therefore Plaintiff did not receive the earlier warning she would have had if the detector had been maintained\u2014allegations that, if proven, satisfy but\u2011for causation at the pleading stage (the complaint also alleges Defendant\u2019s failure to maintain the device as the reason it was inoperable)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the lack of a working hallway smoke detector foreseeably prevented timely warning of a fire and led to smoke inhalation and related harms; those allegations adequately plead proximate (foreseeable) causation for negligence liability."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads concrete damages: bodily injury (smoke inhalation requiring hospitalization), approximately $5,800 in medical expenses, approximately $1,200 in lost wages, property damage, and pain and suffering\u2014sufficient to satisfy the damages element."
+    }
+  }
+}

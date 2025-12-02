@@ -1,0 +1,105 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**CHELSEA DISTRICT COURT**  
+____________________________________  
+**Jessica Monroe,**  
+ Plaintiff,  
+
+v.                        
+**Harold Wiggins,**  
+ Defendant.  
+____________________________________  
+**Civil Action No. _________**  
+
+### COMPLAINT  
+(Breach of Covenant of Quiet Enjoyment — G.L. c. 186, §14)  
+
+**Plaintiff, Jessica Monroe**, brings this complaint against **Defendant, Harold Wiggins**, and alleges as follows:
+
+---
+
+### I. PARTIES
+
+1. Plaintiff Jessica Monroe (“Plaintiff”) is an individual residing at 275 Washington Avenue, Apartment ___, Chelsea, Massachusetts 02150.  
+2. Defendant Harold Wiggins (“Defendant”) is an individual doing business as the owner and landlord of the multi-unit residential building located at 275 Washington Avenue, Chelsea, Massachusetts 02150 (“the Premises”).
+
+---
+
+### II. JURISDICTION AND VENUE
+
+3. This Court has jurisdiction pursuant to **G.L. c. 218, §19** and **G.L. c. 185C, §3**, as the damages sought do not exceed the District Court’s monetary limits and the premises in question are located within Suffolk County, Massachusetts.  
+4. Venue is proper in **Chelsea District Court** pursuant to **Mass. R. Civ. P. 12(b)(3)** and **G.L. c. 223, §1**, as the events giving rise to this complaint occurred in Chelsea, Massachusetts.
+
+---
+
+### III. FACTUAL ALLEGATIONS
+
+5. On or about **January 1, 2022**, Plaintiff entered into a written rental agreement with Defendant for a residential tenancy at 275 Washington Avenue, Chelsea, Massachusetts (“the Premises”), agreeing to pay monthly rent of **$1,500.00**.  
+6. Defendant, as landlord, retained control over the building’s common areas, including the main entry door, hallways, basement, and mail area.  
+7. Massachusetts law imposes on landlords the duty to maintain all facilities appurtenant to residential dwellings in safe, sanitary, and secure condition under **G.L. c. 186, §14**, and related common law principles.  
+8. Approximately two months prior to the filing of this complaint, Plaintiff informed Defendant that the **main entry door lock was broken** and did not latch properly, allowing unauthorized persons to enter the building freely.  
+9. Defendant acknowledged the problem and stated that he would fix the lock but failed to take any corrective action.  
+10. Plaintiff reminded Defendant on at least two subsequent occasions, yet Defendant took no meaningful steps to secure the entryway.  
+11. As a direct result of Defendant’s failure to repair and maintain the common entry door, unauthorized persons entered the building without consent.  
+12. In or around the month prior to this filing, multiple tenants reported **theft of mail and packages** from the common hallway. Plaintiff lost a package worth approximately **$120.00**.  
+13. Plaintiff also discovered evidence indicating that **unauthorized persons had been sleeping in the basement**, causing fear and stress affecting Plaintiff’s peaceful use of the Premises.  
+14. Plaintiff purchased and installed a personal security camera and upgraded her own apartment door lock, incurring **$200.00** in expenses, both reasonably necessary measures to restore some sense of security.  
+15. Defendant dismissed Plaintiff’s safety concerns as “overreacting” and took no steps to fix the lock or otherwise secure the building.  
+16. Defendant’s inaction substantially interfered with Plaintiff’s quiet enjoyment of her home, causing distress, inconvenience, fear, and financial loss.  
+17. Plaintiff reasonably values her damages at **$320.00**, reflecting stolen property and protective expenses incurred as a result of Defendant’s breach.
+
+---
+
+### IV. CLAIM FOR RELIEF  
+#### Count I — Breach of the Covenant of Quiet Enjoyment (G.L. c. 186, §14)
+
+18. Plaintiff realleges and incorporates Paragraphs 1–17 as if fully set forth herein.  
+19. Under **G.L. c. 186, §14**, a landlord who “directly or indirectly interferes with the quiet enjoyment of any residential premises by the occupant” is liable for actual and statutory damages.  
+20. Defendant’s failure to repair the defective entry door lock, despite repeated notice, constitutes an **indirect interference** with Plaintiff’s quiet enjoyment and peaceful habitation, as recognized in **Simon v. Solomon**, 385 Mass. 91 (1982).  
+21. In **Blackett v. Olanoff**, 371 Mass. 714 (1977), the Supreme Judicial Court held that a landlord may be liable for failing to control conditions emanating from premises under their control that disturb a tenant’s quiet enjoyment.  
+22. Here, Defendant maintained control of the common entryway and neglected to secure it, allowing repeated intrusions by trespassers, thereby depriving Plaintiff of statutorily protected enjoyment.  
+23. Massachusetts courts have repeatedly found liability for failure to act upon notice of unsafe or intrusive conditions in common areas, including **Dorgan v. Loukas**, 19 Mass. App. Ct. 959 (1985) and **Doe v. Nixon**, 82 Mass. App. Ct. 468 (2012).  
+24. Defendant’s inaction violates Plaintiff’s statutory rights under **G.L. c. 186, §14**, which prohibits such interference and imposes liability for actual and consequential damages.  
+25. See also **Al-Ziab v. Mourgis**, 424 Mass. 847 (1997) (recognizing emotional distress and inconvenience as compensable under §14); **Pine v. Rust**, 404 Mass. 411 (1989) (landlord liable for failure to address safety issues in common space); **Wesson v. Leone Enterprises, Inc.**, 437 Mass. 708 (2002) (quiet enjoyment covenant breached when landlord’s neglect exposes tenant to unreasonable risk); **Haddad v. Gonzalez**, 410 Mass. 855 (1991) (failure to maintain security measures interfered with quiet enjoyment).  
+26. Defendant’s conduct further violates **G.L. c. 239, §8A**, which protects tenants from retaliatory or negligent interference, and **G.L. c. 111, §§127A–127L**, requiring landlords to maintain buildings in a sanitary, secure, and habitable condition.  
+27. Defendant’s knowing failure to repair the lock despite repeated notice also constitutes negligence per se under **G.L. c. 143, §3R**, reflecting a disregard of statutory obligations to maintain safe egress and entry facilities.  
+28. As a direct and proximate result of Defendant’s breach, Plaintiff suffered emotional distress, lost personal property, and incurred expenses to protect her home.
+
+---
+
+### V. DAMAGES
+
+29. Pursuant to **G.L. c. 186, §14**, Plaintiff is entitled to recovery of actual damages, including at least $320.00 for theft and replacement costs, plus statutory damages equal to **three months’ rent** or actual damages, whichever is greater.  
+30. Plaintiff may also recover reasonable attorney’s fees and costs even though she is self-represented, under equitable principles recognized in **Simon v. Solomon**, supra, and **Cormi v. Whitehouse**, 43 Mass. App. Ct. 175 (1997).  
+
+---
+
+### VI. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Jessica Monroe respectfully requests that this Honorable Court:
+
+A. Enter judgment in Plaintiff’s favor on her claim for breach of the covenant of quiet enjoyment under **G.L. c. 186, §14**;  
+B. Award statutory damages of **three months’ rent ($4,500)** or actual damages of **$320.00**, whichever is greater;  
+C. Award costs of this action, including filing fees and reasonable expenses;  
+D. Award any other relief that the Court deems just and proper to protect Plaintiff’s right to quiet enjoyment and personal security.
+
+---
+
+### VII. JURY DEMAND
+
+Plaintiff hereby demands a trial by jury on all issues so triable.
+
+---
+
+**Respectfully submitted,**  
+   
+**Jessica Monroe**  
+Plaintiff, pro se  
+275 Washington Avenue  
+Chelsea, MA 02150  
+Tel: (617) 555-0123  
+Email: psm1433@gmail.com  
+
+_Date: December 1, 2025_  
+
+**Signature:** ___________________________  
+Jessica Monroe, Plaintiff Pro Se

@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_002_10.txt",
+  "scenario_id": "cm_002_10",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 1,
+  "statute_citations": 4,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 208 (domestic relations)": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (domestic relations)",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to the Massachusetts Probate and Family Court\u2019s authority to modify child custody and visitation orders and related statutes governing custody and jurisdiction, including, without limitation, Mass. Gen. Laws ch. 208 (domestic relations), Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 UCCJEA), and other applicable law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 UCCJEA)": {
+      "raw_text": "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 UCCJEA)",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to the Massachusetts Probate and Family Court\u2019s authority to modify child custody and visitation orders and related statutes governing custody and jurisdiction, including, without limitation, Mass. Gen. Laws ch. 208 (domestic relations), Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 UCCJEA), and other applicable law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Troxel v. Granville, 530 U.S. 57 (2000) (parental rights and deference to fit parental decision-making in custody/visitation contexts)": {
+      "raw_text": "Troxel v. Granville, 530 U.S. 57 (2000) (parental rights and deference to fit parental decision-making in custody/visitation contexts)",
+      "citation_type": "case",
+      "proposition": "See, e.g., Mass. Gen. Laws ch. 208 and ch. 209B (UCCJEA); Troxel v. Granville, 530 U.S. 57 (2000) (parental rights and deference to fit parental decision-making in custody/visitation contexts); and recognized Massachusetts authority on modification and best-interest analysis.",
+      "is_valid": true,
+      "courtlistener_id": "1087668",
+      "case_name": "Troxel v. Granville",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "Troxel squarely addresses parental rights in the context of third\u2011party visitation and emphasizes the constitutional requirement that courts defer to the decisions of fit parents about the care, custody, and control of their children, including visitation. The plurality rejects a regime in which a judge may substitute his or her judgment for that of a fit parent based solely on a free\u2011floating best\u2011interest test, and insists that a fit parent\u2019s determination receive \u201cspecial weight.\u201d This aligns with citing Troxel as authority on parental rights and deference to fit parental decision\u2011making in custody/visitation contexts that must then be integrated with applicable Massachusetts statutes and best\u2011interest standards.",
+      "relevant_excerpt": "\u201cFirst, the Troxels did not allege, and no court has found, that Granville was an unfit parent. That aspect of the case is important, for there is a presumption that fit parents act in the best interests of their children. \u2026 Accordingly, so long as a parent adequately cares for his or her children (i.e., is fit), there will normally be no reason for the State to inject itself into the private realm of the family to further question the ability of that parent to make the best decisions concerning the rearing of that parent\u2019s children.\u201d"
+    },
+    "28 U.S.C. \u00a7 1738A": {
+      "raw_text": "28 U.S.C. \u00a7 1738A",
+      "citation_type": "statute",
+      "proposition": "If relocation leads to interstate jurisdictional considerations, the UCCJEA (Mass. Gen. Laws ch. 209B) and the Parental Kidnapping Prevention Act (28 U.S.C. \u00a7 1738A) provide the framework for interstate custody jurisdiction and enforcement.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a739 (regarding child welfare and the Court\u2019s interest in the protection of children).": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a739 (regarding child welfare and the Court\u2019s interest in the protection of children).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 119, \u00a739 (regarding child welfare and the Court\u2019s interest in the protection of children).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

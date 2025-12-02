@@ -1,0 +1,132 @@
+COMMONWEALTH OF MASSACHUSETTS
+LYNN DISTRICT COURT
+_____________________________________
+JESSICA CONNORS,                         )
+     Plaintiff,                          )
+                                         )
+v.                                       )    Civil Action No. __________________
+                                         )
+LYNN APARTMENT MANAGEMENT,               )
+     Defendant.                          )
+_____________________________________)
+
+COMPLAINT — NEGLIGENCE
+
+Now comes the Plaintiff, Jessica Connors, and for her Complaint against the Defendant, Lynn Apartment Management, alleges as follows:
+
+PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Jessica Connors is an adult resident of the Commonwealth of Massachusetts and at all times relevant hereto resided at 123 Elm Street, Apartment [third floor], Lynn, MA 01905.
+
+2. Defendant Lynn Apartment Management (hereinafter “Defendant” or “Landlord”) is a Massachusetts business entity that owns, manages, operates, and/or controls the residential apartment building located at 123 Elm Street, Lynn, Massachusetts, and at all times relevant had control and responsibility for maintenance of the common areas and safety devices in said building.
+
+3. The incident giving rise to this action occurred on October 5, 2023 at 123 Elm Street, Lynn, Massachusetts.
+
+4. Jurisdiction and venue are proper in the Lynn District Court because the cause of action arose in Lynn, Massachusetts and the amount claimed (as to damages claimed in this Complaint) is within the monetary jurisdiction of this Court.
+
+FACTUAL ALLEGATIONS
+
+5. Plaintiff repeats and realleges the foregoing paragraphs as if set forth fully herein.
+
+6. Defendant owed a duty to keep the common areas of the apartment building in a reasonably safe condition, including the duty to provide and maintain working smoke detection systems in the common hallways and to warn tenants of dangerous conditions affecting tenant safety.
+
+7. For months prior to October 5, 2023, the smoke detector located in the hallway outside Plaintiff’s third-floor unit repeatedly emitted a low-battery “chirping” signal.
+
+8. At some point prior to October 5, 2023, someone removed the battery from the hallway smoke detector and left the battery on a windowsill; as a result, the hallway smoke detector was inoperable and incapable of producing an audible alarm.
+
+9. Plaintiff notified Defendant of the malfunctioning/chirping smoke detector on at least three (3) separate occasions and repeatedly requested that Defendant replace the battery or otherwise repair the detector so it would function properly.
+
+10. On each such occasion Defendant acknowledged Plaintiff’s concerns and stated that Defendant would “take care of it,” but Defendant failed to replace the battery or otherwise ensure the detector was in working order.
+
+11. On October 5, 2023 a fire began in a first-floor apartment—apparently originating in the kitchen of that unit. Because the hallway smoke detector outside Plaintiff’s unit was inoperable and without battery, no working hallway alarm activated to warn upstairs tenants, including Plaintiff.
+
+12. Plaintiff smelled smoke and, upon attempting to evacuate, encountered a hallway thick with smoke. Plaintiff experienced acute difficulty breathing during escape and thereafter was transported to a hospital and admitted with smoke inhalation.
+
+13. Plaintiff spent the night in the hospital receiving treatment for smoke inhalation. Plaintiff incurred approximately $12,000.00 in medical bills as a result of the smoke inhalation and related treatment and suffered lost wages of approximately $2,500.00 as a direct consequence of the injury.
+
+14. Plaintiff’s personal property and belongings also suffered smoke and water damage during and after the incident causing additional damages to Plaintiff (the full extent and amount of which are continuing and subject to further documentation and proof).
+
+15. Defendant’s failure to ensure the hallway smoke detector was maintained in good working order, to replace the battery, and to otherwise take reasonable steps to warn and protect tenants from a foreseeable fire hazard was a proximate cause of Plaintiff’s injuries and damages.
+
+COUNT I — NEGLIGENCE
+
+16. Plaintiff repeats and realleges the foregoing paragraphs as if set forth fully herein.
+
+17. Under Massachusetts law and applicable regulations Defendant owed Plaintiff a duty to exercise reasonable care to maintain the premises and common areas in a reasonably safe condition, including maintaining required safety devices such as smoke detectors and taking reasonable steps to warn tenants of dangerous conditions (duty).
+
+18. Defendant breached that duty by failing to keep the hallway smoke detector in working order, failing to replace the battery despite repeated notice from Plaintiff that the detector was chirping and in need of service, and failing to take reasonable corrective action to abate the dangerous condition.
+
+19. Defendant’s breach was negligent in that it created an unreasonable risk of harm to tenants who would reasonably rely on functioning smoke detection to provide timely warning in the event of a fire.
+
+20. Defendant’s negligence was a proximate cause of the fire-related harm to Plaintiff because, but for Defendant’s failure to maintain the hallway detector, Plaintiff would have received timely warning, and could have evacuated sooner and/or avoided or lessened the injuries and losses she sustained.
+
+21. As a direct and proximate result of Defendant’s negligence, Plaintiff suffered bodily injury (smoke inhalation), mental anguish, pain and suffering, medical expenses, lost wages, and property damage.
+
+22. Plaintiff’s damages to date include approximately $12,000.00 in medical expenses and approximately $2,500.00 in lost earnings; Plaintiff also seeks compensation for past and future pain and suffering, emotional distress, property damage, consequential losses, and other general and special damages to be proven at trial.
+
+APPLICABLE LAW AND AUTHORITIES (Selected)
+
+Plaintiff relies upon the Massachusetts common law of negligence and premises liability principles and applicable statutes and regulations, including but not limited to:
+
+Statutes and Regulations
+- Massachusetts General Laws Chapter 148 (Fire Prevention and Control) and related statutory provisions governing fire safety;
+- Massachusetts General Laws Chapter 186 (Landlord and Tenant law) and duties of landlords regarding common areas and habitability;
+- Massachusetts General Laws Chapter 111 (Public Health), and related statutes imposing duties to maintain safe conditions in dwellings;
+- 105 CMR 410.000 et seq. (Massachusetts Department of Public Health regulations concerning smoke detectors and alarms in dwellings);
+- 780 CMR (Massachusetts State Building Code and fire protection provisions requiring detection and alarm systems and maintenance thereof);
+- Other applicable local codes and ordinances regulating smoke detectors and landlord maintenance obligations.
+
+Restatement Authorities
+- Restatement (Second) of Torts §282 (duty of land possessor), §314A (duty to protect from risks created by third persons), §302B (negligent performance of undertaking), §323 and §324A (liability for negligent performance of acts).
+
+Representative Massachusetts Case Law (examples of premises liability/negligence principles and landlord duties)
+- Cases recognizing duty and foreseeability in negligence and premises liability contexts, including Massachusetts Supreme Judicial Court decisions addressing landlord and possessor obligations to maintain safe conditions and warn invitees and tenants (see, e.g., SJC negligence jurisprudence on duty, breach, causation, and damages; Plaintiff will rely on controlling SJC and Appeals Court decisions regarding landlord liability and tenant safety at trial).
+
+(Notes: Plaintiff will rely on and introduce specific controlling Massachusetts statutory, regulatory, and case law authorities at trial and in any motions, including, but not limited to, SJC decisions addressing landlord duties to maintain common areas, the need for functioning fire-detection devices, causation and proximate cause principles, and damages law. Copies and specific citations will be provided in accordance with Court rules and at such time as the parties and Court may require.)
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in her favor and against Defendant Lynn Apartment Management as follows:
+
+A. For compensatory damages in an amount to be proven at trial, including but not limited to:
+   1. Medical expenses in the amount of approximately $12,000.00;
+   2. Lost wages in the amount of approximately $2,500.00;
+   3. Property damage and replacement costs in an amount to be proven at trial;
+   4. General damages for pain and suffering, emotional distress, and loss of enjoyment of life in an amount to be proven at trial;
+
+B. For prejudgment and post-judgment interest as allowed by law;
+
+C. For costs of suit and reasonable attorneys’ fees to the extent permitted by law;
+
+D. For such other and further relief as the Court deems just and proper.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff hereby demands a trial by jury on all issues so triable.
+
+DATE: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jessica Connors
+Jessica Connors
+Plaintiff, pro se
+123 Elm Street, #[third floor]
+Lynn, MA 01905
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that a true copy of the foregoing Complaint was served upon the Defendant, Lynn Apartment Management, by [personal service/first-class mail/other permissible method] at its place of business on the date and in the manner required by the Court’s rules. (Specify method and date of service when filing.) 
+
+/ s/ Jessica Connors
+Jessica Connors
+
+---
+
+Notes to Court Clerk and Defendant:
+- Plaintiff is proceeding pro se and requests that the Court accept this Complaint for filing and issue summons to the Defendant at its principal place of business.
+- Plaintiff intends to supplement and expressly identify controlling case law and statutory/regulatory citations and provide copies of the authorities relied upon in support of the allegations and claim, consistent with any briefing schedule and the discovery process.
+
+(End of Complaint)

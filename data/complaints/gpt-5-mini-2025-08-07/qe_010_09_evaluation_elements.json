@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_010_09.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff rents the apartment at 123 Maple Street, alleges Defendant is the owner/landlord, pleads a month-to-month tenancy beginning June 1, 2020 and recites rent \u2014 facts that establish a landlord-tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant inspected but refused to remediate ventilation or structural/mechanical causes of mold, only offered to 'clean' existing mold, and refused to repair or upgrade ventilation \u2014 a pleaded omission/refusal to act by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges ongoing and spreading mold in the bathroom (ceiling and shower), new and worsening respiratory symptoms, physician attribution of symptoms to mold, loss/discarding of property, and diminished use/enjoyment \u2014 facts adequately alleging material/substantial interference with quiet enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the mold resulted from inadequate ventilation and Defendant\u2019s failure to remediate or fix ventilation, links Defendant\u2019s omissions to continued mold growth and to Plaintiff\u2019s health and property harms, and includes a physician\u2019s opinion relating symptoms to mold \u2014 facts alleging proximate causation between landlord conduct and interference."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific economic loss (~$60 in personal property), a claimed total of $500 including physical and emotional distress and diminished use/enjoyment, and medical treatment \u2014 factual allegations supporting damages."
+    }
+  }
+}

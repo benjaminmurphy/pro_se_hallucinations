@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_007_07.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies a specific prior Probate & Family Court custody/parenting-time order dated April 15, 2018, describing its one-week-on/one-week-off equal-physical-custody terms and states it remains in effect."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint explicitly requests primary physical custody for the Plaintiff and details interim and permanent parenting-time limitations for the Defendant (supervised/supported visits, safety conditions, exchanges at neutral locations, prohibition on child caregiving), including a proposed interim schedule."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete factual changes since the 2018 Order: the Defendant\u2019s progressive neurological diagnosis, declining mobility and balance, multiple falls, physician advice against being left alone with a child in certain situations, and instances where the child was required to assist the Defendant\u2014facts that, if proven, constitute a material and substantial change affecting the child\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint ties the requested modification to the child\u2019s safety and welfare, alleging that unrestricted alternating-week custody now places the child at risk and imposes inappropriate caregiving duties; it seeks remedies tailored to protect the child (primary residence with Plaintiff, supervised/supportive parenting time, medical evaluations), which are pleaded as necessary for the child\u2019s best interests."
+    }
+  }
+}

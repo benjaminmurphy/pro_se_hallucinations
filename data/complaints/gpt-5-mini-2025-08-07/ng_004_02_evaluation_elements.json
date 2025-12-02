@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_004_02.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant is owner of the three-unit building adjacent to the sidewalk (\u00b62) and specifically alleges she owed a duty to lawful users of the sidewalk to keep it reasonably safe and warn of hazards (\u00b616), and that she had ability/responsibility to address the hazard (\u00b610)."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific negligent acts: clearing only a narrow path without de-icing material (\u00b65, \u00b617(a)), allowing that path to refreeze into ice (\u00b66), and failing to remedy or warn after notice from tenants (\u00b69, \u00b617(b)-(c))."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges the ice formed because no de-icing was applied (\u00b65-6), she slipped on that ice and fell (\u00b67-8), and that her fall and injuries resulted from that hazardous icy condition (\u00b611), which pleads that the injury would not have occurred but for the hazardous ice."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the icy sidewalk was a known/obvious hazard (\u00b66, \u00b69-10), and that slipping and sustaining a back injury are the foreseeable consequences of leaving a public sidewalk icy and unaddressed (\u00b611, \u00b616-17), satisfying proximate causation at pleading stage."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific physical injury (sprained lower back) and related injuries (\u00b611, \u00b619), quantifies medical expenses (~$1,200) (\u00b612, \u00b619) and lost wages (~$800) (\u00b613, \u00b619), and pleads pain, emotional distress, and other damages (\u00b614, \u00b619)."
+    }
+  }
+}

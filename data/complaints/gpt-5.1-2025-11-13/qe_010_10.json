@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_010_10",
+  "category": "landlord_tenant",
+  "model": "gpt-5.1-2025-11-13",
+  "plaintiff": "Emily Carter",
+  "defendant": "Laura Bennett"
+}

@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_001_07.txt",
+  "scenario_id": "ng_001_07",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Mass. Gen. Laws ch. 260, \u00a72A": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a72A",
+      "citation_type": "statute",
+      "proposition": "5. Plaintiff brings this action within the applicable statute of limitations.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Brown v. Kendall, 60 Mass. (6 Cush.) 292 (1850)": {
+      "raw_text": "Brown v. Kendall, 60 Mass. (6 Cush.) 292 (1850)",
+      "citation_type": "case",
+      "proposition": "16. At all relevant times, Defendant owed Plaintiff, as an invitee lawfully on the Premises, a duty to exercise reasonable care to maintain the Premises in a reasonably safe condition and to warn of dangerous conditions of which Defendant knew or reasonably should have known.",
+      "is_valid": true,
+      "courtlistener_id": "6535730",
+      "case_name": "Brown v. Kendall",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case is a general negligence/trespass decision about unintentional injury and the standard of ordinary care; it does not involve premises liability, invitees, or a land possessor\u2019s duty to maintain premises or warn of dangerous conditions. The opinion speaks in broad terms about due care in performing lawful acts, not about the specialized duty owed by an occupier of land to an invitee. Therefore it does not support the specific proposition regarding a landowner\u2019s duty to an invitee on the premises.",
+      "relevant_excerpt": "\u201cIn using this term, ordinary care, it may be proper to state, that what constitutes ordinary care will vary with the circumstances of cases. In general, it means that kind and degree of care, which prudent and cautious men would use, such as is required by the exigency of the case, and such as is necessary to guard against probable danger.\u201d"
+    },
+    "Mass. Gen. Laws ch. 231, \u00a785": {
+      "raw_text": "Mass. Gen. Laws ch. 231, \u00a785",
+      "citation_type": "statute",
+      "proposition": "Principles of comparative negligence and apportionment of damages under Massachusetts law (see Mass. Gen. Laws ch. 231, \u00a785 and related jurisprudence);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

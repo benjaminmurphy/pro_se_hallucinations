@@ -1,0 +1,94 @@
+```plaintext
+COMMONWEALTH OF MASSACHUSETTS  
+PROBATE AND FAMILY COURT DEPARTMENT  
+BARNSTABLE PROBATE AND FAMILY COURT  
+
+CIVIL ACTION NO. __________  
+
+__________________________________  
+LAURA JENKINS,  
+   Plaintiff,  
+v.  
+MARK JENKINS,  
+   Defendant.  
+_________________________________  
+
+**COMPLAINT FOR MODIFICATION**  
+
+NOW COMES the Plaintiff, Laura Jenkins, pursuant to G.L. c. 208, § 28, and respectfully files this Complaint for Modification of the Judgment entered on May 15, 2019, in the above-captioned matter, and alleges as follows:  
+
+### PARTIES  
+
+1. The Plaintiff, **Laura Jenkins**, resides at [Your Full Address] and has primary physical custody of the minor child, Emily Jenkins (age 8), pursuant to the Judgment entered on May 15, 2019. The Plaintiff’s contact information is as follows:  
+   - Telephone: (617) 555-0123  
+   - Email: psm1443@gmail.com  
+
+2. The Defendant, **Mark Jenkins**, resides at [Defendant's Full Address], which is now located in Cape Cod, Massachusetts, approximately ninety miles away from the Plaintiff and the child’s school.  
+
+### JURISDICTION AND VENUE  
+
+3. This Court has jurisdiction over this Complaint for Modification pursuant to G.L. c. 208, § 28, which allows the Probate and Family Court to modify child custody and visitation orders upon a material change in circumstances that affects the welfare of the child.  
+
+4. Venue is appropriate in the Barnstable Probate and Family Court because the Defendant resides within this county.  
+
+### FACTUAL ALLEGATIONS  
+
+5. On May 15, 2019, this Court issued a Judgment granting the Plaintiff primary physical custody of the parties’ minor child, Emily Jenkins, while awarding the Defendant parenting time every other weekend and one midweek overnight on Wednesdays, among other provisions.  
+
+6. At the time of the Judgment, both parties resided in the same town, and the minor child’s school and midweek overnight parenting time were logistically feasible and without adverse effects on the child’s welfare.  
+
+7. Since entry of the Judgment, the Defendant has relocated approximately ninety (90) miles away to Cape Cod, Massachusetts. Despite this significant move, the Defendant continues to exercise the midweek overnight on Wednesdays.  
+
+8. The Defendant currently picks up the minor child, Emily, at school on Wednesday afternoons, drives ninety miles to Cape Cod, and returns her to school early Thursday morning, requiring her to wake up at approximately 4:30 AM to accommodate the lengthy commute.  
+
+9. As a direct result of this midweek overnight and the travel demands, Emily is frequently exhausted, particularly on Thursdays following the midweek parenting time.  
+
+10. Emily’s teacher has reported a noticeable decline in her classroom participation and attentiveness on Thursdays, which negatively impacts her academic progress and overall well-being.  
+
+11. The Plaintiff has repeatedly requested that the Defendant modify the midweek overnight arrangement to better accommodate Emily’s needs, but the Defendant has refused to agree to any changes.  
+
+12. This change in circumstances, specifically the Defendant’s relocation to a distant residence and its impact on the minor child’s sleep, education, and well-being, constitutes a material change warranting a modification of the prior Judgment.  
+
+13. The requested modifications are necessary to serve the child’s best interests, which are paramount under Massachusetts law. See G.L. c. 208, § 28; Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985).  
+
+### LEGAL STANDARD  
+
+14. Under Massachusetts law, a custody or visitation order may be modified upon a showing that (1) there has been a material and substantial change in circumstances, and (2) the modification is necessary to serve the best interests of the child. G.L. c. 208, § 28; Custody of Zia, 50 Mass. App. Ct. 237 (2000).  
+
+15. Courts have long held that the child’s best interests are the touchstone of any custody or visitation determination, and the child’s welfare must predominate over parental convenience. See Custody of Kali, 439 Mass. 834 (2003); Pierce v. Pierce, 455 Mass. 286 (2009).  
+
+16. A parent’s relocation can constitute a material change in circumstances if it disrupts an existing custody plan or poses challenges to the child’s well-being. See D.C. v. J.S., 58 Mass. App. Ct. 1111 (2003) (rescript); Pizzino v. Miller, 67 Mass. App. Ct. 865 (2006).  
+
+17. It is well-established that courts must consider the impact of travel on the minor child, particularly when it interferes with the child’s rest, education, or physical and emotional health. See Rosenthal v. Maney, 51 Mass. App. Ct. 257 (2001); Connor v. Benedict, 56 Mass. App. Ct. 901 (2002) (rescript).  
+
+18. In light of the evidence that Emily’s well-being is detrimentally impacted by the current midweek overnight arrangement due to exhaustion and disrupted school performance, the requested modification is in her best interests. See Prenaveau v. Prenaveau, 81 Mass. App. Ct. 479 (2012).  
+
+### RELIEF REQUESTED  
+
+WHEREFORE, for the foregoing reasons, the Plaintiff respectfully requests that this Honorable Court:  
+
+1. **Eliminate the Defendant’s midweek overnight visitation on Wednesdays** and adjust the parenting schedule to ensure that the minor child is not subjected to unreasonable travel or disruption during the school week.  
+
+2. **Modify the Defendant’s parenting time on weekends, if necessary** and as the Court deems appropriate, to further the child’s best interests.  
+
+3. Award such other relief as this Court deems just and proper.  
+
+Respectfully submitted,  
+
+**Laura Jenkins**  
+Plaintiff, Pro Se  
+
+**Signature:** ______________________________  
+**Date:** December 1, 2025  
+
+**Contact Information:**  
+Laura Jenkins  
+[Your Full Address]  
+Telephone: (617) 555-0123  
+Email: psm1443@gmail.com  
+```
+
+---
+
+### Notes on Citations:  
+The legal authorities cited in the text support your request for modification and are relevant for cases involving parental relocation, the child’s well-being, and modifications based on material changes in circumstances. Please ensure you update "[Your Full Address]" and "[Defendant's Full Address]" with the appropriate information before filing. Ensure that the Civil Action Number is assigned by the court clerk upon filing.

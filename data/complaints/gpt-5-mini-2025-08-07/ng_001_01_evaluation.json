@@ -1,0 +1,41 @@
+{
+  "complaint_file": "ng_001_01.txt",
+  "scenario_id": "ng_001_01",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 231, \u00a7 85": {
+      "raw_text": "M.G.L. c. 231, \u00a7 85",
+      "citation_type": "statute",
+      "proposition": "To the extent comparative negligence principles may apply, Plaintiff alleges she exercised reasonable care for her own safety at all times and that any alleged negligence on her part, if any, was not a proximate cause of her injuries. (Massachusetts applies comparative negligence principles; see M.G.L. c. 231, \u00a7 85.)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 260, Section 2A": {
+      "raw_text": "Massachusetts General Laws, Chapter 260, Section 2A",
+      "citation_type": "statute",
+      "proposition": "Plaintiff\u2019s claim is timely: the incident occurred on September 16, 2023, and this Complaint is filed within the applicable statutory limitations period under Massachusetts law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

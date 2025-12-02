@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_002_10.txt",
+  "scenario_id": "qe_002_10",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 2,
+  "statute_citations": 4,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Javins v. First National Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)": {
+      "raw_text": "Javins v. First National Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)",
+      "citation_type": "case",
+      "proposition": "Massachusetts law implies a covenant of quiet enjoyment in residential tenancies; a landlord\u2019s conduct that substantially interferes with a tenant\u2019s lawful use and enjoyment of the premises may constitute a breach of that covenant.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Not found",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 et seq. (Minimum Standards of Fitness for Human Habitation)": {
+      "raw_text": "105 CMR 410.000 et seq. (Minimum Standards of Fitness for Human Habitation)",
+      "citation_type": "statute",
+      "proposition": "The Massachusetts Sanitary Code sets forth minimum standards of fitness for human habitation and authorizes municipal enforcement when conditions present hazards to health and safety.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 111, \u00a7127 (public-health enforcement authority)": {
+      "raw_text": "M.G.L. c. 111, \u00a7127 (public-health enforcement authority)",
+      "citation_type": "statute",
+      "proposition": "The Massachusetts Sanitary Code sets forth minimum standards of fitness for human habitation and authorizes municipal enforcement when conditions present hazards to health and safety.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 239 (Summary Process)": {
+      "raw_text": "M.G.L. c. 239 (Summary Process)",
+      "citation_type": "statute",
+      "proposition": "Summary process and landlord-tenant statutes govern rights and remedies for tenants and landlords in Massachusetts and provide the substantive and procedural context for enforcement of tenants\u2019 rights.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 186 (landlord and tenant laws)": {
+      "raw_text": "M.G.L. c. 186 (landlord and tenant laws)",
+      "citation_type": "statute",
+      "proposition": "Summary process and landlord-tenant statutes govern rights and remedies for tenants and landlords in Massachusetts and provide the substantive and procedural context for enforcement of tenants\u2019 rights.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Hilder v. St. Peter, 478 A.2d 202 (Vt. 1984)": {
+      "raw_text": "Hilder v. St. Peter, 478 A.2d 202 (Vt. 1984)",
+      "citation_type": "case",
+      "proposition": "Massachusetts caselaw recognizes that a landlord\u2019s persistent failure to correct defects that materially impair a tenant\u2019s use of the premises can constitute a breach of the covenant of quiet enjoyment and support tenant damages or equitable relief.",
+      "is_valid": true,
+      "courtlistener_id": "2315224",
+      "case_name": "Hilder v. St. Peter",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This Vermont Supreme Court case concerns the implied warranty of habitability in residential leases, not the Massachusetts doctrine of breach of the covenant of quiet enjoyment. Although it approvingly quotes Boston Housing Authority v. Hemingway from Massachusetts, it uses that case to support a contract-based habitability warranty and rent abatement, not to discuss quiet enjoyment or Massachusetts remedies for persistent defects. Therefore, it cannot be cited as Massachusetts caselaw recognizing breach of the covenant of quiet enjoyment on these facts.",
+      "relevant_excerpt": "The modern view favors a new approach which recognizes \u2022 that a lease is essentially a contract between the landlord and the tenant wherein the landlord promises to deliver and maintain the demised premises in habitable condition and the tenant promises to pay rent for such habitable premises. These promises constitute interdependent and mutual considerations. Thus, the tenant\u2019s obligation to pay rent is predicated on the landlord\u2019s obligation to deliver and maintain the premises in habitable condition. Boston Housing Authority v. Hemingway, 363 Mass. 184, 198, 293 N.E.2d 831, 842 (1973)."
+    }
+  }
+}

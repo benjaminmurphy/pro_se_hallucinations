@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_001_04.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges Plaintiff is a tenant in possession of the Premises since January 1, 2022, paying monthly rent of $1,600 to Defendant, and identifies Defendant as the landlord of 123 Maple Street (see \u00b6\u00b61.2, 1.4, 2.1). These factual allegations sufficiently establish a landlord\u2013tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges affirmative acts and omissions by Defendant: he arranged two technician visits, made temporary or ineffective repairs, represented the heating as \"working,\" and failed to secure a durable remedy (see \u00b6\u00b62.3\u20132.4, 3.5). Those allegations plausibly describe landlord conduct and failures to act."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges repeated and prolonged drops in indoor temperature to approximately 60\u00b0F for hours during evenings, rendering the apartment unreasonably cold and forcing Plaintiff to purchase portable heaters, pay increased electricity, suffer health effects, and endure loss of use and discomfort (see \u00b6\u00b62.2, 2.5\u20132.6, 3.4). These facts, if proven, satisfy the \"substantial interference\"/material impairment standard for residential use."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "The complaint links Defendant's conduct (failure to effect a lasting repair and inadequate maintenance/response) to the continued inadequate heating and resulting consequences (\u00b6\u00b62.3\u20132.4, 3.4\u20133.5). Those allegations adequately plead that the landlord's acts/omissions caused the interference."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges concrete damages including increased electricity costs (~$150/month) from space heaters, medical expenses for bronchitis, three days of lost wages, and general damages for discomfort and loss of use, and provides a specific compensatory estimate (see \u00b6\u00b62.5\u20132.6, 3.6\u20133.7). These allegations sufficiently plead damages."
+    }
+  }
+}

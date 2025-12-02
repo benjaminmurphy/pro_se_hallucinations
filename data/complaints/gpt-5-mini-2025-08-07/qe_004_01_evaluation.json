@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_004_01.txt",
+  "scenario_id": "qe_004_01",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 3,
+  "statute_citations": 3,
+  "valid_citations": 2,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Javins v. First National Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)": {
+      "raw_text": "Javins v. First National Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, a landlord\u2019s covenant of quiet enjoyment is an implied promise that the tenant shall peaceably and quietly have and enjoy the leased premises, free from substantial interference by the landlord (or by conditions that the landlord is obligated to remedy).",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Not found",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Green v. Superior Court, 10 Cal.3d 616 (1974)": {
+      "raw_text": "Green v. Superior Court, 10 Cal.3d 616 (1974)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, a landlord\u2019s covenant of quiet enjoyment is an implied promise that the tenant shall peaceably and quietly have and enjoy the leased premises, free from substantial interference by the landlord (or by conditions that the landlord is obligated to remedy).",
+      "is_valid": true,
+      "courtlistener_id": "1182285",
+      "case_name": "Green v. Superior Court",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition concerns the scope of the covenant of quiet enjoyment under Massachusetts law. Green v. Superior Court is a California Supreme Court decision about the implied warranty of habitability in California residential leases. While it briefly cites Massachusetts\u2019 Boston Housing Authority v. Hemingway for related ideas, it does not analyze or state the Massachusetts rule on the covenant of quiet enjoyment; its holding is about California\u2019s implied warranty of habitability, not Massachusetts\u2019 quiet enjoyment doctrine.",
+      "relevant_excerpt": "\u201cMoreover, the scarcity of adequate housing has limited further the adequacy of the tenant\u2019s right to inspect the premises... Finally, the shortage of available low cost housing has rendered inadequate the few remedies that common law courts previously have developed to ameliorate the harsh consequences of the traditional \u2018no duty to repair\u2019 rule. 10\u201d  \n\nFootnote 10 then notes that constructive eviction expanded the covenant of quiet enjoyment, but this is in the context of California law and does not set out Massachusetts\u2019 rule."
+    },
+    "Hilder v. St. Peter, 478 A.2d 202 (R.I. 1984)": {
+      "raw_text": "Hilder v. St. Peter, 478 A.2d 202 (R.I. 1984)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, a landlord\u2019s covenant of quiet enjoyment is an implied promise that the tenant shall peaceably and quietly have and enjoy the leased premises, free from substantial interference by the landlord (or by conditions that the landlord is obligated to remedy).",
+      "is_valid": true,
+      "courtlistener_id": "2315224",
+      "case_name": "Hilder v. St. Peter",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion is a Vermont Supreme Court decision about the implied warranty of habitability, not about Massachusetts law or the landlord\u2019s covenant of quiet enjoyment. The quoted portion where the court cites Boston Housing Authority v. Hemingway is about recharacterizing leases as contracts and linking rent to habitability, not about defining Massachusetts\u2019 covenant of quiet enjoyment or interference with use and enjoyment. Thus it does not establish or discuss the Massachusetts rule stated in the proposition.",
+      "relevant_excerpt": "\u201cThe modern view favors a new approach which recognizes \u2022 that a lease is essentially a contract between the landlord and the tenant wherein the landlord promises to deliver and maintain the demised premises in habitable condition and the tenant promises to pay rent for such habitable premises. These promises constitute interdependent and mutual considerations. Thus, the tenant\u2019s obligation to pay rent is predicated on the landlord\u2019s obligation to deliver and maintain the premises in habitable condition. Boston Housing Authority v. Hemingway, 363 Mass. 184, 198, 293 N.E.2d 831, 842 (1973).\u201d"
+    },
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant; relevant provisions governing landlord obligations and tenant remedies);": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant; relevant provisions governing landlord obligations and tenant remedies);",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 186 (Landlord and Tenant; relevant provisions governing landlord obligations and tenant remedies);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary Process; jurisdictional provisions);": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary Process; jurisdictional provisions);",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 239 (Summary Process; jurisdictional provisions);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A (Consumer Protection \u2014 general statutory background on unfair or deceptive acts; cited for general context though not pled as a separate claim here).": {
+      "raw_text": "Mass. Gen. Laws ch. 93A (Consumer Protection \u2014 general statutory background on unfair or deceptive acts; cited for general context though not pled as a separate claim here).",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 93A (Consumer Protection \u2014 general statutory background on unfair or deceptive acts; cited for general context though not pled as a separate claim here).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

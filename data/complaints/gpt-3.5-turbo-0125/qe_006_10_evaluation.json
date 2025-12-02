@@ -1,0 +1,28 @@
+{
+  "complaint_file": "qe_006_10.txt",
+  "scenario_id": "qe_006_10",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Ch. 186, \u00a7 14.": {
+      "raw_text": "Massachusetts General Laws Ch. 186, \u00a7 14.",
+      "citation_type": "statute",
+      "proposition": "10. Defendant's failure to provide hot water to Plaintiff for an extended period of time constitutes a breach of the covenant of quiet enjoyment implied in every residential lease in Massachusetts, as established under Massachusetts General Laws Ch. 186, \u00a7 14.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_002_04.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies a prior May 15, 2021 custody/visitation order (the Original Order) awarding Maria primary physical custody and granting James midweek overnight visits and alternating weekends, establishing an existing custody/parenting-time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint requests specific changes: elimination of Defendant's midweek (Wednesday) overnight visits and redesign of the weekend schedule (e.g., alternating weekends from Friday after school/6:00 p.m. through Sunday at 6:00 p.m.), plus specified transportation/exchange protocols and allocation of transportation responsibilities."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete changed circumstances since the Original Order: Defendant accepted out-of-state employment and plans to relocate to New Hampshire, creating approximately 90-minute one-way commutes for visits, requiring late departures/early returns, increasing time in transit, causing lost sleep, missed/curtailed after-school activities, and increased anxiety in the child; the complaint expressly alleges these facts constitute a material and substantial change."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint links the relocation and resulting travel burden to adverse effects on Sophia\u2019s schooling, sleep, extracurricular participation, and emotional well\u2011being (including anxiety), and requests relief tailored to preserve stability, schooling, and meaningful parental contact (modified schedule, exchange/transportation orders), thereby alleging the modification is necessary in the child\u2019s best interests."
+    }
+  }
+}

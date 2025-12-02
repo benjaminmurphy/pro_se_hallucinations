@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_010_05.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/controlled the property adjacent to the public sidewalk and expressly pleads a duty to exercise reasonable care to maintain trees and warn of hazards (\u00b6\u00b61.2, 2.1, 3.2). Those factual allegations adequately plead a duty of care to lawful pedestrians."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a visibly cracked, drooping major branch for an extended period, neighbors provided notice, and Defendant declined to inspect or remediate (\u00b6\u00b62.2\u20132.3, 3.3). Those facts sufficiently plead a failure to inspect/maintain\u2014i.e., a breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the cracked branch fell onto Plaintiff and that the fall resulted from Defendant\u2019s failure to inspect/repair (\u00b6\u00b62.2, 2.4, 3.3). These allegations support the inference that but for Defendant\u2019s failure to remediate, the branch would not have fallen on Plaintiff."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the incident occurred during an ordinary thunderstorm (not extraordinary weather) and that the branch\u2019s snapping was a foreseeable consequence of Defendant\u2019s inaction (\u00b6\u00b62.4, 3.4). Those allegations adequately plead proximate (foreseeable) causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages including shoulder strain and bruising, approximately $2,500 in medical expenses, approximately $600 in lost wages, and non\u2011economic harms (pain and suffering) (\u00b6\u00b62.5, 3.5, 4.1). Those factual allegations adequately plead actual damages."
+    }
+  }
+}

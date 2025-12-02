@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_010_03.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the maple tree/branch was on or adjacent to Defendant\u2019s property and overhung the public sidewalk (\u00b65\u20136), and expressly pleads the landowner\u2019s obligation to exercise reasonable care in maintaining trees and branches affecting the public sidewalk (\u00b613). These factual allegations sufficiently establish a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific negligent acts and omissions: failure to inspect, prune, remove, or warn about a visibly decayed, cracked, sagging branch (\u00b66\u20137, \u00b614(a)\u2013(c)). It also alleges Defendant told neighbors he would \"deal with it in the spring\" but took no corrective action (\u00b67). These facts adequately plead breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges the compromised branch fractured and fell during a routine storm and struck her, causing injury (\u00b68\u20139), and alleges this would not have occurred but for Defendant\u2019s failure to inspect/maintain/remove the dangerous branch (\u00b610, \u00b615). Those factual allegations reasonably plead but-for causation."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the danger was obvious and that neighbors warned Defendant (\u00b66\u20137), that the falling branch injured Plaintiff (\u00b68\u20139), and expressly pleads foreseeability and proximate causation (\u00b615\u201316). The falling of a visibly decayed overhanging limb during ordinary weather is a foreseeable type of harm, so proximate cause is adequately pled."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete physical injuries (shoulder strain, bruising), itemized economic damages (approximately $2,500 medical expenses and $600 lost wages) and non-economic harms (pain and suffering, emotional distress) (\u00b69\u201311, Prayer B). These allegations adequately plead actual damages."
+    }
+  }
+}

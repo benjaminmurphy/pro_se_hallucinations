@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_010_07.txt",
+  "scenario_id": "ng_010_07",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Restatement (Second) of Torts \u00a7\u00a7 282, 343, 343A, 324A": {
+      "raw_text": "Restatement (Second) of Torts \u00a7\u00a7 282, 343, 343A, 324A",
+      "citation_type": "statute",
+      "proposition": "A landowner must inspect, maintain, and, where appropriate, remove or secure hazardous conditions of which the landowner knows or reasonably should know and which present a foreseeable risk of injury to others.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Massachusetts General Laws, including M.G.L. c. 260, \u00a7 2A (statute of limitations for personal actions);": {
+      "raw_text": "- Massachusetts General Laws, including M.G.L. c. 260, \u00a7 2A (statute of limitations for personal actions);",
+      "citation_type": "statute",
+      "proposition": "Plaintiff pleads and relies upon the Commonwealth\u2019s negligence law and premises-liability principles, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Massachusetts Rules of Civil Procedure, Mass. R. Civ. P. 8, 10, 11 (pleading, caption, signature requirements), 12 (defenses), and related rules;": {
+      "raw_text": "- Massachusetts Rules of Civil Procedure, Mass. R. Civ. P. 8, 10, 11 (pleading, caption, signature requirements), 12 (defenses), and related rules;",
+      "citation_type": "statute",
+      "proposition": "Plaintiff pleads and relies upon the Commonwealth\u2019s negligence law and premises-liability principles, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Restatement (Second) of Torts \u00a7\u00a7 282, 323, 324A, 343, 343A (duty and breach principles governing negligent conduct and land possessors\u2019 duties to invitees/others);": {
+      "raw_text": "- Restatement (Second) of Torts \u00a7\u00a7 282, 323, 324A, 343, 343A (duty and breach principles governing negligent conduct and land possessors\u2019 duties to invitees/others);",
+      "citation_type": "statute",
+      "proposition": "Plaintiff pleads and relies upon the Commonwealth\u2019s negligence law and premises-liability principles, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

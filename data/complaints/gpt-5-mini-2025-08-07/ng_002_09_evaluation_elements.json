@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_002_09.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owed a duty to exercise reasonable care to park users (\u00b617) and includes facts supporting that duty (owner of a large dog, park leash rule signage \u00b62, \u00b67)."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific breaches (allowing dog off-leash despite posted rule; leash draped but unattached; failing to restrain or call the dog when it charged) (\u00b68\u201311, \u00b618)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Facts allege a direct sequence: the dog charged, Plaintiff swerved to avoid it, tripped on an exposed root, and fractured her wrist (\u00b610\u201312). The complaint therefore alleges that the injury would not have occurred but for the dog charging and Defendant's failure to control it."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the injury was a foreseeable result of Defendant's conduct (reasonable fear of attack causing evasive action leading to a fall) and expressly pleads proximate cause (\u00b619). Injuries from attempting to avoid an off\u2011leash, aggressive dog are a foreseeable type of harm."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages: fractured wrist, ER treatment, medical expenses (~$2,500), lost wages (~$1,200), pain and suffering, emotional distress and lost enjoyment of life (\u00b612, \u00b614, \u00b620)."
+    }
+  }
+}

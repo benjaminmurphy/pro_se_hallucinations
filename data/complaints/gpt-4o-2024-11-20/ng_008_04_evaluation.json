@@ -1,0 +1,14 @@
+{
+  "complaint_file": "ng_008_04.txt",
+  "scenario_id": "ng_008_04",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 0,
+  "case_citations": 0,
+  "statute_citations": 0,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {}
+}

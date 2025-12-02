@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_002_08.txt",
+  "scenario_id": "qe_002_08",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws c. 186, \u00a7 14": {
+      "raw_text": "Massachusetts General Laws c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws c. 186, \u00a7 14 provides that tenants are entitled to the covenant of quiet enjoyment, which prohibits landlords from interfering with tenants\u2019 use and enjoyment of their rental units.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "c. 93A": {
+      "raw_text": "c. 93A",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws c. 186, \u00a7 14, c. 93A, and other applicable statutes.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "(M.G.L. c. 186, \u00a7 14)": {
+      "raw_text": "(M.G.L. c. 186, \u00a7 14)",
+      "citation_type": "statute",
+      "proposition": "CAUSE OF ACTION: BREACH OF THE COVENANT OF QUIET ENJOYMENT (M.G.L. c. 186, \u00a7 14)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 186, \u00a7 14": {
+      "raw_text": "M.G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Pursuant to M.G.L. c. 186, \u00a7 14, Plaintiff is entitled to recover actual damages, three times the amount of actual damages due to the Defendant\u2019s willful conduct, and reasonable attorney\u2019s fees and costs.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

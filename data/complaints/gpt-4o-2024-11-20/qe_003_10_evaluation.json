@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_003_10.txt",
+  "scenario_id": "qe_003_10",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 4,
+  "case_citations": 1,
+  "statute_citations": 3,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G.L. c. 185C, \u00a7 20": {
+      "raw_text": "G.L. c. 185C, \u00a7 20",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to G.L. c. 185C, \u00a7 20, which provides the Housing Court and Municipal Court jurisdiction over disputes involving landlord-tenant relationships, including claims involving the breach of the covenant of quiet enjoyment.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7\u00a7 1 and 2": {
+      "raw_text": "G.L. c. 223, \u00a7\u00a7 1 and 2",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in this Court pursuant to G.L. c. 223, \u00a7\u00a7 1 and 2, as the property is located in Jamaica Plain, which falls under the jurisdiction of the Boston Municipal Court, Roxbury Division.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, tenants are entitled to the covenant of quiet enjoyment, a statutory protection guaranteed by G.L. c. 186, \u00a7 14, which prohibits landlords from interfering in a tenant\u2019s right to use and enjoy the leased premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Boston Hous. Auth. v. Hemingway*, 363 Mass. 184 (1973)": {
+      "raw_text": "*Boston Hous. Auth. v. Hemingway*, 363 Mass. 184 (1973)",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s conduct also violates the implied warranty of habitability, as recognized in *Boston Hous. Auth. v. Hemingway*, 363 Mass. 184 (1973), which holds landlords responsible for providing residential premises that are safe and habitable.",
+      "is_valid": true,
+      "courtlistener_id": "2000597",
+      "case_name": "Boston Housing Authority v. Hemingway",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "medium",
+      "support_reasoning": "This is a concurring/dissenting opinion, but it agrees with the majority that the old rule of no implied agreement that premises are fit for occupancy should be abandoned and replaced with a landlord obligation tied to habitability standards. Quirico, J. expressly endorses implying an obligation (whether styled warranty or covenant) that rented dwelling units meet minimum habitability standards and that this obligation is intertwined with the tenant\u2019s rent obligation. Although he criticizes the majority\u2019s broader \u2018implied warranty of habitability\u2019 formulation, he still recognizes a landlord responsibility to provide safe, habitable residential premises enforceable by tenants.",
+      "relevant_excerpt": "\u201cI agree with the majority of the court that, at least as to dwelling units, the time has come to reconsider the rule so long imbedded in our law of landlord and tenant that \u2018[t]here is no implied agreement, apart from fraud, that the demised premises are or will continue to be fit for occupancy or safe and in good repair\u2026.\u2019 \u2026 I would reverse that rule and hold instead (a) that the various statutes\u2026 prescribing minimum standards for dwelling units impose on the landlord, for the benefit of his tenants, an obligation to comply with those minimum standards, and (b) that by renting such a unit the landlord impliedly agrees\u2026.\u201d"
+    }
+  }
+}

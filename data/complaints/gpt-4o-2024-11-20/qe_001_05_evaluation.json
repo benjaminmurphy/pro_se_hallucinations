@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_001_05.txt",
+  "scenario_id": "qe_001_05",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G.L. c. 185C, \u00a7 3": {
+      "raw_text": "G.L. c. 185C, \u00a7 3",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter under the provisions of G.L. c. 185C, \u00a7 3, as the claims involve violations of Massachusetts landlord-tenant law and arise out of the rental property located within Suffolk County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Boston Housing Court pursuant to G.L. c. 223, \u00a7 1, as the events giving rise to this action occurred in Dorchester, Suffolk County, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 111, \u00a7 127A": {
+      "raw_text": "G.L. c. 111, \u00a7 127A",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, Defendant, as a residential landlord, has a duty to provide and maintain the premises in a habitable condition, including compliance with the state\u2019s sanitary code at G.L. c. 111, \u00a7 127A and 105 CMR \u00a7 410.000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR \u00a7 410.000": {
+      "raw_text": "105 CMR \u00a7 410.000",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, Defendant, as a residential landlord, has a duty to provide and maintain the premises in a habitable condition, including compliance with the state\u2019s sanitary code at G.L. c. 111, \u00a7 127A and 105 CMR \u00a7 410.000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR \u00a7 410.201": {
+      "raw_text": "105 CMR \u00a7 410.201",
+      "citation_type": "statute",
+      "proposition": "Massachusetts law requires that heat in a habitable dwelling must be maintained at no less than 68 degrees Fahrenheit from 7:00 a.m. to 11:00 p.m., under 105 CMR \u00a7 410.201.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 186, \u00a7 14": {
+      "raw_text": "M.G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under M.G.L. c. 186, \u00a7 14, every residential lease agreement in Massachusetts contains an implied covenant of quiet enjoyment, which protects tenants from substantial interference with the use and enjoyment of their leased premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_009_04.txt",
+  "scenario_id": "qe_009_04",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 3,
+  "statute_citations": 3,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 2,
+  "citations": {
+    "**Massachusetts General Laws (G.L.) c. 186, \u00a7 14**": {
+      "raw_text": "**Massachusetts General Laws (G.L.) c. 186, \u00a7 14**",
+      "citation_type": "statute",
+      "proposition": "The Plaintiff, Jessica Greene, brings this action against her landlord, Defendant Mark Thompson, for breach of the covenant of quiet enjoyment as provided by **Massachusetts General Laws (G.L.) c. 186, \u00a7 14**.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "**G.L. c. 218, \u00a7 19**": {
+      "raw_text": "**G.L. c. 218, \u00a7 19**",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction pursuant to **G.L. c. 218, \u00a7 19** and **G.L. c. 186, \u00a7 14**, as the damages sought are within the jurisdictional limit of the Springfield District Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "**G.L. c. 223, \u00a7 2**": {
+      "raw_text": "**G.L. c. 223, \u00a7 2**",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in this Court under **G.L. c. 223, \u00a7 2** because the events giving rise to this action occurred at 456 Maple Street, Springfield, Massachusetts, which is located in this Court\u2019s district.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "**Al-Ziab v. Mourgis**, 424 Mass. 847 (1997)": {
+      "raw_text": "**Al-Ziab v. Mourgis**, 424 Mass. 847 (1997)",
+      "citation_type": "case",
+      "proposition": "Massachusetts law holds that a complete lack of repair or failure to rectify conditions materially interfering with a tenant\u2019s use of the premises constitutes a breach of the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "6577320",
+      "case_name": "Al-Ziab v. Mourgis",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The case directly explains that under G.L. c. 186, \u00a7 14 a landlord\u2019s negligent failure to repair known defects that interfere with the tenant\u2019s use of the premises constitutes a breach of the covenant of quiet enjoyment. In doing so, it cites prior cases where failures to repair conditions rendering premises uninhabitable or materially defective (e.g., leaky roof, failure to bring and keep apartment in habitable condition) were held to violate \u00a7 14. Thus, it affirms that a complete lack of repair or failure to rectify materially interfering conditions can breach quiet enjoyment, provided there is at least negligence and notice.",
+      "relevant_excerpt": "We noted that a landlord\u2019s failure \u201cto repair defects of which he has notice in leased premises is an omission which frequently has been deemed to violate \u00a7 14.\u201d See Cruz, supra at 789, citing Simon v. Solomon, supra at 103 (failure to control floods in tenant\u2019s apartment); Darmetko v. Boston Hous. Auth., 378 Mass. 758, 761 (1979) (failure to repair leaky roof); Dorgan v. Loukas, 19 Mass. App. Ct. 959, 960 (1985) (failure to bring apartment into habitable condition and keep it so). Today we make clear what was implicit in those rulings: to support the imposition of liability under the quiet enjoyment statute, there must be a showing of at least negligent conduct by a landlord\u2026."
+    },
+    "**Dartmouth v. Silva**, 32 Mass. App. Ct. 207 (1992)": {
+      "raw_text": "**Dartmouth v. Silva**, 32 Mass. App. Ct. 207 (1992)",
+      "citation_type": "case",
+      "proposition": "Massachusetts law holds that a complete lack of repair or failure to rectify conditions materially interfering with a tenant\u2019s use of the premises constitutes a breach of the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "2219141",
+      "case_name": "Squeri v. McCarrick",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Dartmouth v. Silva is about wrongful/illegal eviction under G.L. c. 186, \u00a7 14 (eviction by force without judicial process), negligence, conversion, damages, and c. 93A instructions. It does not discuss a landlord\u2019s failure to repair, conditions interfering with use, or the covenant of quiet enjoyment as a matter of Massachusetts law. Because the case never addresses repair obligations or quiet enjoyment, it cannot be authority for the stated proposition.",
+      "relevant_excerpt": "General Laws c. 186, \u00a7 14 (1986 ed.), states in pertinent part: \u201cAny lessor or landlord of any building . . . occupied for dwelling purposes . . . who attempts to regain possession of such premises by force without benefit of judicial process, shall be punished by a fine of not less than twenty-*205*five dollars nor more than three hundred dollars, or by imprisonment for not more than six months. Any person who commits any act in violation of this section shall also be liable for actual and consequential damages or three month\u2019s rent, whichever is greater, and the costs of the action, including a reasonable attorney\u2019s fee . . . .\u201d"
+    },
+    "**Simon v. Solomon**, 385 Mass. 91 (1982)": {
+      "raw_text": "**Simon v. Solomon**, 385 Mass. 91 (1982)",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s failure to make timely repairs has effectively evicted Plaintiff from part of her apartment, a violation of **G.L. c. 186, \u00a7 14**, which holds landlords strictly liable for breaches of the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "2038443",
+      "case_name": "Simon v. Solomon",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion does hold that the repeated flooding constituted an interference with the tenant\u2019s quiet enjoyment under G.L. c. 186, \u00a7 14, but it does not frame this as a \u201cconstructive eviction from part of the apartment,\u201d nor does it state that \u00a7 14 imposes strict liability for breaches of quiet enjoyment. The court instead emphasizes at least reckless conduct and discusses landlord fault and foreseeability, expressly noting that \u00a7 14\u2019s liability is not absolute. Thus, the case supports liability under \u00a7 14 for reckless interference with quiet enjoyment, not strict-liability/constructive-partial-eviction as stated in the proposition.",
+      "relevant_excerpt": "\u201cOur analysis of the language and history of \u00a7 14, however, leads us to conclude that malicious intent is not necessary, and that the statute covers, at the least, reckless conduct such as Gem\u2019s\u2026 When the Legislature chose the words \u2018quiet enjoyment\u2019 \u2026 it must have intended to incorporate these cases into the statute\u2026 Finally, Gem is liable to Solomon under \u00a7 14 because it violated its underlying duty to maintain sanitary conditions in her apartment, and thereby permitted repeated flooding to occur that interfered with her quiet enjoyment of her apartment.\u201d"
+    }
+  }
+}

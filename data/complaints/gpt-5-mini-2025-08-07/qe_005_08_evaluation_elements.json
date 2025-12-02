@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_005_08.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a written lease for Unit 2, specifies tenancy start date (May 1, 2022), monthly rent paid to Defendant, and identifies Defendant as owner/landlord of the premises\u2014facts that sufficiently establish a landlord-tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges repeated complaints to Defendant (5\u20136 times), that Defendant spoke once to upstairs tenants and said he \"can't control how people live,\" and that Defendant failed to take effective remedial action\u2014facts alleging an omission/failure to act by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges frequent, recurring late-night loud music, stomping, pounding and heavy-moving noises (including well past midnight), reduced sleep (4\u20135 hours/night), medical treatment and workplace consequences\u2014facts showing a substantial interference with residential sleep and use of the premises."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant had actual notice of the disturbances and the power to remedy them but failed to take reasonable steps; it further alleges the ongoing noise continued as a direct and proximate result of Defendant's failure to abate\u2014sufficiently alleging causation (the landlord's omission caused the continuing interference)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies specific out-of-pocket expenses (sleep medication $40/month, earplugs, white-noise machine), quantifies reduced sleep and work-related harm (written warning), and estimates compensable damages (~$3,600), which adequately pleads damages."
+    }
+  }
+}

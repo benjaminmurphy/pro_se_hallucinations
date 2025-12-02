@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_008_04.txt",
+  "scenario_id": "qe_008_04",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 218, Section 21.": {
+      "raw_text": "Massachusetts General Laws Chapter 218, Section 21.",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction over this matter is proper in the Chelsea District Court pursuant to Massachusetts General Laws Chapter 218, Section 21.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 186, Section 14": {
+      "raw_text": "Massachusetts General Laws Chapter 186, Section 14",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws Chapter 186, Section 14 provides that a landlord must maintain premises in habitable condition, including providing adequate security measures.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Pugh v. Holmes, 253 Mass 115 (1925)": {
+      "raw_text": "Pugh v. Holmes, 253 Mass 115 (1925)",
+      "citation_type": "case",
+      "proposition": "Case law in Massachusetts, such as Pugh v. Holmes, 253 Mass 115 (1925), holds that a breach of the covenant of quiet enjoyment occurs when a landlord fails to address security issues that affect a tenant's enjoyment of the property.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

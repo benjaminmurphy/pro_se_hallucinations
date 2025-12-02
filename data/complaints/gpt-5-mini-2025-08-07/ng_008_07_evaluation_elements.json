@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_008_07.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned, operated, managed and controlled the restaurant premises (\u00b62), that Plaintiff was an invitee on the premises (\u00b65), and expressly pleads the possessor\u2019s duties to keep invitees safe and to warn/repair hazardous conditions (\u00b616). These facts adequately plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete factual conduct showing breach: a server dropped glasses and left water and ice on the tile floor (\u00b66\u20137), the server promised but failed to mop (\u00b67), no warning signs or barriers were placed (\u00b68), the hazard persisted for about ten minutes (\u00b69, \u00b617(c)), and staff knew of the puddle (\u00b611). Those allegations sufficiently plead negligent failure to discover/abate or warn of the hazard (\u00b617)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the wet condition created by the spilled water/ice was present when Plaintiff walked the hallway and that she slipped on the wet tile and fell, sustaining a knee injury (\u00b69\u201310). Those facts, if proved, support the inference that but for the hazardous wet floor the slip and resulting injury would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Slip-and-fall on a wet floor is a foreseeable result of leaving a puddle uncleaned and unwarned; complaint alleges employees were aware of the puddle (\u00b611) and that Defendant failed to warn or remediate (\u00b68, \u00b617). Those allegations adequately plead proximate (foreseeable) causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges actual, specific damages: diagnosis of a sprained knee, medical treatment including brace and physical therapy, pain and loss of function (\u00b612), and quantified medical expenses (~$3,500) and lost wages (~$1,200) (\u00b613). These allegations sufficiently plead damages."
+    }
+  }
+}

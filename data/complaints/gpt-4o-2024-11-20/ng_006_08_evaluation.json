@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_006_08.txt",
+  "scenario_id": "ng_006_08",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 2,
+  "statute_citations": 3,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "G.L. c. 212, \u00a7 4": {
+      "raw_text": "G.L. c. 212, \u00a7 4",
+      "citation_type": "statute",
+      "proposition": "This Court has subject matter jurisdiction over this action pursuant to G.L. c. 212, \u00a7 4, which grants jurisdiction to the Superior Court for civil actions where the controversy exceeds $25,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Suffolk County pursuant to G.L. c. 223, \u00a7 1 because the incident giving rise to this action occurred in Boston, Massachusetts, which is located in Suffolk County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "See G.L. c. 90, \u00a7 14 (\u201cNo person shall open a door of a motor vehicle unless it is reasonably safe to do so and can be done without interfering with the movement of other traffic.\u201d).": {
+      "raw_text": "See G.L. c. 90, \u00a7 14 (\u201cNo person shall open a door of a motor vehicle unless it is reasonably safe to do so and can be done without interfering with the movement of other traffic.\u201d).",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, Defendant owed Plaintiff a duty to exercise reasonable care in the operation of their vehicle and in the opening of vehicle doors adjacent to marked bike lanes.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "See *Powers v. Freetown-Highway Dept.*, 23 Mass. App. Ct. 700, 703 (1987) (negligence consists of failing to exercise reasonable care under the circumstances).": {
+      "raw_text": "See *Powers v. Freetown-Highway Dept.*, 23 Mass. App. Ct. 700, 703 (1987) (negligence consists of failing to exercise reasonable care under the circumstances).",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s actions constitute negligence under well-established Massachusetts law.",
+      "is_valid": true,
+      "courtlistener_id": "6583945",
+      "case_name": "R & F Micro Tool Co. v. General American Life Insurance",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion concerns insurance contract lapse, waiver, and estoppel; it does not analyze or define negligence or the standard of reasonable care. The court resolves questions about policy lapse and reinstatement, not tort duties or breach of a duty of care, so it cannot be cited as authority that defendant\u2019s actions constitute negligence under Massachusetts law. The cited proposition about negligence comes from a different case (*Powers v. Freetown-Highway Dept.*), not from this opinion.",
+      "relevant_excerpt": "There is nothing suspect about a contract term that causes a policy to lapse where a premium remains unpaid at the expiration of a stated grace period. Such policy provisions have been duly enforced. See Shurdut v. John Hancock Mut. Life Ins. Co., 320 Mass. 728, 730 (1947).... The employer grants that there was a lapse on July 31, 1982, but it contends that by \u201cwaiver\u201d on the part of the insurer, or an \u201cestoppel\u201d against the insurer, the policy should be considered reinstated..."
+    },
+    "See *Beaudette v. Department of Conservation & Recreation*, 94 Mass. App. Ct. 374, 377 (2018) (an operator is negligent where they fail to keep a proper lookout).": {
+      "raw_text": "See *Beaudette v. Department of Conservation & Recreation*, 94 Mass. App. Ct. 374, 377 (2018) (an operator is negligent where they fail to keep a proper lookout).",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s act of looking at their phone rather than checking for bicyclists or other traffic demonstrates additional negligence.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_003_01.txt",
+  "scenario_id": "ng_003_01",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 2,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 231, Section 85": {
+      "raw_text": "Massachusetts General Laws Chapter 231, Section 85",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws Chapter 231, Section 85 establishes principles of contributory negligence and comparative negligence in negligence cases.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mehanna v. Shaw's Supermarkets, Inc., 2008 Mass. Super. LEXIS 333 (Mass. Super. Ct. 2008)": {
+      "raw_text": "Mehanna v. Shaw's Supermarkets, Inc., 2008 Mass. Super. LEXIS 333 (Mass. Super. Ct. 2008)",
+      "citation_type": "case",
+      "proposition": "In Mehanna v. Shaw's Supermarkets, Inc., 2008 Mass. Super. LEXIS 333 (Mass. Super. Ct. 2008), the court held that a business has a duty to provide a safe shopping environment for customers.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Payton v. Wal-Mart Stores, Inc., 2000 Mass. Super. LEXIS 88 (Mass. Super. Ct. 2000)": {
+      "raw_text": "Payton v. Wal-Mart Stores, Inc., 2000 Mass. Super. LEXIS 88 (Mass. Super. Ct. 2000)",
+      "citation_type": "case",
+      "proposition": "In Payton v. Wal-Mart Stores, Inc., 2000 Mass. Super. LEXIS 88 (Mass. Super. Ct. 2000), the court found that a business can be held liable for injuries caused by improperly stacked merchandise.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

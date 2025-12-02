@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_003_08.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads an existing court custody order dated September 15, 2021 providing shared legal custody with the child primarily residing with Plaintiff and scheduled weekend overnight visits for Defendant (\u00b63.1), and states a copy of that order is on file (\u00b63.2)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifically requests modification relief, including supervised overnight visitation, suspension of overnights in favor of daytime/monitored visitation, a court-ordered substance use assessment/treatment and testing as a condition of unsupervised contact, and other protective conditions (\u00b64.2(a)\u2013(d) and Prayer \u00b63\u20135)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete factual changes since the 9/15/2021 order: Ethan\u2019s statements that Defendant has \"special drinks\" and that \"Dad can\u2019t walk straight,\" a neighbor-provided video showing Defendant stumbling while retrieving the child late at night, school reports of persistent exhaustion after Defendant\u2019s weekends, and plaintiff\u2019s observations of the child\u2019s fatigue and anxiety (\u00b65.2(a)\u2013(d)). Those allegations, tied to risk from parental impairment/substance use, sufficiently plead a material and substantial change in circumstances adversely affecting the child (\u00b65.3)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the requested modifications are necessary to protect Ethan\u2019s health, safety and welfare and frames the relief as in the child\u2019s best interests, supported by the child\u2019s reports, the neighbor\u2019s video, and school observations showing harm/risk from current visitation (\u00b64.1, \u00b64.2, \u00b65.2\u20135.3, Prayer \u00b61\u20134). These factual allegations sufficiently connect the proposed changes to the child\u2019s best interests."
+    }
+  }
+}

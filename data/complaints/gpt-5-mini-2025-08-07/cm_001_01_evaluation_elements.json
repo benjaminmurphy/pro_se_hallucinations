@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_001_01.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies an Existing Order entered March 15, 2021 in Bristol Probate & Family Court, stating Plaintiff has primary physical custody and Defendant has specified parenting time (every other weekend and one weekday overnight)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint clearly requests specific changes (paragraphs 7.1\u20137.6), e.g., restrict overnights to periods when Defendant is off duty, convert missed overnights to daytime visits, require advance work schedules, caregiver disclosures, notice rules, and temporary relief\u2014sufficiently particular to define the relief sought."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a concrete, post-judgment change: Defendant accepted recurring overnight work shifts that overlap his scheduled overnights and have caused repeated failures to provide attentive care (last-minute drop-offs, leaving children with a roommate, fatigue), described as frequent and ongoing\u2014facts that, if proven, constitute a material and substantial change."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges why the proposed modifications are necessary for the children\u2019s safety, stability, routines, and emotional well-being (inadequate supervision, disrupted routines, stress) and ties requested conditions to protecting those interests, satisfying the best\u2011interests pleading requirement."
+    }
+  }
+}

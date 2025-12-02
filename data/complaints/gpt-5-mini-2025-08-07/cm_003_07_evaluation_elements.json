@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_003_07.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly identifies an Existing Order entered September 15, 2021 establishing shared legal custody and a parenting-time regime (child primarily with Plaintiff, weekend visits with Respondent)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifies relief sought: suspension of overnight unsupervised visitation, supervised visitation or alternative conditions (random testing, substance-use assessment/treatment, parenting classes), and temporary emergency relief pending hearing."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific changed facts since the order: recent statements by the child about 'special drinks' and Respondent's impairment, a neighbor video showing Respondent stumbling while removing the child late at night, and school reports of the child being drowsy after weekend visits. These factual allegations sufficiently plead a material and substantial change affecting the child's health, safety, and welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint links the alleged new facts (parental impairment, late-night care, child fatigue) to statutory best-interests factors (safety, parental capacity, established routine) and requests protective modifications; these allegations adequately plead that the changes are necessary in the child's best interests."
+    }
+  }
+}

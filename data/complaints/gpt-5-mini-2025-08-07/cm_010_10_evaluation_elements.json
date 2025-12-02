@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_010_10.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an existing custody/parenting-time order: Paragraph 2.1 identifies the May 20, 2015 custody/parenting-time order awarding primary residence to Respondent and states the 2015 Order remains in effect, establishing an existing judgment subject to modification."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint clearly identifies the relief sought: Paragraph 3.1 and the Prayer (\u00b67.b) request modification of the 2015 Order to provide substantially increased meaningful time and overnight parenting time with Petitioner and a more equal division of residential time (or an appropriate revised parenting schedule). While no minute-by-minute schedule is attached, the requested scope of modification (increased overnights/more equal residential time and interim increased parenting time) is specifically stated."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 4.1\u20134.3 allege specific, concrete changes since the 2015 Order: Petitioner completed her graduate degree (4.2.a), now has stable daytime employment and predictable hours enabling consistent caregiving and transportation (4.2.b), and now maintains a two-bedroom apartment with a bedroom for Emily suitable for overnights (4.2.c). The complaint also pleads psychological and relationship developments (4.2.d\u2013f) and Respondent\u2019s refusal to negotiate (4.2.g), together alleged to materially affect Petitioner\u2019s parenting capacity and the child\u2019s welfare\u2014facts that, if proven, satisfy the material-and-substantial-change pleading requirement."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the requested modification is in Emily\u2019s best interests and supports that assertion with factual allegations: Petitioner\u2019s increased ability to provide day\u2011to\u2011day care (4.2.b\u2013c), active involvement in Emily\u2019s schooling/health/therapy (4.2.d), the child\u2019s therapist\u2019s observations and the child\u2019s own written preference for more overnights (4.2.e\u2013f), and allegations about emotional effects of the current schedule (4.3). Paragraph 5.2 and the Prayer (\u00b67.b\u2013c) also frame the relief in best\u2011interests terms. Those factual allegations sufficiently plead that the modification is sought to serve the child\u2019s best interests."
+    }
+  }
+}

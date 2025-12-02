@@ -1,0 +1,158 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**LYNN DISTRICT COURT**  
+__________________________________________  
+**Jessica Harper**,  
+Plaintiff,  
+
+v.  
+**Franklin Properties LLC**,  
+Defendant.  
+__________________________________________  
+
+**Civil Action No. __________**  
+__________________________________________  
+
+**COMPLAINT FOR NEGLIGENCE**  
+
+---
+
+**PARTIES**
+
+1. Plaintiff **Jessica Harper** (“Plaintiff”) is an individual residing at 23 Maple Street, Apartment 3B, Lynn, Massachusetts.  
+
+2. Defendant **Franklin Properties LLC** (“Defendant”) is a Massachusetts limited liability company with a principal business address upon information and belief at 451 Essex Street, Lynn, Massachusetts. Defendant owns, operates, and manages the residential apartment building located at 23 Maple Street, Lynn, Massachusetts (the “Premises”).  
+
+---
+
+**JURISDICTION AND VENUE**
+
+3. Jurisdiction and venue are proper in this Court pursuant to **Mass. Gen. Laws ch. 218, §§ 19 and 21**, as the amount in controversy does not exceed the District Court’s jurisdictional limit and the cause of action arose in Lynn, Massachusetts.  
+
+---
+
+**FACTUAL ALLEGATIONS**
+
+4. At all material times, Plaintiff was a lawful tenant of the Premises, specifically the third-floor apartment at 23 Maple Street.  
+
+5. Defendant, as owner and landlord, owed a duty to maintain the common areas of the Premises, including smoke detection equipment in the hallways, in a reasonably safe condition and in compliance with applicable fire safety codes.  
+
+6. Pursuant to **Mass. Gen. Laws ch. 148, § 26F** and **780 C.M.R. § 907.2.10.2.1**, smoke detectors are required in common hallways of multi-unit residential buildings and must be properly maintained in working order.  
+
+7. For several months prior to September 1, 2023, the smoke detector in the third-floor hallway adjacent to Plaintiff’s apartment emitted a recurring “chirping” sound indicating a low battery.  
+
+8. Eventually, an unknown person removed the battery from the unit, leaving it inoperative. The detached battery was left on the windowsill of the hallway.  
+
+9. Plaintiff personally informed Defendant and/or Defendant’s agents on at least three occasions—beginning approximately in May 2023 and continuing through August 2023—that the hallway smoke detector was not operational.  
+
+10. Defendant repeatedly assured Plaintiff that the issue would be addressed but failed to replace the battery or otherwise restore the detector to proper working condition.  
+
+11. On or about **September 1, 2023**, a fire originated in a first-floor apartment within the Premises, apparently resulting from a kitchen appliance.  
+
+12. Because the hallway smoke detector outside Plaintiff’s apartment lacked a functional battery, no alarm sounded to alert the upper-floor tenants of smoke or flame conditions.  
+
+13. Plaintiff awoke only when she smelled smoke and discovered that thick smoke had already filled the hallway outside her apartment.  
+
+14. Plaintiff was forced to evacuate through dense smoke, inhaling significant quantities of it, and experienced acute respiratory distress.  
+
+15. Plaintiff was transported by ambulance and treated overnight at a local hospital for smoke inhalation. She incurred approximately **$4,200 in medical expenses** and lost approximately **$1,500 in wages** due to her injuries.  
+
+16. Plaintiff also suffered emotional distress, lingering respiratory discomfort, and damage to personal property caused by smoke and water intrusion.  
+
+17. Defendant knew or should have known of the defective and nonfunctional smoke detector and failed to take reasonable steps to repair or replace it within a reasonable period.  
+
+18. Defendant’s failure to maintain the safety equipment in operable condition constituted a breach of its duty of reasonable care as landlord and property manager.  
+
+---
+
+**COUNT I – NEGLIGENCE**
+
+19. Plaintiff realleges and incorporates by reference paragraphs 1–18 as though fully set forth herein.  
+
+20. Massachusetts law imposes upon landlords a duty to exercise reasonable care to maintain common areas of leased premises in a safe condition. **Young v. Garwacki**, 380 Mass. 162, 167 (1980); **King v. G & M Realty Corp.**, 373 Mass. 658, 660 (1977).  
+
+21. Defendant owed Plaintiff a duty to keep the common hallway and its safety systems, including the smoke detector, in a condition that would not subject her to unreasonable risk of harm. See **Mass. Gen. Laws ch. 186, § 15B(1)(a)** (landlords must comply with applicable code requirements and maintain premises in habitable condition).  
+
+22. Defendant’s failure to maintain a working smoke detector violated the standards of care established by **Mass. Gen. Laws ch. 148, § 26F**, **780 C.M.R. § 907.2.10.2.1**, and related provisions of the **Massachusetts State Fire Code (527 C.M.R. 1.00)**.  
+
+23. Violation of such safety statutes and regulations constitutes evidence of negligence. **Bennett v. Eagle Brook Country Store, Inc.**, 408 Mass. 355, 358 (1990); **Guinan v. Famous Players-Lasky Corp.**, 267 Mass. 501, 519 (1929).  
+
+24. Defendant further breached its common-law duty of reasonable care by disregarding repeated notice of the inoperative detector and failing to act in a timely manner. **Lyon v. Morphew**, 424 Mass. 828, 834 (1997).  
+
+25. Defendant’s negligent omissions directly and proximately caused Plaintiff’s injuries, including smoke inhalation, respiratory distress, medical bills, lost wages, and damage to personal property. **Jenkins v. North Shore Dye House, Inc.**, 277 Mass. 440, 445 (1931); **Bergeron v. Forest Realty Co.**, 322 Mass. 475, 479 (1948).  
+
+26. The harm suffered by Plaintiff was foreseeable, as the purpose of smoke detection equipment is to provide warning of exactly the type of hazard that occurred. **Poskus v. Lombardo’s of Randolph, Inc.**, 423 Mass. 637, 640 (1996).  
+
+27. Plaintiff’s injuries would not have occurred but for Defendant’s negligence in failing to maintain the smoke detector in operable condition. **Jorgensen v. Massachusetts Port Auth.**, 905 F.2d 515, 520 (1st Cir. 1990) (applying Massachusetts law).  
+
+28. Plaintiff did not contribute to the cause of the malfunctioning alarm or fire, and her actions were reasonable under the circumstances. See **Mass. Gen. Laws ch. 231, § 85** (comparative negligence).  
+
+---
+
+**DAMAGES**
+
+29. As a direct and proximate result of Defendant’s negligence, Plaintiff sustained:  
+   a. Medical expenses totaling approximately **$4,200**;  
+   b. Lost wages totaling approximately **$1,500**;  
+   c. Physical pain, respiratory injuries, and emotional distress;  
+   d. Property loss and inconvenience; and  
+   e. Other damages to be established at trial.  
+
+30. Under Massachusetts law, Plaintiff is entitled to recover all reasonably foreseeable damages caused by Defendant’s breach. **Damiano v. National Grange Mut. Ins. Co.**, 316 Mass. 626, 629 (1944).  
+
+---
+
+**PRAYER FOR RELIEF**
+
+WHEREFORE, Plaintiff **Jessica Harper** respectfully requests that this Honorable Court:
+
+A. Enter judgment in Plaintiff’s favor and against Defendant **Franklin Properties LLC** on the claim of negligence;  
+B. Award compensatory damages in an amount to be determined at trial, but not less than **$5,700**, plus such amounts for pain, suffering, emotional distress, and property loss as are just and reasonable;  
+C. Award costs and interest pursuant to **Mass. Gen. Laws ch. 231, §§ 6B and 6C**;  
+D. Grant such other and further relief as the Court deems proper.  
+
+---
+
+**DEMAND FOR JURY TRIAL**
+
+Plaintiff demands a trial by jury on all issues so triable.  
+
+---
+
+**Respectfully submitted,**  
+
+**Jessica Harper**  
+Plaintiff, pro se  
+
+23 Maple Street, Apt. 3B  
+Lynn, MA 01902  
+Phone: (617) 555-0123  
+Email: psm1443@gmail.com  
+
+Date: December 1, 2025  
+
+**/s/ Jessica Harper**  
+
+---
+
+**Legal Authorities Cited:**  
+- Mass. Gen. Laws ch. 218, §§ 19, 21 (jurisdiction and venue)  
+- Mass. Gen. Laws ch. 186, § 15B(1)(a) (landlord obligations)  
+- Mass. Gen. Laws ch. 148, § 26F (smoke detectors)  
+- 780 C.M.R. § 907.2.10.2.1 (building code – maintenance of fire alarm systems)  
+- 527 C.M.R. 1.00 (Massachusetts Fire Code)  
+- Mass. Gen. Laws ch. 231, § 85 (comparative negligence)  
+- Mass. Gen. Laws ch. 231, §§ 6B, 6C (interest)  
+- Young v. Garwacki, 380 Mass. 162 (1980)  
+- King v. G & M Realty Corp., 373 Mass. 658 (1977)  
+- Bennett v. Eagle Brook Country Store, Inc., 408 Mass. 355 (1990)  
+- Guinan v. Famous Players-Lasky Corp., 267 Mass. 501 (1929)  
+- Lyon v. Morphew, 424 Mass. 828 (1997)  
+- Bergeron v. Forest Realty Co., 322 Mass. 475 (1948)  
+- Jenkins v. North Shore Dye House, Inc., 277 Mass. 440 (1931)  
+- Poskus v. Lombardo’s of Randolph, Inc., 423 Mass. 637 (1996)  
+- Jorgensen v. Massachusetts Port Auth., 905 F.2d 515 (1st Cir. 1990)  
+- Damiano v. National Grange Mut. Ins. Co., 316 Mass. 626 (1944)  
+
+---
+
+**[End of Complaint]**

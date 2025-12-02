@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_001_08.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 3.1 expressly alleges an Existing Order entered April 15, 2021 establishing Plaintiff\u2019s primary physical custody and Defendant\u2019s every-other-weekend and one-weeknight overnight parenting time; the complaint therefore pleads an existing custody/parenting-time order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Section 6.1 (and subparts i\u2013ii, C\u2013F) sets out concrete modifications sought: restrict overnights to nights Defendant is off-duty (or require verifiable advance proof), convert overnights to daytime/evening when he works, require advance notice and vetting of third parties, provide work schedule to the parties/the Court, and related temporary relief\u2014a specific and measurable change to the Existing Order."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Section 4.1\u20134.5 allege factual changes since the Existing Order: Defendant accepted night-shift work (7pm\u20137am) that overlaps scheduled overnights, is frequently fatigued/unable to supervise, has left the children with a roommate or returned them with little notice, and children report Defendant sleeps and is inattentive\u2014allegations that plausibly describe a material and substantial change affecting the children\u2019s care and routine."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint links the alleged change in circumstances to risks to the children\u2019s health, safety, welfare and stability (\u00b6\u00b64.5, 4.6, 6.1(A)\u2013(B)) and expressly asks for modifications to protect the children pending hearing (\u00b6\u00b67.1, 8.2). Those factual allegations reasonably plead that the requested modification is necessary for the children\u2019s best interests."
+    }
+  }
+}

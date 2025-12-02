@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_010_07.txt",
+  "scenario_id": "qe_010_07",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 1,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 218, \u00a7 21,": {
+      "raw_text": "Mass. Gen. Laws ch. 218, \u00a7 21,",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Mass. Gen. Laws ch. 218, \u00a7 21, as the amount in controversy does not exceed $25,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Boston Hous. Auth. v. Hemingway, 363 N.E.2d 1155 (Mass. 1977)": {
+      "raw_text": "Boston Hous. Auth. v. Hemingway, 363 N.E.2d 1155 (Mass. 1977)",
+      "citation_type": "case",
+      "proposition": "Massachusetts law imposes an implied warranty of habitability on landlords, including the duty to provide and maintain premises free from mold and other harmful conditions.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

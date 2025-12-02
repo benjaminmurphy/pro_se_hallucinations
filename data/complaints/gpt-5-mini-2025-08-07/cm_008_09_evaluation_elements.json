@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_008_09.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an existing custody judgment entered June 15, 2021 (\u00b6\u00b61.4, 3.1) and invokes the Court\u2019s continuing jurisdiction over that order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The relief section and \u00b62 set out precise modifications sought: awarding Petitioner final decision-making authority over school attendance/educational matters, limiting/eliminating Respondent\u2019s Sunday\u2011night or other school\u2011night overnights, temporary emergency relief (e.g., temporary change to Sunday overnights), and orders requiring cooperation on evaluations/tutoring."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a change since entry of the 2021 order: over the past year Respondent repeatedly keeps the child home on Mondays after weekend parenting time (\u00b64.2), has not provided medical documentation (\u00b64.3), has allowed missed tutoring (\u00b64.5), the school issued truancy warnings (\u00b64.4), and the child\u2019s grades and test scores have declined (\u00b64.6). Those factual allegations sufficiently plead a material and substantial change affecting the child\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The pleading links the alleged conduct to concrete harm to the child\u2019s education and welfare (truancy warnings, missed remediation, declining grades/test scores \u00b6\u00b64.4\u20134.6) and requests remedies tailored to protect educational stability (educational decision\u2011making, limiting school\u2011night overnights, requiring documentation/cooperation). These allegations reasonably assert that the requested modifications are necessary in the child\u2019s best interests."
+    }
+  }
+}

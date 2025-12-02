@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_006_10.txt",
+  "scenario_id": "ng_006_10",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 4,
+  "case_citations": 1,
+  "statute_citations": 3,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "M.G.L. c. 212, \u00a7 4": {
+      "raw_text": "M.G.L. c. 212, \u00a7 4",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to M.G.L. c. 212, \u00a7 4, as this action involves damages exceeding $25,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 223, \u00a7\u00a7 1 and 2": {
+      "raw_text": "M.G.L. c. 223, \u00a7\u00a7 1 and 2",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Suffolk County Superior Court pursuant to M.G.L. c. 223, \u00a7\u00a7 1 and 2, as the events giving rise to the cause of action occurred in Suffolk County, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 90, \u00a7 14": {
+      "raw_text": "M.G.L. c. 90, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "The Defendant\u2019s negligence violated Massachusetts General Laws, including but not limited to M.G.L. c. 90, \u00a7 14, which requires drivers to open doors with reasonable caution to prevent collisions with other lawful road users such as bicyclists.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Dube v. Keogh*, 201 Mass. 347 (1909)": {
+      "raw_text": "*Dube v. Keogh*, 201 Mass. 347 (1909)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts caselaw, a driver opening a car door into a bicyclist\u2019s lawful path constitutes actionable negligence.",
+      "is_valid": true,
+      "courtlistener_id": "6556849",
+      "case_name": "Feigenspan v. McDonnell",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion excerpt concerns negotiable instruments, partnership authority, holder-in-due-course status, and bankruptcy\u2014not motor vehicles, bicycles, or roadway duties. It does not mention drivers, car doors, bicyclists, or any related negligence principles. Therefore, it cannot be authority for the proposition that opening a car door into a bicyclist\u2019s lawful path constitutes actionable negligence.",
+      "relevant_excerpt": "In the statements made by Flynn and the plaintiff\u2019s agent, who were witnesses at the trial, as to the negotiations which led to the making of the original note of which the note in suit was a renewal, there was evidence to be submitted to the jury that the plaintiff acted in good faith and without notice of any infirmity. If they found these conditions, the plaintiff was a holder in due course."
+    }
+  }
+}

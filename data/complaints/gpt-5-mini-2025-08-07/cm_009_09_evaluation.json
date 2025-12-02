@@ -1,0 +1,41 @@
+{
+  "complaint_file": "cm_009_09.txt",
+  "scenario_id": "cm_009_09",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 208 (statutory provisions relating to custody and modification in divorce and family proceedings);": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (statutory provisions relating to custody and modification in divorce and family proceedings);",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 208 (statutory provisions relating to custody and modification in divorce and family proceedings);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209C (Massachusetts UCCJEA) (jurisdictional rules for child custody proceedings);": {
+      "raw_text": "Mass. Gen. Laws ch. 209C (Massachusetts UCCJEA) (jurisdictional rules for child custody proceedings);",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 209C (Massachusetts UCCJEA) (jurisdictional rules for child custody proceedings);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_007_09.txt",
+  "scenario_id": "qe_007_09",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 2,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 218, \u00a7 21": {
+      "raw_text": "Massachusetts General Laws Chapter 218, \u00a7 21",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 218, \u00a7 21.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 186, \u00a7 14": {
+      "raw_text": "Massachusetts General Laws Chapter 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws Chapter 186, \u00a7 14 provides that landlords must not interfere with a tenant's quiet enjoyment of the leased premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Phipps v. Zarella, 208 N.E.2d 364 (Mass. 1965)": {
+      "raw_text": "Phipps v. Zarella, 208 N.E.2d 364 (Mass. 1965)",
+      "citation_type": "case",
+      "proposition": "Numerous Massachusetts courts have recognized the covenant of quiet enjoyment as vital to the landlord-tenant relationship, including cases such as Phipps v. Zarella, 208 N.E.2d 364 (Mass. 1965) and Mealand v. Engineering Associates, 747 N.E.2d 237 (Mass. App. Ct. 2001).",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mealand v. Engineering Associates, 747 N.E.2d 237 (Mass. App. Ct. 2001)": {
+      "raw_text": "Mealand v. Engineering Associates, 747 N.E.2d 237 (Mass. App. Ct. 2001)",
+      "citation_type": "case",
+      "proposition": "Numerous Massachusetts courts have recognized the covenant of quiet enjoyment as vital to the landlord-tenant relationship, including cases such as Phipps v. Zarella, 208 N.E.2d 364 (Mass. 1965) and Mealand v. Engineering Associates, 747 N.E.2d 237 (Mass. App. Ct. 2001).",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

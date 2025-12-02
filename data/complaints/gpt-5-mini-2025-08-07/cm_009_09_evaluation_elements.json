@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_009_09.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly identifies a prior custodial order entered January 15, 2019 (the \u201c2019 Order\u201d) governing custody/parenting time for the minor child."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint clearly requests elimination of the Defendant\u2019s midweek (Wednesday) overnight and modification of the weekend parenting-time schedule to avoid long-distance overnight travel on school nights (with suggested alternatives)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges factual changes since the 2019 Order: Defendant relocated ~90 miles to Cape Cod, continues to require Wednesday overnights causing multi-hour pre-dawn return trips, the child is chronically fatigued, and the teacher has reported diminished Thursday performance \u2014 facts that plausibly constitute a material and substantial change affecting the child\u2019s welfare and the operation of the prior order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the requested modifications are necessary to prevent chronic sleep deprivation and to protect the child\u2019s physical health and school performance, and it explains how the proposed schedule adjustments would better serve the child\u2019s educational and physical welfare."
+    }
+  }
+}

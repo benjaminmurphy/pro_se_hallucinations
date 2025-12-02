@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_007_01.txt",
+  "scenario_id": "ng_007_01",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 260, \u00a7 2A": {
+      "raw_text": "M.G.L. c. 260, \u00a7 2A",
+      "citation_type": "statute",
+      "proposition": "Pursuant to the Massachusetts statute of limitations for personal injury actions, M.G.L. c. 260, \u00a7 2A, this action is commenced within the time allowed by law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts Rules of Civil Procedure, Rules 8(a), 10(a), and 11 (pleading and signature requirements).": {
+      "raw_text": "Massachusetts Rules of Civil Procedure, Rules 8(a), 10(a), and 11 (pleading and signature requirements).",
+      "citation_type": "statute",
+      "proposition": "- Massachusetts Rules of Civil Procedure, Rules 8(a), 10(a), and 11 (pleading and signature requirements).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 231 (general tort law provisions as applicable).": {
+      "raw_text": "Mass. Gen. Laws ch. 231 (general tort law provisions as applicable).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 231 (general tort law provisions as applicable).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

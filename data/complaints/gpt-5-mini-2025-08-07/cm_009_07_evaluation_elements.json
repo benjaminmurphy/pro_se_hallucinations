@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_009_07.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges a May 15, 2019 court order awarding Petitioner primary physical custody and Respondent alternate-weekend visitation plus a weekly midweek overnight (\u00b63.1), and alleges the prior order was entered by this Court (\u00b62.2)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint requests specific relief: elimination/suspension or modification of the midweek (Wednesday) overnight visitation and replacement with alternative schedules (e.g., extended alternate weekends or non-school-night overnights) and related relief (\u00b68.2\u20138.3(a)\u2013(b))."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Respondent relocated ~90 miles to Cape Cod after the 2019 order (\u00b65.1), has continued the same Wednesday overnight practice requiring long round\u2011trip travel and early\u2011morning returns (\u00b65.2; \u00b67.1\u20137.2), and pleads resulting, ongoing adverse effects (chronic tiredness, reduced classroom participation reported by the teacher) (\u00b65.3; \u00b67.3), alleging these facts constitute a material and substantial change (\u00b65.4; \u00b66.2)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint links the relocation and midweek travel to concrete harms to the child\u2019s health and education (chronic fatigue, teacher reports of reduced participation and alertness) and states the requested modification is necessary to protect the child\u2019s health, welfare, and educational needs, invoking the best\u2011interests standard and requesting orders tailored to protect Sophie (\u00b65.3\u20135.4; \u00b67.3\u20137.5; \u00b68.3)."
+    }
+  }
+}

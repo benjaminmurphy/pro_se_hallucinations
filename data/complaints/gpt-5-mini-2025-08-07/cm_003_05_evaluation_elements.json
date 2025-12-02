@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_003_05.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly identifies an existing custody order entered October 15, 2021 (the \u201c2021 Order\u201d) awarding shared legal custody with primary residence to Petitioner and specifying weekend overnights for Respondent."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Petitioner specifies both emergency/interim relief (suspend overnight unsupervised visits; require supervised exchanges; random substance screening; neutral daytime exchanges; school communication) and permanent relief (supervised visitation, restriction on overnight unsupervised visits, substance testing, parenting education/treatment as appropriate)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific, concrete facts post-dating the 2021 Order that affect the child\u2019s welfare: child reports of \u201cspecial drinks\u201d and Respondent being unable to \u201cwalk straight,\u201d repeated Monday exhaustion after visits, a neighbor\u2019s video of Respondent stumbling while handling the child late at night, and school reports of diminished functioning. It also alleges these facts were not before the court at the time of the 2021 Order, which adequately pleads a material and substantial change for pleading purposes."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Petitioner links the alleged conduct and observations directly to the child\u2019s safety, health, and emotional welfare and seeks narrowly tailored measures (supervision, testing, education) intended to protect the child while preserving the parent\u2013child relationship. Those allegations sufficiently plead that the requested modification is in the child\u2019s best interests."
+    }
+  }
+}

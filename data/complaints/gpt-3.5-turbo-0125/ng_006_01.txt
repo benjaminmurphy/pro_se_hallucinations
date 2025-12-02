@@ -1,0 +1,46 @@
+[Caption]
+Suffolk County Superior Court
+Jason Miller
+Plaintiff
+v.
+Rideshare Solutions, Inc.
+Defendant
+Civil Action No. 25-12345
+
+[Parties]
+1. Plaintiff, Jason Miller, is an individual residing at [Plaintiff's Address, City, State, ZIP Code].
+2. Defendant, Rideshare Solutions, Inc., is a corporation registered in Massachusetts with its principal place of business at [Defendant's Address, City, State, ZIP Code].
+
+[Jurisdiction]
+3. This action arises under the laws of the Commonwealth of Massachusetts. This Court has jurisdiction over the subject matter pursuant to Massachusetts General Laws Chapter 218 § 3.
+
+[Factual Allegations]
+4. On September 10, 2023, at approximately [Time], Plaintiff Jason Miller was lawfully riding his bicycle in a marked bike lane on Commonwealth Avenue, Boston, Massachusetts. Defendant's rideshare driver, while parked in a loading zone adjacent to the bike lane located at 418 Commonwealth Avenue, negligently swung open the vehicle door without checking for oncoming cyclists.
+5. The sudden and negligent action of the rideshare driver caused Plaintiff to collide with the open door, resulting in injuries to Plaintiff, including road rash on his arms and legs, a chipped front tooth, and damage to his bike frame.
+6. Despite the rideshare driver's admission at the scene that he did not see Plaintiff because he was checking his phone, Defendant later submitted false information to their insurance company, falsely alleging that Plaintiff was "weaving in and out of traffic." These false statements have caused harm to Plaintiff's claim for compensation.
+
+[Causes of Action - Negligence]
+7. Defendant had a duty to operate its vehicle safely and to check for oncoming traffic before opening the vehicle door.
+8. By negligently opening the vehicle door without proper regard for oncoming cyclists, Defendant breached its duty of care to Plaintiff.
+9. As a direct result of Defendant's negligence, Plaintiff suffered injuries, medical expenses of approximately $1,500, and lost wages in the amount of $600.
+10. Defendant's actions constitute negligence under Massachusetts law.
+
+[Prayer for Relief]
+WHEREFORE, Plaintiff, Jason Miller, respectfully requests that this Honorable Court:
+1. Award damages to Plaintiff in an amount determined at trial, including compensation for medical expenses, lost wages, pain and suffering, and property damage;
+2. Award prejudgment and post-judgment interest as allowed by law;
+3. Grant any further relief that the Court deems just and proper; and
+4. Award Plaintiff the costs of suit, including reasonable attorney fees. 
+
+[Signature Block]
+Respectfully submitted,
+[Your Name]
+Jason Miller, Plaintiff
+[Your Address]
+Boston, Massachusetts
+Tel: (617) 555-0123
+Email: psm1443@gmail.com
+
+Dated: December 1, 2025
+
+This Complaint shall be verified according to Massachusetts law.

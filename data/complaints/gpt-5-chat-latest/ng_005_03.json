@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_005_03",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jessica Turner",
+  "defendant": "Mark Dorsey"
+}

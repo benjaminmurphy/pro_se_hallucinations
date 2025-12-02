@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_001_06.txt",
+  "scenario_id": "cm_001_06",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 209C (Uniform Child Custody Jurisdiction and Enforcement Act)": {
+      "raw_text": "M.G.L. c. 209C (Uniform Child Custody Jurisdiction and Enforcement Act)",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to Massachusetts law, including M.G.L. c. 209C (Uniform Child Custody Jurisdiction and Enforcement Act), and the General Laws and Rules governing the Probate and Family Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209C (Uniform Child Custody Jurisdiction and Enforcement Act)": {
+      "raw_text": "Mass. Gen. Laws ch. 209C (Uniform Child Custody Jurisdiction and Enforcement Act)",
+      "citation_type": "statute",
+      "proposition": "Petitioner relies on the statutes and case law governing custody modifications and the best interests of the child standard in Massachusetts, including, without limitation:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119 (laws pertaining to children and families, including protections and welfare of children)": {
+      "raw_text": "Mass. Gen. Laws ch. 119 (laws pertaining to children and families, including protections and welfare of children)",
+      "citation_type": "statute",
+      "proposition": "Petitioner relies on the statutes and case law governing custody modifications and the best interests of the child standard in Massachusetts, including, without limitation:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208 (Probate and Family Court jurisdiction over domestic relations matters)": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (Probate and Family Court jurisdiction over domestic relations matters)",
+      "citation_type": "statute",
+      "proposition": "Petitioner relies on the statutes and case law governing custody modifications and the best interests of the child standard in Massachusetts, including, without limitation:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Rules of Domestic Relations Procedure and any local rules of the Probate and Family Court, Middlesex County": {
+      "raw_text": "Mass. Rules of Domestic Relations Procedure and any local rules of the Probate and Family Court, Middlesex County",
+      "citation_type": "statute",
+      "proposition": "Petitioner relies on the statutes and case law governing custody modifications and the best interests of the child standard in Massachusetts, including, without limitation:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

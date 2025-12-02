@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_010_07.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges a prior custody order entered May 15, 2018 (\u00b61.4, \u00b63.1) and states a copy will be filed as Exhibit A (\u00b68.1). Those allegations establish an existing custody/parenting\u2011time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint requests increased physical parenting time for Petitioner, including additional overnights, adjustment of the weekly schedule (e.g., alternating weekends with overnights, possible weeknight overnights, expanded summer/holiday time), pendente lite expansion of parenting time, and a restructured shared\u2011parenting schedule (\u00b62.1, \u00b67.1(b), \u00b67.2). These are concrete, specific modifications rather than a generic request."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads multiple factual changes since the 2018 Order that bear on the child's welfare: Petitioner completed graduate school, obtained stable full\u2011time employment with regular hours and sufficient income, and now resides in a two\u2011bedroom apartment suitable for overnights (\u00b64.2, \u00b66.1\u20136.2). It also alleges therapeutic observations and recommendations and the child's distress under the current schedule (\u00b64.3, \u00b66.3), and parental refusal to cooperate causing family stress (\u00b64.4, \u00b66.4). The complaint also alleges these developments were not reasonably foreseeable at the time of the 2018 Order (\u00b64.5). Taken together, these facts adequately allege a material and substantial change in circumstances."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the requested modification is in Emily\u2019s best interests by describing the child\u2019s emotional distress under the current schedule, therapeutic recommendations supporting increased time with Mother, the child\u2019s own written preference, improved parental capacity and housing stability, and harmful parental conflict (\u00b64.3\u20134.4, \u00b66.2\u20136.3, \u00b67.1(b)\u2013(d), \u00b610.2(b)). It also invokes the best\u2011interest standard and seeks evaluations/pendente lite relief to protect the child (\u00b65.1\u20135.2, \u00b67.1(d)\u2013(e)). These factual allegations sufficiently plead that the modification is alleged to be in the child\u2019s best interests."
+    }
+  }
+}

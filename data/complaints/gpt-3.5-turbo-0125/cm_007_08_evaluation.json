@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_007_08.txt",
+  "scenario_id": "cm_007_08",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 5,
+  "case_citations": 4,
+  "statute_citations": 1,
+  "valid_citations": 4,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 4,
+  "citations": {
+    "Massachusetts General Laws chapter 208, section 28": {
+      "raw_text": "Massachusetts General Laws chapter 208, section 28",
+      "citation_type": "statute",
+      "proposition": "Pursuant to Massachusetts General Laws chapter 208, section 28, a court may modify a custody order upon a showing of a material change in circumstances affecting the best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)": {
+      "raw_text": "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)",
+      "citation_type": "case",
+      "proposition": "Case law, including but not limited to Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985) and Mason v. Coleman, 447 Mass. 159 (2006), supports the granting of a modification to custody orders where there has been a substantial change in circumstances affecting the child's welfare.",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Yannas is a removal/relocation and initial custody case, not a custody-modification case. The opinion interprets G.L. c. 208, \u00a7 30 and articulates the \u201creal advantage\u201d standard and best-interests analysis for allowing a custodial parent to remove children from the Commonwealth after divorce. It does not discuss the standard for modifying existing custody orders based on a substantial change in circumstances, so it does not provide authority for the proposition about modifications of custody orders.",
+      "relevant_excerpt": "\u201cThe Massachusetts removal statute, G. L. c. 208, \u00a7 30 (1984 ed.), provides that \u2018[a] minor child of divorced parents \u2026 shall not \u2026 be removed out of this commonwealth \u2026 without the consent of both parents, unless the court upon cause shown otherwise orders.\u2019 The words \u2018upon cause shown\u2019 mean only that removal must be in the best interests of the child (Rubin v. Rubin, 370 Mass. 857 [1976]; Hale v. Hale, supra at 815), and thus the central question in this case is how these \u2018best interests\u2019 are to be determined.\u201d"
+    },
+    "Mason v. Coleman, 447 Mass. 159 (2006)": {
+      "raw_text": "Mason v. Coleman, 447 Mass. 159 (2006)",
+      "citation_type": "case",
+      "proposition": "Case law, including but not limited to Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985) and Mason v. Coleman, 447 Mass. 159 (2006), supports the granting of a modification to custody orders where there has been a substantial change in circumstances affecting the child's welfare.",
+      "is_valid": true,
+      "courtlistener_id": "6579382",
+      "case_name": "Jupin v. Kask",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion is a tort/negligence decision about a homeowner\u2019s duty regarding storage of firearms and has nothing to do with family law, custody, or modification of custody orders. It nowhere discusses substantial changes in circumstances, the best interests of the child, or any custody framework. Therefore, it does not support the claimed proposition about modification of custody orders.",
+      "relevant_excerpt": "\u201cIn the circumstances of this case, we conclude that a homeowner who permits guns to be stored on her property and allows unsupervised access to that property by a person known by her to have a history of violence and mental instability, has a duty of reasonable care to ensure that the guns are properly secured.\u201d"
+    },
+    "Custody of Vaillancourt, 39 Mass. App. Ct. 211 (1995)": {
+      "raw_text": "Custody of Vaillancourt, 39 Mass. App. Ct. 211 (1995)",
+      "citation_type": "case",
+      "proposition": "It is well-established that the best interests of the child are paramount in custody matters, as held in numerous cases such as Custody of Vaillancourt, 39 Mass. App. Ct. 211 (1995) and Department of Children and Families v. N.D., 474 Mass. 630 (2016).",
+      "is_valid": true,
+      "courtlistener_id": "6585194",
+      "case_name": "Balboni v. Balboni",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The provided excerpt from Custody of Vaillancourt concerns the statutory requirement to appoint independent counsel for children when a Probate Court contemplates awarding custody to DSS under G.L. c. 119, \u00a7 23(C). It does not discuss or articulate the general principle that the best interests of the child are paramount in custody matters. Therefore, this case, at least on the basis of the quoted text, does not support the specific proposition for which it is cited.",
+      "relevant_excerpt": "We hold that when a Probate Court judge contemplates an award of custody of a minor child to DSS under G. L. c. 119, \u00a7 23(C), the judge must follow the mandate of G. L. c. 119, \u00a7 29, and ensure the child\u2019s right to representation by independent counsel. We do not intimate that a child whose custody is in dispute in a divorce action has a right to counsel."
+    },
+    "Department of Children and Families v. N.D., 474 Mass. 630 (2016)": {
+      "raw_text": "Department of Children and Families v. N.D., 474 Mass. 630 (2016)",
+      "citation_type": "case",
+      "proposition": "It is well-established that the best interests of the child are paramount in custody matters, as held in numerous cases such as Custody of Vaillancourt, 39 Mass. App. Ct. 211 (1995) and Department of Children and Families v. N.D., 474 Mass. 630 (2016).",
+      "is_valid": true,
+      "courtlistener_id": "3219495",
+      "case_name": "Commonwealth v. Carter",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The provided opinion is not Department of Children and Families v. N.D., 474 Mass. 630 (2016), but Commonwealth v. Carter, a criminal case about involuntary manslaughter arising from encouraging suicide. The text contains no discussion of custody, best interests of the child, or related family-law standards. Therefore, this opinion does not support the proposition about the best interests of the child being paramount in custody matters.",
+      "relevant_excerpt": "Because there is no discussion of custody or the best interests of the child in this opinion, there is no relevant excerpt supporting the claimed proposition."
+    }
+  }
+}

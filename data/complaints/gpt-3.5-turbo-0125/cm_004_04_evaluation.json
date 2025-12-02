@@ -1,0 +1,28 @@
+{
+  "complaint_file": "cm_004_04.txt",
+  "scenario_id": "cm_004_04",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 208, \u00a7 28": {
+      "raw_text": "Mass. Gen. Laws ch. 208, \u00a7 28",
+      "citation_type": "statute",
+      "proposition": "NOW COMES the Plaintiff, Jessica Turner, by and through the undersigned counsel, hereby filing this Complaint for Modification of the Custody Order entered on May 15, 2018, in the Middlesex Probate and Family Court, pursuant to Mass. Gen. Laws ch. 208, \u00a7 28 and relevant case law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

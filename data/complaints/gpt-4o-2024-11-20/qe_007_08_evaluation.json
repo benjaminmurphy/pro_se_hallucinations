@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_007_08.txt",
+  "scenario_id": "qe_007_08",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws, Chapter 186, \u00a7 14": {
+      "raw_text": "Massachusetts General Laws, Chapter 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Pursuant to Massachusetts General Laws, Chapter 186, \u00a7 14, every residential lease includes an implied covenant of quiet enjoyment, which guarantees tenants the right to use and enjoy their leased premises free from substantial interference by their landlord.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 218, \u00a7 19": {
+      "raw_text": "Massachusetts General Laws, Chapter 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws, Chapter 218, \u00a7 19.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "**Simon v. Solomon**, 385 Mass. 91, 100-101 (1982)": {
+      "raw_text": "**Simon v. Solomon**, 385 Mass. 91, 100-101 (1982)",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts have consistently held that landlords violate the covenant of quiet enjoyment when they engage in or allow substantial and unreasonable interference with tenants\u2019 use and enjoyment of their homes.",
+      "is_valid": true,
+      "courtlistener_id": "2038443",
+      "case_name": "Simon v. Solomon",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion directly discusses the covenant of quiet enjoyment and explains that, under Massachusetts law, liability does not require malicious intent but arises when the landlord\u2019s conduct has the \u2018natural and probable consequence\u2019 of interrupting the tenant\u2019s rights, i.e., serious interference with use of the premises. It cites and incorporates prior Massachusetts cases like Westland Housing, Shindler, and Blackett, characterizing quiet enjoyment as freedom from serious interferences that impair the character and value of the leased premises. That aligns with the proposition that substantial and unreasonable interferences with tenants\u2019 use and enjoyment violate the covenant of quiet enjoyment.",
+      "relevant_excerpt": "\u201cThe phrase \u2018quiet enjoyment\u2019 is a familiar term in landlord-tenant law, signifying the tenant\u2019s right to freedom from serious interferences with his tenancy \u2014 acts or omissions that \u2018impair the character and value of the leased premises.\u2019 Winchester v. O\u2019Brien, 266 Mass. 33, 36 (1929) (quoting from Brande v. Grace, 154 Mass. 210, 212 [1891]). \u2026 Although early cases applying the covenant of quiet enjoyment required intent on the part of the landlord \u2026 more recent decisions have imposed liability whenever the \u2018natural and probable consequence\u2019 of a landlord\u2019s action was interruption of the tenant\u2019s rights. Westland Hous. Corp. v. Scott, 312 Mass. 375, 381-383 (1942). Shindler v. Milden, 282 Mass. 32, 33 (1933).\u201d}"
+    },
+    "**Al-Ziab v. Mourgis**, 424 Mass. 847 (1997)": {
+      "raw_text": "**Al-Ziab v. Mourgis**, 424 Mass. 847 (1997)",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts have consistently held that landlords violate the covenant of quiet enjoyment when they engage in or allow substantial and unreasonable interference with tenants\u2019 use and enjoyment of their homes.",
+      "is_valid": true,
+      "courtlistener_id": "6577320",
+      "case_name": "Al-Ziab v. Mourgis",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion directly discusses the standard for liability under the statutory covenant of quiet enjoyment and reaffirms prior cases holding that a landlord\u2019s negligent failure to remedy known problems that foreseeably interfere with tenants\u2019 use of the premises violates \u00a7 14. In explaining that some degree of landlord fault is required, the court cites and summarizes earlier decisions (Simon, Cruz, Darmetko, Dorgan, Doe) where substantial and unreasonable interferences with tenants\u2019 living conditions were found to breach quiet enjoyment. This aligns with the proposition that Massachusetts courts consistently treat substantial, unreasonable interferences as violations of the covenant.",
+      "relevant_excerpt": "\u201cWe noted that a landlord\u2019s failure \u2018to repair defects of which he has notice in leased premises is an omission which frequently has been deemed to violate \u00a7 14.\u2019 See Cruz, supra at 789, citing Simon v. Solomon, supra at 103 (failure to control floods in tenant\u2019s apartment); Darmetko v. Boston Hous. Auth., 378 Mass. 758, 761 (1979) (failure to repair leaky roof); Dorgan v. Loukas, 19 Mass. App. Ct. 959, 960 (1985) (failure to bring apartment into habitable condition and keep it so). Indeed, in each case since the 1973 statutory revision in which we have recognized a breach of the covenant of quiet enjoyment, there was evidence that the landlord failed to act reasonably in the circumstances concerning a problem known to the landlord, and the natural and probable consequences of such failure caused the interference with the tenant\u2019s quiet enjoyment of the premises.\u201d"
+    }
+  }
+}

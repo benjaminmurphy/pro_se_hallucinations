@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_010_05.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges a Prior Order entered April 15, 2018, in this Court awarding primary residence to the Father and limiting the Mother's visitation (specifics provided)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Section 6.1 sets out concrete requested changes (additional overnights, weekday overnight time, expanded weekend schedule, adjusted holiday/school-break time, mediation/parenting coordination, and alternative schedules), providing a clear, specific modification sought."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Section 4 pleads factual changes since the Prior Order that were the basis for that order: Mother completed graduate school, now has stable employment with predictable daytime hours permitting overnights, moved to a two\u2011bedroom apartment with a separate bedroom for the Child, the Child is older and has expressed a preference for more time, and the Father\u2019s refusal to cooperate is affecting the Child\u2014facts that, taken together, adequately allege a material and substantial change in circumstances."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Section 5 alleges that the Mother can now provide a stable, developmentally appropriate home and time for additional parenting, that the Child (and therapist) express a preference for increased time, and that increased time will promote the Child\u2019s emotional well\u2011being without alleged harm\u2014sufficient factual allegations that the requested modification serves the Child\u2019s best interests for pleading purposes."
+    }
+  }
+}

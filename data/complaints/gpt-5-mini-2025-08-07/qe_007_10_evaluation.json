@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_007_10.txt",
+  "scenario_id": "qe_007_10",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws chapter 186 (landlord and tenant)": {
+      "raw_text": "Massachusetts General Laws chapter 186 (landlord and tenant)",
+      "citation_type": "statute",
+      "proposition": "Massachusetts statutory provisions that govern landlord-tenant relationships and summary process generally include Massachusetts General Laws chapter 186 (landlord and tenant) and chapter 239 (summary process/eviction).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "chapter 239 (summary process/eviction)": {
+      "raw_text": "chapter 239 (summary process/eviction)",
+      "citation_type": "statute",
+      "proposition": "Massachusetts statutory provisions that govern landlord-tenant relationships and summary process generally include Massachusetts General Laws chapter 186 (landlord and tenant) and chapter 239 (summary process/eviction).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

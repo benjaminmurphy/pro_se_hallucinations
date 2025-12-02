@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_007_09.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 2.1 alleges a prior court custody order (the 2018 Order) providing a one-week-on/one-week-off shared physical custody schedule; this plainly pleads an existing custody judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Section 5 requests specific relief: designate Plaintiff primary residential custodian, limit/restructure Defendant\u2019s parenting time to account for medical limitations (daytime-only/no unsupervised time in certain situations, supervised visits, conditional overnight time), require medical records/assessments, and appointment of an evaluator/guardian ad litem\u2014sufficiently specific to describe the requested modification."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Section 3 alleges a progressive neurological condition that has worsened, documented falls, a physician\u2019s advice that Defendant should not be left alone with the child in situations involving stairs/transfers/quick physical response, and incidents where the child was asked to assist\u2014facts that plausibly constitute a material and substantial change since the 2018 Order and that affect the child\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint ties the alleged change to risks to Emma\u2019s safety, physical well\u2011being, and emotional welfare (\u00b6\u00b6 3.5, 4.1) and seeks relief (supervision, limited contact, guardian ad litem) aimed at protecting the child\u2014allegations that adequately assert the modification is necessary in Emma\u2019s best interests."
+    }
+  }
+}

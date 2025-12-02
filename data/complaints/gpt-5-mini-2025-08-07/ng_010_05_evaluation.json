@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_010_05.txt",
+  "scenario_id": "ng_010_05",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 260, \u00a7 2A (three-year limitation for actions of tort for personal injury)": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A (three-year limitation for actions of tort for personal injury)",
+      "citation_type": "statute",
+      "proposition": "This action is timely under the Massachusetts statute of limitations applicable to personal-injury torts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Donoghue v. Stevenson, [1932] A.C. 562 (House of Lords) (establishing modern duty concept)": {
+      "raw_text": "Donoghue v. Stevenson, [1932] A.C. 562 (House of Lords) (establishing modern duty concept)",
+      "citation_type": "case",
+      "proposition": "(establishing modern duty concept)",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (foreseeability and proximate cause principles)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (foreseeability and proximate cause principles)",
+      "citation_type": "case",
+      "proposition": "(foreseeability and proximate cause principles)",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion is the classic authority for tying duty and negligence to foreseeability and defining the scope of liability (proximate cause) by the range of reasonably foreseeable risk. Cardozo repeatedly explains that negligence is relational and that duty extends only to those within the \"orbit of danger\" reasonably to be apprehended, expressly distinguishing this from mere causation. Thus the case squarely supports the use of foreseeability as a limiting principle on proximate cause and duty.",
+      "relevant_excerpt": "\u201cThe risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension\u2026. These cases aside, wrong is defined in terms of the natural or probable, at least when unintentional\u2026. Here, by concession, there was nothing in the situation to suggest to the most cautious mind that the parcel wrapped in newspaper would spread wreckage through the station.\u201d"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_002_10.txt",
+  "scenario_id": "ng_002_10",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 3,
+  "statute_citations": 3,
+  "valid_citations": 1,
+  "invalid_citations": 2,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "G.L. c. 212, \u00a7 4": {
+      "raw_text": "G.L. c. 212, \u00a7 4",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to G.L. c. 212, \u00a7 4 because the matter in controversy exceeds $25,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in this Court under G.L. c. 223, \u00a7 1 because the Plaintiff resides in Middlesex County, and the events giving rise to this action occurred in Newton, Middlesex County, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 140, \u00a7\u00a7 136A-174E,": {
+      "raw_text": "G.L. c. 140, \u00a7\u00a7 136A-174E,",
+      "citation_type": "statute",
+      "proposition": "Defendant had a duty to comply with state and municipal laws, including Massachusetts leash laws codified in G.L. c. 140, \u00a7\u00a7 136A-174E, and Newton\u2019s leash ordinance, requiring all dogs in public spaces to be leashed.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Commonwealth v. Farren, 9 Mass. App. Ct. 610 (1980);": {
+      "raw_text": "Commonwealth v. Farren, 9 Mass. App. Ct. 610 (1980);",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts have consistently held that individuals may be liable for injuries resulting from their failure to restrain animals, particularly when the owner violates laws or ordinances designed to protect public safety.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Irwin v. Degtiarov, 95 Mass. App. Ct. 677 (2019).": {
+      "raw_text": "Irwin v. Degtiarov, 95 Mass. App. Ct. 677 (2019).",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts have consistently held that individuals may be liable for injuries resulting from their failure to restrain animals, particularly when the owner violates laws or ordinances designed to protect public safety.",
+      "is_valid": true,
+      "courtlistener_id": "7179553",
+      "case_name": "Chamberlain v. Badaoui",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Irwin v. Degtiarov is about whether a condominium master deed creates an express or necessity easement allowing passage through one unit to reach a fire escape. It does not concern animal injuries, duties to restrain animals, or liability arising from violation of animal-control laws or safety ordinances. Therefore, it provides no authority for the proposition regarding liability for failure to restrain animals.",
+      "relevant_excerpt": "\"This dispute between two condominium unit owners requires us to determine whether a condominium master deed contains an express easement permitting one unit owner to enjoy an easement through another owner's unit to gain access to a fire escape. Because we conclude that it does not, we also must determine whether one unit owner can enjoy an easement by necessity through another owner's unit for the same purpose. We conclude that an easement by necessity does not arise under these circumstances.\""
+    },
+    "Horton v. Union Light, Heat & Power Co., 690 N.E.2d 599 (Mass. 1998).": {
+      "raw_text": "Horton v. Union Light, Heat & Power Co., 690 N.E.2d 599 (Mass. 1998).",
+      "citation_type": "case",
+      "proposition": "Massachusetts law also recognizes that a dog owner may be liable for injuries caused by a victim\u2019s foreseeable reaction to an uncontrolled dog, even if the dog does not physically touch the victim.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

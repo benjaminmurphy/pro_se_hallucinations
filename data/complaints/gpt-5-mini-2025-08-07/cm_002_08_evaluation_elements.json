@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_002_08.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 2.1 expressly alleges an Existing Order entered May 15, 2021 awarding primary physical custody to Petitioner and specifying Respondent's parenting time (midweek overnights on Wednesdays and alternating weekends). Those factual allegations adequately plead an existing custody/parenting-time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Section 6.1 and the Prayer for Relief set out concrete requested changes: immediate temporary suspension of midweek overnights (with a 45-minute travel limit and specified exchange locations), permanent elimination of midweek overnights to Respondent's New Hampshire residence in favor of drop-in/virtual contact or limited local weeknight visits, and adjustments to weekend scheduling. These are specific, particular modifications."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges (3.1\u20133.3, 5.1\u20135.3) that Respondent intends to relocate to New Hampshire, that relocation will increase one-way travel to ~90 minutes, and that the added travel will disrupt school attendance, extracurricular participation, routines, and the Child's emotional welfare. Those factual allegations sufficiently plead a material and substantial change in circumstances since entry of the Existing Order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint links the alleged change (relocation/increased travel) to concrete harms to the Child\u2014school disruption, missed activities, anxiety, and logistical/health/safety burdens\u2014and expressly invokes best-interests factors (4.2, 5.1\u20135.3). These factual allegations adequately plead that the requested modifications are necessary to protect the Child's best interests."
+    }
+  }
+}

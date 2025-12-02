@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_007_06.txt",
+  "scenario_id": "qe_007_06",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant) (general provisions governing landlord-tenant relationships)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant) (general provisions governing landlord-tenant relationships)",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, every tenancy includes an implied covenant of quiet enjoyment by which a landlord must not interfere substantially and unreasonably with a tenant\u2019s beneficial use and enjoyment of leased premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary Process) (relevant to landlord-tenant proceedings and remedies)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary Process) (relevant to landlord-tenant proceedings and remedies)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon Massachusetts statutory law and Massachusetts case law interpreting the covenant of quiet enjoyment and landlord obligations.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A (Consumer Protection Act) (general consumer protection provisions and interpretive guidance regarding unfair or deceptive practices; cited for general context regarding landlord obligations, but no independent statutory claim is asserted herein)": {
+      "raw_text": "Mass. Gen. Laws ch. 93A (Consumer Protection Act) (general consumer protection provisions and interpretive guidance regarding unfair or deceptive practices; cited for general context regarding landlord obligations, but no independent statutory claim is asserted herein)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon Massachusetts statutory law and Massachusetts case law interpreting the covenant of quiet enjoyment and landlord obligations.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_006_05.txt",
+  "scenario_id": "ng_006_05",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 2,
+  "statute_citations": 4,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 1,
+  "citations": {
+    "G.L. c. 212, \u00a7 4": {
+      "raw_text": "G.L. c. 212, \u00a7 4",
+      "citation_type": "statute",
+      "proposition": "This Court has subject matter jurisdiction over this action under G.L. c. 212, \u00a7 4, as the amount in controversy exceeds $50,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Suffolk County pursuant to G.L. c. 223, \u00a7 1 because the acts and omissions complained of occurred in Suffolk County, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Glidden v. Maglio*, 430 Mass. 694, 696 (2000)": {
+      "raw_text": "*Glidden v. Maglio*, 430 Mass. 694, 696 (2000)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, every person has a duty to exercise reasonable care to avoid causing harm to others.",
+      "is_valid": true,
+      "courtlistener_id": "6578006",
+      "case_name": "Glidden v. Maglio",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion discusses the elements of negligence, including breach of a duty of reasonable care and causation, but it does not articulate a general Massachusetts rule that \"every person has a duty to exercise reasonable care to avoid causing harm to others.\" The court expressly declines to decide whether the defendant even owed a duty of care, resolving the case solely on lack of causation. Thus, this case does not serve as authority for the broad, universal duty proposition cited.",
+      "relevant_excerpt": "The plaintiffs argue that they presented sufficient evidence to warrant a trial of each of their negligence claims. With respect to each such claim, the plaintiffs bear the burden of proving that the defendant committed a breach of the duty to use reasonable care, that the plaintiffs suffered actual loss, and that the defendant\u2019s negligence caused their loss.\n...\nBecause the plaintiffs have failed to meet their burden on the issue of causation, we need not decide whether they presented sufficient evidence to show that the defendant owed a duty of care to them sufficient to survive the defendant\u2019s motion for summary judgment."
+    },
+    "*Massachusetts General Laws c. 90, \u00a7 14*": {
+      "raw_text": "*Massachusetts General Laws c. 90, \u00a7 14*",
+      "citation_type": "statute",
+      "proposition": "See *Massachusetts General Laws c. 90, \u00a7 14*, which requires that motorists exercise \u201cdue care\u201d and explicitly protects bicyclists by prohibiting actions like opening car doors into traffic without precaution.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Dias v. Brigham Med. Assocs., Inc.*, 438 Mass. 317, 319 (2002)": {
+      "raw_text": "*Dias v. Brigham Med. Assocs., Inc.*, 438 Mass. 317, 319 (2002)",
+      "citation_type": "case",
+      "proposition": "Defendant is vicariously liable for the negligence of its driver under the doctrine of respondeat superior because the acts and omissions occurred within the scope of the driver\u2019s employment or engagement with Defendant.",
+      "is_valid": true,
+      "courtlistener_id": "6578632",
+      "case_name": "Dias v. Brigham Medical Associates, Inc.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion directly addresses vicarious liability under respondeat superior and explains that once an employer\u2013employee relationship is established, the employer is liable for torts committed by the employee within the scope of employment, without needing to control the specific acts. The court vacates summary judgment precisely because there is a factual issue whether the physician\u2019s alleged negligence occurred while acting within the scope of his employment by BMA. This aligns with the proposition that a defendant is vicariously liable for a driver/agent\u2019s negligence if the conduct occurred within the scope of employment or engagement.",
+      "relevant_excerpt": "\u201cTo prevail against BMA, the plaintiffs need only establish that (1) at the time of the alleged negligence Dr. Schlitzer was an employee of BMA, and (2) the alleged negligent treatment of the plaintiff occurred within the scope of Dr. Schlitzer\u2019s employment by BMA. Once employment is established, the only remaining issue is whether he was working for BMA at the time of the alleged negligent treatment, i.e., whether his treatment of the plaintiff was within the scope of his employment by BMA.\u2026 All that remains to be determined is whether the tort occurred within the scope of employment.\u201d"
+    },
+    "G.L. c. 231, \u00a7 6B": {
+      "raw_text": "G.L. c. 231, \u00a7 6B",
+      "citation_type": "statute",
+      "proposition": "Prejudgment interest pursuant to G.L. c. 231, \u00a7 6B;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

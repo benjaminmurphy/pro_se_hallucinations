@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_004_09.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned, controlled, and was responsible for maintenance of the sidewalk adjacent to 123 Maple Street (\u00b62) and expressly pleads a duty to exercise reasonable care to maintain the sidewalk and warn of dangers (\u00b615). These factual allegations adequately plead a duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific omissions and acts constituting a breach: Defendant or agents shoveled only a narrow path and did not apply de-icing (\u00b66), left a path that became a sheet of ice (\u00b67, \u00b616.b), failed to remedy after tenant notice (\u00b611, \u00b616.c), and failed to warn pedestrians (\u00b616.d). These factual allegations adequately plead breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the fall occurred when Plaintiff slipped on the ice created by Defendant\u2019s incomplete maintenance (\u00b69\u201310, \u00b617) and that the hazardous ice condition was the cause of the fall (\u00b610, \u00b617). Those allegations sufficiently assert but-for causation (but for the unsafe condition, the fall/injury would not have occurred)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant knew or should have known the cleared path would freeze and create an unreasonable risk due to day/night melt/refreeze cycles and that tenants notified Defendant (\u00b611\u201312). Those allegations sufficiently plead foreseeability and proximate causation of the alleged injuries (\u00b617)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges physical injury to Plaintiff\u2019s lower back, approximately $2,500 in medical expenses, approximately $800 in lost wages for about one week of missed work, and pain, disability, and other damages (\u00b613, \u00b618). These allegations adequately plead actual damages."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_002_08.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads that the Park posted leash rules, that dog owners owe a duty to exercise reasonable care, and expressly alleges Defendant owed Plaintiff a duty to control his dog and comply with posted rules\u2014facts that adequately allege a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific facts showing Defendant breached that duty: allowing a large dog to run loose despite posted rules, holding an unattached leash over his shoulder, failing to control or promptly restrain the dog, and witnesses observed the dog charging the path."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that but for Defendant\u2019s failure to keep the dog leashed/under control (the dog charging the path), Plaintiff would not have swerved off the path, struck the exposed root, and fallen; those factual allegations adequately plead but\u2011for causation at the pleading stage."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the harm was a reasonably foreseeable consequence of permitting the dog to run loose and approach the path (that a passerby would attempt to avoid the animal and could be injured in doing so); those allegations sufficiently plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete economic and non\u2011economic harms: a fractured wrist, approximately $3,200 in medical expenses, about $1,500 in lost wages, and pain and suffering\u2014sufficient to plead actual damages."
+    }
+  }
+}

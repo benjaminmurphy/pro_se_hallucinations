@@ -1,0 +1,7 @@
+{
+  "scenario_id": "cm_002_07",
+  "category": "custody_modification",
+  "model": "gpt-5-chat-latest",
+  "petitioner": "Sarah Thompson",
+  "respondent": "Jason Miller"
+}

@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_001_03.txt",
+  "scenario_id": "ng_001_03",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 4,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 2,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Mass. Gen. Laws ch. 223, \u00a7 1": {
+      "raw_text": "Mass. Gen. Laws ch. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Middlesex County Superior Court pursuant to Mass. Gen. Laws ch. 223, \u00a7 1 and related venue provisions because the incident occurred in Somerville, Middlesex County, Massachusetts, and Defendant\u2019s place of business is located in Middlesex County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Restatement (Second) of Torts \u00a7 343A (1965)": {
+      "raw_text": "Restatement (Second) of Torts \u00a7 343A (1965)",
+      "citation_type": "case",
+      "proposition": "Plaintiff\u2019s claim is grounded in the common law duty of care owed by a possessor of land to invitees to use reasonable care to keep the premises in a reasonably safe condition and to warn of hidden dangers.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Donoghue v. Stevenson, [1932] A.C. 562": {
+      "raw_text": "Donoghue v. Stevenson, [1932] A.C. 562",
+      "citation_type": "case",
+      "proposition": "Plaintiff\u2019s claim is grounded in the common law duty of care owed by a possessor of land to invitees to use reasonable care to keep the premises in a reasonably safe condition and to warn of hidden dangers.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Not found",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)",
+      "citation_type": "case",
+      "proposition": "Plaintiff\u2019s claim is grounded in the common law duty of care owed by a possessor of land to invitees to use reasonable care to keep the premises in a reasonably safe condition and to warn of hidden dangers.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Palsgraf does not concern premises liability or the specific common-law duties of possessors of land to invitees. Cardozo\u2019s analysis is about the relational nature of duty and negligence and whether the railroad owed any duty to Palsgraf as a matter of foreseeability, not about the obligation to keep premises reasonably safe or to warn of hidden dangers to invitees. Using Palsgraf as authority for invitee-duty premises principles misstates its holding and focus.",
+      "relevant_excerpt": "\u201cNegligence is not actionable unless it involves the invasion of a legally protected interest, the violation of a right. \u2026 In every instance, before negligence can be predicated of a given act, back of the act must be sought and found a duty to the individual complaining, the observance of which would have averted or avoided the injury.\u201d"
+    },
+    "Arruda v. Sears, Roebuck & Co., 404 Mass. 665 (1989)": {
+      "raw_text": "Arruda v. Sears, Roebuck & Co., 404 Mass. 665 (1989)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, a proprietor has a duty to exercise reasonable care to keep its aisles safe for business invitees and to warn of dangerous conditions of which it had actual knowledge or constructive notice.",
+      "is_valid": true,
+      "courtlistener_id": "2077469",
+      "case_name": "Dobos v. Driscoll",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The provided opinion text is not Arruda v. Sears but Dobos v. Driscoll, a Massachusetts civil rights and negligence case involving police misconduct and supervisory liability. It does not concern premises liability, store proprietors, aisles, or duties to business invitees, nor does it discuss actual or constructive notice of dangerous conditions on premises. Therefore, this case does not support the proposition about a proprietor\u2019s duty to keep aisles safe for business invitees.",
+      "relevant_excerpt": "No portion of the provided opinion addresses premises liability or a proprietor's duty to maintain aisles for business invitees; the case instead concerns police conduct, supervisory liability, and governmental immunity."
+    },
+    "Mass. Gen. Laws ch. 231, \u00a7 85": {
+      "raw_text": "Mass. Gen. Laws ch. 231, \u00a7 85",
+      "citation_type": "statute",
+      "proposition": "Comparative negligence principles apply to the apportionment of fault in Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

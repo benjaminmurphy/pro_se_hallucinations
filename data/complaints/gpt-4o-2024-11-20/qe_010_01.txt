@@ -1,0 +1,103 @@
+```plaintext
+COMMONWEALTH OF MASSACHUSETTS  
+LOWELL DISTRICT COURT  
+
+----------------------------------  
+JESSICA MILLER, PLAINTIFF  
+v.  
+SARAH THOMPSON, DEFENDANT  
+----------------------------------  
+
+CIVIL ACTION NO.: _____________  
+
+COMPLAINT FOR BREACH OF THE COVENANT OF QUIET ENJOYMENT  
+
+NOW COMES the Plaintiff, Jessica Miller, and brings this Complaint against the Defendant, Sarah Thompson, for breach of the covenant of quiet enjoyment under Massachusetts law. The Plaintiff, for her causes of action, states as follows:
+
+---
+
+### PARTIES
+
+1. Plaintiff Jessica Miller ("Miller") is an individual residing at 45 Maple Street, Lowell, Massachusetts 01852, where she rents an apartment from the Defendant.
+
+2. Defendant Sarah Thompson ("Thompson") is the owner and landlord of the rental property located at 45 Maple Street, Lowell, Massachusetts 01852.
+
+---
+
+### JURISDICTION AND VENUE
+
+3. This Court has jurisdiction over this matter pursuant to G.L. c. 185, § 1 and G.L. c. 218, § 19, as this is a civil action where the amount in controversy is within the statutory limit.  
+
+4. Venue is proper in Lowell District Court pursuant to G.L. c. 223, § 1, as the Defendant’s real property is located in Lowell, and this action arises out of the Defendant’s obligations as a landlord at said property.
+
+---
+
+### FACTUAL ALLEGATIONS
+
+5. The Plaintiff entered into a rental agreement with the Defendant for possession of the apartment located at 45 Maple Street, Lowell, Massachusetts, beginning on February 1, 2022, at a monthly rent of $1,200.
+
+6. The rented apartment includes a bathroom with no windows and a mechanical ceiling exhaust fan intended to provide ventilation and prevent the buildup of moisture and mold.
+
+7. In or around June 2025, mold began to grow in the Plaintiff’s bathroom, emanating from the corner of the shower and spreading to the ceiling.
+
+8. On or around July 1, 2025, the Plaintiff notified the Defendant of the mold and its spreading condition, a hazardous situation that has interfered with the Plaintiff’s ability to live in her unit safely and comfortably. The Defendant inspected the mold and refused to take any action beyond superficial cleaning.
+
+9. The Defendant attributed the mold growth to actions by the Plaintiff, including allegations that the Plaintiff failed to consistently run the bathroom ventilation fan and that the Plaintiff’s hot showers contributed to the moisture buildup. However, the Plaintiff runs the ventilation fan regularly and engages in reasonable and ordinary use of the bathroom.
+
+10. Despite multiple communications from the Plaintiff, the Defendant has failed to remedy the mold or sufficiently address the inadequate ventilation system, which is the likely cause of the mold growth.
+
+11. The ongoing presence of mold in the Plaintiff’s bathroom has caused the Plaintiff significant distress, health issues, and financial harm, including but not limited to:
+
+   a. Respiratory issues such as coughing, congestion, and wheezing, all of which the Plaintiff’s physician identified as likely caused by the mold exposure.  
+
+   b. The need to dispose of personal property, such as mold-infested towels and a shower curtain, valued at approximately $60.  
+
+   c. Emotional distress caused by the unsafe living conditions and the Defendant’s failure to address them.  
+
+12. As of December 1, 2025, the Defendant continues to fail to address the inadequate ventilation issue or to remediate the mold in the Plaintiff’s bathroom effectively.
+
+---
+
+### CAUSE OF ACTION: BREACH OF THE COVENANT OF QUIET ENJOYMENT
+
+13. Under G.L. c. 186, § 14, every residential lease in Massachusetts contains an implied covenant of quiet enjoyment by which the landlord guarantees that tenants will not be subjected to unreasonable interference with their use and enjoyment of the leased premises.
+
+14. The presence of mold in the Plaintiff’s apartment and the Defendant’s refusal to adequately remediate the conditions constitutes a substantial interference with the Plaintiff’s use and enjoyment of the premises.
+
+15. Prolonged exposure to mold in the Plaintiff’s bathroom has caused negative health effects and impaired the Plaintiff’s habitability of the apartment, in direct violation of the covenant of quiet enjoyment.
+
+16. Massachusetts courts have consistently upheld tenants’ rights to quiet enjoyment and held landlords liable for circumstances where the property’s condition substantially impairs a tenant’s use and enjoyment. See *Fitz-Enos v. Dahlberg,* 90 Mass. App. Ct. 1112 (2016); *Dartmouth v. Silva,* 198 Mass. 209 (1908); *Simon v. Solomon,* 385 Mass. 91 (1982).
+
+17. The Defendant’s inaction regarding the mold and inadequate ventilation system reflects a failure to make repairs needed for the premises to remain habitable, as required under G.L. c. 239, § 8A and relevant Massachusetts housing code provisions, including 105 CMR 410.750.
+
+18. The Plaintiff’s damages stem directly from the Defendant’s breach of the covenant of quiet enjoyment.
+
+---
+
+### PRAYER FOR RELIEF
+
+WHEREFORE, the Plaintiff respectfully requests that this Honorable Court enter judgment in her favor and grant the following relief:
+
+1. Award the Plaintiff damages in the amount of $200 for the harm caused by the Defendant’s breach of the covenant of quiet enjoyment, including property loss, emotional distress, and diminished habitability.
+
+2. Award the Plaintiff attorney’s fees and costs associated with bringing this Complaint, as allowed under G.L. c. 186, § 14.
+
+3. Injunctive relief requiring the Defendant to remediate the mold and address the inadequate ventilation system to ensure compliance with applicable housing codes.
+
+4. Any other relief that this Court deems just and proper.
+
+---
+
+### SIGNATURE BLOCK
+
+Respectfully submitted this 1st day of December, 2025.
+
+*Jessica Miller*  
+Pro Se Plaintiff  
+45 Maple Street  
+Lowell, MA 01852  
+(617) 555-0123  
+psm1433@gmail.com  
+```
+
+This complaint conforms to Massachusetts landlord-tenant law, cites applicable statutes and caselaw, and includes all necessary sections. Be sure to file this document with the appropriate court and serve it on your landlord following the Massachusetts Rules of Civil Procedure.

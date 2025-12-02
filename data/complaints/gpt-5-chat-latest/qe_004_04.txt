@@ -1,0 +1,124 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**WORCESTER DISTRICT COURT**  
+____________________________________  
+**Jessica Reynolds,**  
+  Plaintiff,  
+
+v.                      Civil Action No. __________  
+
+**Mark Thompson,**  
+  Defendant.  
+____________________________________  
+
+## COMPLAINT
+
+**Plaintiff, Jessica Reynolds (“Plaintiff”),** for her complaint against **Defendant, Mark Thompson (“Defendant”),** states as follows:
+
+---
+
+### I. PARTIES
+
+1. Plaintiff Jessica Reynolds is an individual residing at 73 Elm Street, Worcester, Massachusetts 01605.  
+2. Defendant Mark Thompson is an individual landlord who owns and manages the residential rental property located at 73 Elm Street, Worcester, Massachusetts.  
+
+---
+
+### II. JURISDICTION AND VENUE
+
+3. This action arises under the laws of the Commonwealth of Massachusetts governing residential tenancies and the **covenant of quiet enjoyment**, **M.G.L. c. 186, §14**.  
+4. Jurisdiction and venue are proper in the Worcester District Court pursuant to **G.L. c. 218, §19**, because the premises at issue are located in Worcester County and the defendant conducts business there.
+
+---
+
+### III. FACTUAL ALLEGATIONS
+
+5. On or about September 1, 2021, Plaintiff entered into a written residential lease with Defendant for the apartment at 73 Elm Street, Worcester, Massachusetts.  
+6. Plaintiff has paid the required rent of **$1,400 per month** in full and on time throughout the tenancy.  
+7. Beginning around **September 2025**, Plaintiff began noticing **mouse droppings** and other signs of rodent infestation in the kitchen of the leased premises.  
+8. Plaintiff promptly notified Defendant of the problem.  
+9. Defendant placed a few traps, which caught a limited number of mice, but the infestation continued.  
+10. At Defendant’s direction, an exterminator performed a **single limited treatment**, after which the infestation persisted.  
+11. The exterminator informed Plaintiff that the building likely required **comprehensive extermination and sealing** to correct the issue.  
+12. Defendant refused to authorize or pay for comprehensive treatment, stating that such measures were unnecessary and too costly.  
+13. Plaintiff continues to discover mouse droppings in the kitchen on a weekly basis.  
+14. Defendant has asserted that the infestation is “normal for older buildings” and has blamed Plaintiff for insufficient cleanliness, which is both inaccurate and unreasonable given Plaintiff’s maintenance of the premises.  
+15. Due to the ongoing infestation, Plaintiff has incurred **out-of-pocket damages** exceeding **$280**, including food loss estimated at **$200** and food storage containers costing approximately **$80**.  
+16. Plaintiff suffers **anxiety and distress** from the persistent infestation, damaging her use and enjoyment of her home and kitchen.  
+17. Defendant’s failure to adequately remedy the infestation constitutes a breach of **the covenant of quiet enjoyment** implied in all Massachusetts residential leases.  
+
+---
+
+### IV. CAUSE OF ACTION  
+**(Breach of Covenant of Quiet Enjoyment – M.G.L. c. 186, §14)**
+
+18. Plaintiff realleges and incorporates by reference paragraphs 1 through 17 as though fully set forth herein.  
+19. Under **M.G.L. c. 186, §14**, a landlord shall not “directly or indirectly interfere with the quiet enjoyment” of leased premises by the tenant.  
+20. Massachusetts common law recognizes that substantial interference with the use and enjoyment of the premises constitutes a breach of the covenant of quiet enjoyment.  
+21. The continuing **rodent infestation** renders the premises unfit for ordinary residential use, interfering with Plaintiff’s right to a habitable and sanitary dwelling.  
+22. Defendant’s failure to take adequate measures to exterminate and prevent recurrence of vermin, after notice, is an **“interference”** under §14.  
+
+---
+
+### V. LEGAL AUTHORITY AND SUPPORT
+
+23. The covenant of quiet enjoyment is implied in every lease and statutorily protected by **M.G.L. c. 186, §14**.  
+24. In **Blackett v. Olanoff, 371 Mass. 714 (1977)**, the Supreme Judicial Court held that a landlord is liable for interference with a tenant’s quiet enjoyment when the landlord’s conduct or omission substantially impairs the tenant’s beneficial use of the premises.  
+25. In **Simon v. Solomon, 385 Mass. 91 (1982)**, the Court held that a landlord’s failure to alleviate water infiltration and nuisance conditions breached the covenant of quiet enjoyment.  
+26. In **Young v. Patukonis, 24 Mass. App. Ct. 907 (1987)**, persistent rodent infestation constituted a breach of quiet enjoyment where the landlord failed to take effective remedial action.  
+27. In **Berman & Sons, Inc. v. Jefferson, 379 Mass. 196 (1979)**, the Court emphasized that landlords must maintain premises in compliance with the **State Sanitary Code** (see **105 C.M.R. 410.550**, vermin prevention).  
+28. In **Boston Housing Auth. v. Hemingway, 363 Mass. 184 (1973)**, the SJC recognized that the implied warranty of habitability and the covenant of quiet enjoyment overlap in ensuring tenants a safe, sanitary living space.  
+29. **Cruz Mgmt. Co. v. Wideman, 417 Mass. 771 (1994)** reiterated that a landlord’s failure to maintain the premises in compliance with housing codes can constitute interference under §14.  
+30. **Doe v. New Bedford Housing Auth., 417 Mass. 273 (1994)** affirmed that emotional distress damages may be awarded for a breach of quiet enjoyment.  
+31. Under **M.G.L. c. 239, §8A**, a tenant may counterclaim or bring direct suit for damages arising from a landlord’s breach of lawful housing obligations.  
+32. **Trustees of Cambridge Point Condo. Trust v. Cambridge Point, LLC, 478 Mass. 697 (2018)** and **Coveney v. President & Trustees of the College of the Holy Cross, 388 Mass. 16 (1983)** confirm that Massachusetts courts will award consequential damages for statutory violations that impair property enjoyment.  
+33. Defendant’s conduct violates both **M.G.L. c. 186, §14** and the **State Sanitary Code**, **105 C.M.R. 410.550**, which requires property owners to maintain their premises free from rodent infestation.  
+
+---
+
+### VI. DAMAGES
+
+34. As a direct and foreseeable result of Defendant’s breach, Plaintiff has suffered the following damages:  
+  a. Loss of food and personal property:    $200.00  
+  b. Cost of food containers and cleaning materials: $ 80.00  
+  c. Loss of use and enjoyment of her home, distress, and annoyance: **to be determined at trial**.  
+35. Under **M.G.L. c. 186, §14**, Plaintiff is entitled to **actual and consequential damages or three months’ rent, whichever is greater**, plus reasonable attorney’s fees and costs.  
+
+---
+
+### VII. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment in her favor and against the Defendant as follows:
+
+A. That the Court find that Defendant **breached the covenant of quiet enjoyment** under **M.G.L. c. 186, §14**;  
+B. That Plaintiff be awarded **the greater of three months’ rent ($4,200) or actual damages ($280)** pursuant to §14;  
+C. That Plaintiff be awarded **court costs and reasonable attorney’s fees** as provided by law (even if self-represented, may request equitable allowance per court discretion);  
+D. That the Court order **Defendant to remediate all rodent infestations** and bring the property into compliance with the **State Sanitary Code**, 105 C.M.R. 410.00 et seq.; and  
+E. That the Court grant such other and further relief as is just and proper.  
+
+---
+
+### VIII. JURY DEMAND
+
+Plaintiff demands trial by jury on all issues so triable.
+
+---
+
+### IX. VERIFICATION AND SIGNATURE
+
+I, Jessica Reynolds, certify under the penalties of perjury that the foregoing statements are true to the best of my knowledge, information, and belief.
+
+  
+  Dated: December 1, 2025  
+  Worcester, Massachusetts  
+
+  
+**Respectfully submitted,**  
+
+**/s/ Jessica Reynolds**  
+Jessica Reynolds  
+73 Elm Street  
+Worcester, MA 01605  
+Tel: (617) 555‑0123  
+Email: psm1433@gmail.com  
+
+*Plaintiff, pro se*

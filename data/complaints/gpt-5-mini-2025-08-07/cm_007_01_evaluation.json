@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_007_01.txt",
+  "scenario_id": "cm_007_01",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act)": {
+      "raw_text": "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon the governing Massachusetts statutory standards and controlling authorities regarding modification of custody orders, the child\u2019s best interests, the duty to protect a child\u2019s safety, and the Court\u2019s broad equitable powers to fashion custody and parenting-time arrangements responsive to changed circumstances.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208 (provisions governing custody and matters ancillary to divorce and domestic relations)": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (provisions governing custody and matters ancillary to divorce and domestic relations)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon the governing Massachusetts statutory standards and controlling authorities regarding modification of custody orders, the child\u2019s best interests, the duty to protect a child\u2019s safety, and the Court\u2019s broad equitable powers to fashion custody and parenting-time arrangements responsive to changed circumstances.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a751A (duty to report suspected child abuse or neglect)": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a751A (duty to report suspected child abuse or neglect)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon the governing Massachusetts statutory standards and controlling authorities regarding modification of custody orders, the child\u2019s best interests, the duty to protect a child\u2019s safety, and the Court\u2019s broad equitable powers to fashion custody and parenting-time arrangements responsive to changed circumstances.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts Probate and Family Court Rules and Domestic Relations Practice (as applicable to custody modification and temporary relief)": {
+      "raw_text": "Massachusetts Probate and Family Court Rules and Domestic Relations Practice (as applicable to custody modification and temporary relief)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon the governing Massachusetts statutory standards and controlling authorities regarding modification of custody orders, the child\u2019s best interests, the duty to protect a child\u2019s safety, and the Court\u2019s broad equitable powers to fashion custody and parenting-time arrangements responsive to changed circumstances.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

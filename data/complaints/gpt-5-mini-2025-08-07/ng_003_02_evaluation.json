@@ -1,0 +1,41 @@
+{
+  "complaint_file": "ng_003_02.txt",
+  "scenario_id": "ng_003_02",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 260, \u00a7 2A (action for injuries caused by negligence shall be commenced within three years after the cause of action accrues).": {
+      "raw_text": "M.G.L. c. 260, \u00a7 2A (action for injuries caused by negligence shall be commenced within three years after the cause of action accrues).",
+      "citation_type": "statute",
+      "proposition": "This action is brought within the period allowed by law. The incident occurred on September 15, 2023; this Complaint is filed while the applicable statute of limitations remains in effect. See M.G.L. c. 260, \u00a7 2A (action for injuries caused by negligence shall be commenced within three years after the cause of action accrues).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 231, \u00a7 85 (comparative negligence principles), and related Massachusetts comparative negligence provisions;": {
+      "raw_text": "M.G.L. c. 231, \u00a7 85 (comparative negligence principles), and related Massachusetts comparative negligence provisions;",
+      "citation_type": "statute",
+      "proposition": "Plaintiff\u2019s injuries were not substantially caused or contributed to by any voluntary act or negligence on Plaintiff\u2019s part. To the extent defendant alleges comparative negligence, the negligence of any third party does not absolve Defendant of liability for its own negligence. (See, e.g., relevant comparative negligence statute and Massachusetts authorities.)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

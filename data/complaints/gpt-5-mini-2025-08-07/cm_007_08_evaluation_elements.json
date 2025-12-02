@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_007_08.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 4.1\u20134.2 specifically allege an existing 2018 custody order providing joint physical custody on an alternating-week schedule and describe its terms."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Paragraph 7.1 (and subparts a\u2013g) sets out specific relief: award primary physical custody to Plaintiff, a restricted parenting-time schedule for Defendant, supervision/requirement of a responsible adult, medical documentation, temporary relief, and related orders."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 5.1\u20135.6 allege a material and substantial change: Defendant's progressive neurological condition, wheelchair use, repeated falls, treating physician's advice limiting unsupervised time, reliance on the 12\u2011year\u2011old for transfers, and Defendant's refusal to accept accommodations\u2014facts plausibly showing changed circumstances affecting the child's safety."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 6.1\u20136.2 (supported by the facts in \u00b6\u00b65.2\u20135.6) allege that the requested modifications\u2014limiting unsupervised exposure to hazards, supervision requirements, and awarding primary custody to Plaintiff\u2014are necessary to protect the child's safety, welfare, and best interests."
+    }
+  }
+}

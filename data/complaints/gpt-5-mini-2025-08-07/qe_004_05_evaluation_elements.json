@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_004_05.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a written lease beginning June 1, 2022, for the residential apartment at 123 Maple Street and monthly rent paid to Defendant (\u00b6\u00b62, 4). These facts plainly establish a landlord\u2013tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific landlord actions/omissions: placing a few snap traps, authorizing only a single exterminator visit, refusing recommended comprehensive building-wide treatment, and blaming the tenant (\u00b6\u00b67, 9\u201310, 22). Those are affirmative acts and omissions by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges recurring mouse droppings beginning ~September 2025 and continuing weekly (\u00b65\u20137), contamination of food requiring disposal (\u00b611), purchases to protect food (\u00b611), and ongoing stress, anxiety, and loss of use/enjoyment of the kitchen/home (\u00b612, 13, 23). These factual allegations support a claim of substantial interference with quiet enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the tenant notified the landlord and requested remediation (\u00b66, 14), the exterminator recommended comprehensive treatment (\u00b69), and the landlord\u2019s refusal to authorize/pay for that treatment led to continued infestation and interference (\u00b610\u201313, 21\u201322). Those allegations link the landlord\u2019s conduct/omission to the ongoing interference."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific out\u2011of\u2011pocket economic losses (about $200 in discarded food and $80 for food storage containers) (\u00b611, 23) and non\u2011economic harms (stress, anxiety, loss of use/enjoyment) (\u00b612, 23), satisfying the pleading requirement for damages."
+    }
+  }
+}

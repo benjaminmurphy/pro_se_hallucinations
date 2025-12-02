@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_003_06",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "plaintiff": "Cameron Lee",
+  "defendant": "Jordan McCarthy"
+}

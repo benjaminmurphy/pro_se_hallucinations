@@ -1,0 +1,82 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**LYNN DISTRICT COURT**
+
+____________________________________  
+**Jessica Carter,**  
+Plaintiff,  
+
+v.  
+
+**Lynn Apartments LLC,**  
+Defendant.  
+____________________________________  
+**CIVIL ACTION NO. _____________**  
+
+**COMPLAINT**  
+
+**INTRODUCTION**  
+1. This is an action for negligence under the laws of the Commonwealth of Massachusetts, arising from Defendant Lynn Apartments LLC’s failure to maintain a working smoke detector in the common hallway of the apartment building located at 123 Maple Street, Lynn, Massachusetts. As a direct result of Defendant's negligence, Plaintiff Jessica Carter suffered injuries, including smoke inhalation, hospitalization, and damage to her personal property.
+
+**PARTIES**  
+2. Plaintiff Jessica Carter is a natural person residing at 123 Maple Street, Apartment 3, Lynn, Massachusetts.  
+3. Defendant Lynn Apartments LLC is a Massachusetts-based limited liability company with its principal office at [Insert Defendant’s Address Here]. Defendant owns and operates the apartment building located at 123 Maple Street, Lynn, Massachusetts.  
+
+**JURISDICTION AND VENUE**  
+4. This Court has jurisdiction over this matter pursuant to G.L. c. 218, § 19, as the amount in controversy does not exceed $50,000.  
+5. Venue is proper under G.L. c. 223, § 1, as the events giving rise to this claim occurred in Lynn, Massachusetts, and the Defendant conducts business in this location.  
+
+**FACTUAL ALLEGATIONS**  
+6. Plaintiff Jessica Carter resides at 123 Maple Street, Apartment 3, in Lynn, Massachusetts, a property owned and managed by Defendant Lynn Apartments LLC.  
+7. Defendant Lynn Apartments LLC is responsible for maintaining the common areas of the apartment building, including ensuring the installation and maintenance of functioning smoke detectors in compliance with Massachusetts laws and regulations.  
+8. Massachusetts law requires the installation and maintenance of smoke detectors in apartment buildings, pursuant to G.L. c. 148, § 26E.  
+9. For several months prior to September 15, 2023, the smoke detector installed in the common hallway outside Plaintiff’s apartment emitted a “chirping” sound, indicative of a low battery.  
+10. Despite this warning signal, no action was taken by Defendant to replace the battery. Upon information and belief, an unidentified individual removed the smoke detector’s battery and placed it on the windowsill, rendering the smoke detector non-functional.  
+11. Plaintiff informed Defendant of the non-functional smoke detector on at least three occasions. Defendant assured Plaintiff that it would “take care of it”; however, no action was taken to repair or replace the smoke detector.  
+12. On September 15, 2023, a fire broke out in a first-floor apartment at 123 Maple Street. Upon information and belief, the fire originated in the kitchen of one of the apartments.  
+13. Due to the absence of a functioning smoke detector in the common hallway, Plaintiff and other residents on the third floor received no warning of the fire.  
+14. Plaintiff only became aware of the fire after smelling smoke and encountering significant amounts of smoke in the hallway.  
+15. Plaintiff attempted to evacuate the building but suffered smoke inhalation, causing serious difficulty breathing and requiring hospitalization.  
+16. Plaintiff incurred approximately $5,000 in medical expenses and lost approximately $1,200 in wages due to her injuries.  
+17. Plaintiff’s personal property also sustained damage due to smoke and water caused by the fire.
+
+**COUNT I – NEGLIGENCE**  
+18. Plaintiff incorporates and re-alleges the allegations contained in Paragraphs 1 through 17 above.  
+19. Defendant Lynn Apartments LLC owed Plaintiff a duty of care as her landlord, including the obligation to maintain the premises in compliance with applicable safety laws and regulations.  
+20. Pursuant to G.L. c. 143, § 3Z and 780 CMR § 315.2, Defendant had a specific duty to ensure the presence of operational smoke detectors in common areas of the apartment building.  
+21. Defendant breached its duty of care by failing to replace the battery in the malfunctioning smoke detector and by failing to take corrective action when informed that the detector was non-functional.  
+22. Defendant’s breach of its duty was both the actual and proximate cause of Plaintiff’s injuries, as it deprived Plaintiff of an early warning of the fire.  
+23. As a direct and foreseeable result of Defendant’s negligence, Plaintiff suffered harm, including but not limited to:  
+    a. Physical injuries, including smoke inhalation and difficulty breathing;  
+    b. Medical expenses in the approximate amount of $5,000;  
+    c. Lost wages in the approximate amount of $1,200; and  
+    d. Damage to personal property.  
+
+**LEGAL BASIS FOR NEGLIGENCE**  
+24. The elements of negligence under Massachusetts law are: (1) a duty of care owed by the defendant; (2) a breach of that duty; (3) causation linking the breach to the harm suffered; and (4) damages. *Jupin v. Kask, 447 Mass. 141, 146 (2006)*.  
+25. Defendant had a duty to maintain a safe residential environment for Plaintiff under common law and statutory authority, such as G.L. c. 186, § 15 and G.L. c. 143, § 3Z.  
+26. Defendant’s failure to maintain a functioning smoke detector in the common hallway constitutes a breach of its duty of care. See *Alegria v. Payamps, 481 Mass. 1003, 1004 (2018)* (landlord’s failure to maintain premises in a reasonably safe condition constitutes negligence).  
+27. Defendant’s breach was the proximate cause of Plaintiff’s injuries. See *Miguel v. Waterfield Brighton Apartments, 477 Mass. 725, 728 (2017)* (holding that causation requires showing the harm was a foreseeable result of the defendant's negligence).  
+28. Defendant’s violations of statutory obligations under G.L. c. 148, § 26E, G.L. c. 143, § 3Z, and 780 CMR § 315.2 constitute negligence per se. See *Pereira v. Christo, 82 Mass. App. Ct. 232, 235 (2012)* (violation of a safety regulation constitutes evidence of negligence per se).  
+
+**PRAYER FOR RELIEF**  
+WHEREFORE, Plaintiff respectfully requests that this Honorable Court grant the following relief:  
+A. A judgment in favor of Plaintiff against Defendant Lynn Apartments LLC for damages in an amount to be determined at trial;  
+B. An award of compensatory damages for Plaintiff’s physical injuries, medical expenses, lost wages, and property damage;  
+C. Court costs and reasonable attorney’s fees as permitted by law; and  
+D. Such other and further relief as the Court deems just and proper.  
+
+**DEMAND FOR JURY TRIAL**  
+Plaintiff demands a trial by jury on all issues so triable.  
+
+Respectfully submitted,  
+
+**Jessica Carter, Pro Se**  
+123 Maple Street, Apartment 3  
+Lynn, MA 01901  
+Phone: (617) 555-0123  
+Email: psm1443@gmail.com  
+
+Dated: December 1, 2025  
+
+___________________________________  
+Jessica Carter  

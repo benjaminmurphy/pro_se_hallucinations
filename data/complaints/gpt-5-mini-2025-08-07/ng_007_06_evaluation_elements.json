@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_007_06.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/operated the after\u2011school program and premises and invited children to attend, and it specifically pleads a duty to provide adequate staffing and active supervision (\u00b6\u00b62,5\u20137,15)."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads concrete facts showing a staffing shortfall (one staff left), an on\u2011duty employee inattentive and using a cell phone, and a failure to intervene after warnings from other children (\u00b6\u00b67\u20139,16(a)\u2013(d))."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the injury occurred \u2018\u2018as a direct result of Defendant\u2019s inadequate supervision\u2019\u2019 and that an older boy tackled the child because staff failed to intervene, leading to the concussion (\u00b6\u00b610,13,17). These allegations support a but\u2011for link between the alleged negligent conduct and the injury."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the dangerous tackle was foreseeable (children warned staff, staff represented it would supervise, duty to prevent foreseeable harm to children) and that Defendant\u2019s failures proximately caused the injury (\u00b6\u00b66,9,15,17)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific damages: emergency treatment and diagnosis of a concussion, approximately $5,000 in medical expenses, missed school days and ongoing follow\u2011up care, and pain and suffering (\u00b6\u00b611,22)."
+    }
+  }
+}

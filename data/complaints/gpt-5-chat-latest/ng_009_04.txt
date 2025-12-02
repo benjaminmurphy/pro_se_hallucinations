@@ -1,0 +1,106 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**LYNN DISTRICT COURT**  
+
+---
+
+**Jessica Thomas,**  
+Plaintiff,  
+v.  
+**Lynnwood Apartments, Inc.,**  
+Defendant.  
+
+Civil Action No. __________  
+
+---
+
+### COMPLAINT AND JURY DEMAND
+
+Plaintiff, Jessica Thomas, by way of complaint against Defendant, Lynnwood Apartments, Inc., alleges as follows:
+
+---
+
+### I. PARTIES
+
+1. Plaintiff, **Jessica Thomas**, is an individual residing at 150 Maple Street, Lynn, Massachusetts 01905.  
+2. Defendant, **Lynnwood Apartments, Inc.**, is a Massachusetts corporation engaged in the business of owning, operating, and managing multi-unit residential properties within the Commonwealth, including the property located at 150 Maple Street, Lynn, Massachusetts 01905 (“the Premises”).
+
+---
+
+### II. JURISDICTION AND VENUE
+
+3. Jurisdiction and venue are proper in this Court pursuant to **G.L. c. 218 §§ 19 and 21**, as the events giving rise to this action occurred in Lynn, Massachusetts, which is within this Court’s territorial jurisdiction.  
+4. This Court has subject matter jurisdiction over this action pursuant to **G.L. c. 212 § 3** because the amount in controversy exceeds $7,000.
+
+---
+
+### III. FACTUAL ALLEGATIONS
+
+5. At all relevant times, Plaintiff was a lawful tenant residing on the third floor of the Premises owned and managed by Defendant.  
+6. The Defendant, as landlord and property owner, had a statutory and common-law duty to maintain the property in a reasonably safe condition, including ensuring that smoke detectors in common hallways were operational and properly maintained as required by **G.L. c. 148 §§ 26E and 27A** and the Massachusetts State Fire Code, **527 C.M.R. 1.00**.  
+7. For several months prior to September 12, 2023, the smoke detector located in the third-floor common hallway immediately adjacent to Plaintiff’s unit emitted a loud “chirping” noise indicating a low battery condition.  
+8. On information and belief, at some point before September 12, 2023, an unknown individual removed the battery from the hallway smoke detector to stop the noise, leaving the detector inoperative and the battery visible on a windowsill.  
+9. Plaintiff personally informed Defendant and its maintenance personnel on at least three occasions of the inoperative detector, and Defendant each time acknowledged the problem and promised to “take care of it.”  
+10. Defendant failed to repair or replace the smoke detector or to ensure that it was in proper working order.  
+11. On or about **September 12, 2023**, a fire ignited in a first-floor kitchen within the Premises. Because the common hallway smoke detector had no functioning battery, there was no audible warning on the upper floors.  
+12. Plaintiff only became aware of the fire upon smelling smoke. By that time, the hallways were already filled with heavy smoke, forcing Plaintiff to escape under dangerous conditions.  
+13. Plaintiff suffered **smoke inhalation and respiratory distress** as a result of exposure, requiring emergency medical treatment and an overnight hospital admission.  
+14. Plaintiff’s reasonably incurred **medical expenses** amount to approximately **$5,200**, and she experienced **lost wages** of approximately **$1,000** due to missed work during recovery.  
+15. Plaintiff’s personal belongings also sustained smoke and water damage.  
+16. Defendant’s failure to maintain operable smoke detectors, despite repeated notice, directly and proximately caused Plaintiff’s injuries and damages.
+
+---
+
+### IV. CAUSE OF ACTION  
+**(Negligence)**
+
+17. Plaintiff realleges and incorporates by reference paragraphs 1 through 16 as if fully set forth herein.  
+18. Under Massachusetts law, a landlord owes a duty of reasonable care to maintain common areas in a safe condition for tenants and lawful visitors. *Young v. Garwacki*, 380 Mass. 162 (1980); *Davis v. Westwood Group*, 420 Mass. 739 (1995).  
+19. This duty includes compliance with applicable fire safety statutes and regulations requiring operable smoke detectors in multi-unit dwellings. *See* **G.L. c. 148 §§ 26E–27A; 527 C.M.R. 1.00 § 13.7.2.14.1**.  
+20. Defendant breached this duty by failing to ensure the common hallway smoke detector outside Plaintiff’s apartment was functional and properly maintained after repeated notice of its deficiency.  
+21. Defendant’s negligent failure constitutes a violation of **Massachusetts Building Code 780 C.M.R. § 907.2.11** and the **Massachusetts State Sanitary Code, 105 C.M.R. § 410.482**, which require that landlords maintain operational smoke detectors in common hallways of residential buildings.  
+22. The violation of safety statutes designed to protect tenants constitutes evidence of negligence. *Bennett v. Eagle Brook Country Store, Inc.*, 408 Mass. 355 (1990); *St. Germaine v. Pendergast*, 411 Mass. 615 (1992).  
+23. Defendant’s conduct also violated its implied covenant to maintain habitable and safe premises pursuant to **G.L. c. 186 § 14** and *Boston Housing Authority v. Hemingway*, 363 Mass. 184 (1973).  
+24. Defendant knew or should have known that failure to maintain functional smoke detectors in multi-unit dwellings creates a foreseeable risk of fire-related injury. *Jupin v. Kask*, 447 Mass. 141 (2006).  
+25. Defendant’s inaction constitutes a breach of ordinary care under the standards articulated in *Glidden v. Maglio*, 430 Mass. 694 (2000), and *Toubiana v. Priestly*, 402 Mass. 84 (1988), which require landlords to take reasonable steps to remedy known hazards in common areas.  
+26. Defendant’s negligence was the direct and proximate cause of Plaintiff’s injuries, including smoke inhalation, physical pain, emotional distress, lost wages, and property damage. *See* *Correia v. Firestone Tire & Rubber Co.*, 388 Mass. 342 (1983) (causation elements under Massachusetts negligence law).  
+27. As a result of Defendant’s negligence, Plaintiff has suffered and continues to suffer damages including medical expenses, lost wages, physical and emotional distress, and property damage.  
+
+---
+
+### V. DAMAGES
+
+28. Plaintiff has incurred medical expenses approximately totaling **$5,200**, lost wages of approximately **$1,000**, and additional property losses.  
+29. Plaintiff has experienced physical pain, discomfort, anxiety, and distress as a result of the fire and its aftermath.  
+30. Plaintiff is entitled to recover all compensatory damages permitted under Massachusetts law, including consequential and incidental damages arising from Defendant’s negligence. *See* *Fisher v. Bell South Corp.*, 64 Mass. App. Ct. 286 (2005).
+
+---
+
+### VI. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff, **Jessica Thomas**, respectfully requests that this Court enter judgment in her favor and against Defendant, **Lynnwood Apartments, Inc.**, and award the following relief:
+
+A. Compensatory damages in an amount to be determined at trial, but believed to exceed **$6,200**;  
+B. Reimbursement for all medical expenses and lost wages incurred as a result of Defendant’s negligence;  
+C. Damages for emotional distress, pain, and suffering;  
+D. Costs of suit and such further relief as the Court deems just and proper within the jurisdiction of the Lynn District Court; and  
+E. Trial by jury on all issues so triable.
+
+---
+
+### VII. JURY DEMAND
+
+Plaintiff demands a trial by jury on all counts and issues so triable pursuant to **Mass. R. Civ. P. 38**.
+
+---
+
+**Respectfully submitted,**
+
+**Jessica Thomas**  
+150 Maple Street  
+Lynn, MA 01905  
+Phone: (617) 555‑0123  
+Email: psm1443@gmail.com  
+
+Date: **December 1, 2025**  
+
+*Pro Se Plaintiff*

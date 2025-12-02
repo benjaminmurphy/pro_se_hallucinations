@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_010_06.txt",
+  "scenario_id": "cm_010_06",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 209C": {
+      "raw_text": "Mass. Gen. Laws ch. 209C",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction is governed by the Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA), Mass. Gen. Laws ch. 209C, which governs the authority of this Court to modify custody orders where the child resides and where a prior order was entered.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209": {
+      "raw_text": "Mass. Gen. Laws ch. 209",
+      "citation_type": "statute",
+      "proposition": "Massachusetts statutes and authority governing divorce and custody proceedings (Mass. Gen. Laws ch. 209 and related statutes)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Troxel v. Granville, 530 U.S. 57 (2000)": {
+      "raw_text": "Troxel v. Granville, 530 U.S. 57 (2000)",
+      "citation_type": "case",
+      "proposition": "United States Supreme Court precedent recognizing parental rights and the role of courts in child custody determinations, including Troxel v. Granville, 530 U.S. 57 (2000)",
+      "is_valid": true,
+      "courtlistener_id": "1087668",
+      "case_name": "Troxel v. Granville",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion squarely recognizes a fundamental constitutional right of parents \u201cin the care, custody, and control of their children\u201d under the Fourteenth Amendment and evaluates the extent to which state courts may override parental decisions through custody/visitation determinations. The Court holds that Washington\u2019s broad third\u2011party visitation statute, as applied, unconstitutionally infringed that parental right by allowing judges to substitute their best\u2011interest judgments for those of a fit parent without giving special weight to the parent\u2019s decision. This directly supports the proposition about Supreme Court precedent on parental rights and the role of courts in custody/visitation matters.",
+      "relevant_excerpt": "\u201cThe liberty interest at issue in this case\u2014the interest of parents in the care, custody, and control of their children\u2014is perhaps the oldest of the fundamental liberty interests recognized by this Court. \u2026 In light of this extensive precedent, it cannot now be doubted that the Due Process Clause of the Fourteenth Amendment protects the fundamental right of parents to make decisions concerning the care, custody, and control of their children.\u201d (530 U.S. at 65\u201366)"
+    }
+  }
+}

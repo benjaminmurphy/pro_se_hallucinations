@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_010_06.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies a prior Worcester Probate and Family Court order dated March 15, 2018 awarding primary physical residence to Respondent and states a copy is on file or will be provided, establishing an existing custody/parenting-time order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifies the relief sought: increased overnight and weekday parenting time (including at least two weeknights), expanded weekends/holidays/vacations, and alternatively shared physical custody; it also requests temporary increased parenting time pending final hearing."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete factual changes since 2018: completion of graduate school, stable full\u2011time employment with predictable daytime hours, relocation to a two\u2011bedroom apartment with a separate bedroom for the child, and a safe, age\u2011appropriate home \u2014 facts plausibly showing a material and substantial change not contemplated by the prior order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges facts bearing on the child's welfare: a close, nurturing bond with Petitioner, the child's expressed desire for more time with Petitioner, a therapist's recommendation for more consistent time for emotional well\u2011being, and parental communication problems with Respondent \u2014 allegations that sufficiently plead that the requested modification is in the child's best interests."
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_009_05",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "plaintiff": "Jessica Miller",
+  "defendant": "Thomas Greene"
+}

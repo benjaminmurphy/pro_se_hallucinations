@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_006_07.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant was operating a for\u2011hire vehicle on public ways adjacent to a bike lane and expressly pleads the driver\u2019s obligation to exercise reasonable care and to ensure it was safe before opening a door (\u00b6\u00b62, 5, 12, 15). Those factual allegations are sufficient to establish a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete facts showing breach: Defendant stopped in a loading zone adjacent to the bike lane and opened his driver\u2011side door into the lane without checking mirrors or looking, admitted he was looking at his phone, and thus failed to keep a proper lookout (\u00b6\u00b66\u20138, 11, 13, 16)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that as Plaintiff passed the stopped vehicle the door opened into the bike lane and Plaintiff struck the door, was thrown from his bicycle, and sustained the injuries described; Plaintiff alleges these events would not have occurred but for Defendant\u2019s dooring/distracted conduct (\u00b6\u00b67\u20139, 13, 17)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the harm was the foreseeable result of opening a vehicle door into an active bike lane while distracted and expressly pleads that Defendant\u2019s acts were the direct and proximate cause of the collision and injuries (\u00b6\u00b67, 9, 12, 17)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies specific physical injuries (road rash, chipped tooth), property damage (bent bike frame), quantified past medical expenses (~$1,200) and lost wages (~$800), and seeks non\u2011economic damages \u2014 sufficient allegations of actual damages (\u00b6\u00b69\u201310, 18, Prayer A)."
+    }
+  }
+}

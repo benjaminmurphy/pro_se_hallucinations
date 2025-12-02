@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_002_10.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a month-to-month tenancy beginning March 1, 2022,Plaintiff pays monthly rent, and Defendant is the owner/landlord of the premises\u2014facts that establish a landlord\u2013tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific omissions and acts by Defendant: failing to repair water intrusion after notice and City inspection, not abating code violations, and threatening/declining to renew the tenancy (allegedly in retaliation)."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges ongoing, recurrent water intrusion causing dampness/habitability defects, code violations noted by City inspectors, damage to personal property, continuous dehumidifier use, and loss/diminution of quiet enjoyment\u2014facts sufficient to plead a \u2018substantial interference.\u2019"
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff notified Defendant, Defendant failed to timely or effectively remedy the defect, and as a result the water intrusion and related harms have persisted\u2014pleading a direct link between Defendant\u2019s conduct/omission and the interference/damage."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages (approximately $400 for damaged personal property), increased utility costs from continuous dehumidifier use, loss of quiet enjoyment and diminution of habitability, and seeks additional consequential damages\u2014sufficiently pleading injury."
+    }
+  }
+}

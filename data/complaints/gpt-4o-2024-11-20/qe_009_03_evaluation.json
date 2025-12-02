@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_009_03.txt",
+  "scenario_id": "qe_009_03",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Mass. Gen. Laws ch. 218, \u00a7 19": {
+      "raw_text": "Mass. Gen. Laws ch. 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction and venue are proper in Springfield District Court under Mass. Gen. Laws ch. 218, \u00a7 19, because the rental property is located in Springfield, Massachusetts, and the acts or omissions forming the basis of this complaint occurred in Springfield.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186, \u00a7 14": {
+      "raw_text": "Mass. Gen. Laws ch. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under Mass. Gen. Laws ch. 186, \u00a7 14, every residential lease in Massachusetts carries with it an implied covenant of quiet enjoyment, which prohibits a landlord from interfering with a tenant\u2019s use and enjoyment of the rental property.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 275 (1994)": {
+      "raw_text": "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 275 (1994)",
+      "citation_type": "case",
+      "proposition": "The electrical failure in Plaintiff\u2019s apartment constitutes a substantial interference with Plaintiff\u2019s use and enjoyment of the premises, as defined under Massachusetts case law, including *Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 275 (1994) (affirming that substantial interference with use constitutes a violation of quiet enjoyment).",
+      "is_valid": true,
+      "courtlistener_id": "2069029",
+      "case_name": "Doe v. New Bedford Housing Authority",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion does affirm that a serious or substantial interference with a tenant\u2019s use and enjoyment of the premises constitutes a breach of the covenant of quiet enjoyment under G.L. c. 186, \u00a7 14, but it does so in the context of drug-related activity and loss of use of common areas, not an electrical failure in an apartment. The case provides general authority that substantial interference with use and enjoyment violates quiet enjoyment, but it does not address electrical failures or habitability-type physical defects as constituting such interference. Thus, it is only indirectly relevant and does not specifically support the proposition about electrical failure.",
+      "relevant_excerpt": "\u201cThe covenant of quiet enjoyment protects a tenant\u2019s right to freedom from serious interference with his tenancy \u2014 acts or omissions that impair the character and value of the leasehold. \u2026 In this case, we have no doubt that, if the plaintiffs truly are unable to use the common areas of the development, including sidewalks, streets, parking lots, and recreation areas within it, then the situation constitutes a serious interference with their quiet enjoyment and substantially impairs the character of the leased premises.\u201d"
+    }
+  }
+}

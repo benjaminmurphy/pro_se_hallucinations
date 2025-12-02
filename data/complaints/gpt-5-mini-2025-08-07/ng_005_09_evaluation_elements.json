@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_005_09.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges defendant owned/controlled the ladder and shared the driveway (\u00b6\u00b62,4\u20135) and expressly pleads that defendant owed a duty to exercise reasonable care in storage/securing of his property (\u00b612). The facts (neighbor relationship, ladder leaning where it could fall) support a plausible duty to avoid creating an unreasonable risk to neighboring property."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific acts and omissions showing breach: defendant left a tall extension ladder unsecured and leaning against the shared fence, failed to tie down or move it despite multiple warnings/requests from plaintiff (\u00b6\u00b65\u20136,13). Those factual allegations sufficiently plead a breach of the asserted duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that a gust of wind caused the unsecured ladder to fall and strike plaintiff\u2019s vehicle on March 15, 2023 (\u00b67) and that defendant\u2019s failure to secure the ladder was the cause of the ladder\u2019s falling (\u00b614). Those allegations support a but-for inference that the damage would not have occurred but for defendant\u2019s leaving the ladder unsecured."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the ladder\u2019s falling and striking the vehicle was a direct and proximate result of defendant\u2019s negligence (\u00b614) and pleads facts showing the harm was foreseeable (unsecured ladder in wind; prior warnings) (\u00b6\u00b66\u20137). Those facts adequately plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages: property damage to the vehicle (dented hood, cracked windshield), out-of-pocket costs including insurance deductible and rental car expenses for over one week, and loss of use/inconvenience (\u00b6\u00b67\u20139,15). Those allegations sufficiently plead actual damages."
+    }
+  }
+}

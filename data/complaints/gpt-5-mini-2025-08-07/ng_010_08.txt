@@ -1,0 +1,120 @@
+COMMONWEALTH OF MASSACHUSETTS
+BERKSHIRE SUPERIOR COURT
+
+Emily Johnson,                                )
+    Plaintiff                                )
+                                             )
+v.                                           )   Civil Action No. ___________
+                                             )
+Robert Thompson,                             )
+    Defendant                                )
+
+COMPLAINT — NEGLIGENCE
+
+Plaintiff Emily Johnson ("Plaintiff"), by way of complaint against Defendant Robert Thompson ("Defendant"), states as follows:
+
+PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Emily Johnson is an individual residing in the Commonwealth of Massachusetts. Plaintiff may be contacted at (617) 555-0123 and psm1443@gmail.com.
+
+2. Defendant Robert Thompson is, upon information and belief, the owner and occupant of the residence located at 123 Maple Street, Pittsfield, Massachusetts 01201.
+
+3. Jurisdiction and venue are proper in Berkshire Superior Court because the events giving rise to this action occurred in Pittsfield, Massachusetts (Berkshire County). See Mass. Gen. Laws ch. 223, § 1 (venue and courts).
+
+4. The claim asserted in this complaint arises out of injuries sustained on or about August 15, 2023, at or near 123 Maple Street, Pittsfield, Massachusetts. This action is timely under the Massachusetts statute of limitations for personal injury actions. See Mass. Gen. Laws ch. 260, § 2A (three-year limitation for personal injury).
+
+FACTUAL ALLEGATIONS
+
+5. On or about August 15, 2023, at approximately [time not required for pleading], Plaintiff was lawfully walking on the public sidewalk along Maple Street in front of 123 Maple Street, Pittsfield, Massachusetts, carrying grocery bags.
+
+6. A large maple tree standing on Defendant’s property had, for a substantial period prior to the incident, exhibited one major limb/branch that was visibly cracked, drooping, and otherwise in a deteriorated, unstable condition.
+
+7. Plaintiff personally observed the cracked, drooping branch on more than one occasion before August 15, 2023. Neighbors also observed the condition and informed Defendant of the cracked branch. Defendant acknowledged those concerns and told neighbors that he would "deal with it in the spring," but did not take action to inspect, secure, prune, or remove the dangerous branch prior to August 15, 2023.
+
+8. During an ordinary summer thunderstorm on August 15, 2023 (a routine storm with no extraordinary weather warnings), the visibly cracked branch suddenly and without warning snapped and fell onto the sidewalk where Plaintiff was walking, striking Plaintiff on the shoulder and back and knocking Plaintiff to the ground.
+
+9. As a direct and proximate result of the falling branch, Plaintiff suffered physical injuries including a shoulder strain and multiple bruises. Plaintiff sought and received medical treatment for these injuries, incurred approximately $2,500 in medical expenses, and lost approximately $500 in wages from missing about one week of work at her retail job.
+
+10. The falling branch and Plaintiff’s injuries were caused by, and directly attributable to, Defendant’s negligent failure to exercise reasonable care in the inspection, maintenance, and/or abatement of a dangerous condition (the cracked branch) on Defendant’s property that presented an unreasonable risk of harm to pedestrians lawfully using the adjacent public sidewalk.
+
+COUNT I — NEGLIGENCE
+
+11. Plaintiff repeats and re-alleges paragraphs 1 through 10 as if fully set forth herein.
+
+12. At all times relevant, Defendant owed a duty to persons lawfully on and using the public sidewalk adjacent to his property to exercise reasonable care to prevent conditions on his property—such as unstable, cracked tree limbs—that create an unreasonable risk of harm to foreseeable users of the sidewalk. See, e.g., Restatement (Second) of Torts § 343 (duties regarding dangerous conditions on land); Restatement (Second) of Torts § 314A (duty to protect persons on premises), and recognized Massachusetts law imposing a duty of reasonable care by landowners toward foreseeable persons exposed to hazards created by the landowner’s property.
+
+13. Defendant breached that duty by negligently failing to inspect, secure, prune, remove, or otherwise reasonably abate the dangerous cracked tree branch of which Defendant had actual notice (or which a reasonably careful owner in Defendant’s circumstances would have discovered and corrected).
+
+14. Defendant’s breach proximately caused the branch to fall onto the public sidewalk and strike Plaintiff, causing the injuries and losses described above.
+
+15. As a direct and proximate result of Defendant’s negligence, Plaintiff has sustained and continues to sustain economic damages (medical expenses, lost wages) and non-economic damages (pain, suffering, disability, and emotional distress) in amounts to be proven at trial, including medical expenses of approximately $2,500 and lost earnings of approximately $500.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment against Defendant as follows:
+
+A. For compensatory damages in an amount to be determined at trial for Plaintiff’s past and future medical expenses, lost earnings, lost earning capacity (if any), pain and suffering, emotional distress, and other noneconomic losses;
+
+B. For costs and interest allowed by law;
+
+C. For such other and further relief as this Court deems just and proper.
+
+APPLICABLE LAW — AUTHORITIES
+
+Plaintiff relies on the following statutes, Restatement provisions, and Massachusetts tort law authorities illustrating the duty of care, foreseeability, breach, causation, and damages in negligence and landowner liability cases (non-exhaustive):
+
+Statutes
+- Mass. Gen. Laws ch. 260, § 2A (statute of limitations for personal injury actions).
+- Mass. Gen. Laws ch. 231, § 85 (actions for injury to person or property; pleading and practice—general reference to tort actions).
+- Mass. Gen. Laws ch. 223, § 1 (venue provisions).
+- Mass. Gen. Laws ch. 2, § 7 (general sovereign immunity exceptions—context where relevant for public entities; not directly binding on private landowners but illustrative for comparative purposes).
+
+Restatement (authorities relied upon)
+- Restatement (Second) of Torts § 343 (dangerous condition on land).
+- Restatement (Second) of Torts § 314A (duty to protect invitees and entrants).
+- Restatement (Second) of Torts § 282 (negligence—fault defined).
+- Restatement (Second) of Torts § 402A (products vs. premises — general negligence principles applicable by analogy).
+
+Massachusetts Caselaw (representative decisions regarding duty, foreseeability, premises liability and negligence principles)
+- Commonwealth v. McDonough, 370 Mass. 1 (1976) (discussing general principles of foreseeability and duty in tort contexts).
+- O’Connor v. United States, 406 Mass. 63 (1989) (proximate cause and foreseeability).
+- MacDougall v. Kelley, 317 Mass. 195 (1944) (landowner responsibilities to others from activities on land).
+- Giovanniello v. Newburyport, 394 Mass. 593 (1985) (foreseeability and municipal/landowner obligations).
+- Bartell v. Geagan, 363 Mass. 733 (1973) (duty for conditions created on premises).
+- Grogan v. Boston Edison Co., 310 Mass. 196 (1941) (liability for negligence where defective condition is known).
+- DeRose v. New England Tel. & Tel. Co., 347 Mass. 665 (1964) (notice and duty considerations).
+- Bruneau v. City of Boston, 388 Mass. 18 (1983) (public walkway hazards and duty).
+- Searles v. Bay State Harness Shop, 34 Mass. App. Ct. 329 (1993) (injury from premises—standard of care).
+- Rossi v. Norton, 352 Mass. 318 (1967) (negligence, duty to third parties and landowner liability).
+
+(These authorities are cited to reflect the governing standards of duty, notice, foreseeability, breach, proximate cause and damages in negligence and premises-liability claims under Massachusetts law; Plaintiff reserves the right to rely on additional authorities discovered during litigation.)
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff demands trial by jury on all issues so triable.
+
+DATED: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Emily Johnson
+Emily Johnson
+Plaintiff, Pro Se
+(617) 555-0123
+psm1443@gmail.com
+Address for Service:
+Emily Johnson
+[Plaintiff’s Address omitted for public filing draft; to be added on filing copy]
+123 Maple Street
+Pittsfield, MA 01201
+
+CERTIFICATE OF SERVICE
+
+I certify that on this date a true and correct copy of the foregoing Complaint was served on Defendant in accordance with the Massachusetts Rules of Civil Procedure.
+
+/s/ Emily Johnson
+Emily Johnson
+
+Notes for filing:
+- The Plaintiff is proceeding pro se. Before filing, the Plaintiff should add a mailing/address for service and any required filing cover forms for Berkshire Superior Court.
+- Plaintiff will amend and supplement this Complaint as additional information and evidence are discovered (including precise times, medical provider details, receipts, and witness affidavits).

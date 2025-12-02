@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_004_01",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "plaintiff": "Maria Thompson",
+  "defendant": "John Carter"
+}

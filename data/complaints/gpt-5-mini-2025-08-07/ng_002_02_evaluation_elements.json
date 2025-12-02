@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_002_02.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/controlled the dog, park posted leash requirements, and cites applicable law and Restatement provisions asserting an owner\u2019s duty to keep animals under control (paras. 6, 15\u201316). Those factual allegations adequately plead a duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant routinely allowed the dog off-leash, on the relevant date the dog was off-leash with the leash draped over Defendant\u2019s shoulder and not attached, and Defendant failed to restrain or control the dog (paras. 7\u20139, 17). Those facts sufficiently allege a breach of the duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the dog charged Plaintiff, Plaintiff swerved to avoid an attack, tripped on a tree root and fractured her wrist; it alleges the injuries would not have occurred but for Defendant\u2019s allowing the dog to be loose (paras. 9\u201311, 18). Those facts plausibly establish but-for causation at the pleading stage."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint specifically alleges the reaction of swerving to avoid the loose dog was a foreseeable consequence of permitting an uncontrolled dog in a posted leash area and cites foreseeability/proximate-cause authorities (paras. 6, 9\u201310, 18). Those allegations sufficiently plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a fractured wrist, emergency treatment, medical expenses (~$4,500), lost wages (~$1,200), pain and suffering, emotional distress and other losses (paras. 10, 12, 19, 24). Those factual allegations adequately plead actual damages."
+    }
+  }
+}

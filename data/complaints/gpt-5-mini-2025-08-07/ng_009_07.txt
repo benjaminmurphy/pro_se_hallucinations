@@ -1,0 +1,124 @@
+COMMONWEALTH OF MASSACHUSETTS
+LYNN DISTRICT COURT
+2 Court Street
+Lynn, MA 01901
+
+Emily Johnson,
+     Plaintiff
+
+v.                                                     Civil Action No. ________
+
+Lynn Apartments, LLC,
+     Defendant
+
+COMPLAINT — NEGLIGENCE
+
+Plaintiff, Emily Johnson, by and through her undersigned signature below, brings this Complaint against Defendant Lynn Apartments, LLC and alleges as follows:
+
+I. PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Emily Johnson is an individual and a resident of Lynn, Massachusetts. Plaintiff’s contact information is: telephone (617) 555-0123; email psm1443@gmail.com.
+
+2. Defendant Lynn Apartments, LLC is a Massachusetts limited liability company that owns and operates the residential apartment building located at 123 Maple Street, Lynn, MA 01905 (the “Premises”).
+
+3. The acts and omissions complained of below occurred at 123 Maple Street, Lynn, MA 01905, on or about September 15, 2023.
+
+4. Venue and jurisdiction are proper in the Lynn District Court because the real property and the events giving rise to this action are located in Lynn and the amount in controversy is within the jurisdictional limits of this Court.
+
+II. FACTUAL ALLEGATIONS
+
+5. Plaintiff is a tenant who occupies an apartment on the third floor of the Premises.
+
+6. Defendant is the landlord and is responsible for maintaining the common areas of the Premises, including but not limited to hallway smoke detectors and other life-safety devices.
+
+7. For months prior to September 15, 2023, the hallway smoke detector located immediately outside Plaintiff’s unit repeatedly emitted a “chirping” sound indicating a low battery.
+
+8. On multiple occasions (at least three), Plaintiff notified Defendant (and/or Defendant’s agent/management) in person and/or by telephone and/or in writing that the hallway smoke detector was chirping and needed attention. Defendant repeatedly responded that he would “take care of it,” but he failed to do so.
+
+9. At some point before September 15, 2023, an unknown person removed the battery from the hallway smoke detector. The battery was placed on a windowsill and was not reinstalled. The hallway detector therefore was inoperative and incapable of providing an alarm or warning.
+
+10. On September 15, 2023, a fire began in a first-floor apartment of the Premises, originating in the kitchen of that apartment.
+
+11. Because the hallway smoke detector outside Plaintiff’s unit had no battery and was inoperative, it failed to sound an alarm and did not provide any warning to Plaintiff or other upstairs tenants that a fire had started.
+
+12. Plaintiff first became aware of the fire when she smelled smoke and observed thick smoke in the hallway. The lack of an operating alarm delayed her awareness and escape.
+
+13. Plaintiff experienced significant difficulty breathing while evacuating due to the smoke-filled hallway and was transported to a hospital, where she was treated and admitted overnight for smoke inhalation and difficulty breathing.
+
+14. As a direct and proximate result of the incident, Plaintiff incurred approximately $10,500 in medical expenses for treatment of smoke inhalation and related injuries, lost approximately $2,000 in earnings and wages, sustained pain and suffering, emotional distress, and incurred damage to personal property from smoke and water.
+
+15. Defendant had actual and constructive notice of the inoperative smoke detector (through Plaintiff’s repeated complaints and the ongoing chirping) and failed to take reasonable steps to repair, replace, or otherwise ensure the hallway detector was functioning.
+
+III. NEGLIGENCE — COUNT I
+
+16. Plaintiff repeats and realleges the preceding paragraphs as if fully set forth herein.
+
+17. At all times relevant hereto, Defendant owed Plaintiff—and other tenants—a duty to exercise reasonable care in maintaining the Premises, including a duty to maintain and ensure operative smoke detectors and other life-safety devices in the common areas of the building, and to warn tenants of known dangerous conditions.
+
+18. Defendant breached the duty of care by, among other things:
+    a. failing to ensure that the hallway smoke detector outside Plaintiff’s unit was maintained in good working order and had a functioning battery;
+    b. failing to repair or replace the detector after Plaintiff repeatedly notified Defendant of its malfunctioning (the persistent “chirping”);
+    c. failing to respond appropriately and promptly to a known hazardous condition (an inoperative smoke detector) that presented a foreseeable risk of harm to tenants;
+    d. failing to warn tenants that the hallway detector was not functioning and did not provide proper alarm coverage; and
+    e. otherwise failing to exercise reasonable care in the maintenance and management of the Premises.
+
+19. Defendant’s breaches were a direct and proximate cause of Plaintiff’s injuries, hospitalization, medical expenses, lost wages, property damage, physical pain, emotional distress, and other damages.
+
+20. The harm suffered by Plaintiff was reasonably foreseeable to Defendant, who either knew or should have known that the failure to maintain operational smoke detectors would create an unreasonable risk of serious injury or death in the event of a fire.
+
+IV. DAMAGES
+
+21. As a direct and proximate result of Defendant’s negligence, Plaintiff has suffered and continues to suffer:
+    a. medical and related expenses in the approximate amount of $10,500 (past and continuing);
+    b. lost wages in the approximate amount of $2,000 (past and continuing);
+    c. physical pain and suffering and impairment;
+    d. emotional distress, anxiety, and inconvenience;
+    e. damage to or loss of personal property from smoke and water;
+    f. such other economic and non-economic damages as may be shown at trial.
+
+22. Plaintiff demands judgment for the foregoing damages and such other relief as the Court deems just and proper, including costs and interest.
+
+V. APPLICABLE LAW (Representative Authorities)
+
+23. Plaintiff brings this claim for negligence under Massachusetts common law. The elements of negligence—duty, breach, causation, and damages—are well-established and apply to property owners and landlords who owe tenants and lawful visitors a duty to maintain common areas in a reasonably safe condition and to take reasonable steps to prevent foreseeable harm. See, e.g., Restatement (Second) of Torts §§ 282, 299A, 343 (duty to maintain premises in safe condition); see also Donoghue v. Stevenson, [1932] A.C. 562 (establishing modern duty of care principle); Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate causation analyses).
+
+24. Massachusetts statutes and regulations also recognize safety obligations for residential properties, including requirements concerning smoke and carbon monoxide alarms and building safety standards. Representative statutory and regulatory authorities include, without limitation, Massachusetts General Laws and relevant building and fire code provisions concerning life-safety devices (e.g., statutes and regulations governing smoke detectors and landlord responsibilities) and municipal inspection and housing codes. Plaintiff will rely on the applicable statutory and regulatory framework at trial to establish Defendant’s obligations to maintain operative smoke detectors and to repair known defective conditions in common areas.
+
+25. Plaintiff reserves the right to identify and rely upon additional Massachusetts caselaw, statutes, regulations, and local ordinances at or before trial that specifically address landlord duties to maintain smoke detectors, foreseeability of harm from inoperative alarms, and landlord liability for injuries caused by failures to maintain life-safety equipment.
+
+VI. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Emily Johnson respectfully requests that this Court enter judgment against Defendant Lynn Apartments, LLC as follows:
+
+A. Awarding compensatory damages to Plaintiff for past and future medical expenses in the approximate amount of $10,500 and for lost wages in the approximate amount of $2,000, together with damages for pain and suffering, emotional distress, property damage, and other non-economic harms in an amount to be proven at trial;
+
+B. Awarding interest, costs, and disbursements to Plaintiff as allowed by law;
+
+C. Awarding such further relief as the Court deems just and proper.
+
+VII. JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+Dated: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Emily Johnson
+Emily Johnson
+Pro Se Plaintiff
+123 Maple Street, Apt. 3
+Lynn, MA 01905
+(617) 555-0123
+psm1443@gmail.com
+
+CERTIFICATION
+
+I certify under the pains and penalties of perjury that the foregoing statements are true and accurate to the best of my knowledge and belief.
+
+Executed on December 1, 2025
+
+/s/ Emily Johnson
+Emily Johnson
+
+Note: Plaintiff intends to rely at trial on Massachusetts common law negligence principles, the Restatement (Second) of Torts, and applicable Massachusetts statutes, codes, regulations, and controlling Massachusetts caselaw concerning landlord and premises-owner duties with respect to maintenance of smoke detectors and life-safety devices. Plaintiff will identify specific statutory and case citations in pretrial filings as required by the Court.

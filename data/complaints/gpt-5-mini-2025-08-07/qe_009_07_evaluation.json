@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_009_07.txt",
+  "scenario_id": "qe_009_07",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 239": {
+      "raw_text": "M.G.L. c. 239",
+      "citation_type": "statute",
+      "proposition": "Venue and jurisdiction are proper in the Housing Court, Springfield Division, because the premises are located in Springfield, Massachusetts and the claim arises from the landlord-tenant relationship concerning those premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 186": {
+      "raw_text": "M.G.L. c. 186",
+      "citation_type": "statute",
+      "proposition": "Venue and jurisdiction are proper in the Housing Court, Springfield Division, because the premises are located in Springfield, Massachusetts and the claim arises from the landlord-tenant relationship concerning those premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 93A": {
+      "raw_text": "M.G.L. c. 93A",
+      "citation_type": "statute",
+      "proposition": "M.G.L. c. 93A (Massachusetts unfair and deceptive practices statute) \u2014 for example where landlord conduct constitutes unfair or deceptive acts or practices (reserved here as background; Plaintiff\u2019s sole claim in this complaint is breach of the covenant of quiet enjoyment).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 111, \u00a7127A et seq.": {
+      "raw_text": "M.G.L. c. 111, \u00a7127A et seq.",
+      "citation_type": "statute",
+      "proposition": "M.G.L. c. 111, \u00a7127A et seq. (public health and local board of health authority to enforce sanitary code standards).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 C.M.R. 410.000": {
+      "raw_text": "105 C.M.R. 410.000",
+      "citation_type": "statute",
+      "proposition": "105 C.M.R. 410.000 (Massachusetts Sanitary Code, Minimum Standards of Fitness for Human Habitation) (standards concerning safe electrical systems and maintenance obligations).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

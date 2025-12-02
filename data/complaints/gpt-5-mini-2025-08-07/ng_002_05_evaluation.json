@@ -1,0 +1,41 @@
+{
+  "complaint_file": "ng_002_05.txt",
+  "scenario_id": "ng_002_05",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 231": {
+      "raw_text": "Mass. Gen. Laws ch. 231",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on Massachusetts comparative fault principles (apportionment of damages if Defendant alleges any contributory fault on Plaintiff\u2019s part), including Massachusetts statutory and decisional law concerning comparative negligence and allocation of fault.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 140": {
+      "raw_text": "Mass. Gen. Laws ch. 140",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 140 (provisions governing animals and local dog control statutes/rules);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

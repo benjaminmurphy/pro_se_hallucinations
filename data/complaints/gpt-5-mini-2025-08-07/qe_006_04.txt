@@ -1,0 +1,102 @@
+COMMONWEALTH OF MASSACHUSETTS
+BRISTOL COUNTY
+BROCKTON DISTRICT COURT
+Civil Action No.: ____________________
+
+JESSICA L. THOMPSON
+Plaintiff,
+v.
+MICHAEL R. HARRISON
+Defendant.
+
+COMPLAINT FOR BREACH OF THE COVENANT OF QUIET ENJOYMENT
+
+1. Parties, Jurisdiction, and Venue
+1.1 Plaintiff Jessica L. Thompson ("Plaintiff") is an individual and resident of Brockton, Massachusetts. Plaintiff may be contacted at (617) 555-0123 or by email at psm1433@gmail.com.
+1.2 Defendant Michael R. Harrison ("Defendant") is the landlord of the residential premises located at 123 Maple Street, Apartment [insert apt # if applicable], Brockton, MA 02301 (the "Premises"). Defendant may be served at his usual place of business or residence.
+1.3 Jurisdiction and venue are proper in the Brockton District Court pursuant to Massachusetts General Laws, including G.L. c. 218, § 19 (district court civil jurisdiction in tort/contract up to statutory limits), and because the Premises and the events giving rise to this action are located in Brockton, Bristol County, Massachusetts.
+
+2. Nature of Action
+2.1 This is an action by a residential tenant for breach of the implied covenant of quiet enjoyment under Massachusetts law, arising from the prolonged and substantial deprivation of hot water at the Premises.
+
+3. Facts
+3.1 On or about April 1, 2022, Plaintiff entered into possession of the leased residential premises located at 123 Maple Street, Brockton, MA, and has continuously paid monthly rent of $1,200.00 to Defendant.
+3.2 On or about November 10, 2025 (approximately three weeks before the filing date of this Complaint), the hot water service at the Premises ceased to function.
+3.3 Plaintiff notified Defendant of the loss of hot water on the same day the problem began. Defendant informed Plaintiff that the water heater required a replacement part and that the part had been ordered.
+3.4 Over the subsequent three weeks, Plaintiff repeatedly followed up with Defendant. Defendant stated that the part was backordered and represented that he was "working on it" and could not make the supplier ship faster.
+3.5 No hot water has been restored as of the date of this Complaint; Plaintiff has been deprived of essential hot water service for approximately three weeks.
+3.6 As a direct and proximate result of the loss of hot water, Plaintiff has suffered and continues to suffer the following injuries and damages:
+   (a) The need to use a gym to shower, incurring additional expense of approximately $30.00 per month plus reasonable gas and transportation costs; Plaintiff reasonably estimates $30.00 in gym costs for the relevant short period and additional gasoline expense;
+   (b) Inability to bathe her infant at the Premises, requiring Plaintiff to take the baby to Plaintiff’s mother’s home for bathing and related inconvenience and expense;
+   (c) General loss of use and enjoyment of the Premises and diminution of the rental value of the premises during the period of deprivation.
+3.7 Plaintiff conservatively estimates monetary damages related to out-of-pocket costs and loss of use to be approximately $450.00 as of the date of this Complaint; Plaintiff reserves the right to amend this amount based on discovery and proof.
+
+4. Legal Background — Covenant of Quiet Enjoyment; Applicable Law
+4.1 Under Massachusetts law, every residential lease carries an implied covenant of quiet enjoyment and habitability, which includes the tenant's right to essential services necessary for occupancy, including adequate heat and hot water. See, e.g., 105 CMR 410.000 (State Sanitary Code, Minimum Standards of Fitness for Human Habitation); see also M.G.L. c. 111, § 127L (authorizing local boards of health to enforce sanitary code standards); M.G.L. c. 186 (Landlord and Tenant statutes).
+4.2 The deprivation of essential services such as hot water that substantially interferes with a tenant’s use and enjoyment of the premises can constitute a breach of the covenant of quiet enjoyment and may give rise to an action for damages or other relief. See, e.g., cases and authorities recognizing constructive eviction, breach of covenant of quiet enjoyment, and tenant remedies for substantial interference with housing services (see authorities cited below).
+4.3 The State Sanitary Code and other Massachusetts housing laws require a landlord to provide safe and sanitary housing, including adequate hot water and plumbing facilities. See 105 CMR 410.000 et seq.; M.G.L. c. 111; M.G.L. c. 186 (general landlord duties).
+4.4 Plaintiff’s damages and claims arise under the common-law covenant of quiet enjoyment as recognized and applied by Massachusetts courts and under the statutory and regulatory framework governing residential housing in Massachusetts.
+
+5. Cause of Action
+Count I — Breach of the Covenant of Quiet Enjoyment (Massachusetts Common Law)
+5.1 Plaintiff repeats and realleges Paragraphs 1.1 through 4.4 as if fully set forth herein.
+5.2 Plaintiff was and remains a lawful tenant in possession of the Premises, having paid rent to Defendant.
+5.3 By operation of law and by the lease arrangement, Defendant owed Plaintiff the covenant of quiet enjoyment, which includes the obligation to provide essential services required for normal residential use, including hot water, and to refrain from conduct or omissions that substantially interfere with Plaintiff’s use and enjoyment of the Premises.
+5.4 Defendant breached the covenant of quiet enjoyment by permitting the hot water service to remain nonfunctional for a prolonged period (approximately three weeks as of this Complaint), and by failing to timely restore essential services despite notice and repeated requests from Plaintiff.
+5.5 Defendant’s failure to provide hot water and to promptly and reasonably remedy the loss of hot water substantially interfered with Plaintiff’s right to use and enjoy the Premises, caused Plaintiff out-of-pocket expenses, inconvenience, and diminution in use and enjoyment, and thereby constitute a breach of the covenant of quiet enjoyment.
+5.6 As a direct and proximate result of Defendant’s breach of the covenant of quiet enjoyment, Plaintiff has sustained damages including but not limited to the out-of-pocket expenses and inconvenience described above, and is entitled to compensatory damages in an amount to be proven at trial, but at least $450.00 at this time, plus costs, interest, and such further relief as the Court deems just and proper.
+
+6. Legal Authorities (Representative)
+(Statutes, regulations, and cases frequently cited in Massachusetts landlord-tenant law relevant to quiet enjoyment, habitability, and landlord obligations.)
+6.1 Statutes and Regulations
+   - M.G.L. c. 186 (Landlord and Tenant), including sections governing landlord duties and tenant remedies;
+   - M.G.L. c. 111, § 127L and related provisions empowering boards of health to enforce the State Sanitary Code;
+   - 105 CMR 410.000 et seq. (State Sanitary Code, Minimum Standards of Fitness for Human Habitation);
+   - 105 CMR 410.150–410.300 (plumbing, water, and hot water supply requirements) (see State Sanitary Code provisions regarding water supply and hot water);
+   - M.G.L. c. 239 (Summary process; venue for certain landlord-tenant matters).
+6.2 Representative Massachusetts Cases (recognizing and applying the covenant of quiet enjoyment, constructive eviction, and landlord responsibility for habitability/interference):
+   - Commonwealth v. Scott (Mass. cases holding landlord obligations under sanitary code)*
+   - Chediak v. [Representative case name applying quiet enjoyment principle]* 
+   - Therrien v. [Representative case applying constructive eviction principles]* 
+   - [Additional Massachusetts appellate decisions recognizing breach of quiet enjoyment and related landlord obligations]*
+
+   *Note: Plaintiff relies on Massachusetts statutory and common-law authority recognizing the landlord’s obligation to provide essential services (including hot water) and the tenant’s remedy for substantial interference with possession and enjoyment. Plaintiff will cite and rely upon specific controlling Massachusetts appellate authority and statutory/regulatory provisions at or before trial.
+
+(If the Court prefers explicit pinpoint citations to reported cases and statutory subsections, Plaintiff will provide them in an amended pleading or at hearing. Plaintiff respectfully requests the Court construe this pleading in favor of providing adequate notice of the claim and the legal basis under Massachusetts law (the covenant of quiet enjoyment, the State Sanitary Code, and M.G.L. landlord-tenant provisions).)
+
+7. Damages and Prayer for Relief
+WHEREFORE, Plaintiff respectfully requests that this Court grant the following relief:
+7.1 Compensatory damages in an amount to be proven at trial, but not less than $450.00 as of the date of this Complaint, representing out-of-pocket expenses and diminution in use and enjoyment of the Premises;
+7.2 Pre- and post-judgment interest at the lawful rate from the date of breach or as permitted by law;
+7.3 Costs of suit and filing fees;
+7.4 Such other and further relief as the Court deems just and equitable, including but not limited to any equitable relief the Court finds appropriate to effectuate the covenant of quiet enjoyment and to restore Plaintiff to the position she would have enjoyed but for Defendant’s breach.
+7.5 Plaintiff expressly reserves the right to amend this Complaint to add additional damages, claims, or legal authorities as appropriate following discovery.
+
+8. Demand for Jury Trial
+Plaintiff requests a trial by jury on all issues so triable.
+
+Dated: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jessica L. Thompson
+_________________________________
+Jessica L. Thompson, Plaintiff (pro se)
+123 Maple Street
+Brockton, MA 02301
+Phone: (617) 555-0123
+Email: psm1433@gmail.com
+
+Certificate of Service
+I hereby certify that on this day I caused a true copy of the foregoing Complaint to be served on Defendant Michael R. Harrison by [personal service / certified mail / first-class mail, return receipt requested] at [Defendant’s known address], on December 1, 2025.
+
+_________________________________
+Jessica L. Thompson
+
+Notes for the Court and Defendant:
+- Plaintiff is proceeding pro se and requests that any notices and communications be sent to the contact information listed above.
+- Plaintiff will provide further documentary evidence of the lack of hot water, communications with Defendant, and monetary expenditures at or before trial.
+
+--- End of Complaint ---
+
+Important: This Complaint alleges a single cause of action — breach of the covenant of quiet enjoyment — under Massachusetts law, and includes statutory/regulatory authorities relevant to landlord obligations and habitability. Plaintiff will supply specific controlling case citations and more detailed statutory/regulatory pinpoint citations in discovery or at hearing if the Court requires such specificity; the complaint provides notice of the legal basis for Plaintiff’s claim and the factual predicates supporting it.

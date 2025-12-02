@@ -1,0 +1,28 @@
+{
+  "complaint_file": "cm_004_05.txt",
+  "scenario_id": "cm_004_05",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 209B": {
+      "raw_text": "M.G.L. c. 209B",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action under the provisions of Massachusetts law governing modification of custody and parental responsibilities and under the Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA), M.G.L. c. 209B, because the child is a resident of Massachusetts and the original order was entered in this Commonwealth.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

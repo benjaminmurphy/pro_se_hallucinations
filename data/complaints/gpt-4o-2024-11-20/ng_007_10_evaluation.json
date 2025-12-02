@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_007_10.txt",
+  "scenario_id": "ng_007_10",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 4,
+  "statute_citations": 2,
+  "valid_citations": 4,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 4,
+  "citations": {
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction and venue are proper in this Court pursuant to G.L. c. 223, \u00a7 1, as the events giving rise to this action occurred in Brockton, Massachusetts, which is within the jurisdiction of this Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Cormier v. Lynn, 479 Mass. 35, 37 (2018).": {
+      "raw_text": "Cormier v. Lynn, 479 Mass. 35, 37 (2018).",
+      "citation_type": "case",
+      "proposition": "Defendant owed a duty of care to Plaintiff and D.M. to ensure the safety and well-being of children enrolled in its programs and to provide proper and adequate supervision during activities, including gymnasium time.",
+      "is_valid": true,
+      "courtlistener_id": "4471558",
+      "case_name": "Cormier v. City of Lynn",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case analyzes whether the Massachusetts Tort Claims Act, specifically \u00a7 10(j), bars liability for alleged negligence; it expressly assumes negligence for purposes of the motion to dismiss and focuses only on sovereign immunity. The court does not discuss or recognize any specific common-law duty of care to ensure children\u2019s safety or to provide proper supervision during activities. Indeed, the opinion holds that even if the school was negligent in failing to protect the student, the public defendants are immune, which does not support the asserted duty proposition.",
+      "relevant_excerpt": "\u201cThus, the issue that we must decide is not whether the school was negligent for failing to act reasonably to prevent the bullying that led to Matthew's injuries; the complaint alleges that it was, and for purposes of this appeal, we accept that allegation as true. Rather, the issue on appeal is whether, under the act, the public defendants may be held liable for that negligence. We conclude that the act protects them from liability for such negligence.\u201d"
+    },
+    "Leavitt v. Brockton Hosp., Inc., 454 Mass. 37, 39-40 (2009).": {
+      "raw_text": "Leavitt v. Brockton Hosp., Inc., 454 Mass. 37, 39-40 (2009).",
+      "citation_type": "case",
+      "proposition": "As a direct and proximate result of Defendant\u2019s negligence, D.M. suffered serious injuries, including, but not limited to, physical pain, emotional distress, a concussion, and educational disruption.",
+      "is_valid": true,
+      "courtlistener_id": "6579990",
+      "case_name": "Leavitt v. Brockton Hospital, Inc.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition concerns the existence of serious injuries and proximate causation between a defendant\u2019s negligence and those injuries. Leavitt v. Brockton Hosp. addresses duty and the scope of foreseeable risk (proximate cause) in a very different factual setting and ultimately holds that the plaintiff officer\u2019s injuries were not within the scope of foreseeable risk and thus not legally caused by the hospital\u2019s alleged negligence. The case does not recognize or support a general statement that a defendant\u2019s negligence caused the listed types of injuries; instead, it denies causation on similar grounds, so it is contrary authority for the cited proposition.",
+      "relevant_excerpt": "\u201cThe hospital also claims that it should not be held liable on a separate, independent ground: the injury to Leavitt was not \u2018caused\u2019 by any action on its part. We agree. Leavitt\u2019s injury was not \u2018caused\u2019 by the hospital because it falls outside the scope of foreseeable risk arising from any negligent conduct that would make the hospital\u2019s alleged misconduct tortious.\u201d"
+    },
+    "Glannon v. Boston Elev. Ry., 224 Mass. 427, 430 (1916).": {
+      "raw_text": "Glannon v. Boston Elev. Ry., 224 Mass. 427, 430 (1916).",
+      "citation_type": "case",
+      "proposition": "Plaintiff has incurred significant medical expenses totaling approximately $5,000 and lost wages amounting to $1,200 to care for his injured son, D.M.",
+      "is_valid": true,
+      "courtlistener_id": "6559909",
+      "case_name": "Chapman v. Chapman",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion concerns the validity of foreign divorce decrees and the marital status of competing claimants to an estate. It does not mention medical expenses, lost wages, or a parent's economic losses from caring for an injured child. Therefore, it provides no authority for the proposition about plaintiff\u2019s $5,000 medical expenses and $1,200 in lost wages for his injured son.",
+      "relevant_excerpt": "[No relevant excerpt addressing medical expenses or lost wages for care of an injured child appears in this opinion.]"
+    },
+    "G.L. c. 231, \u00a7 85": {
+      "raw_text": "G.L. c. 231, \u00a7 85",
+      "citation_type": "statute",
+      "proposition": "Defendant\u2019s actions and omissions constitute negligence under Massachusetts law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Afarian v. Mass. Elec. Co., 449 Mass. 257, 271 (2007).": {
+      "raw_text": "Afarian v. Mass. Elec. Co., 449 Mass. 257, 271 (2007).",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s actions and omissions constitute negligence under Massachusetts law.",
+      "is_valid": true,
+      "courtlistener_id": "6579563",
+      "case_name": "Afarian v. Massachusetts Electric Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case does not hold that the defendants\u2019 actions and omissions constitute negligence under Massachusetts law; it holds the opposite. The SJC concludes that the utility defendants owed no legal duty to the decedent under the circumstances and therefore could not be liable in negligence, and it affirms summary judgment in their favor. Thus, the opinion is authority against, not for, the claimed proposition.",
+      "relevant_excerpt": "\u201cTo prevail on their wrongful death claims, the plaintiffs must prove negligence on the part of the utility defendants. An essential element of every negligence claim is the existence of a legal duty, which is the determinative issue in this case\u2026 We conclude that because he was intoxicated, Veilleux cannot be said to have deviated from the road in the ordinary course of travel and his deviation\u2026 was not, and could not have been, reasonably anticipated. Accordingly, the utility defendants owed no duty to Afarian.\u201d"
+    }
+  }
+}

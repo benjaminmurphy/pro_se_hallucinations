@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_008_02.txt",
+  "scenario_id": "ng_008_02",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "See Mass. Gen. Laws ch. 260, \u00a7 2A.": {
+      "raw_text": "See Mass. Gen. Laws ch. 260, \u00a7 2A.",
+      "citation_type": "statute",
+      "proposition": "Plaintiff filed this Complaint on December 1, 2025, within the applicable statute of limitations for personal injury actions under Massachusetts law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 231, \u00a7 85 (Comparative negligence principles applicable in Massachusetts)": {
+      "raw_text": "Mass. Gen. Laws ch. 231, \u00a7 85 (Comparative negligence principles applicable in Massachusetts)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 231, \u00a7 85 (Comparative negligence principles applicable in Massachusetts)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 8(a) (General rules of pleading \u2014 claim for relief)": {
+      "raw_text": "Mass. R. Civ. P. 8(a) (General rules of pleading \u2014 claim for relief)",
+      "citation_type": "statute",
+      "proposition": "Mass. R. Civ. P. 8(a) (General rules of pleading \u2014 claim for relief)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 10(a) (Caption; names of parties)": {
+      "raw_text": "Mass. R. Civ. P. 10(a) (Caption; names of parties)",
+      "citation_type": "statute",
+      "proposition": "Mass. R. Civ. P. 10(a) (Caption; names of parties)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 11 (Signing pleadings, motions, and other papers)": {
+      "raw_text": "Mass. R. Civ. P. 11 (Signing pleadings, motions, and other papers)",
+      "citation_type": "statute",
+      "proposition": "Mass. R. Civ. P. 11 (Signing pleadings, motions, and other papers)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 38 (Demand for jury trial)": {
+      "raw_text": "Mass. R. Civ. P. 38 (Demand for jury trial)",
+      "citation_type": "statute",
+      "proposition": "Mass. R. Civ. P. 38 (Demand for jury trial)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

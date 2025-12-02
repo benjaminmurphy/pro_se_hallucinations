@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_008_08.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant owned/occupied/controlled the premises (\u00b62), that Plaintiff was a lawful invitee (\u00b65), and expressly pleads the proprietor\u2019s duty to keep invitees safe and to warn of hazards (\u00b617). These factual allegations sufficiently establish a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific acts and omissions showing a breach: a server dropped glasses and water/ice remained on the tiled hallway (\u00b67\u20138), staff failed to dry or barricade the area or post warnings (\u00b68\u201311), and \u00b618 sets out concrete failures (no prompt cleanup, no warnings, inadequate supervision/training)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that while the water/ice remained on the floor Plaintiff stepped on the wet tile, slipped and twisted his knee (\u00b611\u201312). Those facts plausibly allege that but for the hazardous wet condition left uncorrected or unwarned by Defendant, the slip and resulting injury would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the injury was a direct and proximate result of Defendant\u2019s negligence (\u00b612, \u00b619) and pleads the foreseeability that leaving a wet, slippery floor in a patron walkway would cause slips and falls. Those allegations adequately allege proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads concrete damages: diagnosis of a sprained knee and treatment (urgent care, brace, PT) with approximately $2,500 in medical expenses to date (\u00b613), lost wages of approximately $1,200 (\u00b614), and claims for pain and suffering and future damages (\u00b620). These allegations satisfy the damages element."
+    }
+  }
+}

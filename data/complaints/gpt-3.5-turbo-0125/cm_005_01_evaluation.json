@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_005_01.txt",
+  "scenario_id": "cm_005_01",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 5,
+  "case_citations": 3,
+  "statute_citations": 2,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "Mass. Gen. Laws Ann. ch. 209C, \u00a7 10": {
+      "raw_text": "Mass. Gen. Laws Ann. ch. 209C, \u00a7 10",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Mass. Gen. Laws Ann. ch. 209C, \u00a7 10, as the Probate and Family Court where the original custody order was entered on April 12, 2022.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Blixt v. Blixt, 438 Mass. 364 (2003)": {
+      "raw_text": "Blixt v. Blixt, 438 Mass. 364 (2003)",
+      "citation_type": "case",
+      "proposition": "Modification of a custody order is warranted when there has been a substantial and material change in circumstances affecting the best interests of the children.",
+      "is_valid": true,
+      "courtlistener_id": "6578636",
+      "case_name": "Planning Board v. Hingham Campus, LLC",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion text provided is not Blixt v. Blixt and does not concern custody or modification standards; it addresses standing of a planning board to challenge a comprehensive permit under Massachusetts zoning and affordable housing statutes. It nowhere discusses custody orders, substantial and material changes in circumstances, or the best interests of children. Accordingly, this case, as excerpted, does not support the claimed proposition about modification of custody orders.",
+      "relevant_excerpt": "We turn to whether the planning board has standing under G. L. c. 40B, \u00a7 21. We conclude that it does not have standing to contest the comprehensive permit and the violations of the zoning bylaws because it is not a \u201cperson aggrieved.\u201d For purposes of interpreting the term \u201cperson aggrieved\u201d under the comprehensive permit statute, we look to interpretation of the identical term in G. L. c. 40A, \u00a7 17."
+    },
+    "Pare v. Pare, 409 Mass. 292 (1991)": {
+      "raw_text": "Pare v. Pare, 409 Mass. 292 (1991)",
+      "citation_type": "case",
+      "proposition": "The Defendant's persistent interference with the Plaintiff's custodial rights constitutes a material change in circumstances justifying a modification of the existing custody order.",
+      "is_valid": true,
+      "courtlistener_id": "2090852",
+      "case_name": "Pare v. Pare",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion concerns equitable division of marital property and the court\u2019s authority to secure child support obligations with property interests. It does not involve a custody modification proceeding, findings about interference with custodial rights, or any discussion of what constitutes a material change in circumstances for custody. Therefore it provides no authority for the proposition that persistent interference with custodial rights justifies modification of an existing custody order.",
+      "relevant_excerpt": "\u201cGeneral Laws c. 208, \u00a7 28 (1988 ed.), provides in relevant part that \u2018[u]pon a judgment for divorce, the court may make such judgment as it considers expedient relative to the care, custody and maintenance of the minor children of the parties . . . .\u2019 Building on \u00a7 28, G. L. c. 208, \u00a7 36, provides, in pertinent part: \u2018When . . . support is adjudged for the . . . children, the court may require sufficient security for its payment according to the judgment.\u2019\u2026 We conclude that\u2026a probate judge\u2026has the authority to enter orders that are designed to secure a spouse\u2019s duty to provide support or benefits to a minor child of the marriage.\u201d}"
+    },
+    "Mass. Gen. Laws Ann. ch. 208, \u00a7 31": {
+      "raw_text": "Mass. Gen. Laws Ann. ch. 208, \u00a7 31",
+      "citation_type": "statute",
+      "proposition": "Massachusetts law requires that custody decisions be made based on the best interests of the children.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Ross v. Ross, 385 Mass. 30 (1982)": {
+      "raw_text": "Ross v. Ross, 385 Mass. 30 (1982)",
+      "citation_type": "case",
+      "proposition": "The children's emotional well-being and stability are paramount in custody determinations.",
+      "is_valid": true,
+      "courtlistener_id": "2025168",
+      "case_name": "Ross v. Ross",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion is focused on alimony, property division under G.L. c. 208, \u00a7 34, Rule 60(b)(5) relief, and the effect of separate support arrearages, not on custody or the relative importance of children\u2019s emotional well-being and stability. Children and custody determinations are not discussed at all, so the case cannot be authority for the proposition that children\u2019s emotional stability is paramount in custody decisions.",
+      "relevant_excerpt": "[No relevant excerpt on custody or children\u2019s emotional well-being appears in the opinion; the decision addresses alimony, property division, and separate support arrearages only.]"
+    }
+  }
+}

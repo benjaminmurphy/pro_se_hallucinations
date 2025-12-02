@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_010_08.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant is owner/occupant of property with a large maple tree whose unstable branch posed an unreasonable risk to pedestrians on the adjacent public sidewalk (\u00b6\u00b62, 5\u20137, 12). These factual allegations and cited authorities adequately plead a landowner's duty to foreseeable sidewalk users."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges actual and/or constructive notice: the branch was visibly cracked and drooping for a substantial period, Plaintiff and neighbors observed it, neighbors informed Defendant, and Defendant admitted he would \"deal with it in the spring\" but took no corrective action (\u00b6\u00b66\u20137, 13). Those facts sufficiently plead a failure to inspect, prune, remove or otherwise abate the hazard."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that during a routine storm the visibly cracked branch snapped and fell onto the sidewalk, striking Plaintiff, and that this occurrence was caused by Defendant's negligent failure to abate the known dangerous branch (\u00b6\u00b68, 10, 13\u201314). Those factual allegations sufficiently plead that but for Defendant's failure to remedy the branch, the injury would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the harm was a foreseeable result of leaving a visibly cracked, drooping limb over a public sidewalk (notice to Defendant, routine storm\u2014not extraordinary\u2014caused the branch to fall) (\u00b6\u00b66\u20138, 12, 14). These allegations adequately plead proximate causation (foreseeability of injury to sidewalk users)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads concrete damages: physical injuries (shoulder strain, bruises), medical treatment and approximately $2,500 in medical expenses, and approximately $500 in lost wages, plus noneconomic losses (pain and suffering) (\u00b69, 15)."
+    }
+  }
+}

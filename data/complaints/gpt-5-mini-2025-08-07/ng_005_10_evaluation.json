@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_005_10.txt",
+  "scenario_id": "ng_005_10",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 4,
+  "statute_citations": 1,
+  "valid_citations": 2,
+  "invalid_citations": 2,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Brown v. Kendall, 60 Mass. (6 Met.) 292 (1850)": {
+      "raw_text": "Brown v. Kendall, 60 Mass. (6 Met.) 292 (1850)",
+      "citation_type": "case",
+      "proposition": "Defendant owed Plaintiff a duty to exercise reasonable care in storing, securing, and maintaining the ladder, including the duty to avoid creating foreseeable risks of harm to persons or property lawfully using the shared driveway.",
+      "is_valid": true,
+      "courtlistener_id": "6535730",
+      "case_name": "Brown v. Kendall",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case articulates a general negligence standard\u2014that a defendant doing a lawful act is liable only if he fails to exercise due or ordinary care appropriate to the circumstances. It does not involve or discuss any duty relating to storing, securing, or maintaining a ladder, nor does it address duties concerning a shared driveway or premises liability. Thus, while it is broadly relevant to reasonable care, it does not specifically support the proposition about a duty in the context of ladder storage in a shared driveway.",
+      "relevant_excerpt": "\u201cIf, then, in doing this act, using due care and all proper precautions necessary to the exigency of the case, to avoid hurt to others, in raising his stick for that purpose, he accidentally hit the plaintiff in his eye, and wounded him, this was the result of pure accident\u2026 If the act of hitting the plaintiff was unintentional\u2026 then the defendant was not liable, unless it was done in the want of exercise of due care, adapted to the exigency of the case\u2026\u201d"
+    },
+    "Donoghue v. Stevenson, [1932] A.C. 562": {
+      "raw_text": "Donoghue v. Stevenson, [1932] A.C. 562",
+      "citation_type": "case",
+      "proposition": "Defendant owed Plaintiff a duty to exercise reasonable care in storing, securing, and maintaining the ladder, including the duty to avoid creating foreseeable risks of harm to persons or property lawfully using the shared driveway.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Not found",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s breach was the direct and proximate cause of the ladder\u2019s fall and the resulting damage to Plaintiff\u2019s automobile.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition concerns proximate cause and asserts that defendant\u2019s breach was the direct and proximate cause of the ladder\u2019s fall and resulting property damage. Palsgraf does not involve a ladder or damage to an automobile, and Cardozo\u2019s opinion explicitly brackets off proximate cause, focusing instead on duty and foreseeability. The case is actually authority that there was no actionable negligence toward the plaintiff, not that a defendant\u2019s breach was the direct and proximate cause of a particular harm, so it does not support the stated proposition.",
+      "relevant_excerpt": "\"The law of causation, remote or proximate, is thus foreign to the case before us. The question of liability is always anterior to the question of the measure of the consequences that go with liability. If there is no tort to be redressed, there is no occasion to consider what damage might be recovered if there were a finding of a tort.\""
+    },
+    "T.J. Hooper, 60 F.2d 737 (2d Cir. 1932)": {
+      "raw_text": "T.J. Hooper, 60 F.2d 737 (2d Cir. 1932)",
+      "citation_type": "case",
+      "proposition": "Plaintiff pleads the foregoing under governing Massachusetts law and common-law negligence principles, including but not limited to:",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 231 and ch. 260": {
+      "raw_text": "Mass. Gen. Laws ch. 231 and ch. 260",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 231 and ch. 260 (general statutory framework governing civil actions and statutes of limitations); in particular, plaintiff pleads compliance with applicable statutes of limitations, including any applicable provisions codified in chapter 260.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

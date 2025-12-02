@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_005_09.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 2.1 expressly alleges a May 15, 2022 custody and parenting-time order entered by this Court, describing shared legal custody, primary residence with Petitioner, and an every-other-weekend visitation schedule for Respondent."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The relief section (\u00b65 and subparts) expressly seeks modification to award primary physical custody to Petitioner and sets out concrete requests (structured parenting-time schedule, transition protocol, scheduling rules, no-disparagement order, counseling/co-parenting education, use of a neutral communication tool)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 3.2\u20133.3 allege specific factual changes since the 2022 order: repeated unilateral scheduling by Respondent that disrupts Petitioner\u2019s court-ordered time, disparaging comments to the children, and new psychosomatic symptoms in Liam temporally linked to transitions\u2014allegations that, if proven, constitute a material and substantial change affecting the children."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint ties the alleged conduct to harms to the children\u2019s stability and emotional well-being (\u00b63.2(c)\u2013(d)), invokes the best-interests legal standard (\u00b64), and requests remedies designed to protect stability and emotional health (\u00b65), thereby alleging that the requested modification is necessary for the children\u2019s best interests."
+    }
+  }
+}

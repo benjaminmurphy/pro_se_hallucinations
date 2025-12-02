@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_001_06.txt",
+  "scenario_id": "qe_001_06",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 1,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186": {
+      "raw_text": "Mass. Gen. Laws ch. 186",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, every lease contains an implied covenant that the tenant shall have quiet enjoyment of the leased premises and that the landlord will not substantially interfere with the tenant\u2019s possession and use of the premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 et seq.": {
+      "raw_text": "105 CMR 410.000 et seq.",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, every lease contains an implied covenant that the tenant shall have quiet enjoyment of the leased premises and that the landlord will not substantially interfere with the tenant\u2019s possession and use of the premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111, \u00a7\u00a7127A\u2013127R": {
+      "raw_text": "Mass. Gen. Laws ch. 111, \u00a7\u00a7127A\u2013127R",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on Massachusetts landlord-tenant law and regulations recognizing landlord obligations and the covenant of quiet enjoyment, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.200 et seq.": {
+      "raw_text": "105 CMR 410.200 et seq.",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on Massachusetts landlord-tenant law and regulations recognizing landlord obligations and the covenant of quiet enjoyment, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 8, 10, and 11": {
+      "raw_text": "Mass. R. Civ. P. 8, 10, and 11",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on Massachusetts landlord-tenant law and regulations recognizing landlord obligations and the covenant of quiet enjoyment, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Smith v. George G. ?": {
+      "raw_text": "Smith v. George G. ?",
+      "citation_type": "case",
+      "proposition": "Representative Massachusetts caselaw recognizing and applying the covenant of quiet enjoyment and landlord obligations includes (by way of example and not limitation):",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "complaint_file": "cm_008_10.txt",
+  "scenario_id": "cm_008_10",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 1,
+  "statute_citations": 5,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Mass. Gen. Laws ch. 76, \u00a7 1 (Compulsory attendance and educational statutes).": {
+      "raw_text": "Mass. Gen. Laws ch. 76, \u00a7 1 (Compulsory attendance and educational statutes).",
+      "citation_type": "statute",
+      "proposition": "Note: Plaintiff relies on applicable Massachusetts statutes and caselaw governing custody and modification; the following authorities are cited as representative legal support for the proposition that a material change affecting a child\u2019s welfare justifies modification of custody or decision-making authority and that the child\u2019s best interests and educational stability are paramount considerations.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a7 51A (Reporting of suspected child abuse and neglect; duty to protect child welfare).": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a7 51A (Reporting of suspected child abuse and neglect; duty to protect child welfare).",
+      "citation_type": "statute",
+      "proposition": "Note: Plaintiff relies on applicable Massachusetts statutes and caselaw governing custody and modification; the following authorities are cited as representative legal support for the proposition that a material change affecting a child\u2019s welfare justifies modification of custody or decision-making authority and that the child\u2019s best interests and educational stability are paramount considerations.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209 (provisions concerning children and custody matters) and related provisions governing custody and guardianship within the Probate and Family Court (as applicable).": {
+      "raw_text": "Mass. Gen. Laws ch. 209 (provisions concerning children and custody matters) and related provisions governing custody and guardianship within the Probate and Family Court (as applicable).",
+      "citation_type": "statute",
+      "proposition": "Note: Plaintiff relies on applicable Massachusetts statutes and caselaw governing custody and modification; the following authorities are cited as representative legal support for the proposition that a material change affecting a child\u2019s welfare justifies modification of custody or decision-making authority and that the child\u2019s best interests and educational stability are paramount considerations.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208 and ch. 209A (as applicable to domestic relations and the Court\u2019s continuing jurisdiction to modify prior orders).": {
+      "raw_text": "Mass. Gen. Laws ch. 208 and ch. 209A (as applicable to domestic relations and the Court\u2019s continuing jurisdiction to modify prior orders).",
+      "citation_type": "statute",
+      "proposition": "Note: Plaintiff relies on applicable Massachusetts statutes and caselaw governing custody and modification; the following authorities are cited as representative legal support for the proposition that a material change affecting a child\u2019s welfare justifies modification of custody or decision-making authority and that the child\u2019s best interests and educational stability are paramount considerations.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Rules of the Probate and Family Court (Mass. R. Dom. Rel. P. and local practice rules) governing modification proceedings, temporary relief, and appointment of guardians ad litem or evaluators.": {
+      "raw_text": "Rules of the Probate and Family Court (Mass. R. Dom. Rel. P. and local practice rules) governing modification proceedings, temporary relief, and appointment of guardians ad litem or evaluators.",
+      "citation_type": "statute",
+      "proposition": "Note: Plaintiff relies on applicable Massachusetts statutes and caselaw governing custody and modification; the following authorities are cited as representative legal support for the proposition that a material change affecting a child\u2019s welfare justifies modification of custody or decision-making authority and that the child\u2019s best interests and educational stability are paramount considerations.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Troxel v. Granville, 530 U.S. 57 (2000) (recognizing parental rights and the need to consider parental decisionmaking in custody contexts).": {
+      "raw_text": "Troxel v. Granville, 530 U.S. 57 (2000) (recognizing parental rights and the need to consider parental decisionmaking in custody contexts).",
+      "citation_type": "case",
+      "proposition": "Note: Plaintiff relies on applicable Massachusetts statutes and caselaw governing custody and modification; the following authorities are cited as representative legal support for the proposition that a material change affecting a child\u2019s welfare justifies modification of custody or decision-making authority and that the child\u2019s best interests and educational stability are paramount considerations.",
+      "is_valid": true,
+      "courtlistener_id": "1087668",
+      "case_name": "Troxel v. Granville",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Troxel concerns the substantive due process rights of fit parents to make decisions about the care, custody, and control of their children, specifically in the context of third\u2011party (grandparent) visitation under a broad Washington statute. It does not address standards for modification of custody or decision\u2011making authority based on a material change affecting a child\u2019s welfare, nor does it discuss educational stability as a best\u2011interest factor. Thus, while it is relevant to parental decisionmaking rights, it does not provide authority for the specific Massachusetts custody\u2011modification proposition stated.",
+      "relevant_excerpt": "\u201cIn light of this extensive precedent, it cannot now be doubted that the Due Process Clause of the Fourteenth Amendment protects the fundamental right of parents to make decisions concerning the care, custody, and control of their children. \u2026 As we have explained, the Due Process Clause does not permit a State to infringe on the fundamental right of parents to make child rearing decisions simply because a state judge believes a \u2018better\u2019 decision could be made.\u201d (530 U.S. at 66\u201367, 72\u201373)."
+    }
+  }
+}

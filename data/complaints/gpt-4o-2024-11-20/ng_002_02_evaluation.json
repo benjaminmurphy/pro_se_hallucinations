@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_002_02.txt",
+  "scenario_id": "ng_002_02",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 3,
+  "statute_citations": 3,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 1,
+  "citations": {
+    "G.L. c. 218, \u00a7 19.": {
+      "raw_text": "G.L. c. 218, \u00a7 19.",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to G.L. c. 218, \u00a7 19.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "See *Payton v. Abbott Labs*, 386 Mass. 540, 548 (1982).": {
+      "raw_text": "See *Payton v. Abbott Labs*, 386 Mass. 540, 548 (1982).",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, negligence occurs when a party breaches a duty of care owed to another party, thereby causing injury.",
+      "is_valid": true,
+      "courtlistener_id": "2154903",
+      "case_name": "Payton v. Abbott Labs",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion explicitly sets out the elements a plaintiff must prove to recover for negligently inflicted emotional distress, listing negligence, causation, and resulting injury (including physical harm) as required elements. That formulation reflects the general Massachusetts negligence principle that liability arises when a party breaches a duty of care and thereby causes injury. Although the case is in the specific context of negligent infliction of emotional distress, it clearly affirms the breach-of-duty-plus-injury structure of negligence under Massachusetts law.",
+      "relevant_excerpt": "\u201cIn summary, we should that a plaintiff in order to recover for negligently inflicted emotional distress must prove the following: (1) negligence; (2) emotional distress; (3) causations; (4) physical harm manifested by objective symptomatology; and (5) that a reasonable person would have suffered emotional distress under the circumstances of the case.\u201d"
+    },
+    "See *Glidden v. Maglio*, 430 Mass. 694, 696-97 (2000) (\u201cA landowner or other responsible party has a duty of care to prevent foreseeably dangerous conditions that result in injury to lawful visitors.\u201d).": {
+      "raw_text": "See *Glidden v. Maglio*, 430 Mass. 694, 696-97 (2000) (\u201cA landowner or other responsible party has a duty of care to prevent foreseeably dangerous conditions that result in injury to lawful visitors.\u201d).",
+      "citation_type": "case",
+      "proposition": "At all relevant times, Defendant owed Plaintiff a duty to act reasonably to prevent harm.",
+      "is_valid": true,
+      "courtlistener_id": "6578006",
+      "case_name": "Glidden v. Maglio",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "medium",
+      "support_reasoning": "The opinion clearly proceeds on the assumption that, if a duty existed, it would be a duty to use reasonable care to prevent harm, and it frames plaintiffs\u2019 negligence burden in those terms. However, the court explicitly declines to decide whether the defendant in fact owed a duty of care to these plaintiffs as landowner/general contractor, and instead affirms summary judgment solely on lack of causation. Thus, the case supports the general negligence proposition (duty to act reasonably to prevent harm) but not the specific application that this defendant owed this plaintiff such a duty at all relevant times.",
+      "relevant_excerpt": "With respect to each such claim, the plaintiffs bear the burden of proving that the defendant committed a breach of the duty to use reasonable care, that the plaintiffs suffered actual loss, and that the defendant\u2019s negligence caused their loss. See Restatement (Second) of Torts \u00a7 281 (1965). ... Because the plaintiffs have failed to meet their burden on the issue of causation, we need not decide whether they presented sufficient evidence to show that the defendant owed a duty of care to them sufficient to survive the defendant\u2019s motion for summary judgment."
+    },
+    "M.G.L. c. 140, \u00a7 157": {
+      "raw_text": "M.G.L. c. 140, \u00a7 157",
+      "citation_type": "statute",
+      "proposition": "Defendant\u2019s conduct is governed by M.G.L. c. 140, \u00a7 157, which mandates that dog owners restrain and control their animals to prevent harm to others.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Newton City Ordinance 4-5": {
+      "raw_text": "Newton City Ordinance 4-5",
+      "citation_type": "statute",
+      "proposition": "Defendant also violated Newton City Ordinance 4-5, which requires that dogs be leashed in public parks.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "See *Poskus v. Lombardo\u2019s of Randolph, Inc.*, 423 Mass. 637, 640-41 (1996) (\u201cThe foreseeability of the harm is the key touchstone of liability for negligence.\u201d).": {
+      "raw_text": "See *Poskus v. Lombardo\u2019s of Randolph, Inc.*, 423 Mass. 637, 640-41 (1996) (\u201cThe foreseeability of the harm is the key touchstone of liability for negligence.\u201d).",
+      "citation_type": "case",
+      "proposition": "It was foreseeable that Defendant\u2019s failure to leash and control his dog in a public park would cause an ordinary person, including Plaintiff, to take evasive action and potentially sustain harm.",
+      "is_valid": true,
+      "courtlistener_id": "6577181",
+      "case_name": "Poskus v. Lombardo's of Randolph, Inc.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "medium",
+      "support_reasoning": "The cited text from Poskus concerns foreseeability as a limit on negligence liability, but the concurrence excerpt you provided only states that the plaintiff\u2019s injuries were not within the reasonably foreseeable risk of harm created by the defendant\u2019s negligence, in the specific context of a parking lot/keys-in-ignition scenario. It does not address, even by analogy, foreseeability of harm from an unleashed dog in a public park or the foreseeability of evasive action by a plaintiff. Thus, as presented, the opinion does not affirm the specific proposition about dogs and evasive action, though it does speak more generally about foreseeability as a touchstone of negligence.",
+      "relevant_excerpt": "\"I concur in the view that \u2018[t]he facts would not warrant a jury\u2019s finding that the plaintiff\u2019s injuries were within the reasonably foreseeable risk of harm created by Lombardo\u2019s negligence.\u2019 Ante at 640-641.\""
+    }
+  }
+}

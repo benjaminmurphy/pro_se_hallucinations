@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_008_06.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an Existing Order entered June 15, 2020 providing joint legal custody, Petitioner as primary residential parent, and Respondent with substantial weekend residential time including Sunday overnights (see \u00b63.1)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifies the requested changes: (a) award Petitioner final (or exclusive day-to-day) decision-making authority over Emily\u2019s school attendance and educational matters, and (b) eliminate or limit Respondent\u2019s Sunday overnight parenting time during the school year or otherwise reduce school-night overnights (see \u00b65.1 and Requested Relief \u00b68.2\u20138.3)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete factual changes since entry of the Order: at entry Emily attended school regularly (\u00b66.1) but over the past year Respondent has repeatedly kept Emily home on Mondays after his weekends without medical excuses (\u00b66.2\u20136.3), refused tutoring/educational appointments during his time (\u00b66.5), and these actions have produced truancy warnings and declining grades/test scores (\u00b66.4). Petitioner also alleges attempted good-faith resolution (\u00b66.6)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint ties the alleged conduct to harm to Emily\u2019s welfare and educational stability (\u00b66.4\u20136.7) and expressly frames the requested relief as necessary to protect Emily\u2019s educational stability and best interests (\u00b65.1, \u00b67.2\u20137.4, \u00b68.1\u20138.4). These allegations present a factual basis that the proposed modifications are sought to serve the child\u2019s best interests."
+    }
+  }
+}

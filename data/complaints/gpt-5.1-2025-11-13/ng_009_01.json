@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_009_01",
+  "category": "negligence",
+  "model": "gpt-5.1-2025-11-13",
+  "plaintiff": "Jane Doe",
+  "defendant": "ABC Realty Management"
+}

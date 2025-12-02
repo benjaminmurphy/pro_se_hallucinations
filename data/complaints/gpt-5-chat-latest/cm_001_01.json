@@ -1,0 +1,7 @@
+{
+  "scenario_id": "cm_001_01",
+  "category": "custody_modification",
+  "model": "gpt-5-chat-latest",
+  "petitioner": "Laura Johnson",
+  "respondent": "Mark Thompson"
+}

@@ -1,0 +1,41 @@
+{
+  "complaint_file": "ng_004_06.txt",
+  "scenario_id": "ng_004_06",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts Rules of Civil Procedure, Mass. R. Civ. P. 8(a), 10(a), 11 (pleading and signature requirements).": {
+      "raw_text": "Massachusetts Rules of Civil Procedure, Mass. R. Civ. P. 8(a), 10(a), 11 (pleading and signature requirements).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon Massachusetts common law principles of negligence and premises liability and applicable Massachusetts statutes and rules, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, ch. 260, \u00a7 2A (statute of limitations for tort actions).": {
+      "raw_text": "Massachusetts General Laws, ch. 260, \u00a7 2A (statute of limitations for tort actions).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon Massachusetts common law principles of negligence and premises liability and applicable Massachusetts statutes and rules, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_006_08",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "plaintiff": "Maria Lopez",
+  "defendant": "John Harrison"
+}

@@ -1,0 +1,41 @@
+{
+  "complaint_file": "cm_001_02.txt",
+  "scenario_id": "cm_001_02",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 208": {
+      "raw_text": "Mass. Gen. Laws ch. 208",
+      "citation_type": "statute",
+      "proposition": "Plaintiff brings this Complaint under the authority of the Probate and Family Court to modify custody and parenting time orders where warranted by a material and substantial change in circumstances affecting the children\u2019s welfare (see Mass. Gen. Laws ch. 208 and other applicable law).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 jurisdictional rules applicable to child custody in Massachusetts).": {
+      "raw_text": "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 jurisdictional rules applicable to child custody in Massachusetts).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 jurisdictional rules applicable to child custody in Massachusetts).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

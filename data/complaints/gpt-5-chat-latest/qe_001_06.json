@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_001_06",
+  "category": "landlord_tenant",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jasmine Reed",
+  "defendant": "Mark Thompson"
+}

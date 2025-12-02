@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_008_03.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff is a tenant at 15 Mystic Street, Defendant is the owner/landlord and lessor of the rental unit, and Plaintiff pays monthly rent since May 1, 2022 (\u00b6\u00b62\u20135). These factual allegations establish a landlord-tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant retained control/responsibility over common areas (\u00b66) and repeatedly failed to repair the broken main entry latch/lock after being notified (\u00b6\u00b67\u20139, 14, 19), which constitutes an omission by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges actual intrusions/theft (unknown person entered, tenants' packages taken, Plaintiff's package stolen) and evidence of unauthorized overnight occupancy in the basement, causing fear for personal safety and loss of use; she incurred out-of-pocket security expenses \u2014 facts that plausibly allege a material/substantial interference with quiet enjoyment (\u00b6\u00b610\u201313, 15, 20)."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges the insecure main entry (unrepaired after notice) allowed an unknown person to enter and steal packages and to occupy the basement; she links the theft, safety fears, and security expenditures directly to Defendant's failure to secure/repair the door (\u00b6\u00b67\u201311, 13, 19\u201320), which adequately pleads causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint specifies actual damages: stolen package (~$120), security camera and deadbolt (~$200), plus emotional distress, inconvenience, and loss of use; it also states an estimated total ($320) and seeks further relief (\u00b6\u00b611, 13, 21\u201322). These allegations adequately plead damages."
+    }
+  }
+}

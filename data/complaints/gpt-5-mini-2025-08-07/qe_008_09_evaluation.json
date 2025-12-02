@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_008_09.txt",
+  "scenario_id": "qe_008_09",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant)",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction and venue are proper in the Chelsea District Court under Massachusetts law because the premises are located in Chelsea and the cause of action arises from the landlord-tenant relationship concerning the rented premises (see Mass. Gen. Laws ch. 186 (Landlord and Tenant); Mass. Gen. Laws ch. 239 (Summary Process jurisdiction and remedies)).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary Process jurisdiction and remedies)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary Process jurisdiction and remedies)",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction and venue are proper in the Chelsea District Court under Massachusetts law because the premises are located in Chelsea and the cause of action arises from the landlord-tenant relationship concerning the rented premises (see Mass. Gen. Laws ch. 186 (Landlord and Tenant); Mass. Gen. Laws ch. 239 (Summary Process jurisdiction and remedies)).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 (Massachusetts State Sanitary Code provisions and minimum standards applicable to residential premises, bearing on landlord obligations to maintain premises in fit and habitable condition)": {
+      "raw_text": "105 CMR 410.000 (Massachusetts State Sanitary Code provisions and minimum standards applicable to residential premises, bearing on landlord obligations to maintain premises in fit and habitable condition)",
+      "citation_type": "statute",
+      "proposition": "See generally Mass. Gen. Laws ch. 186 (Landlord and Tenant); Restatement (Second) of Property: Landlord & Tenant \u00a7 5.1 (covenant of quiet enjoyment); 105 CMR 410.000 (Massachusetts State Sanitary Code provisions and minimum standards applicable to residential premises, bearing on landlord obligations to maintain premises in fit and habitable condition).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A (Massachusetts Consumer Protection Act)": {
+      "raw_text": "Mass. Gen. Laws ch. 93A (Massachusetts Consumer Protection Act)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 93A (Massachusetts Consumer Protection Act) \u2014 cited for general purposes regarding unfair or deceptive practices where applicable facts are presented to a court (not pleaded here as a separate claim).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 143 (Building regulations and enforcement)": {
+      "raw_text": "Mass. Gen. Laws ch. 143 (Building regulations and enforcement)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 143 (Building regulations and enforcement) \u2014 for obligations relating to building safety and maintenance.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

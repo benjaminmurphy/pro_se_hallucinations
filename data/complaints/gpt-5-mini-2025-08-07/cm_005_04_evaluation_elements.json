@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_005_04.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly identifies an Existing Order dated March 15, 2022 detailing joint legal custody, primary residence with Plaintiff, an alternating-weekend visitation schedule, and a non-disparagement/support-the-relationship provision."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint seeks concrete relief: affirmation/clarification of primary physical custody with Plaintiff, an enforceable extracurricular/scheduling protocol (14-day notice/consent and dispute-resolution mechanism), prohibition of disparagement, counseling requirements, and temporary orders \u2014 all described in Counts II\u2013III and the Prayer for Relief."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges post\u2011order, recurring unilateral conduct by Defendant (signing children up for activities during Plaintiff\u2019s parenting time), repeated disparaging statements to the children, resulting child distress (including transition-day stomach aches) and increased parental conflict that impair stability and co\u2011parenting \u2014 facts plausibly alleging a material and substantial change affecting the children\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint links the alleged conduct and children\u2019s emotional/physical symptoms to harm to the children, asserts the requested orders are needed to protect stability and well\u2011being, and pleads statutory/best\u2011interests factors (safety, emotional needs, continuity, effect of parental conduct), which together sufficiently allege the modification is in the children\u2019s best interests."
+    }
+  }
+}

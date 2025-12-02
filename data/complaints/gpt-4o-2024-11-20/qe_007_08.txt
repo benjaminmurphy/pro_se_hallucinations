@@ -1,0 +1,110 @@
+```plaintext
+COMMONWEALTH OF MASSACHUSETTS  
+CAMBRIDGE DISTRICT COURT  
+
+___________________________________________  
+EMILY CARTER,  
+      Plaintiff,  
+
+v.  
+                                                      Civil Action No. __________  
+MARCUS GREENFIELD,  
+      Defendant.  
+___________________________________________  
+
+COMPLAINT  
+
+Plaintiff Emily Carter, by and through herself, files this Complaint against Defendant Marcus Greenfield and alleges as follows:
+
+### INTRODUCTION
+
+1. This is an action for breach of the covenant of quiet enjoyment pursuant to Massachusetts General Laws, Chapter 186, § 14, arising out of substantial and unreasonable interference with Plaintiff’s use and enjoyment of her leased premises at 123 Maple Street, Cambridge, MA. The interference was caused by ongoing, disruptive construction activities in the unit adjacent to Plaintiff’s apartment, which have seriously affected her ability to use and enjoy her home as intended.
+
+---
+
+### PARTIES
+
+2. Plaintiff Emily Carter is an individual residing at 123 Maple Street, Cambridge, MA, where she has been a tenant since June 1, 2022.  
+
+3. Defendant Marcus Greenfield is an individual and the landlord and record owner of the property located at 123 Maple Street, Cambridge, MA.
+
+---
+
+### JURISDICTION AND VENUE
+
+4. This Court has jurisdiction over this matter pursuant to Massachusetts General Laws, Chapter 218, § 19.  
+
+5. Venue is proper in this Court because the property at issue is located in Cambridge, Massachusetts, and the acts giving rise to this Complaint occurred within this district.  
+
+---
+
+### FACTUAL ALLEGATIONS
+
+6. Plaintiff entered into a written lease agreement with Defendant on or about June 1, 2022, to lease the property at 123 Maple Street, Cambridge, MA, for a monthly rent of $2,200.  
+
+7. Since on or about October 1, 2025, Defendant has undertaken extensive and intrusive construction work in the unit adjacent to Plaintiff’s apartment.  
+
+8. The construction involves loud and persistent noises, including drilling, hammering, and the loud conversations of construction workers, which occur daily from approximately 8:00 AM to 5:00 PM on weekdays.  
+
+9. The ongoing noise has interfered with Plaintiff’s peaceful use and enjoyment of her home, particularly as Plaintiff works from home and must make regular work-related phone calls that require a quiet environment.  
+
+10. In addition to the noise, construction dust from the adjacent unit enters Plaintiff's apartment through the ventilation system, creating additional discomfort and health concerns.  
+
+11. Defendant informed Plaintiff of the planned renovations prior to their commencement, yet the ongoing disruption has continued for two months, with no clear end in sight.  
+
+12. While Defendant offered Plaintiff a $100 rent reduction for one month, this offer does not adequately compensate for the significant disturbance Plaintiff has endured for an extended period.  
+
+13. The actions and omissions of Defendant have substantially and unreasonably interfered with Plaintiff’s use and enjoyment of her leased premises, in violation of Massachusetts General Laws, Chapter 186, § 14.  
+
+---
+
+### COUNT I  
+**BREACH OF THE COVENANT OF QUIET ENJOYMENT**  
+
+14. Plaintiff re-alleges and incorporates by reference the allegations in paragraphs 1 through 13 above as if fully set forth herein.  
+
+15. Pursuant to Massachusetts General Laws, Chapter 186, § 14, every residential lease includes an implied covenant of quiet enjoyment, which guarantees tenants the right to use and enjoy their leased premises free from substantial interference by their landlord.  
+
+16. Defendant’s actions and omissions, including permitting prolonged, loud, and disruptive construction activities in the adjacent unit and failing to adequately address and mitigate the resulting noise and dust, constitute a breach of the covenant of quiet enjoyment.  
+
+17. Massachusetts courts have consistently held that landlords violate the covenant of quiet enjoyment when they engage in or allow substantial and unreasonable interference with tenants’ use and enjoyment of their homes. See, e.g., **Simon v. Solomon**, 385 Mass. 91, 100-101 (1982) (landlord’s actions causing significant noise and disturbance constituted a breach); **Al-Ziab v. Mourgis**, 424 Mass. 847 (1997) (landlords required to ensure tenant’s quiet enjoyment even during construction).  
+
+18. The substantial interference caused by Defendant’s construction activities has rendered Plaintiff’s living situation stressful, unhealthy, and unsuitable for her needs, particularly because Plaintiff relies on her apartment as a quiet workplace.  
+
+19. Plaintiff has endured constant disruptions and harm to her quality of life since October 2025 as a direct result of Defendant’s failure to fulfill his obligations under Massachusetts law.  
+
+20. As a result of Defendant’s breach of the covenant of quiet enjoyment, Plaintiff has suffered damages, including but not limited to emotional distress, diminished rental value of the premises, and disruption to her professional life.  
+
+---
+
+### PRAYER FOR RELIEF  
+
+WHEREFORE, Plaintiff Emily Carter respectfully requests that this Honorable Court grant the following relief:  
+
+A. A judgment in favor of Plaintiff finding that Defendant has breached the covenant of quiet enjoyment under Massachusetts General Laws, Chapter 186, § 14;  
+
+B. An award of damages in an amount to be determined at trial, but no less than $2,000, for Plaintiff’s economic and non-economic losses caused by Defendant’s actions;  
+
+C. Attorneys’ fees and costs pursuant to Massachusetts General Laws, Chapter 186, § 14;  
+
+D. Any other relief that this Court deems just and equitable.  
+
+---
+
+### DEMAND FOR JURY TRIAL  
+
+Plaintiff demands a trial by jury on all issues so triable.  
+
+---
+
+Respectfully submitted,  
+Dated: December 1, 2025  
+
+/s/ Emily Carter  
+Emily Carter  
+Plaintiff, Pro Se  
+123 Maple Street  
+Cambridge, MA 02139  
+Phone: (617) 555-0123  
+Email: psm1433@gmail.com  
+```

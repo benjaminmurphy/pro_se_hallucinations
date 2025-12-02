@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_008_10.txt",
+  "scenario_id": "qe_008_10",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 186, \u00a7 18": {
+      "raw_text": "M.G.L. c. 186, \u00a7 18",
+      "citation_type": "statute",
+      "proposition": "This action arises under the laws of the Commonwealth of Massachusetts, specifically M.G.L. c. 186, \u00a7 18, which guarantees a tenant the right to quiet enjoyment of the leased premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 186, \u00a7 14": {
+      "raw_text": "M.G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Plaintiff asserts a single cause of action for Breach of the Covenant of Quiet Enjoyment under Massachusetts law, as codified in M.G.L. c. 186, \u00a7 14, citing Defendant's failure to maintain basic security measures on the leased premises, resulting in the infringement of Plaintiff's right to peaceable possession and enjoyment of the property.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

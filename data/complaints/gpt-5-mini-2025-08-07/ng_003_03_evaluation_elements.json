@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_003_03.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/operated/controlled the Premises and that Plaintiff was a lawful invitee on the premises, and it pleads a duty to exercise reasonable care to keep the premises safe and warn of known/should-have-been-known hazards (\u00b6\u00b62,5,14). These factual allegations adequately establish a duty to invitees."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint includes specific factual allegations that heavy boxed appliances were stacked five to six high and were not secured by straps, guards, barriers, netting, shelf lips or other restraints and lists specific acts/omissions (\u00b6\u00b66,15(a)\u2013(e)). Those facts adequately plead a breach of the alleged duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that because the merchandise was not properly secured, a boxed toaster-oven fell from near the top of the shelving after another customer bumped a lower shelf and struck Plaintiff (\u00b6\u00b67\u20138). Those allegations plausibly show that but for the failure to secure the boxes, the falling box and resulting injury would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the injury followed directly from the unsecured heavy merchandise and expressly pleads that the risk of falling boxes and striking customers was foreseeable (\u00b6\u00b68,16\u201317). The hazard and injury are a foreseeable and direct consequence of the alleged conduct, satisfying proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges immediate symptoms, an emergency diagnosis of a mild concussion and shoulder strain, medical treatment and approximately $1,500 in medical expenses, approximately $800 in lost wages, and non\u2011economic harms such as pain and suffering and loss of enjoyment of life (\u00b6\u00b610\u201311,21). These factual allegations adequately plead actual damages."
+    }
+  }
+}

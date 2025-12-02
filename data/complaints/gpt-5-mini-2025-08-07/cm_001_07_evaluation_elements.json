@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_001_07.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 4 expressly alleges a prior court custody and parenting\u2011time order dated May 15, 2021 awarding shared custody with a defined overnight schedule."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 8.b(i)\u2013(iii) and the relief sections state specific changes requested (overnights only when Respondent is off work, convert conflicting overnights to daytime parenting time, advance notice requirement, and restrictions on third\u2011party caregivers)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 6.a\u20136.g allege a concrete, post\u2011order change: the Respondent took night\u2011shift work that conflicts with scheduled overnights, resulting in exhaustion, missed visits, use of a roommate as caregiver, and impacts on the children's stability and safety\u2014facts that sufficiently plead a material and substantial change in circumstances."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Paragraph 7 (and supporting factual allegations in \u00b66) alleges the requested modification is necessary for appropriate supervision, uninterrupted sleep, consistent routines, and safety, tying the changed circumstances to the children\u2019s welfare and the best\u2011interests standard."
+    }
+  }
+}

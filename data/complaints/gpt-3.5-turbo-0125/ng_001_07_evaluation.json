@@ -1,0 +1,28 @@
+{
+  "complaint_file": "ng_001_07.txt",
+  "scenario_id": "ng_001_07",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 218, Section 3.": {
+      "raw_text": "Massachusetts General Laws Chapter 218, Section 3.",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 218, Section 3.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

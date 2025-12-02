@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_003_06.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads a prior Probate & Family Court custody order dated September 15, 2021, establishing shared legal custody with primary physical residence with Plaintiff and weekend visitation with Defendant (and attaches a certified copy as Exhibit A)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies concrete modifications sought: immediate temporary suspension or supervision of overnight visitation, permanent requirement of supervised visits or suspension of overnights until Defendant demonstrates sobriety (with specified evaluation/testing/treatment conditions), supervised exchanges, and school reporting \u2014 all clearly pleaded."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific factual changes since the 2021 Order: child statements about 'special drinks' and Defendant being unable to 'walk straight,' a neighbor video showing Defendant stumbling while removing the child late at night, and school reports of Monday drowsiness and reduced engagement. Those allegations are pleaded as new facts materially affecting the child's safety, health, and welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint connects the alleged facts (child's fear/fatigue, video of impairment, school impacts) to risks to the child's physical safety, emotional well\u2011being, and school functioning and expressly requests modifications and protective conditions as necessary to protect Ethan's best interests."
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_010_04.txt",
+  "scenario_id": "ng_010_04",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "- Massachusetts General Laws, ch. 260, \u00a72A (statute of limitations for actions of tort for injury to the person).": {
+      "raw_text": "- Massachusetts General Laws, ch. 260, \u00a72A (statute of limitations for actions of tort for injury to the person).",
+      "citation_type": "statute",
+      "proposition": "(Authoritative materials on Massachusetts negligence and premises liability principles relied on generally in negligence cases; Plaintiff cites these authorities for the general legal standards of duty, breach, causation, and damages. Plaintiff intends to rely upon controlling Massachusetts statutes and caselaw at trial and reserves the right to develop additional authorities in discovery and as the case progresses.)\n\nStatutes\n- Massachusetts General Laws, ch. 260, \u00a72A (statute of limitations for actions of tort for injury to the person).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Massachusetts General Laws, ch. 231, various provisions governing civil actions and venue.": {
+      "raw_text": "- Massachusetts General Laws, ch. 231, various provisions governing civil actions and venue.",
+      "citation_type": "statute",
+      "proposition": "(Authoritative materials on Massachusetts negligence and premises liability principles relied on generally in negligence cases; Plaintiff cites these authorities for the general legal standards of duty, breach, causation, and damages. Plaintiff intends to rely upon controlling Massachusetts statutes and caselaw at trial and reserves the right to develop additional authorities in discovery and as the case progresses.)\n\nStatutes\n- Massachusetts General Laws, ch. 231, various provisions governing civil actions and venue.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Donoghue v. Stevenson, [1932] A.C. 562 (House of Lords) \u2014 foundational duty principle.": {
+      "raw_text": "- Donoghue v. Stevenson, [1932] A.C. 562 (House of Lords) \u2014 foundational duty principle.",
+      "citation_type": "case",
+      "proposition": "Leading Cases (general negligence and premises liability authorities relied upon in Massachusetts and beyond)\n- Donoghue v. Stevenson, [1932] A.C. 562 (House of Lords) \u2014 foundational duty principle.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) \u2014 foreseeability and proximate cause principles.": {
+      "raw_text": "- Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) \u2014 foreseeability and proximate cause principles.",
+      "citation_type": "case",
+      "proposition": "Leading Cases (general negligence and premises liability authorities relied upon in Massachusetts and beyond)\n- Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) \u2014 foreseeability and proximate cause principles.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion is a leading authority on foreseeability as a limitation on duty and liability in negligence, which is a core component of general negligence doctrine and is frequently cited nationwide, including in Massachusetts, for foreseeability and proximate cause principles. Cardozo\u2019s analysis focuses on the relational nature of negligence and the need for reasonably foreseeable risk to the plaintiff, which fits the proposition that Palsgraf is a leading case on foreseeability and proximate cause in negligence and premises-type situations.",
+      "relevant_excerpt": "\u201cThe risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension\u2026 Negligence, like risk, is thus a term of relation. Negligence in the abstract, apart from things related, is surely not a tort\u2026 If the harm was not willful, he must show that the act as to him had possibilities of danger so many and apparent as to entitle him to be protected\u2026 The law of causation, remote or proximate, is thus foreign to the case before us.\u201d"
+    }
+  }
+}

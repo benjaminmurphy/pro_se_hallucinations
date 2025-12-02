@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_001_09.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges an existing custody order entered by this Court on June 15, 2020 establishing joint legal custody with Plaintiff as primary physical custodian and specified parenting time for Defendant (\u00b6\u00b6 1.2, 4.1)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint requests concrete changes to the Existing Order \u2014 limiting Defendant\u2019s overnight parenting to nights he is off work, converting overnights to daytime when he worked night shift, requiring 48-hour advance written confirmation (with failure to confirm voiding overnights), interim suspension of overnights when shift ends within 12 hours, weekly work schedule disclosure, and related interim relief (\u00b6\u00b6 7.3, 8.1\u20138.4)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific factual changes since the Existing Order: Defendant took a night-shift job (approx. 7 p.m.\u20137 a.m.) that conflicts with scheduled overnights; he arrives exhausted, has dropped children off on short notice or left them with unfamiliar adults, and reportedly falls asleep while supervising them, causing disruption to routines and creating safety risks (\u00b6\u00b6 5.1\u20135.6, 7.2). These factual allegations adequately allege a material and substantial change affecting the children."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint ties the asserted change to the children\u2019s safety, welfare, stability, and schooling (\u00b6\u00b6 5.5, 7.2) and seeks modifications and interim orders to protect those interests (\u00b6\u00b6 8.1\u20138.4). Those factual allegations and requested remedies sufficiently plead that the modification is sought in the children\u2019s best interests."
+    }
+  }
+}

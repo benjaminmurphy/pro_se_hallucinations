@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_002_10",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "plaintiff": "Jordan Williams",
+  "defendant": "Laura Smith"
+}

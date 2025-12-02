@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_007_01.txt",
+  "scenario_id": "cm_007_01",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "M.G.L. c. 208, \u00a7 28 (Modification of Custody Order)": {
+      "raw_text": "M.G.L. c. 208, \u00a7 28 (Modification of Custody Order)",
+      "citation_type": "statute",
+      "proposition": "4.1 The Plaintiff respectfully requests that this Court modify the existing custody order to grant primary physical custody of the minor child, Emily Thompson, to the Plaintiff, Rachel Thompson, with the Defendant, Daniel Thompson, having a modified visitation schedule that ensures the safety and well-being of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Baccanti v. Morton, 434 Mass. 787 (2001)": {
+      "raw_text": "Baccanti v. Morton, 434 Mass. 787 (2001)",
+      "citation_type": "case",
+      "proposition": "2.2 Subsequently, there has been a material change in circumstances affecting the best interests of the child as outlined herein.",
+      "is_valid": true,
+      "courtlistener_id": "6578338",
+      "case_name": "Baccanti v. Morton",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition concerns a material change in circumstances affecting the best interests of a child, a standard typically relevant to modification of custody or parenting orders. Baccanti v. Morton addresses property division, premarital assets, and classification/division of employee stock options in a divorce, not post-judgment changes in circumstances or best-interest analyses for custody modification. The opinion contains no discussion of a subsequent material change in circumstances affecting a child\u2019s best interests, so it does not support the claimed proposition.",
+      "relevant_excerpt": "He granted both parties legal custody of Sean and the wife physical custody. He ordered the husband to pay alimony and child support to the wife. As to the assets, the judge awarded each party approximately an equal amount. ... The husband has appealed from the judgment, challenging certain aspects of the division of the marital estate."
+    },
+    "Mason v. Coleman, 414 Mass. 537 (1993)": {
+      "raw_text": "Mason v. Coleman, 414 Mass. 537 (1993)",
+      "citation_type": "case",
+      "proposition": "2.2 Subsequently, there has been a material change in circumstances affecting the best interests of the child as outlined herein.",
+      "is_valid": true,
+      "courtlistener_id": "2243627",
+      "case_name": "Adoption of Kimberly",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition concerns a \u2018subsequent material change in circumstances affecting the best interests of the child.\u2019 Mason v. Coleman is an initial termination-of-parental-rights/adoption-consent case; it does not involve a modification proceeding, a prior custody or visitation order, or analysis of whether later events constituted a material change in circumstances. The court evaluates current parental unfitness and best interests on the existing record, but does not articulate or apply any \u2018material change\u2019 standard, so it does not support the specific proposition cited.",
+      "relevant_excerpt": "\u201cIn order to remove children permanently from a natural parent and to dispense with parental consent to adoption under G. L. c. 210, \u00a7 3, the judge must find, by clear and convincing evidence, that the parent is currently unfit to further the welfare and best interests of the child. \u2026 Because of the evidence of Bob\u2019s abuse, the mother\u2019s continuing relationship with Bob, and the children\u2019s improvement since living with the grandparents, the judge\u2019s findings and disposition of these cases were not clearly erroneous.\u201d"
+    }
+  }
+}

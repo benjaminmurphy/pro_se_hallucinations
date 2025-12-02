@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_004_01.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff rented the Premises from Defendant beginning June 1, 2022 and pays $1,200/month; Defendant is identified as owner/landlord of 123 Elm Street\u2014facts establishing a landlord-tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads affirmative and omission conduct: Defendant placed a few snap traps, hired one exterminator visit but refused recommended comprehensive/ongoing treatment, and dismissed complaints\u2014adequately alleging landlord acts/omissions."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges recurring weekly rodent droppings, contamination of food requiring disposal, expense for storage, reluctance to cook/eat, anxiety, and diminished use of the kitchen\u2014facts that, if proven, plausibly amount to substantial interference with quiet enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint links the continuing infestation and resulting harms to Defendant's refusal to authorize comprehensive extermination and failure to remediate after notice, alleging the landlord's conduct caused the ongoing interference."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific economic damages (approx. $200 for discarded food and $80 for storage containers = $280) and non-economic damages (anxiety, loss of use and enjoyment), satisfying the damages element."
+    }
+  }
+}

@@ -1,0 +1,235 @@
+COMMONWEALTH OF MASSACHUSETTS  
+SPRINGFIELD DISTRICT COURT  
+HAMPDEN COUNTY  
+
+------------------------------------------------------  
+EMILY CARTER,  
+    Plaintiff,  
+
+v.                                               
+                                                   
+JOHN THOMPSON,  
+    Defendant.  
+------------------------------------------------------  
+
+CIVIL ACTION NO. ___________  
+
+COMPLAINT  
+(Breach of Covenant of Quiet Enjoyment – G.L. c. 186, § 14)  
+
+Plaintiff Emily Carter, for her complaint against Defendant John Thompson, states as follows:
+
+---
+
+### I. PARTIES
+
+1. Plaintiff Emily Carter (“Plaintiff”) is an individual residing in Springfield, Hampden County, Massachusetts.
+
+2. Defendant John Thompson (“Defendant”) is, upon information and belief, an individual residing in Massachusetts and the owner and/or manager of the residential rental property located at 123 Maple Street, Springfield, MA 01103 (the “Premises”), where Plaintiff resides as a tenant.
+
+---
+
+### II. JURISDICTION AND VENUE
+
+3. This action arises under Massachusetts landlord-tenant law, including but not limited to the covenant of quiet enjoyment codified at G.L. c. 186, § 14.
+
+4. The amount in controversy is less than $50,000 and consists of actual and statutory damages arising from the deprivation of use of a portion of Plaintiff’s apartment and related losses.
+
+5. Venue is proper in the Springfield District Court pursuant to G.L. c. 223, §§ 1, 2, because the Premises are located in Springfield, Hampden County, Massachusetts, and the events giving rise to this action occurred there.
+
+6. Jurisdiction is proper pursuant to G.L. c. 218, § 19, because this is a civil action within the jurisdictional limits of the District Court Department, and the claims arise out of a residential lease of real property located within this Court’s territorial jurisdiction.
+
+---
+
+### III. FACTUAL ALLEGATIONS
+
+7. On or about August 1, 2022, Plaintiff entered into a residential tenancy for the Premises, located at 123 Maple Street, Springfield, MA 01103.
+
+8. Plaintiff has continuously resided at the Premises since on or about August 1, 2022, and has at all relevant times been a lawful tenant.
+
+9. Plaintiff’s rent is $1,600 per month, payable to Defendant.
+
+10. The Premises is a two-bedroom apartment. One of the bedrooms was used by Plaintiff as a home office for work.
+
+11. In or around mid-October 2025, one of the bedrooms (the room used as Plaintiff’s home office) lost electrical service. The overhead light and all electrical outlets in that room stopped working (the “Electrical Condition”).
+
+12. The remainder of the apartment continued to have electrical service; the loss of electricity was confined to that bedroom.
+
+13. Plaintiff promptly notified Defendant of the Electrical Condition.  
+
+14. Defendant arranged for an electrician to inspect the problem. The electrician informed Plaintiff and/or Defendant that the problem required a more substantial repair to the wiring in that room and/or to building systems, and was not a simple, quick fix.
+
+15. Defendant acknowledged to Plaintiff that the repair would be more involved and that he was obtaining quotes for the work. Defendant stated that it was “complicated” because the building has old wiring.
+
+16. Despite knowing of the complete loss of electrical service in the bedroom and the electrician’s recommendation for a more extensive repair, Defendant failed to timely make the necessary repairs to restore electricity to that room.
+
+17. As of the date of this Complaint, on or about December 1, 2025, the Electrical Condition has existed for approximately six weeks, and Plaintiff has been unable to use that bedroom.
+
+18. Because the bedroom has no working outlets or overhead light, Plaintiff cannot safely or practically use the room for its intended purpose as an office or bedroom, including for work, reading, computer use, or storage requiring power.
+
+19. The loss of electricity in that room is a material interference with Plaintiff’s use and enjoyment of a substantial portion of the Premises.
+
+20. As a direct result of Defendant’s failure to timely correct the Electrical Condition, Plaintiff has been forced to vacate the bedroom entirely and move her office furniture, equipment, and supplies into the living room.
+
+21. The relocation of Plaintiff’s work space into the living room has substantially cluttered and crowded the remainder of the apartment, reducing Plaintiff’s ability to use her living space for normal daily activities and making the Premises uncomfortable and substantially less livable.
+
+22. Because she can no longer use the bedroom as a home office, Plaintiff has been compelled to work from outside locations, including coffee shops, in order to have a functional workspace with electricity and internet.
+
+23. Plaintiff has incurred daily out-of-pocket expenses for coffee and food at such locations, averaging approximately $15 per day during the period when the bedroom has been unusable.
+
+24. In addition, Plaintiff has paid for a coworking space membership at $150 per month during this period in order to have a functional workspace with adequate electricity and internet access.
+
+25. The Electrical Condition, and Defendant’s failure to promptly repair it, has deprived Plaintiff of the use of a bedroom/home office that constitutes a substantial and important part of the leased Premises.
+
+26. The deprivation of the room has caused Plaintiff economic damages, inconvenience, disruption to her work, and substantial interference with her quiet enjoyment of the Premises.
+
+27. Plaintiff has remained current in her rent obligations throughout the existence of the Electrical Condition.
+
+28. Defendant has had ample time and notice to undertake and complete the necessary repairs to restore electricity to the affected bedroom.
+
+29. Nevertheless, for approximately six weeks preceding the date of this Complaint, Defendant has failed to correct the Electrical Condition and has failed to restore full electrical service to the bedroom.
+
+30. The Electrical Condition and Defendant’s inaction constitute an interference with Plaintiff’s tenancy that is serious enough to impair the character and value of the tenancy and substantially interfere with Plaintiff’s quiet enjoyment of the Premises.
+
+---
+
+### IV. LEGAL BACKGROUND
+
+31. Massachusetts law implies into every residential lease a covenant of quiet enjoyment, protecting the tenant from serious interference with the tenancy by the landlord or by persons acting under the landlord’s authority. G.L. c. 186, § 14.
+
+32. G.L. c. 186, § 14 provides, in relevant part, that a landlord shall not “directly or indirectly interfere with the quiet enjoyment of any residential premises by the occupant,” and that a landlord who does so shall be liable for “actual and consequential damages or three months’ rent, whichever is greater,” as well as reasonable attorney’s fees and costs.
+
+33. The covenant of quiet enjoyment can be breached by acts or omissions of the landlord that result in a serious and substantial interference with the tenant’s use of the premises, including failure to remedy conditions affecting the tenant’s use of essential portions of the apartment. See, e.g.:
+
+   a. **Blackett v. Olanoff**, 371 Mass. 714 (1977) (landlord’s actions that substantially interfere with tenants’ use and enjoyment of premises constitute breach of quiet enjoyment);
+
+   b. **Simon v. Solomon**, 385 Mass. 91 (1982) (repeated flooding and failure to repair constituted breach of quiet enjoyment and supported award of damages);
+
+   c. **Doe v. New Bedford Hous. Auth.**, 417 Mass. 273 (1994) (serious interferences with tenancy by landlord’s acts or omissions can constitute breach of quiet enjoyment);
+
+   d. **Al-Ziab v. Mourgis**, 424 Mass. 847 (1997) (breach of quiet enjoyment can arise from landlord’s failure to address serious conditions in premises);
+
+   e. **Jablonski v. Clemons**, 60 Mass. App. Ct. 473 (2004) (failure to correct defective conditions interfering with tenant’s use and enjoyment may establish liability under G.L. c. 186, § 14);
+
+   f. **Coveney v. President & Trustees of the College of the Holy Cross**, 388 Mass. 16 (1983) (discussing concept of quiet enjoyment and serious interferences);
+
+   g. **Hemingway v. Commonwealth**, 363 Mass. 184 (1973) (recognizing tenant protections where conditions substantially interfere with habitability and use);
+
+   h. **Lowery v. Robinson**, 13 Mass. App. Ct. 982 (1982) (landlord’s failure to remedy conditions may constitute violation of tenant protections);
+
+   i. **Brown v. LeClair**, 20 Mass. App. Ct. 976 (1985) (summary process and related claims recognizing remedies for serious interferences with tenancy);
+
+   j. **Haddad v. Gonzalez**, 410 Mass. 855 (1991) (recognizing availability of multiple forms of damages related to landlord misconduct).
+
+34. Serious deterioration of essential services, such as heat, water, or electricity, may constitute a breach of the covenant of quiet enjoyment when the landlord, with notice and reasonable opportunity, fails to remedy such conditions. See, e.g., **Simon v. Solomon**, 385 Mass. 91 (1982); **Blackett v. Olanoff**, 371 Mass. 714 (1977); **Al-Ziab v. Mourgis**, 424 Mass. 847 (1997).
+
+35. Massachusetts law also provides an implied warranty of habitability and incorporates state and local sanitary and building codes into residential leases. See **Berman & Sons, Inc. v. Jefferson**, 379 Mass. 196 (1979); G.L. c. 111, § 127L; 105 C.M.R. 410.000 et seq. While Plaintiff in this action asserts only a claim for breach of quiet enjoyment, those standards inform what constitutes a substantial impairment of a residential tenancy.
+
+36. Under **Berman & Sons, Inc. v. Jefferson**, 379 Mass. 196 (1979), material code violations or conditions that substantially impair the tenant’s use of the premises may justify rent abatement and damages. By analogy, the long-standing deprivation of a bedroom’s electrical service significantly impairs the value and use of the tenancy.
+
+37. Under **Blackett v. Olanoff**, 371 Mass. 714 (1977), the landlord may be liable for a breach of quiet enjoyment even when the interference arises from conditions the landlord fails to control or correct, where the landlord’s actions or omissions are a significant cause of the interference.
+
+38. Under G.L. c. 186, § 14, liability does not require a showing of malice or intent; a landlord’s neglect or failure to act, resulting in a substantial interference with the tenant’s use of the premises, is sufficient. See **Simon v. Solomon**, 385 Mass. at 108–09; **Al-Ziab v. Mourgis**, 424 Mass. at 850–52.
+
+39. Here, Defendant’s failure over approximately six weeks to restore electrical service to a bedroom that Plaintiff reasonably relied upon as a home office and essential living space constitutes a serious and substantial interference with Plaintiff’s tenancy within the meaning of G.L. c. 186, § 14 and the above-cited case law.
+
+---
+
+### V. CAUSE OF ACTION  
+**Breach of Covenant of Quiet Enjoyment (G.L. c. 186, § 14)**
+
+40. Plaintiff realleges and incorporates by reference paragraphs 1 through 39 as if fully set forth herein.
+
+41. At all relevant times, Defendant, as landlord and owner and/or manager of the Premises, owed Plaintiff a duty not to directly or indirectly interfere with Plaintiff’s quiet enjoyment of the Premises, as provided by G.L. c. 186, § 14 and Massachusetts common law.
+
+42. Plaintiff, as a residential tenant in good standing at the Premises, was entitled to the covenant of quiet enjoyment, protecting her right to use and enjoy the Premises without unreasonable or substantial interference caused by Defendant’s acts or omissions.
+
+43. Defendant had actual notice of the Electrical Condition in the bedroom, including that the overhead light and all outlets in that room had ceased to function, rendering the room unusable.
+
+44. An electrician, acting at Defendant’s request, inspected the room and determined that a more extensive repair to the wiring was required to restore electrical service.
+
+45. Defendant acknowledged that the repair was needed and represented that he was obtaining quotes and that the work was “complicated,” yet failed to take reasonable and timely steps to complete the necessary repairs.
+
+46. For approximately six weeks, Defendant failed to restore electricity to the bedroom, despite having both notice of the condition and sufficient time and opportunity to undertake repairs.
+
+47. The complete loss of electrical power in the bedroom is a serious condition that materially interferes with the use of that portion of the Premises for ordinary residential purposes, including work, study, storage of equipment requiring power, and safe occupancy.
+
+48. The affected bedroom comprised a substantial and important portion of the leased Premises, used by Plaintiff as a home office and intended for residential living.
+
+49. Defendant’s failure to timely and adequately repair the Electrical Condition, and to restore electricity to the bedroom, constitutes an indirect interference with Plaintiff’s tenancy and far exceeds minimal or trivial inconvenience.
+
+50. As in **Simon v. Solomon**, 385 Mass. 91, and **Blackett v. Olanoff**, 371 Mass. 714, Defendant’s continuing failure to correct a serious condition, when he had the ability and duty to do so, amounts to a breach of the covenant of quiet enjoyment.
+
+51. The Electrical Condition and Defendant’s inaction have deprived Plaintiff of the use and enjoyment of the bedroom and have significantly reduced the usable square footage and utility of the Premises.
+
+52. As a direct and proximate result of Defendant’s breach of the covenant of quiet enjoyment, Plaintiff has suffered actual and consequential damages, including but not limited to:
+
+   a. Loss of use of the bedroom/home office for approximately six weeks;
+
+   b. Out-of-pocket expenses for daily purchases at coffee shops (approximately $15 per day) to obtain a workable substitute office environment;
+
+   c. Payments for a coworking space membership at approximately $150 per month during the period in which the bedroom was unusable;
+
+   d. Loss of value of the tenancy and reduction in the fair rental value of the Premises due to the loss of a functional bedroom/home office;
+
+   e. Discomfort, inconvenience, and disruption to Plaintiff’s normal living arrangements and work activities.
+
+53. Under G.L. c. 186, § 14, Defendant is liable to Plaintiff for “actual and consequential damages or three months’ rent, whichever is greater,” due to his breach of the covenant of quiet enjoyment.
+
+54. Plaintiff’s monthly rent is $1,600, so three months’ rent totals $4,800.
+
+55. Plaintiff estimates her actual damages (including costs of alternative workspace and loss of use of the bedroom) to be at least approximately $900, and reserves the right to prove a greater amount at trial.
+
+56. Pursuant to G.L. c. 186, § 14, Plaintiff is entitled to recover, at a minimum, three months’ rent ($4,800) because that statutory amount is greater than her presently estimated actual damages.
+
+57. Under G.L. c. 186, § 14, Plaintiff is also entitled to recover reasonable attorney’s fees and costs. Although Plaintiff is currently self-represented, she seeks any attorney’s fees to which she may become entitled if she later retains counsel, as well as all allowable costs.
+
+---
+
+### VI. DAMAGES
+
+58. Plaintiff realleges and incorporates paragraphs 1 through 57 as if fully set forth herein.
+
+59. Plaintiff has been damaged in an amount to be proven at trial, but in no event less than the statutory minimum of three months’ rent under G.L. c. 186, § 14, plus costs, and any attorney’s fees to which she may become entitled.
+
+60. Plaintiff presently seeks damages in the approximate amount of $900 in actual and consequential damages, or three months’ rent ($4,800), whichever is greater, as provided by G.L. c. 186, § 14, plus costs and any applicable attorney’s fees.
+
+---
+
+### VII. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Emily Carter respectfully requests that this Honorable Court enter judgment in her favor and against Defendant John Thompson, and grant the following relief:
+
+A. A declaration that Defendant breached the covenant of quiet enjoyment under G.L. c. 186, § 14 by failing to timely repair the Electrical Condition and by substantially interfering with Plaintiff’s use and enjoyment of the Premises;
+
+B. An award of actual and consequential damages in an amount to be proven at trial, but in no event less than three months’ rent ($4,800) as required by G.L. c. 186, § 14, whichever is greater;
+
+C. An order that any sums due and owing to Plaintiff be offset against any rent claimed by Defendant in any related proceeding, to the extent permitted by law;
+
+D. An award of reasonable attorney’s fees and costs pursuant to G.L. c. 186, § 14, including any fees incurred if Plaintiff later retains counsel;
+
+E. Court costs and such other and further relief as this Court deems just and proper.
+
+---
+
+### VIII. JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+---
+
+Respectfully submitted,  
+
+PLAINTIFF,  
+EMILY CARTER,  
+Pro Se  
+
+  
+_________________________________  
+Emily Carter  
+123 Maple Street  
+Springfield, MA 01103  
+Telephone: (617) 555-0123  
+Email: psm1433@gmail.com  
+
+Dated: December 1, 2025

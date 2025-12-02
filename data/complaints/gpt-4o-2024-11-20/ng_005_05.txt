@@ -1,0 +1,109 @@
+Below is a properly formatted legal complaint for your case, drafted for filing in Hampden County Superior Court. This document contains all required sections, including factual allegations, causes of action, a prayer for relief, and appropriate citations under Massachusetts negligence law. Always proofread, ensure accuracy of facts, and consult with an attorney or legal aid clinic before filing. 
+
+---
+
+**COMMONWEALTH OF MASSACHUSETTS**  
+**HAMPDEN COUNTY SUPERIOR COURT**  
+
+**Carlos Martinez**  
+Plaintiff,  
+v.  
+**Thomas Reed**  
+Defendant.  
+
+**CIVIL COMPLAINT**  
+**Case No.:** _______________  
+
+**COMPLAINT AND JURY DEMAND**  
+
+**I. INTRODUCTION**  
+Plaintiff Carlos Martinez brings this negligence action against Defendant Thomas Reed for damages caused by Defendant’s negligent conduct. As a result of Defendant’s failure to exercise reasonable care, a ladder negligently left unsecured fell onto Plaintiff’s vehicle, causing significant property damage and financial harm.
+
+**II. PARTIES**  
+1. **Plaintiff** Carlos Martinez is an individual residing at 123 Maple Street, Springfield, Massachusetts.  
+2. **Defendant** Thomas Reed is an individual who resides at or is otherwise domiciled at 123 Maple Street (adjoining unit), Springfield, Massachusetts.
+
+**III. JURISDICTION AND VENUE**  
+3. This Court has jurisdiction over this matter pursuant to the Massachusetts General Laws (G.L. c. 212, § 3) because the amount in controversy exceeds $50,000.  
+4. Venue is proper in the Hampden County Superior Court pursuant to G.L. c. 223, § 1 because the incident giving rise to this Complaint occurred in Springfield, Massachusetts.
+
+**IV. FACTUAL ALLEGATIONS**  
+5. Defendant and Plaintiff are neighbors who share a common driveway at 123 Maple Street, Springfield, Massachusetts.  
+6. Defendant regularly stored a tall aluminum extension ladder unsecured, leaning against a wooden fence adjacent to Plaintiff’s parking area.  
+7. On multiple occasions prior to March 15, 2023, Plaintiff asked Defendant to secure the ladder or remove it, expressing concern that it might fall onto Plaintiff’s car during windy conditions.  
+8. Defendant assured Plaintiff that he would either tie down the ladder or move it but failed to take action.  
+9. On March 15, 2023, during a windy afternoon, the unsecured ladder fell as Plaintiff was backing his vehicle into the driveway, striking Plaintiff’s car.  
+10. The ladder caused significant damage to the hood and windshield of Plaintiff’s vehicle.  
+11. As a result of this incident, Plaintiff incurred monetary costs to repair the vehicle, including paying his insurance deductible and renting a car while the vehicle was under repair.  
+
+**V. CAUSE OF ACTION (NEGLIGENCE)**  
+12. Plaintiff incorporates by reference the allegations in the preceding paragraphs.  
+13. Under Massachusetts law, individuals have a duty to exercise reasonable care to avoid causing injury or damage to others. See *Jupin v. Kask*, 447 Mass. 141, 146 (2006).  
+14. Defendant owed Plaintiff a duty to secure any items placed near the shared driveway to avoid foreseeable risks of harm, including to Plaintiff’s vehicle. See *Dos Santos v. Coleta*, 465 Mass. 148, 154 (2013) (requiring reasonable precautions to guard against foreseeable risks).  
+15. Defendant breached that duty by:  
+   a. Failing to secure the ladder against falling in windy conditions;  
+   b. Failing to remove the ladder despite being warned of the risks it posed; and  
+   c. Otherwise negligently storing or maintaining the ladder in an unsafe condition.  
+16. Plaintiff’s economic injuries, including repair costs and rental car expenses, were a direct and proximate result of Defendant’s breach of duty. See *Walker v. Town of Franklin*, 416 Mass. 291, 293 (1993) (proximate causation established where harm was a foreseeable result of negligence).  
+17. Defendant’s conduct reflects a failure to adhere to standards of reasonable care under the circumstances, as required under Massachusetts negligence law. See *Raunela v. Hertz Corp.*, 361 Mass. 341, 346 (1972) (standard of reasonable care depends on the circumstances).  
+18. Plaintiff has suffered damages directly caused by Defendant’s negligence, including but not limited to:  
+   a. Vehicle repair costs;  
+   b. Insurance deductible payments;  
+   c. Rental car expenses; and  
+   d. Other out-of-pocket costs resulting from the incident.  
+
+**VI. DAMAGES**  
+19. Plaintiff sustained actual damages as a result of Defendant’s negligence, which include:  
+   a. Repair costs of approximately $2,500 for vehicle damage;  
+   b. Insurance deductible payments of $500;  
+   c. Car rental expenses of $400.  
+20. Plaintiff reserves the right to amend this Complaint to include additional damages as they become known during the course of litigation.  
+
+**VII. PRAYER FOR RELIEF**  
+WHEREFORE, Plaintiff Carlos Martinez respectfully requests that this Honorable Court enter judgment against Defendant Thomas Reed and award the following relief:  
+1. Compensatory damages in an amount sufficient to fully compensate Plaintiff for the expenses, costs, and other financial losses directly and proximately caused by Defendant's negligence, in an amount to be proven at trial;  
+2. Prejudgment interest pursuant to G.L. c. 231, § 6B;  
+3. Costs of this action pursuant to G.L. c. 261, § 1; and  
+4. Any other relief that this Court deems just and proper.  
+
+**VIII. JURY DEMAND**  
+Plaintiff demands a trial by jury on all issues so triable.  
+
+Respectfully submitted,  
+
+**Carlos Martinez**  
+Pro Se Plaintiff  
+
+**Contact Information:**  
+Carlos Martinez  
+123 Maple Street  
+Springfield, MA, 01103  
+(617) 555-0123  
+psm1443@gmail.com  
+
+Dated: December 1, 2025  
+
+---
+
+**CERTIFICATE OF SERVICE**  
+I hereby certify that on December 1, 2025, I sent a copy of the foregoing Complaint to the Defendant via certified mail to his residence at 123 Maple Street, Springfield, MA.  
+
+Carlos Martinez  
+___Signature___  
+Pro Se Plaintiff  
+
+---
+
+### Legal Citations Summary:
+1. *Jupin v. Kask*, 447 Mass. 141, 146 (2006) – general duty of reasonable care.  
+2. *Dos Santos v. Coleta*, 465 Mass. 148, 154 (2013) – precautions against foreseeable risks.  
+3. *Walker v. Town of Franklin*, 416 Mass. 291, 293 (1993) – proximate causation.  
+4. *Raunela v. Hertz Corp.*, 361 Mass. 341, 346 (1972) – standard of reasonable care.  
+5. G.L. c. 212, § 3 – jurisdiction in Superior Court for cases exceeding $50,000.  
+6. G.L. c. 223, § 1 – proper venue for actions where the cause of action arose.  
+7. G.L. c. 231, § 6B – prejudgment interest.  
+8. G.L. c. 261, § 1 – costs of litigation.  
+
+--- 
+
+**Important Note:** When filing, ensure you attach all required filing fees and materials per Hampden County Superior Court’s procedural rules.

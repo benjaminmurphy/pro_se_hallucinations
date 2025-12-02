@@ -1,0 +1,137 @@
+COMMONWEALTH OF MASSACHUSETTS
+WORCESTER DISTRICT COURT
+Worcester Division
+
+JESSICA TAYLOR,                       )
+    Plaintiff                         )
+                                      )
+v.                                    )    CIVIL ACTION NO. ____________
+                                      )
+EMILY RODRIGUEZ,                      )
+    Defendant                         )
+                                      )
+
+COMPLAINT — NEGLIGENCE
+
+NOW COMES the Plaintiff, Jessica Taylor, and for her Complaint against the Defendant, Emily Rodriguez, alleges as follows:
+
+PARTIES, JURISDICTION AND VENUE
+
+1. Plaintiff Jessica Taylor is an individual residing at [address withheld for privacy], reachable at (617) 555-0123 and by email at psm1443@gmail.com.
+
+2. Defendant Emily Rodriguez is the owner of the residential property located at 123 Maple St, Worcester, Massachusetts 01603 (the “Property”). On information and belief, Defendant is an individual who conducts business and owns real property in Worcester County.
+
+3. This action arises out of injuries Plaintiff sustained on February 10, 2023 at or near the public sidewalk abutting 123 Maple St, Worcester, MA 01603. Venue is proper in the Worcester District Court pursuant to the Massachusetts venue statutes and rules because the occurrence and the Defendant’s property are located in Worcester County.
+
+4. This Court has subject matter jurisdiction over this civil matter pursuant to Massachusetts law. Plaintiff seeks damages in an amount within the jurisdictional limits of the Worcester District Court.
+
+FACTUAL ALLEGATIONS
+
+5. On or about February 10, 2023, there was a snowstorm in Worcester, Massachusetts that deposited snow upon sidewalks and other surfaces in the City of Worcester.
+
+6. Defendant owns the three-unit apartment building located at 123 Maple St, Worcester, MA (the “Building”). The Defendant, as owner of the Building, had responsibility for and control over the maintenance of the sidewalk immediately adjacent to the Building.
+
+7. In the days following the snowstorm, Defendant shoveled a narrow path down the middle of the sidewalk in front of the Building but did not apply salt, sand, or any de-icing material to the path or the adjacent sidewalk surfaces.
+
+8. Because the Defendant did not apply any melting or abrasive material (salt, sand, or similar), and because daytime thawing followed by nighttime refreezing occurred, the narrow cleared path became covered with a sheet of ice over the next couple of days.
+
+9. On February 10, 2023, Plaintiff Jessica Taylor was lawfully upon the sidewalk in front of the Building delivering groceries to one of the tenants. She walked on the sidewalk in the customary and expected manner.
+
+10. As Plaintiff traversed the sidewalk path that had been cleared but left untreated, she stepped onto the sheet of ice, her feet slid out from under her, and she fell backward, landing forcefully on her lower back.
+
+11. After the fall, tenants of the Building informed Plaintiff that they had previously texted and sent photographic images of the icy condition to the Defendant and had warned the Defendant about the hazardous ice. The tenants reported that Defendant’s response to the tenants was to the effect that “the sun will take care of it.”
+
+12. As a direct and proximate result of Defendant’s failure to take reasonable measures to remove the hazardous icy condition or to warn invitees about the danger, Plaintiff sustained personal injuries — specifically a lower back injury — for which she required medical treatment.
+
+13. As a further direct and proximate result of Defendant’s negligence, Plaintiff incurred approximately $2,500.00 in medical expenses and lost approximately $800.00 in wages due to missed work. Plaintiff continues to suffer pain and disability from the fall and reserves the right to claim additional damages for future medical care, lost wages, pain and suffering, and other losses.
+
+COUNT I — NEGLIGENCE (Duty; Breach; Causation; Damages)
+
+14. Plaintiff repeats and realleges paragraphs 1 through 13 as if set forth fully herein.
+
+15. As owner of the Building and the person in control of the premises and the adjacent sidewalk, Defendant owed a duty to lawful invitees, including Plaintiff, to exercise reasonable care in the maintenance of the sidewalk and to prevent the creation of hazards and/or to warn of known hazards. See Restatement (Second) of Torts § 343; Mass. R. Civ. P. 8(a) (general pleading of claim for relief).
+
+16. The duty included a duty to use reasonable care under the circumstances to remove or to abate dangerous conditions caused by snow and ice or, at a minimum, to reasonably warn lawful invitees of a hazardous condition that the Defendant knew or reasonably should have known existed. See Restatement (Second) of Torts §§ 343, 343A (conditions on land); see also Prosser, Keeton on Torts (delete & replace) (general principles of premises liability).
+
+17. Defendant breached that duty by negligently failing to use reasonable care to render the sidewalk reasonably safe after the snowstorm: Defendant cleared only a narrow path and failed to apply salt, sand, or other de-icing material, permitting the cleared path to freeze into a sheet of ice; and Defendant failed to take reasonable steps to warn invitees of the dangerous icy condition despite having been informed of it by tenants and having been shown photographs of the ice.
+
+18. Defendant’s conduct as alleged above was negligent, careless, and in violation of the duty owed to Plaintiff, and such conduct proximately caused Plaintiff’s injuries.
+
+19. As a direct and proximate result of the Defendant’s negligence, Plaintiff suffered the following damages:
+   a. Medical expenses in the approximate amount of $2,500.00;
+   b. Lost wages in the approximate amount of $800.00;
+   c. Pain, suffering, disability, and emotional distress in an amount to be determined at trial;
+   d. Other consequential damages and costs as will be proven at trial.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in her favor and against Defendant Emily Rodriguez as follows:
+
+A. Awarding compensatory damages for medical expenses (approximately $2,500.00), lost wages (approximately $800.00), and general damages for pain and suffering, in an amount to be proven at trial;
+
+B. Awarding pre-judgment and post-judgment interest as allowed by law;
+
+C. Awarding costs and such other relief as this Court deems just and proper.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff hereby demands a trial by jury on all issues so triable.
+
+APPLICABLE AUTHORITIES (selected)
+
+Plaintiff relies on the general law of negligence and premises liability, including but not limited to the following authorities and principles:
+
+Statutes and Rules
+- Mass. R. Civ. P. 8(a) (general rules of pleading).
+- Mass. R. Civ. P. 10(a) (caption).
+- Mass. R. Civ. P. 11 (signature and certification).
+- Mass. Gen. Laws ch. 260, § 2A (limitations — actions for personal injury; generally three-year statute of limitations).
+- Local venue rules concerning Worcester District Court (venue statutes and court rules).
+
+Restatement and Treatises
+- Restatement (Second) of Torts § 343 (liability for physical harm caused by dangerous conditions on land).
+- Restatement (Second) of Torts § 343A (liability for risk created by artificial conditions and inactions).
+- Restatement (Second) of Torts § 282 (foreseeability and negligent causation).
+- W. Page Keeton et al., Prosser and Keeton on Torts (5th ed. and later) (authoritative treatise on premises liability and negligence).
+
+Representative Cases (general tort law and premises-liability principles; classic and persuasive authority)
+- MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916) (expansion of duty principles).
+- Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (foreseeability and proximate cause).
+- Rowland v. Christian, 69 Cal.2d 108 (1968) (general duty of care principles in premises liability).
+- (Plaintiff will rely on Massachusetts precedent addressing duty, breach, foreseeability, and proximate causation in premises liability and slip-and-fall matters as developed by the Massachusetts courts and as may be cited in briefing and at trial.)
+
+Plaintiff intends to rely on applicable Massachusetts cases addressing premises liability and duty owed by property owners to invitees, and will present such authority at trial and in motions and briefs as required.
+
+(End of authorities list)
+
+Signature and Verification
+
+Dated: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jessica Taylor
+_________________________________
+Jessica Taylor
+Plaintiff, Pro Se
+(617) 555-0123
+psm1443@gmail.com
+
+Address for Service:
+123 Maple St
+Worcester, MA 01603
+
+Certificate of Service
+I hereby certify that a true copy of this Complaint was served upon Defendant Emily Rodriguez by [personal service/mail/other permissible method under court rules] on [date of service to be inserted].
+
+/s/ Jessica Taylor
+_________________________________
+Jessica Taylor
+
+Notes and Important Information for the Court and Defendant:
+- Plaintiff requests that the Clerk issue and schedule this matter for all necessary proceedings in the Worcester District Court.
+- Plaintiff is proceeding pro se. Plaintiff will comply with all applicable court rules regarding service, filing, scheduling, and pretrial procedures.
+
+(End of Complaint)
+
+IMPORTANT NOTICE: Plaintiff is proceeding pro se in this matter. The foregoing complaint sets forth the factual allegations, claims, and damages that Plaintiff currently asserts. Plaintiff expects to rely at trial on Massachusetts common-law principles of negligence and premises liability, the Restatement (Second) of Torts on landowner duties, and applicable Massachusetts statutes and cases. Plaintiff may identify and cite additional Massachusetts decisions and statutes in subsequent filings and at trial to support the negligence claim as the case develops.

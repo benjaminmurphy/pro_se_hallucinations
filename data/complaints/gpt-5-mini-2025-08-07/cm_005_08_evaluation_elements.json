@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_005_08.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly identifies an existing custody order entered April 15, 2021 and describes its terms (joint legal custody; children primarily reside with Petitioner with every-other-weekend visits to Respondent) (\u00b64, \u00b67)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint clearly specifies the relief requested: primary physical custody to Petitioner, restrictions/clarification of unilateral extracurricular scheduling, mutual non\u2011disparagement, enforceable procedures for scheduling/exchanges, and related orders (\u00b66, \u00b616, \u00b617)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a concrete, recent and continuing change (since late 2024\u20132025): Respondent repeatedly enrolling children in activities during Petitioner\u2019s parenting time without notice or agreement, disparaging the Petitioner to the children, and resulting harm (at least one child with recurrent stomach aches). It also alleges this conduct was not contemplated by the 2021 order (\u00b68\u201312). Those factual allegations adequately plead a material and substantial change affecting the children\u2019s welfare. "
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint ties the requested modifications to the children\u2019s health and welfare\u2014asserting reduced conflict, increased stability, protection from disparagement, and addressing demonstrated emotional/physical symptoms\u2014and seeks narrowly tailored remedies to protect the children (\u00b612\u201315, \u00b617). Those allegations adequately plead that the modifications are in the children\u2019s best interests."
+    }
+  }
+}

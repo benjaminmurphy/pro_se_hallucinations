@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_001_03.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/controlled the store premises, that Plaintiff was a business invitee in the dairy aisle, and pleads the ordinary common-law duty (and Massachusetts authority) that a possessor of land must keep premises reasonably safe and warn invitees of known or constructively known hazards."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a substantial puddle of milk in a customer aisle with visible cart tracks, absence of any warnings or barriers, and an employee approximately 15 feet away who admitted noticing the spill \"a few minutes ago\" but took no remedial action\u2014facts that plausibly plead failure to remedy or warn."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff specifically alleges she stepped into the puddle, slipped and fell onto her hip, and later was diagnosed with a hip sprain; these factual allegations connect the fall to the spilled milk and plead that the injury would not have occurred but for the hazardous puddle and Defendant's failure to address it."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads that allowing an unmarked puddle in a customer aisle foreseeably creates a risk that customers will slip and be injured, and it expressly alleges that Defendant's breach was a proximate cause of the fall and resulting harms\u2014facts sufficient at pleading stage to allege foreseeability and proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges concrete damages including a medical diagnosis (hip sprain), approximately $1,200 in medical expenses, approximately $1,500 in lost wages, physical therapy, and pain, suffering and loss of enjoyment of life."
+    }
+  }
+}

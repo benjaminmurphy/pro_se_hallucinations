@@ -1,0 +1,129 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**ESSEX COUNTY**  
+**LYNN DISTRICT COURT**  
+
+---
+
+**JENNA MITCHELL**,  
+Plaintiff,  
+
+v.                                                Civil Action No. _______
+
+**LYNN APARTMENT MANAGEMENT LLC**,  
+Defendant.  
+
+---
+
+### COMPLAINT AND JURY DEMAND  
+*(Negligence – Personal Injury and Property Damage)*
+
+Plaintiff, **Jenna Mitchell**, by way of complaint against **Lynn Apartment Management LLC**, alleges the following:
+
+---
+
+### I. PARTIES
+
+1.  Plaintiff, Jenna Mitchell (“Plaintiff”), is an individual residing at 100 Maple Street, Third Floor, Lynn, Massachusetts 01905.  
+2.  Defendant, Lynn Apartment Management LLC (“Defendant”), is a Massachusetts limited liability company with a principal place of business upon information and belief in Lynn, Massachusetts, engaged in the ownership, management, and maintenance of residential rental properties, including the premises located at 100 Maple Street, Lynn, Massachusetts 01905.
+
+---
+
+### II. JURISDICTION AND VENUE
+
+3.  This Court has jurisdiction over this matter pursuant to **G.L. c. 218, § 19**, and **G.L. c. 223A, § 3**, because the Defendant transacts business and owns property in Lynn, within Essex County, and the acts and omissions complained of occurred therein.  
+4.  Venue is proper in this Court pursuant to **Mass. R. Civ. P. 3** and **G.L. c. 223, § 1**, because the events giving rise to this action occurred in Lynn, Massachusetts.
+
+---
+
+### III. FACTUAL ALLEGATIONS
+
+5.  Plaintiff resides in a third-floor apartment located at 100 Maple Street, Lynn, Massachusetts (“the Premises”), owned and managed by Defendant.  
+6.  The smoke detectors in the common hallways of the Premises are under the exclusive control, maintenance, and responsibility of Defendant.  
+7.  For several months prior to September 15, 2023, the smoke detector located in the third-floor hallway outside Plaintiff’s unit emitted intermittent “chirping” sounds indicating a low battery condition.  
+8.  Ultimately, an unknown person removed the battery from this hallway smoke detector and placed it on a nearby windowsill, rendering the detector inoperative.  
+9.  Plaintiff repeatedly notified Defendant—on at least three separate occasions—of the non-functioning smoke detector and the unsafe condition it created.  
+10.  Despite these repeated notifications, Defendant failed to timely repair or replace the battery or the alarm unit, and left the hallway without an operational smoke detection device.  
+11.  On or about **September 15, 2023**, a kitchen fire broke out in a first-floor apartment of the Premises.  
+12.  Because the third-floor hallway detector was not functional, Plaintiff received no audible warning of the fire.  
+13.  Plaintiff became aware of the fire only after detecting the smell of smoke, by which time the hallway outside her apartment was already filled with heavy smoke.  
+14.  Plaintiff attempted to evacuate but inhaled significant smoke in the process and experienced acute difficulty breathing.  
+15.  As a direct and proximate result, Plaintiff was transported to the hospital and treated for smoke inhalation, incurring approximately **$4,500** in medical expenses.  
+16.  Plaintiff also lost approximately **$1,200** in wages during her recovery.  
+17.  Additionally, numerous items of Plaintiff’s personal property sustained smoke and water damage.  
+18.  Defendant’s failure to maintain a functioning smoke detector created an unreasonably dangerous condition in violation of the Massachusetts State Fire Code (527 CMR 1.00 et seq.) and applicable housing safety requirements.  
+19.  Defendant’s omissions, inaction, and disregard for the known defective condition constituted negligence and a breach of its duty of care to Plaintiff.
+
+---
+
+### IV. CAUSE OF ACTION – NEGLIGENCE
+
+20.  Plaintiff realleges and incorporates by reference Paragraphs 1 through 19 as if fully set forth herein.  
+21.  Defendant owed Plaintiff a legal duty to exercise reasonable care in maintaining common areas and safety devices in the Premises, including ensuring that hallways were equipped with properly functioning smoke detectors in compliance with governing statutes and codes. See **Mounsey v. Ellard**, 363 Mass. 693, 707 (1973) (landlord owes duty of reasonable care to lawful occupants); **Young v. Garwacki**, 380 Mass. 162, 169 (1980) (landlord’s duty of reasonable care applies to common areas).  
+22.  Defendant’s duty arises under both common law and applicable statutes and regulations, including **G.L. c. 143, §§ 3–4**, the **Massachusetts State Building Code (780 CMR)**, and the **State Fire Code (527 CMR 1.00)**, which collectively require that smoke detection systems in multi-unit residences be properly installed, maintained, and operable.  
+23.  Defendant breached its duty by:  
+    a. Failing to replace the smoke detector battery or otherwise repair the detector after actual notice of its nonfunctioning condition;  
+    b. Failing to conduct reasonable inspections of the premises as required by law;  
+    c. Permitting an unsafe and defective condition to exist and persist; and  
+    d. Failing to take remedial steps in a timely manner once aware of the hazard.  
+24.  Defendant’s omissions and negligence directly and proximately caused Plaintiff’s injuries, losses, and damages. See **Jablonski v. Casey**, 64 Mass. App. Ct. 744, 751 (2005) (landlord liable for failure to maintain safe premises after notice of defect).  
+25.  The harm suffered by Plaintiff was foreseeable and of the kind likely to result from Defendant’s negligent maintenance of fire safety equipment. See **Poskus v. Lombardo's of Randolph, Inc.**, 423 Mass. 637, 639–40 (1996) (foreseeability defines scope of duty).  
+26.  The breach of Defendant’s statutory and regulatory obligations constitutes evidence of negligence. See **Bennett v. Eagle Brook Country Store, Inc.**, 408 Mass. 355, 359 (1990) (statutory violation as evidence of negligence); **Ulwick v. DeChristopher**, 411 Mass. 401, 406 (1991).  
+27.  Plaintiff, exercising due care for her own safety, was injured as a direct result of Defendant’s negligence. See **Miller v. Federated Dep’t Stores, Inc.**, 364 Mass. 340, 343–44 (1973) (landlord liability for negligent maintenance of safety devices); **Papadopoulos v. Target Corp.**, 457 Mass. 368, 376 (2010).  
+28.  Defendant’s conduct violated Plaintiff’s right to safe and habitable premises under the **implied warranty of habitability**, as recognized in **Boston Hous. Auth. v. Hemingway**, 363 Mass. 184, 199 (1973), further evidencing the negligent failure to maintain habitability standards.  
+29.  As a result of Defendant’s negligence, Plaintiff suffered serious personal injuries, medical expenses, wage loss, property damage, pain and suffering, and emotional distress, all to her detriment. See **Griffiths v. Campbell**, 425 Mass. 31, 33 (1997) (damages recoverable for personal injury and economic loss resulting from negligence).
+
+---
+
+### V. DAMAGES
+
+30.  As a direct and proximate result of Defendant’s negligence, Plaintiff has sustained:
+   - Medical expenses of approximately **$4,500**;  
+   - Lost wages of approximately **$1,200**;  
+   - Property damage to personal belongings;  
+   - Pain and suffering, emotional distress, and loss of enjoyment of life.  
+31.  Plaintiff continues to experience respiratory discomfort and anxiety associated with the incident.
+
+---
+
+### VI. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment in her favor and against Defendant, and:
+
+A. Award compensatory damages in an amount to be determined at trial, but reasonably estimated at **not less than $25,000**, plus interest and costs;  
+B. Award her reasonable costs of suit and pre- and post-judgment interest pursuant to **G.L. c. 231, § 6B**;  
+C. Grant such other and further relief as this Court deems just and proper.
+
+---
+
+### VII. JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+---
+
+**Respectfully submitted,**  
+**JENNA MITCHELL**, Plaintiff  
+pro se  
+
+Date: **December 1, 2025**
+
+**Signature:** ___________________________  
+Jenna Mitchell  
+100 Maple Street, Apt. 3  
+Lynn, MA 01905  
+Tel: (617) 555-0123  
+Email: psm1443@gmail.com  
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I, Jenna Mitchell, hereby certify that on this date I mailed (or will cause to be served) a true copy of the foregoing Complaint by first-class mail upon Defendant, Lynn Apartment Management LLC, at its principal business address in Lynn, Massachusetts.
+
+Date: **December 1, 2025**  
+Signature: ___________________________  
+Jenna Mitchell  
+
+---
+
+*End of Complaint*

@@ -1,0 +1,41 @@
+{
+  "complaint_file": "cm_007_10.txt",
+  "scenario_id": "cm_007_10",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 208, Section 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 208, Section 28, which provides that the Probate and Family Court shall have jurisdiction over actions for modification of custody orders.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 223, Section 3": {
+      "raw_text": "Massachusetts General Laws Chapter 223, Section 3",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Norfolk County pursuant to Massachusetts General Laws Chapter 223, Section 3, as the minor child subject to the custody order resides in Norfolk County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

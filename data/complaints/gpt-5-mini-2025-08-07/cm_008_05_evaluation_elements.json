@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_008_05.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly identifies an Existing Custody Order entered April 15, 2022, and recites its material terms (joint legal custody, Plaintiff as primary residential parent, Defendant\u2019s substantial weekend parenting time including Sunday overnights, and mutual obligation to cooperate on school matters)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifies requested relief: (a) award Plaintiff final decision\u2011making authority over Emily\u2019s school attendance and related matters (tie\u2011breaker or exclusive), or alternatively (b) eliminate or substantially limit Defendant\u2019s Sunday night/school\u2011night overnights and reallocate weekend time (with interim relief options). It also lists ancillary relief (temporary orders, GAL/parenting coordinator, compliance requirements)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete, changed facts since the prior order: repeated unilateral Monday absences after Defendant\u2019s weekends without medical documentation, refusal to ensure attendance at agreed tutoring during his parenting time, resulting truancy warnings and declining grades/test scores. These factual allegations are pled as a continuing pattern that materially impacts Emily\u2019s schooling and welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint links the alleged changes to concrete harm to the child (truancy warnings, academic decline, missed remediation) and states that the requested modifications are necessary to protect Emily\u2019s health, education, and welfare. Those allegations, as pled, assert that the modification is in the child\u2019s best interests."
+    }
+  }
+}

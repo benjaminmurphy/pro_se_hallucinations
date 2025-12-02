@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_002_05.txt",
+  "scenario_id": "ng_002_05",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 4,
+  "statute_citations": 1,
+  "valid_citations": 4,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 4,
+  "citations": {
+    "G.L. c. 218, \u00a7 19": {
+      "raw_text": "G.L. c. 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to G.L. c. 218, \u00a7 19, and venue is proper in Newton District Court because the negligence and resulting injuries occurred in Newton, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "See *Poskus v. Lombardo's of Randolph, Inc.*, 423 Mass. 637, 639 (1996) (stating that foreseeability of harm is a critical element in determining negligence).": {
+      "raw_text": "See *Poskus v. Lombardo's of Randolph, Inc.*, 423 Mass. 637, 639 (1996) (stating that foreseeability of harm is a critical element in determining negligence).",
+      "citation_type": "case",
+      "proposition": "Defendant knew or should have known that his actions in failing to restrain his dog could cause a reasonably foreseeable injury, such as Plaintiff's.",
+      "is_valid": true,
+      "courtlistener_id": "6577181",
+      "case_name": "Poskus v. Lombardo's of Randolph, Inc.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "medium",
+      "support_reasoning": "The provided excerpt from the concurrence in Poskus discusses foreseeability in terms of whether the plaintiff\u2019s injuries were within the reasonably foreseeable risk of harm, but it does not address a defendant\u2019s knowledge or duty regarding failing to restrain a dog, nor does it clearly articulate the broader negligence principle claimed. The proposition about a defendant knowing or having reason to know that failing to restrain his dog could foreseeably cause injury is not specifically supported by this text. The case concerns foreseeability generally, but the citation as used here is too context-specific to dog-restraint negligence to be accurate based on this excerpt alone.",
+      "relevant_excerpt": "\u201cI concur in the view that \u2018[t]he facts would not warrant a jury\u2019s finding that the plaintiff\u2019s injuries were within the reasonably foreseeable risk of harm created by Lombardo\u2019s negligence.\u2019 Ante at 640-641.\u201d"
+    },
+    "See *Jupin v. Kask*, 447 Mass. 141, 147 (2006) (discussing the duty to exercise reasonable care to prevent foreseeable injury).": {
+      "raw_text": "See *Jupin v. Kask*, 447 Mass. 141, 147 (2006) (discussing the duty to exercise reasonable care to prevent foreseeable injury).",
+      "citation_type": "case",
+      "proposition": "As a direct and proximate result of Defendant's breach of duty, Plaintiff suffered physical injuries, including a broken wrist, economic damages in the form of medical expenses and lost wages, and emotional distress and loss of enjoyment of life.",
+      "is_valid": true,
+      "courtlistener_id": "6579382",
+      "case_name": "Jupin v. Kask",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition concerns causation and the types of damages (physical injury, medical expenses, lost wages, emotional distress, and loss of enjoyment of life) resulting from a defendant\u2019s breach. Jupin v. Kask is cited here for duty and foreseeability; the court discusses the elements of negligence in general, but does not analyze or hold anything specific about proximate cause or the categories of damages listed. Thus, it does not provide authority for the specific causation-and-damages proposition claimed.",
+      "relevant_excerpt": "\u201cTo prevail on a negligence claim, a plaintiff must prove that the defendant owed the plaintiff a duty of reasonable care, that the defendant breached this duty, that damage resulted, and that there was a causal relation between the breach of the duty and the damage.\u201d"
+    },
+    "See *Glidden v. Maglio*, 430 Mass. 694, 696 (2000).": {
+      "raw_text": "See *Glidden v. Maglio*, 430 Mass. 694, 696 (2000).",
+      "citation_type": "case",
+      "proposition": "Massachusetts adheres to the general principle that individuals have a duty to use reasonable care to prevent harm to others, and Defendant's failure to do so constitutes negligence.",
+      "is_valid": true,
+      "courtlistener_id": "6578006",
+      "case_name": "Glidden v. Maglio",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion assumes the usual negligence framework (duty, breach, causation, damages) and cites secondary sources, but it does not articulate any broad, general Massachusetts principle that all individuals have a duty to use reasonable care to prevent harm to others. Instead, the court ultimately resolves the case on causation and expressly declines to decide whether the defendant owed a duty of care. Thus, it is not good authority for the broad proposition about a general duty of reasonable care or that defendant\u2019s failure to use such care constitutes negligence.",
+      "relevant_excerpt": "With respect to each such claim, the plaintiffs bear the burden of proving that the defendant committed a breach of the duty to use reasonable care, that the plaintiffs suffered actual loss, and that the defendant\u2019s negligence caused their loss. See Restatement (Second) of Torts \u00a7 281 (1965); J.R. Nolan & L.J. Sartorio, Tort Law \u00a7 204 (2d ed. 1989). Causation is an essential element of that proof.\n...\nBecause the plaintiffs have failed to meet their burden on the issue of causation, we need not decide whether they presented sufficient evidence to show that the defendant owed a duty of care to them..."
+    },
+    "See *LaClair v. Silberline Mfg. Co., Inc.*, 379 Mass. 21, 29 (1979) (violation of a statute or ordinance enacted for public safety may constitute evidence of negligence).": {
+      "raw_text": "See *LaClair v. Silberline Mfg. Co., Inc.*, 379 Mass. 21, 29 (1979) (violation of a statute or ordinance enacted for public safety may constitute evidence of negligence).",
+      "citation_type": "case",
+      "proposition": "Defendant's actions are also a violation of Newton's leash laws, which creates evidence of negligence per se.",
+      "is_valid": true,
+      "courtlistener_id": "2083180",
+      "case_name": "LaClair v. Silberline Manufacturing Co., Inc.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion does recognize that violation of a safety statute is evidence of negligence, but it does not use or adopt the phrase \"negligence per se,\" nor does it frame the violation as creating negligence per se. Instead, it states that such a violation is \"evidence of a violator\u2019s negligence\" and expressly notes it is not conclusive of civil liability. Thus, the case supports the more limited proposition that a safety-law violation is evidence of negligence, not that it constitutes negligence per se.",
+      "relevant_excerpt": "As has been frequently stated, a violation of a safety statute or like enactment, while not conclusive on the ultimate issue of civil liability, is evidence of a violator\u2019s negligence as to all consequences that the statute was intended to prevent. Perry v. Medeiros, 369 Mass. 836, 841 (1976). Underlying this rule is the general belief that the duties imposed by legislatively-prescribed conduct are normally reasonable ones to bear."
+    }
+  }
+}

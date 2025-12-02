@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_006_08.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges an existing custody and visitation order entered May 15, 2021 and summarizes its terms (Plaintiff has primary physical custody; Defendant has alternate weekends and one midweek visit)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint requests concrete modifications: prohibit the Defendant\u2019s partner from being present with the children, require all Defendant visitation be supervised by a court-approved or professional supervisor (with costs borne by Defendant), and alternatively requests other specified conditions (background checks, evaluations, temporary emergency relief)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads facts constituting a material and substantial change since the 2021 order: Defendant now cohabits with a new adult partner (not before the Court) who has a documented criminal history (assault/battery) and prior restraining order; children report exposure to loud/violent arguments, one incident of the partner grabbing a child leaving a visible mark, and a neighbor-called police response. These allegations plausibly show a changed custodial environment affecting the children\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the requested modifications are necessary to protect the children\u2019s physical and emotional safety (fear reported by children, physical mark, police intervention) and ties relief sought (supervision, exclusion of partner, evaluations) directly to protecting the children\u2019s best interests; plaintiff also offers to present supporting evidence and make mandatory 51A reports."
+    }
+  }
+}

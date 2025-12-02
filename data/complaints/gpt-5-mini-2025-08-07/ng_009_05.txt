@@ -1,0 +1,111 @@
+COMMONWEALTH OF MASSACHUSETTS
+TRIAL COURT
+LYNN DISTRICT COURT
+
+Jessica Carter,                              )
+     Plaintiff                              )
+                                            )
+v.                                          )    Civil Action No. ___________
+                                            )
+Lynn Apartments LLC,                        )
+     Defendant                              )
+                                            )
+
+COMPLAINT — NEGLIGENCE
+
+1. Parties, Jurisdiction, and Venue
+1.1 Plaintiff Jessica Carter (“Plaintiff” or “Carter”) is an individual residing at 123 Maple Street, Apartment 3, Lynn, Massachusetts.
+1.2 Defendant Lynn Apartments LLC (“Defendant” or “Lynn Apartments”) is a Massachusetts limited liability company that owns and operates the apartment building located at 123 Maple Street, Lynn, Massachusetts (the “Premises”).
+1.3 This Court has subject-matter jurisdiction under Massachusetts law because the events giving rise to this action occurred in Lynn, Massachusetts, and the amount claimed for damages is within the jurisdictional limits of the Lynn District Court.
+1.4 Venue is proper in this Court pursuant to Mass. R. Civ. P. 3(b) and the rules governing district court venue because the Premises and the parties are located in Lynn, Massachusetts, and the wrongful acts alleged occurred in Lynn.
+
+2. Nature of the Action
+2.1 This is an action in negligence to recover damages suffered by Plaintiff as a direct and proximate result of Defendant’s failure to maintain required and reasonably safe smoke detection and related life-safety systems in the common areas of the Premises.
+
+3. Facts
+3.1 At all times relevant to this Complaint, Plaintiff was a tenant residing on the third floor of the Premises at 123 Maple Street, Lynn, MA.
+3.2 Defendant owned, managed, controlled, and was responsible for maintenance of the common areas and life-safety systems of the Premises, including hallway smoke detectors, in the building where Plaintiff lived.
+3.3 For months prior to September 15, 2023, the smoke detector located in the third-floor common hallway immediately outside Plaintiff’s unit emitted repeated “chirping” sounds indicating a low battery.
+3.4 The battery for the hallway smoke detector was at some point removed (by a person or persons unknown) and the battery left on a windowsill in the common area so that the detector did not function as intended.
+3.5 Plaintiff informed Defendant on at least three separate occasions of the non-functioning/chirping smoke detector and that it required maintenance or replacement, and Defendant acknowledged the report and stated that he would “take care of it.”
+3.6 Defendant failed to remedy the defective/non-functioning hallway smoke detector before September 15, 2023.
+3.7 On September 15, 2023, a fire originated in a first-floor apartment (an accidental kitchen fire). Because the common-hallway smoke detector had no battery and was not operating, it did not sound to warn tenants upstairs.
+3.8 As a result, Plaintiff first noticed the emergency only when she smelled smoke and then encountered a hallway thick with smoke while attempting to evacuate.
+3.9 Plaintiff experienced acute respiratory distress and difficulty breathing during evacuation and was transported to the hospital, where she was treated and admitted overnight for smoke inhalation.
+3.10 Plaintiff incurred approximately $5,000 in medical expenses for treatment of her smoke inhalation and related care and lost approximately $1,200 in wages because of her hospitalization and recovery. Plaintiff’s personal property also sustained smoke and water damage (value of personal property losses to be proven at trial).
+3.11 The aforesaid injuries, damages, and losses were directly and proximately caused by Defendant’s negligence, as alleged below.
+
+4. Defendant’s Duties and Breach
+4.1 Defendant, as owner/manager of the Premises, owed tenants including Plaintiff a duty to exercise reasonable care in the maintenance, repair, and inspection of common areas and life-safety equipment (including smoke detectors) to protect tenants from reasonably foreseeable harm. See, e.g., Restatement (Second) of Torts §§ 285, 302B; see also Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause principles); Donoghue v. Stevenson, [1932] AC 562 (establishing general duty of care principle).
+4.2 Massachusetts law recognizes that landlords have a duty to maintain common areas and to repair dangerous conditions of which they had actual or constructive notice. See, e.g., MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916) (product of duty principle); and general landlord liability principles in Massachusetts cases recognizing landlord obligations to tenants and invitees, see, e.g., Alsip v. 275 Newbury Street Condominium Trust (see landlord maintenance duty principles cited by Massachusetts courts).
+4.3 Defendant breached the foregoing duties by failing to maintain, inspect, replace, or otherwise ensure the operation of the hallway smoke detector after being notified of its defective condition on at least three occasions, and by failing to ensure that common-area life-safety systems were functional.
+4.4 Defendant’s breach included the failure to take reasonable steps to correct a known dangerous condition (a non-functioning smoke detector), in contravention of the standard of care applicable to property owners and managers. See Restatement (Second) of Torts § 343 (dangerous conditions); see also Massachusetts authority recognizing landlord duty to remedy known hazards.
+
+5. Causation and Foreseeability
+5.1 The risk that a working smoke detector would provide early warning of smoke and fire, reducing the risk of injury from smoke inhalation, is a foreseeable consequence of failing to maintain a smoke detector. See Donoghue v. Stevenson, supra; Restatement (Second) of Torts § 286 (foreseeability).
+5.2 Defendant’s failure to maintain the smoke detector proximately caused Plaintiff’s injuries: had the smoke detector been operable it would likely have provided a timely alarm, enabling earlier evacuation and avoidance or mitigation of Plaintiff’s injuries, hospitalization, and property damage.
+5.3 The causal link between Defendant’s breach and Plaintiff’s damages is not broken by any superseding cause; rather, Defendant’s breach was a substantial factor in bringing about Plaintiff’s injuries. See Restatement (Second) of Torts § 431; Palsgraf, supra.
+
+6. Damages
+6.1 As a direct and proximate result of Defendant’s negligence, Plaintiff suffered bodily injury in the form of smoke inhalation requiring hospitalization and ongoing respiratory difficulty.
+6.2 Plaintiff incurred approximately $5,000 in medical expenses and approximately $1,200 in lost wages as a direct result of the incident. Plaintiff’s property losses from smoke and water damage are being investigated and will be proved at trial.
+6.3 Plaintiff also suffered pain and suffering, emotional distress, loss of enjoyment of life, and other general damages to be determined at trial.
+
+7. Claim for Relief — Negligence (Count I)
+7.1 Plaintiff incorporates by reference the allegations in paragraphs 1 through 6 as if fully set forth herein.
+7.2 Defendant owed Plaintiff a duty of reasonable care to maintain, inspect, and repair the common areas and life-safety equipment of the Premises, including hallway smoke detectors.
+7.3 Defendant breached that duty by failing to repair or replace the non-functioning smoke detector despite actual notice, by failing to ensure that the common-area smoke detection system was operational, and by otherwise failing to exercise reasonable care.
+7.4 As a direct and proximate result of Defendant’s breach, Plaintiff suffered the injuries and damages alleged above.
+7.5 WHEREFORE, Plaintiff demands judgment against Defendant on Count I for negligence, as set forth in the Prayer for Relief below.
+
+Authorities (Representative)
+The following authorities reflect the negligence principles, landlord duties, and proximate cause law applicable to the allegations in this complaint:
+Statutes and Regulations
+- Mass. Gen. Laws ch. 186 (Landlord and Tenant) (landlord duties and landlord-tenant relationships)
+- Mass. Gen. Laws ch. 148 (Buildings) (building and safety requirements)
+- Mass. Gen. Laws ch. 111 (Public Health) (public health and safety provisions)
+- Mass. Gen. Laws ch. 140 (Fire prevention and control statutes relevant to fire-safety requirements)
+- Regulations of the Massachusetts Department of Fire Services and local fire codes (fire detection and alarm requirements applicable to residential buildings)
+Restatement and Foundational Authorities
+- Restatement (Second) of Torts §§ 282, 283, 284, 285, 286, 287, 288, 302B, 343, 431 (restatement of negligence, duty, breach, causation, dangerous conditions, and duties to entrants)
+Leading Cases (illustrative)
+- Donoghue v. Stevenson, [1932] AC 562 (establishing general duty of care principle)
+- Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause/foreseeability)
+- Select Massachusetts decisions recognizing duty and landlord/owner liability and proximate cause principles (see, e.g., Massachusetts SJC decisions addressing negligence, landlord duties, and dangerous conditions)
+- Additional negligence/proximate cause cases: Restatement cases and authoritative tort decisions interpreting duty, notice, and landlord responsibility
+
+(Notes: Plaintiff cites the statutes and authorities above as illustrative of the governing legal principles of duty, notice, and proximate cause under Massachusetts law. Plaintiff will rely upon pertinent Massachusetts statutory and case authorities at trial, including SJC and Appeals Court decisions addressing landlord obligations to maintain common areas and life‑safety equipment and the elements of negligence, and respectfully requests that the Court take judicial notice of applicable statutes, regulations, and binding precedent relevant to the issues raised in this Complaint.)
+
+PRAYER FOR RELIEF
+WHEREFORE, Plaintiff Jessica Carter requests that this Court enter judgment in her favor and against Defendant Lynn Apartments LLC as follows:
+A. Compensatory damages for medical expenses in the approximate amount of $5,000;
+B. Compensatory damages for lost wages in the approximate amount of $1,200;
+C. Compensatory damages for property loss and damage in an amount to be proven at trial;
+D. Compensatory damages for pain and suffering, emotional distress, loss of enjoyment of life, and other general damages in an amount to be proven at trial;
+E. Costs, interest, and such other and further relief as the Court deems just and equitable.
+
+DEMAND FOR JURY TRIAL
+Plaintiff demands a trial by jury on all issues so triable.
+
+Respectfully submitted,
+
+/s/ Jessica Carter
+Jessica Carter
+123 Maple Street, Apt. 3
+Lynn, MA 01901
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+Pro Se Plaintiff
+
+Dated: December 1, 2025
+
+Certificate of Service
+I hereby certify that a true copy of the foregoing Complaint was served upon Lynn Apartments LLC by [personal service / certified mail / as provided by the court rules] on the date noted below, consistent with Court rules for service of process.
+
+Dated: December 1, 2025
+/s/ Jessica Carter
+Jessica Carter
+
+---
+
+Notes to the Court and Defendant: Plaintiff is prepared to amend and supplement this Complaint with additional factual and legal citations and amounts as discovery proceeds. Plaintiff reserves the right to identify, cite, and rely upon controlling Massachusetts SJC and Appeals Court decisions and statutory provisions (and any applicable local fire code or state regulation) during litigation, and to specify particular statutory provisions and case law as needed in motions or at trial.

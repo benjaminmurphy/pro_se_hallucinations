@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_008_09.txt",
+  "scenario_id": "ng_008_09",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "(Mass. Gen. Laws ch. 231, \u00a7 85);": {
+      "raw_text": "(Mass. Gen. Laws ch. 231, \u00a7 85);",
+      "citation_type": "statute",
+      "proposition": "- Comparative negligence principles reducing recovery in proportion to any plaintiff fault (Mass. Gen. Laws ch. 231, \u00a7 85);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "(Mass. Gen. Laws ch. 260, \u00a7 2A);": {
+      "raw_text": "(Mass. Gen. Laws ch. 260, \u00a7 2A);",
+      "citation_type": "statute",
+      "proposition": "- Statute of limitations for personal injury actions (Mass. Gen. Laws ch. 260, \u00a7 2A);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Donoghue v. Stevenson": {
+      "raw_text": "Donoghue v. Stevenson",
+      "citation_type": "case",
+      "proposition": "- Foundational negligence principles articulated in classic tort authorities (e.g., Donoghue v. Stevenson) and Massachusetts case law construing the duty owed by proprietors to invitees.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Not found",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "complaint_file": "cm_001_04.txt",
+  "scenario_id": "cm_001_04",
+  "category": "custody_modification",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 5,
+  "statute_citations": 1,
+  "valid_citations": 5,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 3,
+  "citations": {
+    "**G.L. c. 208, \u00a7 28**": {
+      "raw_text": "**G.L. c. 208, \u00a7 28**",
+      "citation_type": "statute",
+      "proposition": "Pursuant to **G.L. c. 208, \u00a7 28**, a custody or parenting order may be modified where there has been a material and substantial change in circumstances and where modification is in the best interests of the children.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Mason v. Coleman*, 447 Mass. 177, 184 (2006)": {
+      "raw_text": "*Mason v. Coleman*, 447 Mass. 177, 184 (2006)",
+      "citation_type": "case",
+      "proposition": "Courts routinely hold that parenting schedules must accommodate the realities of a parent\u2019s ability to adequately supervise and care for their children.",
+      "is_valid": true,
+      "courtlistener_id": "6579384",
+      "case_name": "Mason v. Coleman",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case concerns removal of children from the Commonwealth in a joint physical custody arrangement and applies a best-interests-of-the-child standard. While it discusses how relocation can affect each parent\u2019s ability to exercise custodial responsibilities and the children\u2019s relationships with both parents, it does not articulate any general principle that parenting schedules must be structured around a parent\u2019s ability to adequately supervise and care for the children. The focus is on relocation and best interests, not on routine adjustment of parenting schedules to parental caregiving realities.",
+      "relevant_excerpt": "\u201cIt is a question for a judge, taking into account all of the facts, whether an increase in travel time between households and schools brought about by removal, and other burdens of distance, will significantly impair either parent\u2019s ability to exercise existing responsibilities, and ultimately whether removal is in a child\u2019s best interests.\u201d"
+    },
+    "*Custody of Kali*, 439 Mass. 834, 842 (2003)": {
+      "raw_text": "*Custody of Kali*, 439 Mass. 834, 842 (2003)",
+      "citation_type": "case",
+      "proposition": "A parent\u2019s failure to adequately care for children during parenting time has been grounds for modification.",
+      "is_valid": true,
+      "courtlistener_id": "6578759",
+      "case_name": "Custody of Kali",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case is a direct review of an initial custody determination between unmarried parents under G.L. c. 209C, \u00a7 10(a), not a modification proceeding based on changed circumstances. Nowhere does the opinion discuss modification standards, or treat a parent\u2019s failure to adequately care for a child during parenting time as grounds to modify an existing custody or parenting-time order. The decision instead addresses allocation of initial custody under a best-interests analysis and the statutory factors concerning primary caregiver and stability.",
+      "relevant_excerpt": "\u201cWe also decline to consider the father\u2019s claim that the probate judge should have applied the \u2018substantial change in the circumstances\u2019 standard applicable to modification actions brought under G. L. c. 209C, \u00a7 20, rather than the \u2018best interests of the child\u2019 standard applicable to custody determinations under G. L. c. 209C, \u00a7 10 (a). \u2026 It is clear from the record that the case in the Probate Court was tried under G. L. c. 209C, \u00a7 10 (a), not G. L. c. 209C, \u00a7 20\u2026\u201d}"
+    },
+    "*Yannas v. Frondistou-Yannas*, 395 Mass. 704, 710-711 (1985)": {
+      "raw_text": "*Yannas v. Frondistou-Yannas*, 395 Mass. 704, 710-711 (1985)",
+      "citation_type": "case",
+      "proposition": "A significant change in a parent\u2019s employment and its impact on the care of children constitutes a material change in circumstances.",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion does not discuss modification of an existing custody order or what constitutes a \u201cmaterial change in circumstances.\u201d Instead, it concerns an initial divorce and custody judgment and articulates the \u2018real advantage\u2019 standard for removal of children from the Commonwealth, focusing on the custodial parent\u2019s reasons for relocation and the best interests of the children. While the wife\u2019s employment prospects and economic situation are discussed, the case does not frame them as a material change in circumstances in the post-judgment modification sense described in the proposition.",
+      "relevant_excerpt": "\u201cCases involving removal of a child from the jurisdiction present difficult choices. Unless one is to apply a fixed but arbitrary rule, the issue can be resolved only on a case by case basis. The effect on the child of any removal is most important. An evaluation of the best interests of the child requires attention to whether the quality of the child\u2019s life may be improved by the change (including any improvement flowing from an improvement in the quality of the custodial parent\u2019s life)\u2026.\u201d"
+    },
+    "*Rolde v. Rolde*, 12 Mass. App. Ct. 398, 404 (1981)": {
+      "raw_text": "*Rolde v. Rolde*, 12 Mass. App. Ct. 398, 404 (1981)",
+      "citation_type": "case",
+      "proposition": "Courts have long recognized that stability is critical to the welfare of children and will place constraints on parenting schedules that disrupt children\u2019s routines or lead to unsafe supervision.",
+      "is_valid": true,
+      "courtlistener_id": "2134691",
+      "case_name": "Rolde v. Rolde",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "medium",
+      "support_reasoning": "The opinion focuses on best interests of the children and rejects joint custody and more expansive visitation because it would be \u201cinjurious to the children\u201d and an \u201cinvitation to continued warfare and conflict,\u201d emphasizing minimizing disruption and fostering a healthy environment. The court specifically notes the importance of the primary caretaker relationship and the need to \u201cminimize[] disruption,\u201d which reflects concern for stability in the children\u2019s routines and circumstances, though it does not explicitly frame this as \u2018constraints on parenting schedules\u2019 in modern terminology. Thus it provides moderate but not perfect support for the stated proposition.",
+      "relevant_excerpt": "\u201cThe judge found the wife has been the \u2018primary nurturing parent\u2019 and \u2018primary caretaker\u2019 and that the children have the \u2018strongest bond\u2019 with their mother. These factors are highly significant for the welfare of the children, and are thus critical considerations for the judge in deciding on a custodial arrangement which minimizes disruption and fosters a healthy environment for the growth and development of the children.\u201d"
+    },
+    "*Hunter v. Rose*, 463 Mass. 488, 495 (2012)": {
+      "raw_text": "*Hunter v. Rose*, 463 Mass. 488, 495 (2012)",
+      "citation_type": "case",
+      "proposition": "The Plaintiff seeks a modification that is narrowly tailored to allow the Defendant to maintain a meaningful relationship with the Children while ensuring their safety and consistent care.",
+      "is_valid": true,
+      "courtlistener_id": "6580530",
+      "case_name": "Hunter v. Rose",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion squarely applies a best\u2011interests analysis to a custody dispute and affirms an order that preserves the child\u2019s relationship with both parents while prioritizing stability and safety. The court notes that the judge awarded primary physical custody to the parent more likely to meet the child\u2019s needs and support the other parent\u2019s role, and it describes a detailed visitation schedule designed to give the noncustodial parent meaningful, ongoing contact, conditioned on the child\u2019s welfare. This aligns with a proposition that a modification should be narrowly tailored to maintain a meaningful relationship with the noncustodial parent while ensuring the children\u2019s safety and consistent care.",
+      "relevant_excerpt": "Moreover, the judge found that Hunter was entirely supportive of Jill\u2019s relationship with Rose and respects Rose\u2019s role as Jill\u2019s other parent as demonstrated by the fact that, during her parenting time, she has Jill telephone Rose every night to say good night, refers to Rose as \u201cMommy Miko,\u201d and keeps a photograph of Rose in Jill\u2019s bedroom. \u2026 The judge\u2019s custody order gave Rose frequent contact with Jill, including parenting time one weekend per month in Massachusetts, five weeks in the summer, school vacations, holidays, Web camera sessions three evenings per week, and telephone calls once per week."
+    }
+  }
+}

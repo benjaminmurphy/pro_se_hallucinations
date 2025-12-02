@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_002_01.txt",
+  "scenario_id": "qe_002_01",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 218, \u00a726": {
+      "raw_text": "Mass. Gen. Laws ch. 218, \u00a726",
+      "citation_type": "statute",
+      "proposition": "This action is brought in the Boston Housing Court, which has jurisdiction over landlord-tenant and housing habitability disputes affecting residential premises in the City of Boston pursuant to Mass. Gen. Laws ch. 218, \u00a726 and the Housing Court\u2019s statutory jurisdiction over actions arising out of landlord-tenant relationships.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000, et seq.": {
+      "raw_text": "105 CMR 410.000, et seq.",
+      "citation_type": "statute",
+      "proposition": "Inspectors from the City/local board of health inspected the Premises and documented the water infiltration and additional code violations, and advised that the conditions were in need of correction to comply with the State Sanitary Code (105 CMR 410.000, et seq.) and local housing codes.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant) (general statutory framework governing landlord-tenant relationships);": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant) (general statutory framework governing landlord-tenant relationships);",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on Massachusetts statutory and regulatory authorities governing landlord obligations and habitability, as well as Massachusetts common law concerning the covenant of quiet enjoyment, including but not limited to:\n- Mass. Gen. Laws ch. 186 (Landlord and Tenant) (general statutory framework governing landlord-tenant relationships);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (summary process) (statutory scheme relating to possessory actions);": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (summary process) (statutory scheme relating to possessory actions);",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on Massachusetts statutory and regulatory authorities governing landlord obligations and habitability, as well as Massachusetts common law concerning the covenant of quiet enjoyment, including but not limited to:\n- Mass. Gen. Laws ch. 239 (summary process) (statutory scheme relating to possessory actions);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 (public health), including authority of local boards of health to inspect and enforce sanitary conditions;": {
+      "raw_text": "Mass. Gen. Laws ch. 111 (public health), including authority of local boards of health to inspect and enforce sanitary conditions;",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on Massachusetts statutory and regulatory authorities governing landlord obligations and habitability, as well as Massachusetts common law concerning the covenant of quiet enjoyment, including but not limited to:\n- Mass. Gen. Laws ch. 111 (public health), including authority of local boards of health to inspect and enforce sanitary conditions;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

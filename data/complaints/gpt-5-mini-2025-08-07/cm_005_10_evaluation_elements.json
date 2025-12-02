@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_005_10.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an Existing Order entered May 10, 2022 establishing shared legal custody and primary residence with Plaintiff (see \u00b6\u00b62.1, 3.1\u20133.2). Those factual allegations sufficiently plead a prior custody/parenting-time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies specific relief: award primary physical custody to Plaintiff, structured/limited parenting time for Defendant, and detailed enforceable rules for scheduling, notice, consent, non-disparagement, interim remedies, and temporary orders (see \u00b62.2, \u00b66.1\u20136.3)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete, recurring factual changes since the Existing Order: Defendant\u2019s repeated unilateral enrollment of the children in activities during Plaintiff\u2019s parenting time and interference with Plaintiff\u2019s parenting time (\u00b64.1.1\u20134.1.2), repeated disparaging/alienating statements to the children (\u00b64.2.1\u20134.2.2), and resulting emotional/physical symptoms in the children (\u00b64.3.1\u20134.3.2). It also alleges these events have caused persistent conflict and a breakdown in cooperative decision\u2011making (\u00b64.1.3, \u00b64.4.1\u20134.4.2), which are pleaded as affecting the children\u2019s stability and welfare (\u00b65.2)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the requested modifications will reduce conflict, increase predictability and stability, and protect the children\u2019s emotional and physical welfare (\u00b65.3), and ties those claims to the alleged harms (disparagement, interference, somatic symptoms) in the factual allegations (\u00b64.1\u20134.3). It also requests child-focused remedies (mediation/parenting coordinator, evaluations, counseling) to support the children\u2019s welfare (\u00b66.4\u20136.5)."
+    }
+  }
+}

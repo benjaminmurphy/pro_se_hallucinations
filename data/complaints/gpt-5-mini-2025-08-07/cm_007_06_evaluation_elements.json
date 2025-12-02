@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_007_06.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly identifies a prior custody judgment entered May 15, 2018 and alleges the terms of that order (50/50 alternating-week physical custody). It also pleads the Court\u2019s continuing jurisdiction over that prior order\u2014facts sufficient to establish an existing custody/parenting-time order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifically requests modification to award primary physical custody to the Plaintiff, a defined parenting-time scheme limiting or supervising Defendant\u2019s visits (examples provided), prohibition on the child performing caregiving tasks, requirements for exchanges and medical disclosures, and authority for temporary orders\u2014clear, concrete modifications are pleaded."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a concrete, post-2018 change: the Defendant\u2019s progressive neurological diagnosis, multiple falls since 2023, treating-physician recommendations limiting unsupervised care in certain situations, and instances where the child has had to assist the Defendant. Those factual allegations describe a change that materially and adversely affects the Defendant\u2019s ability to safely parent and therefore constitute a pleaded material and substantial change in circumstances."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the requested changes are necessary to protect the minor child\u2019s safety, welfare, and developmental needs, cites specific risks (falls, inappropriate caregiving by a 12\u2011year\u2011old), and explains how awarding primary custody to the Plaintiff and limited/supervised contact would promote the child\u2019s physical safety, emotional wellbeing, and educational stability. These factual allegations adequately plead that the modification is in the child\u2019s best interests."
+    }
+  }
+}

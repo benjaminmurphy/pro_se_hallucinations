@@ -1,0 +1,41 @@
+{
+  "complaint_file": "ng_008_01.txt",
+  "scenario_id": "ng_008_01",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "See Restatement (Second) of Torts \u00a7343 (liability to invitees for failure to remove or warn of dangerous conditions).": {
+      "raw_text": "See Restatement (Second) of Torts \u00a7343 (liability to invitees for failure to remove or warn of dangerous conditions).",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, an owner or occupier of land owes a duty to business invitees to exercise reasonable care to maintain the premises in a safe condition and to give warning of latent or concealed dangers known to the owner/occupier but not to the invitee.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 260, \u00a72A": {
+      "raw_text": "M.G.L. c. 260, \u00a72A",
+      "citation_type": "statute",
+      "proposition": "Plaintiff gives notice that any applicable statute of limitations will be applied and preserved; generally, actions for personal injury in Massachusetts are governed by a three-year limitations period (see, e.g., M.G.L. c. 260, \u00a72A), and this Complaint is timely filed within applicable limitations.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "complaint_file": "ng_006_10.txt",
+  "scenario_id": "ng_006_10",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 0,
+  "case_citations": 0,
+  "statute_citations": 0,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {}
+}

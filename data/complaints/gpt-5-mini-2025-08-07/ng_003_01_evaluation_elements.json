@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_003_01.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges and supports a proprietor-invitee duty: Defendant operated the store and had a duty to exercise reasonable care in storage and display of merchandise (\u00b6\u00b65\u20136, 14), including securing heavy boxes and warning invitees \u2014 factual allegations and cited legal authority establish duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific facts showing a breach: heavy boxed appliances stacked five to six high, not secured, no warnings, and alleged failures to inspect or adopt safety practices (\u00b6\u00b66, 15). Those factual allegations adequately plead conduct constituting a breach of the duty described."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the box dislodged and struck Plaintiff as a direct result of Defendant's failure to secure the merchandise (\u00b68, 17). It alleges the cart bump was ordinary customer activity and that, but for the unsecured, improperly stacked boxes, the toaster oven would not have fallen and injured Plaintiff."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the risk of falling heavy merchandise was foreseeable (\u00b616) and that the falling box striking a customer is the type of harm reasonably resulting from that hazard (\u00b68, 17). Those allegations sufficiently plead proximate causation/foreseeability of the injuries alleged."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete, measurable damages: medical diagnosis (mild concussion and shoulder strain), approximately $2,500 in medical expenses, about $1,200 in lost wages, ongoing symptoms, pain and suffering, and other losses (\u00b6\u00b610\u201312, 18, 23). These allegations adequately plead actual damages."
+    }
+  }
+}

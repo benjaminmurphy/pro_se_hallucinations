@@ -1,0 +1,41 @@
+{
+  "complaint_file": "cm_007_05.txt",
+  "scenario_id": "cm_007_05",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 209C, et seq.": {
+      "raw_text": "Mass. Gen. Laws ch. 209C, et seq.",
+      "citation_type": "statute",
+      "proposition": "This Probate and Family Court has jurisdiction over this matter pursuant to the Massachusetts statutes governing child custody and the Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA), Mass. Gen. Laws ch. 209C, et seq., and related provisions governing modification of custody orders.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209C (UCCJEA)": {
+      "raw_text": "Mass. Gen. Laws ch. 209C (UCCJEA)",
+      "citation_type": "statute",
+      "proposition": "Petitioner will rely on the statutes and case law governing custody and modification in Massachusetts, including but not limited to Mass. Gen. Laws ch. 209C (UCCJEA) and relevant Massachusetts decisions interpreting the modification standard and the best-interests factors.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

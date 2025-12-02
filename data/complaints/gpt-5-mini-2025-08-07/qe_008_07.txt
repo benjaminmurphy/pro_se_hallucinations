@@ -1,0 +1,93 @@
+COMMONWEALTH OF MASSACHUSETTS
+TRIAL COURT
+CHELSEA DISTRICT COURT
+______________________________
+JESSICA MONROE,                        )
+     Plaintiff                         )
+                                       )
+v.                                     )   Docket No. ___________
+                                       )
+HAROLD WIGGINS,                        )
+    Defendant                          )
+______________________________)
+
+COMPLAINT FOR BREACH OF THE COVENANT OF QUIET ENJOYMENT
+
+1. PARTIES AND SERVICE
+1.1 Plaintiff. Jessica Monroe ("Plaintiff" or "Monroe") is an individual and natural person residing at 275 Washington Ave, Apt. [unit number, if any], Chelsea, Massachusetts 02150. Plaintiff may be contacted at (617) 555-0123 and by e-mail at psm1433@gmail.com.
+1.2 Defendant. Harold Wiggins ("Defendant" or "Landlord") is the landlord/owner of the residential building located at 275 Washington Ave, Chelsea, Massachusetts 02150, and is the party who leased the premises to Plaintiff. Defendant may be served at his usual place of business or residence in Chelsea, Massachusetts (or at such other address as determined by process server).
+
+2. JURISDICTION, VENUE, AND FACTUAL SUMMARY
+2.1 Jurisdiction and Venue. This Court has jurisdiction under Massachusetts law because the real property and the parties are located in Chelsea, Massachusetts and the claim arises from a landlord-tenant relationship having occurred in Chelsea. Venue is proper in Chelsea District Court under Mass. Gen. Laws ch. 213, § 2 and the local rules governing district court venue.
+2.2 Tenancy. Plaintiff began renting a residential apartment at 275 Washington Ave, Chelsea, MA 02150 on January 1, 2022, under a month-to-month tenancy (or fixed-term tenancy, if applicable). Plaintiff pays monthly rent of $1,500.00 to Defendant.
+2.3 Notice of defect. On or about October 1, 2025 (approximately two months prior to the date of this complaint), Plaintiff notified Defendant that the building's main entry door had a broken lock that would not properly latch and that the door could be pushed open by anyone. Defendant acknowledged the complaint and stated he would repair the lock, but no repair has been made. Plaintiff reminded Defendant of the broken lock on at least two subsequent occasions (dates and means of communication available to Plaintiff).
+2.4 Security incidents. During November 2025, an unauthorized person entered the building and went through mail/packages in the hallway. A number of tenants, including Plaintiff, had packages stolen from the building hallway. Plaintiff's package, with a retail value of approximately $120.00, was stolen. In addition, Plaintiff has observed evidence that someone has been sleeping in the building basement, which has caused Plaintiff to feel threatened and insecure in her tenancy.
+2.5 Tenant mitigation expenses. Because Defendant failed to repair the faulty main entry lock after notice and demand, Plaintiff, reasonably fearing for her safety and property, purchased a security camera for her door and installed a better deadbolt at her own expense, incurring out-of-pocket costs of approximately $200.00.
+2.6 Damages claimed. As a result of Defendant's failure to repair the common-area entry lock and to take reasonable steps to secure the building after notice, Plaintiff has suffered pecuniary losses and loss of the quiet enjoyment and use of her apartment. Plaintiff estimates her compensatory damages at $320.00 (including $120.00 for the stolen package and $200.00 for the deadbolt/camera), together with such other damages as the Court deems appropriate, plus interest and costs.
+
+3. FACTUAL ALLEGATIONS
+3.1 The main entry door to the building at 275 Washington Ave, Chelsea, MA had a defective lock which does not latch properly and which allows strangers to push open the door and enter the building without authorization.
+3.2 Plaintiff reported the defective lock to Defendant on or about October 1, 2025 and requested prompt repair. Defendant promised to repair the lock but did not do so. Plaintiff reminded Defendant at least twice thereafter to repair the lock; Defendant has failed and refused to make a timely and reasonable repair.
+3.3 During November 2025, because the main entry remained unsecured, an unauthorized person or persons unlawfully entered the building, went through mail and packages in the hallway, and stole packages from tenants. Plaintiff’s package, valued at approximately $120.00, was stolen. In addition, Plaintiff has found indications that someone has been sleeping in the basement, which has created fear, distress, and interference with Plaintiff’s peaceful and secure possession of her apartment.
+3.4 As a direct result of Defendant’s continuing failure to secure the common areas of the building after notice, Plaintiff reasonably expended $200.00 on a security camera and improved deadbolt to protect her person and property.
+3.5 Defendant’s failures and omissions constitute a material interference with Plaintiff's possession and use of the leased premises and the common areas, and amount to a breach of the covenant of quiet enjoyment implied in residential leases under Massachusetts law.
+
+4. CLAIM FOR RELIEF
+Count I — Breach of the Covenant of Quiet Enjoyment (Massachusetts law)
+4.1 Plaintiff hereby realleges and incorporates by reference the allegations in Paragraphs 1 through 3 above as if fully set forth herein.
+4.2 At all times relevant, Plaintiff was and remains a residential tenant in possession of premises located at 275 Washington Ave, Chelsea, MA.
+4.3 Under Massachusetts law, a landlord implicitly covenants that tenants shall have quiet enjoyment of the leased premises and that the landlord will not, by action or omission, materially disturb or substantially interfere with the tenant’s possession and reasonable use of the premises.
+4.4 Defendant knew, or should have known, of the defective main entry lock and the consequent risk to tenant safety and security after Plaintiff notified him of the defect, and Defendant had a duty to take reasonable steps to secure the building and to repair the lock in a timely manner. Defendant’s failure to repair the lock and to remedy the unsafe condition after notice materially interfered with Plaintiff’s quiet enjoyment of the leased premises.
+4.5 As a direct and proximate result of Defendant’s breach of the covenant of quiet enjoyment, Plaintiff suffered actual damages including loss of a package valued at $120.00, reasonable expenditures of $200.00 for a security camera and deadbolt, emotional distress, inconvenience, and loss of use and enjoyment of her apartment. Plaintiff therefore seeks damages, injunctive relief ordering Defendant to repair and secure the common area entry and basement and any other relief permitted by law.
+
+5. APPLICABLE LAW (select authorities)
+Statutes, regulations, and rules:
+- Mass. Gen. Laws ch. 186 (Landlord and Tenant generally), including but not limited to §§ 14, 15, 18 (statutory framework for landlord-tenant obligations and related remedies).
+- Mass. Gen. Laws ch. 239 (summary process and possession actions) (procedural and related landlord-tenant provisions).
+- Mass. Gen. Laws ch. 93A, §§ 2 and 11 (Massachusetts Consumer Protection Act) (generally relevant to unfair or deceptive acts by landlords; note: Plaintiff here asserts only breach of covenant of quiet enjoyment).
+- Mass. Gen. Laws ch. 111, § 127A (public nuisance, sanitary code enforcement authority).
+- 105 CMR 410.000 et seq. (Massachusetts State Sanitary Code; housing standards and landlord responsibilities to maintain safe premises).
+- Mass. R. Civ. P. 8 (general pleadings).
+
+Selected caselaw and persuasive authority (illustrative):
+- Javins v. First National Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970) (recognizing implied obligations of landlords to maintain premises and the tenant's remedies for breach).
+- Hilder v. St. Peter, 478 A.2d 202 (Vt. 1984) (discussing landlord duties and remedies arising from breaches of habitability and quiet enjoyment).
+- Relevant Massachusetts decisions recognize and apply the covenant of quiet enjoyment and landlord duties to maintain common areas and secure premises; courts have awarded damages and injunctive relief where landlords breached duties after notice. See, e.g., decisions addressing landlord responsibility for common-area security and interference with tenants' enjoyment (Mass. SJC and Appeals Court decisions construing landlord-tenant obligations).
+- Courts have also recognized tenants’ right to consequential damages and mitigation expenditures where a landlord’s failure to repair or secure the premises causes loss. See persuasive authority in landlord-tenant jurisprudence applying this principle.
+
+(Notes: Plaintiff relies on the statutory framework in Mass. Gen. Laws ch. 186, ch. 239, the State Sanitary Code (105 CMR), and on established landlord-tenant principles reflected in Massachusetts caselaw and persuasive authorities including Javins and Hilder. Plaintiff will supplement or identify specific Massachusetts appellate decisions in support of these principles at hearing or by amendment if the Court wishes more granular citation.)
+
+6. PRAYER FOR RELIEF
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in her favor and grant the following relief:
+a) A declaratory judgment that Defendant breached the covenant of quiet enjoyment implied in Plaintiff’s tenancy by failing, after notice, to repair and secure the building’s main entry lock and to take reasonable steps to prevent unauthorized entry and basement intrusion;
+b) Compensatory damages in the amount of at least $320.00 (comprising $120.00 for the stolen package and approximately $200.00 for security camera and deadbolt expenses), together with any additional compensatory damages proven at trial for emotional distress, inconvenience, and loss of use and enjoyment;
+c) An order requiring Defendant to repair and secure the building’s main entry lock and to take such additional steps as the Court deems reasonable to secure common areas and the basement (injunctive relief);
+d) Costs of suit and interest (pre- and post-judgment) as permitted by law;
+e) Such other and further relief as the Court deems just and equitable.
+
+7. JURY DEMAND
+Plaintiff hereby demands a trial by jury on all issues so triable.
+
+Dated: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jessica Monroe
+_________________________________
+Jessica Monroe
+275 Washington Ave
+Chelsea, MA 02150
+Phone: (617) 555-0123
+Email: psm1433@gmail.com
+Plaintiff, pro se
+
+Certificate of Service
+I hereby certify that a copy of this Complaint was served upon Defendant, Harold Wiggins, by [method of service—personal service / certified mail / leaving at usual place of abode / etc., to be completed upon service], on [date of service to be inserted].
+
+/s/ Jessica Monroe
+_________________________________
+Jessica Monroe
+
+---
+
+Note to the Court and parties: Plaintiff is proceeding pro se. Plaintiff stands ready to promptly provide further factual detail, evidence of notice to Defendant, photographs of the defective entry lock, receipts for the stolen package and for security expenditures, and any other documentation the Court requests.

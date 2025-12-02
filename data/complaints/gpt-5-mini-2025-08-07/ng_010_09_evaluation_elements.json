@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_010_09.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that Defendant is the owner/occupier of the property with a large branch over a public sidewalk and expressly pleads the landowner/possessor duty to exercise reasonable care toward pedestrians (\u00b6\u00b65\u20137, 12). Those factual allegations (branch over sidewalk, owner control) plus the legal statement of duty adequately plead duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint contains specific factual allegations that Defendant observed or was informed of the cracked, drooping limb, promised to address it later, and failed to inspect, prune, remove, or warn before the incident (\u00b6\u00b66\u20137, 13). Those allegations sufficiently plead a breach of the duty to maintain the property and remediate a known hazard."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the visibly cracked branch detached and fell onto Plaintiff while she walked on the sidewalk and that Defendant\u2019s failure to remove or secure the branch led to that event (\u00b6\u00b68, 13\u201314). Those facts plausibly allege that the injury would not have occurred but for Defendant\u2019s failure to remediate the dangerous branch."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the hazard (a large cracked branch over a public sidewalk), Defendant\u2019s knowledge/awareness, and that the branch fell and injured a pedestrian during ordinary weather (\u00b6\u00b66\u20139, 12\u201314). Those allegations sufficiently plead that the injury was a foreseeable and proximate result of Defendant\u2019s conduct."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint specifically alleges physical injuries (shoulder strain, bruises), medical treatment and approximately $1,200 in medical expenses, about $400 in lost wages, pain and emotional distress, and other damages (\u00b6\u00b69, 15, 21), which adequately pleads actual damages."
+    }
+  }
+}

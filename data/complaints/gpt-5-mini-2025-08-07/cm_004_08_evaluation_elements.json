@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_004_08.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 2.2 expressly alleges a March 15, 2018 Probate and Family Court custody order awarding primary physical custody to Plaintiff and limited parenting time to Defendant (three short weekday visits and Sunday afternoons, with no overnights). This establishes an existing custody/parenting-time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Section 6.1 sets out a concrete proposed parenting-time schedule (alternate weekend overnights, alternating midweek overnight, two weekday evening visits, pickup/drop-off protocol, holiday/vacation modifications, and housing/safety conditions). The relief requested in \u00b67.2 reiterates modification to allow appropriate overnight parenting time\u2014sufficiently specific."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Section 4.1\u20134.2 alleges multiple factual changes since the 2018 order: Defendant now has his own apartment with a separate bedroom (4.2(a)); the child is older and in full-time elementary school with changed developmental and scheduling needs and has expressed a desire for overnights (4.2(b)); the current schedule causes frequent school-night transfers that disrupt homework/bedtime and cause fatigue/stress (4.2(c)); and both parents agree the schedule is not working (4.2(d)). Those allegations tie changed facts to the child\u2019s welfare and are sufficient to plead a material and substantial change."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint links the requested modification to the child\u2019s best interests (\u00b6\u00b64.2, 5.1\u20135.2): it alleges harms from the current schedule (disrupted sleep, homework, fatigue), the child\u2019s expressed preference for overnights, improved safety/adequacy of Father\u2019s housing, and proposes measures to preserve stability and routine (pickup/drop-off rules, school-consistent scheduling). Those factual allegations adequately plead that the modification is intended and necessary to serve the child\u2019s best interests."
+    }
+  }
+}

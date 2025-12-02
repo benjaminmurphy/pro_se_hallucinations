@@ -1,0 +1,104 @@
+---
+
+**COMMONWEALTH OF MASSACHUSETTS**  
+**WORCESTER DISTRICT COURT**  
+**225 Main Street**  
+**Worcester, MA 01608**  
+
+**Emily Johnson,**  
+**Plaintiff,**  
+v.  
+**Robert Smith,**  
+**Defendant.**  
+
+**CIVIL ACTION NO.: 25-CV-______**  
+
+**COMPLAINT**  
+
+**INTRODUCTION**  
+1. This is a civil action brought by Plaintiff Emily Johnson against Defendant Robert Smith for breach of the covenant of quiet enjoyment under Massachusetts law. Plaintiff seeks monetary damages and all other relief deemed appropriate by the Court as a result of Defendant’s failure to maintain the apartment in sanitary, habitable, and pest-free conditions. Specifically, Plaintiff suffered damage and distress due to Defendant’s failure to remediate an ongoing mouse infestation in her apartment at 123 Elm Street, Worcester, Massachusetts.  
+
+---
+
+**PARTIES**  
+2. Plaintiff Emily Johnson is a resident of Worcester, Massachusetts, renting an apartment located at 123 Elm Street, Worcester, MA 01605 (hereinafter, “the Property”), which she has leased from Defendant since June 1, 2020.  
+
+3. Defendant Robert Smith is the owner of the Property and a resident of Massachusetts, who at all relevant times was responsible for maintaining the rental premises in habitable condition and ensuring compliance with state health and safety regulations.  
+
+---
+
+**JURISDICTION AND VENUE**  
+4. This Court has jurisdiction over this matter pursuant to M.G.L. c. 218, § 19, as the alleged breach of the covenant of quiet enjoyment arose within the Commonwealth of Massachusetts and the monetary damages sought are within the jurisdictional limits of this Court.  
+
+5. Venue is proper before the Worcester District Court under M.G.L. c. 223, § 1 because the events giving rise to this complaint occurred in Worcester, where the Plaintiff resides and the Property is located.  
+
+---
+
+**FACTUAL ALLEGATIONS**  
+6. Plaintiff rented the Property from Defendant beginning June 1, 2020, under an oral month-to-month tenancy agreement, for a monthly rent of $1,200.  
+
+7. Around September 1, 2025, Plaintiff began noticing mouse droppings in her kitchen and promptly notified Defendant of the issue.  
+
+8. In response, Defendant placed a few traps in the apartment, which trapped only two mice and failed to resolve the ongoing infestation.  
+
+9. On or about September 15, 2025, Defendant hired an exterminator for a single visit. The exterminator informed Plaintiff that comprehensive treatment of the building was necessary to eradicate the infestation, but Defendant refused to take further action, asserting that such treatment was unnecessary and too expensive.  
+
+10. Despite Defendant’s minimal efforts, the mouse infestation persists to date, with Plaintiff regularly finding mouse droppings in the kitchen and other areas of her home.  
+
+11. Defendant has dismissed Plaintiff’s concerns, claiming that mouse infestations are "normal for older buildings" and suggesting in a dismissive tone that Plaintiff "keep the kitchen cleaner."  
+
+12. The infestation has caused Plaintiff significant financial, emotional, and practical harm. Plaintiff has had to discard approximately $200 worth of food contaminated by mouse droppings, spend $80 on plastic storage containers to protect remaining food, endure the continuous anxiety of using her kitchen, and deal with a disruption of normal daily life.  
+
+13. Defendant has failed to take the actions necessary to ensure sanitary and habitable living conditions as required under Massachusetts law.  
+
+---
+
+**CAUSE OF ACTION**  
+**Count I: Breach of the Covenant of Quiet Enjoyment (M.G.L. c. 186, § 14)**  
+14. Plaintiff restates and incorporates by reference paragraphs 1 through 13.  
+
+15. Massachusetts law provides that every residential lease includes an implied covenant of quiet enjoyment, under which a landlord guarantees that a tenant’s possession of the rental property will not be disturbed unlawfully.  
+
+16. Defendant’s failure to resolve the ongoing mouse infestation has substantially interfered with Plaintiff’s ability to use and enjoy the Property, in violation of M.G.L. c. 186, § 14.  
+
+17. The persistent unsanitary and unsafe conditions created by the infestation constitute a material and substantial breach of the covenant of quiet enjoyment.  
+
+18. Numerous Massachusetts cases have held landlords liable for breaches of this covenant due to infestations or other health hazards. See *Al-Ziab v. Mourgis*, 424 Mass. 847, 850 (1997) (acknowledging that conditions making an apartment unsafe or unsanitary may constitute a breach); *Simon v. Solomon*, 385 Mass. 91, 102 (1982) (infestations as a basis for breach of quiet enjoyment recognized); *Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 283 (1994) (stating that health and safety violations in rental units violate quiet enjoyment).  
+
+19. Additionally, under M.G.L. c. 111, § 127L, landlords have a statutory duty to maintain their properties in a condition that complies with the State Sanitary Code. The presence of pests, such as mice, violates 105 C.M.R. 410.550, which mandates landlords to address infestations promptly. Defendant has failed to meet this duty.  
+
+20. Defendant’s failure to take adequate measures is also contrary to established caselaw prioritizing tenants’ rights to sanitary conditions, including *Boston Hous. Auth. v. Hemingway*, 363 Mass. 184, 200 (1973) (landlord obligations under warranty of habitability apply to issues such as infestations); *King v. G & M Realty Corp.*, 373 Mass. 658, 664 (1977) (landlord liable for failure to maintain property free of pests).  
+
+21. Defendant’s actions and inactions were intentional, reckless, and in bad faith, violating Plaintiff’s rights and causing material harm.  
+
+---
+
+**PRAYER FOR RELIEF**  
+WHEREFORE, Plaintiff Emily Johnson respectfully prays that this Honorable Court:  
+1. Enter judgment in Plaintiff’s favor on the claim of Breach of the Covenant of Quiet Enjoyment;  
+2. Award Plaintiff compensatory damages in the amount of $280 for financial losses incurred;  
+3. Award Plaintiff additional monetary damages as determined appropriate by the Court for emotional distress and disruption to daily life;  
+4. Award statutory damages pursuant to M.G.L. c. 186, § 14, as Defendant’s conduct was willful and egregious;  
+5. Award Plaintiff reasonable attorney’s fees and costs incurred in bringing this action; and  
+6. Grant such other and further relief as the Court deems just and proper.  
+
+---
+
+Respectfully submitted this 1st day of December, 2025.  
+
+__/s/ Emily Johnson__  
+Emily Johnson, Plaintiff  
+123 Elm Street  
+Worcester, MA 01605  
+Tel: (617) 555-0123  
+Email: psm1433@gmail.com  
+
+--- 
+
+**CERTIFICATE OF SERVICE**  
+I, Emily Johnson, certify that I will serve a true copy of this Complaint upon Defendant Robert Smith in accordance with the Massachusetts Rules of Civil Procedure.  
+
+__/s/ Emily Johnson__  
+Emily Johnson  
+
+---

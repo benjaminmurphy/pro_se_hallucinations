@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_005_01.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a written lease, rent payments ($1,500/month), and that Defendant is landlord/owner of the building where Plaintiff rents the second-floor apartment \u2014 facts establishing a landlord\u2011tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges repeated complaints to Defendant (5\u20136 times), that Defendant spoke once to the upstairs tenants and said he \"can't control how people live,\" and that he failed to take reasonable steps to abate the disturbance \u2014 an alleged omission and minimal affirmative conduct."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges pervasive, recurring, and unreasonable noise (loud stomping, heavy foot traffic, late-night music, moving furniture around midnight) occurring most nights and reducing Plaintiff's sleep to ~4\u20135 hours \u2014 allegations plausibly state substantial interference with quiet enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint links the ongoing noise to upstairs tenants and alleges Defendant had authority/control and, after repeated notice, failed to take reasonable remedial measures, resulting in continued disturbance \u2014 facts adequately plead that the landlord's omission permitted/caused the continued interference."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads concrete damages: lost sleep, diminished quality of life, workplace warning, medical treatment and prescription costs (~$40/month), out\u2011of\u2011pocket mitigation expenses, emotional distress, and an estimated $2,000 in damages \u2014 allegations of actual damages are adequately pled."
+    }
+  }
+}

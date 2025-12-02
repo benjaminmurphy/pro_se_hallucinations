@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_005_04",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jordan Smith",
+  "defendant": "Michael Johnson"
+}

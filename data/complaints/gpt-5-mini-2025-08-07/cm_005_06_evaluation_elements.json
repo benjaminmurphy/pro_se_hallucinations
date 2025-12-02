@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_005_06.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads an Existing Order entered June 15, 2021 that awards shared legal custody, designates the children as primarily residing with Plaintiff, and establishes Defendant\u2019s regular visitation\u2014sufficiently alleges an existing custody/parenting-time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies the relief sought: designate Plaintiff primary physical custodian and add specific, enforceable scheduling/communication rules (14\u2011day notice/consent, mediation/magistrate conference, no\u2011disparagement remedies), which states a clear, particular modification."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete factual changes since the 2021 order\u2014over 2024\u20132025 Defendant repeatedly enrolled children in activities during Plaintiff\u2019s parenting time without notice or agreement, refused to reschedule, made disparaging statements to the children, and a child developed recurrent stomach aches tied to transitions\u2014facts that, if proven, plausibly constitute a material and substantial change interfering with parenting time and the children\u2019s well\u2011being."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the requested modification is necessary to protect the children\u2019s stability and emotional/physical health (stop undermining Plaintiff\u2019s role, reduce transition\u2011related anxiety, ensure predictable parenting time) and requests therapeutic/parenting\u2011coordination remedies\u2014allegations linking the relief to the children\u2019s welfare are pled to support a best\u2011interests claim."
+    }
+  }
+}

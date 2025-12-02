@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_007_03.txt",
+  "scenario_id": "cm_007_03",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 1,
+  "citations": {
+    "See generally Mass. Gen. Laws ch. 208 and applicable Probate and Family Court practice.": {
+      "raw_text": "See generally Mass. Gen. Laws ch. 208 and applicable Probate and Family Court practice.",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the established legal principles governing custody modification in Massachusetts: modification requires a material change in circumstances since entry of the prior decree and the modification must be in the child's best interests.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Mass. Gen. Laws ch. 215 (procedural provisions governing civil actions in the courts) and applicable rules of the Probate and Family Court;": {
+      "raw_text": "- Mass. Gen. Laws ch. 215 (procedural provisions governing civil actions in the courts) and applicable rules of the Probate and Family Court;",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 215 (procedural provisions governing civil actions in the courts) and applicable rules of the Probate and Family Court;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Lalli v. Lalli, 439 U.S. 259 (1978) (parental rights subject to fair process);": {
+      "raw_text": "- Lalli v. Lalli, 439 U.S. 259 (1978) (parental rights subject to fair process);",
+      "citation_type": "case",
+      "proposition": "- Lalli v. Lalli, 439 U.S. 259 (1978) (parental rights subject to fair process);",
+      "is_valid": true,
+      "courtlistener_id": "109958",
+      "case_name": "Lalli v. Lalli",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case concerns equal protection limits on New York\u2019s intestate succession rule for children born out of wedlock; it does not address \"parental rights\" or any general doctrine that parental rights are subject to fair process. The opinion instead analyzes whether a statutory evidentiary requirement for proving paternity is substantially related to state interests in orderly estate administration. Thus, citing Lalli v. Lalli for the broad proposition that parental rights are subject to fair process mischaracterizes the holding.",
+      "relevant_excerpt": "\u201cWe are asked to decide whether the discrete procedural demands that \u00a7 4-1.2 places on illegitimate children bear an evident and substantial relation to the particular state interests this statute is designed to serve. \u2026 We conclude that the requirement imposed by \u00a7 4-1.2 on illegitimate children who would inherit from their fathers is substantially related to the important state interests the statute is intended to promote. We therefore find no violation of the Equal Protection Clause.\u201d"
+    },
+    "- Troxel v. Granville, 530 U.S. 57 (2000) (parental rights and best interests standard considerations);": {
+      "raw_text": "- Troxel v. Granville, 530 U.S. 57 (2000) (parental rights and best interests standard considerations);",
+      "citation_type": "case",
+      "proposition": "- Troxel v. Granville, 530 U.S. 57 (2000) (parental rights and best interests standard considerations);",
+      "is_valid": true,
+      "courtlistener_id": "1087668",
+      "case_name": "Troxel v. Granville",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "Troxel squarely addresses the interaction between parents\u2019 fundamental liberty interest in the care, custody, and control of their children and a state \u201cbest interests of the child\u201d visitation standard. The plurality holds that a statute allowing courts to override a fit parent\u2019s visitation decisions based solely on the judge\u2019s independent best\u2011interests determination, without giving special weight to the parent\u2019s decision, violates due process. It thus is directly on point for \u201cparental rights and best interests standard considerations.\u201d",
+      "relevant_excerpt": "\u201cSection 26.10.160(3), as applied to Granville and her family in this case, unconstitutionally infringes on that fundamental parental right. The Washington nonparental visitation statute is breathtakingly broad\u2026 Once the visitation petition has been filed\u2026 a parent's decision that visitation would not be in the child's best interest is accorded no deference. Section 26.10.160(3) contains no requirement that a court accord the parent's decision any presumption of validity or any weight whatsoever. Instead, the Washington statute places the best-interest determination solely in the hands of the judge.\u201d"
+    }
+  }
+}

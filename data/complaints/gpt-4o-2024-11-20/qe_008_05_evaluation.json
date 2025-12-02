@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_008_05.txt",
+  "scenario_id": "qe_008_05",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, G.L. c. 186, \u00a7 14, landlords have an obligation to ensure that tenants can peacefully and reasonably use and enjoy their leased premises without interference.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 231, \u00a7\u00a7 1 and 2": {
+      "raw_text": "G.L. c. 231, \u00a7\u00a7 1 and 2",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to G.L. c. 186, \u00a7 14, and G.L. c. 231, \u00a7\u00a7 1 and 2.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

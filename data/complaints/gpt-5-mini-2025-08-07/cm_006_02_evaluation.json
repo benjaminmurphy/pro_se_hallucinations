@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_006_02.txt",
+  "scenario_id": "cm_006_02",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 209B": {
+      "raw_text": "M.G.L. c. 209B",
+      "citation_type": "statute",
+      "proposition": "This Court has subject-matter and personal jurisdiction over this matter under the Massachusetts Probate and Family Court statutes and the Uniform Child Custody Jurisdiction and Enforcement Act, M.G.L. c. 209B, because the children are residents of Massachusetts and the prior custody order was entered in this Commonwealth.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 208": {
+      "raw_text": "M.G.L. c. 208",
+      "citation_type": "statute",
+      "proposition": "Plaintiff seeks modification of the existing custody/visitation order pursuant to M.G.L. c. 208 and other applicable law on the ground that there has been a material change in circumstances since entry of the existing order and that modification is in the best interests of the children.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 119, \u00a751A (duty to report suspected child abuse and neglect);": {
+      "raw_text": "M.G.L. c. 119, \u00a751A (duty to report suspected child abuse and neglect);",
+      "citation_type": "statute",
+      "proposition": "M.G.L. c. 119, \u00a751A (duty to report suspected child abuse and neglect);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 209C (child support enforcement provisions) \u2014 as applicable to enforcement and modification matters;": {
+      "raw_text": "M.G.L. c. 209C (child support enforcement provisions) \u2014 as applicable to enforcement and modification matters;",
+      "citation_type": "statute",
+      "proposition": "M.G.L. c. 209C (child support enforcement provisions) \u2014 as applicable to enforcement and modification matters;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

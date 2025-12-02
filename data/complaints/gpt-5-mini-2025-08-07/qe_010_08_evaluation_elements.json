@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_010_08.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a residential lease/tenancy beginning June 1, 2022, that Plaintiff pays $1,200/month, and explicitly identifies Defendant as the landlord/lessor of the Premises\u2014facts that plead a landlord\u2011tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant inspected the bathroom, refused to remediate the mold or correct inadequate ventilation, blamed Plaintiff, and stated she would only \"clean the existing mold\"\u2014a factual allegation of affirmative refusal/omission to act by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges mold growth spreading to the bathroom ceiling in a windowless bathroom relying on a fan, plaintiff\u2019s new respiratory symptoms (coughing, congestion, wheezing) linked by her physician to mold exposure, loss of personal property, and diminished use/enjoyment\u2014facts sufficient to plead a substantial interference with quiet enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff discovered mold and reported it to Defendant, who declined to correct the ventilation or properly remediate the mold; the physician attributed Plaintiff\u2019s new respiratory symptoms to mold exposure and Plaintiff sustained property loss\u2014together these facts sufficiently plead that the landlord\u2019s failure to remediate/maintain caused the interference at the pleading stage (noting that defendant may later dispute causation or contributory conduct)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages: new and ongoing respiratory symptoms and medical care, discarded personal property (~$60), diminished use/enjoyment, and an itemized damages estimate (~$200) and seeks compensatory damages, costs, and other relief\u2014facts sufficient to plead damages."
+    }
+  }
+}

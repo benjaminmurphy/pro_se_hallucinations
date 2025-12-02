@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_007_04.txt",
+  "scenario_id": "qe_007_04",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 3,
+  "statute_citations": 3,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 3,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G.L. c. 218, \u00a7 19": {
+      "raw_text": "G.L. c. 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to G.L. c. 218, \u00a7 19 and venue is proper in this District Court under G.L. c. 223, \u00a7 1, as the premises at issue and the underlying events are located within the territorial jurisdiction of the Cambridge District Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to G.L. c. 218, \u00a7 19 and venue is proper in this District Court under G.L. c. 223, \u00a7 1, as the premises at issue and the underlying events are located within the territorial jurisdiction of the Cambridge District Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, including G.L. c. 186, \u00a7 14, every residential lease includes an implied covenant of quiet enjoyment, which guarantees that tenants shall not be subjected to significant interference with the use and enjoyment of their rental premises by the landlord or landlord\u2019s agents.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 283-84 (1994)": {
+      "raw_text": "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 283-84 (1994)",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts have recognized that a landlord\u2019s activities causing substantial interference with a tenant\u2019s quiet enjoyment give rise to liability, even where the landlord may not have acted maliciously.",
+      "is_valid": true,
+      "courtlistener_id": "2069029",
+      "case_name": "Doe v. New Bedford Housing Authority",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The court expressly explains that breach of the covenant of quiet enjoyment turns on the landlord\u2019s conduct and not on intent, and that liability can arise where serious interference with the tenancy is the natural and probable consequence of what the landlord did, failed to do, or permitted. This recognizes landlord liability for substantial interference with quiet enjoyment without requiring malicious action. The opinion then applies that standard to possible omissions in addressing criminal activity on the premises.",
+      "relevant_excerpt": "\u201cThe covenant of quiet enjoyment protects a tenant\u2019s right to freedom from serious interference with his tenancy\u2026 In analyzing whether there is a breach of the covenant, we examine the landlord\u2019s conduct and not his intentions. Blackett v. Olanoff, 371 Mass. 714, 716 (1977). Thus, a landlord may not intend to violate a tenant\u2019s right to quiet enjoyment, but may do so nevertheless when the breach is a \u2018natural and probable consequence of what the landlord did, what he failed to do, or what he permitted to be done.\u2019\u2026 If the defendant failed to take any action\u2026 then the defendant permitted a condition to exist that substantially interfered with the tenancies\u2026 and thus breached the covenant of quiet enjoyment.\u201d}"
+    },
+    "*Al-Ziab v. Mourgis*, 424 Mass. 847, 850 (1997)": {
+      "raw_text": "*Al-Ziab v. Mourgis*, 424 Mass. 847, 850 (1997)",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts have recognized that a landlord\u2019s activities causing substantial interference with a tenant\u2019s quiet enjoyment give rise to liability, even where the landlord may not have acted maliciously.",
+      "is_valid": true,
+      "courtlistener_id": "6577320",
+      "case_name": "Al-Ziab v. Mourgis",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The court explicitly states that under G.L. c. 186, \u00a7 14, a tenant need not prove malicious or intentional conduct; instead, negligent conduct, i.e., \u201csome degree of fault,\u201d is sufficient for liability where the landlord\u2019s acts or omissions substantially interfere with quiet enjoyment. While the case focuses on whether a strict liability statutory violation alone suffices (it does not), it affirms that non\u2011malicious negligent interference by a landlord can give rise to quiet enjoyment liability, which matches the proposition.",
+      "relevant_excerpt": "In Simon v. Solomon, supra at 101, we interpreted the new statute and concluded with respect to civil liability it was not necessary for a tenant to show malicious intent to recover against a landlord; we said that the statute covered \u201cat the least\u201d the reckless conduct that had been shown in that case. Id. Twelve years later, in Cruz Mgt. Co. v. Thomas, supra, we rejected a claim that a violation of G. L. c. 186, \u00a7 14, could be imposed only if it were proved that a landlord was reckless in disregarding his tenant\u2019s rights, and we concluded that negligent conduct, conduct involving \u201csome degree of fault,\u201d by a landlord could support the imposition of liability under \u00a7 14."
+    },
+    "*Simon v. Solomon*, 385 Mass. 91, 102 (1982)": {
+      "raw_text": "*Simon v. Solomon*, 385 Mass. 91, 102 (1982)",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s actions also fall within the scope of the protections articulated in *Simon v. Solomon*, 385 Mass. 91, 102 (1982), which held that landlords may be liable where their actions cause significant disruption to tenants\u2019 enjoyment of their residences.",
+      "is_valid": true,
+      "courtlistener_id": "2038443",
+      "case_name": "Simon v. Solomon",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion squarely holds that a landlord can be liable when its conduct\u2014here, allowing repeated sewage flooding\u2014interfered with the tenant\u2019s quiet enjoyment and caused significant emotional injury. The court explains that \u201cquiet enjoyment\u201d covers serious interferences with the character and value of the leased premises and that \u00a7 14 liability extends at least to reckless interference with quiet enjoyment, including foreseeable emotional harm. That aligns with the proposition that landlords may be liable where their actions cause significant disruption to tenants\u2019 enjoyment of their residences.",
+      "relevant_excerpt": "\u201cThe phrase \u2018quiet enjoyment\u2019 is a familiar term in landlord-tenant law, signifying the tenant\u2019s right to freedom from serious interferences with his tenancy \u2014 acts or omissions that \u2018impair the character and value of the leased premises.\u2019 \u2026 Finally, Gem is liable to Solomon under \u00a7 14 because it violated its underlying duty to maintain sanitary conditions in her apartment, and thereby permitted repeated flooding to occur that interfered with her quiet enjoyment of her apartment.\u201d"
+    }
+  }
+}

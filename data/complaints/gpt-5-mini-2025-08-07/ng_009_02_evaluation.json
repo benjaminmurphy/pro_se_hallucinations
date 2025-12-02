@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_009_02.txt",
+  "scenario_id": "ng_009_02",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 148 (Fire Prevention)": {
+      "raw_text": "Mass. Gen. Laws ch. 148 (Fire Prevention)",
+      "citation_type": "statute",
+      "proposition": "The obligations of landlords to maintain common areas and to ensure safety devices function are grounded in Massachusetts common law principles of negligence and supported by statutes and regulations that govern fire safety and building standards, including but not limited to the following authorities:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "527 CMR (Massachusetts Comprehensive Fire Safety Code) (promulgated by the Office of the State Fire Marshal)": {
+      "raw_text": "527 CMR (Massachusetts Comprehensive Fire Safety Code) (promulgated by the Office of the State Fire Marshal)",
+      "citation_type": "statute",
+      "proposition": "The obligations of landlords to maintain common areas and to ensure safety devices function are grounded in Massachusetts common law principles of negligence and supported by statutes and regulations that govern fire safety and building standards, including but not limited to the following authorities:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "780 CMR (Massachusetts State Building Code)": {
+      "raw_text": "780 CMR (Massachusetts State Building Code)",
+      "citation_type": "statute",
+      "proposition": "The obligations of landlords to maintain common areas and to ensure safety devices function are grounded in Massachusetts common law principles of negligence and supported by statutes and regulations that govern fire safety and building standards, including but not limited to the following authorities:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant)",
+      "citation_type": "statute",
+      "proposition": "The obligations of landlords to maintain common areas and to ensure safety devices function are grounded in Massachusetts common law principles of negligence and supported by statutes and regulations that govern fire safety and building standards, including but not limited to the following authorities:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 (Public Health)": {
+      "raw_text": "Mass. Gen. Laws ch. 111 (Public Health)",
+      "citation_type": "statute",
+      "proposition": "The obligations of landlords to maintain common areas and to ensure safety devices function are grounded in Massachusetts common law principles of negligence and supported by statutes and regulations that govern fire safety and building standards, including but not limited to the following authorities:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

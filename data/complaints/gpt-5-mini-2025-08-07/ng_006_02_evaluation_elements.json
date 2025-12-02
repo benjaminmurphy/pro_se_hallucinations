@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_006_02.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant was the operator of a motor vehicle parked adjacent to a marked bike lane and cites statutory and common-law duties (Mass. Gen. Laws ch. 90, \u00a7 14; duty to exercise reasonable care toward other road users). Those factual allegations and authority sufficiently plead a duty to bicyclists."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific wrongful acts/omissions: Defendant opened the passenger door into the bike lane without checking for traffic, was looking at his phone, failed to keep a proper lookout, and otherwise acted negligently. Those factual allegations adequately plead a breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff collided with the open door when passing, was thrown and injured, and ties those injuries directly to Defendant opening the door; these facts adequately plead that the injuries would not have occurred but for Defendant's conduct."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Opening a vehicle door into a marked bike lane is the sort of risk that makes a bicyclist a foreseeable victim; the complaint alleges the collision was a direct and proximate result of Defendant's conduct and cites relevant statutory and case law\u2014adequately pleading foreseeability/proximate cause."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete economic damages (approx. $2,500 medical/dental expenses, $800 lost earnings, bicycle property damage) and non-economic harms (pain and suffering, emotional distress). Those allegations sufficiently plead actual damages."
+    }
+  }
+}

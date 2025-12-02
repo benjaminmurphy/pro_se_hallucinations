@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_004_06.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a prior Probate & Family Court custody order dated May 15, 2019 giving Plaintiff primary physical custody and limited weekday visits and Sunday afternoons to the Father (no overnights), and expressly states that the order remains in effect and is the order sought to be modified."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifies the relief sought: permitting regular overnight parenting time at Father\u2019s home, reducing frequent short school\u2011night exchanges, and proposes a concrete schedule (every other weekend Friday\u2013Sunday, one midweek overnight, holiday/summer allocations) and related transportation changes."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete, time\u2011sequenced factual changes since the 2019 order: Father now has his own apartment with a separate bedroom (housing change the court relied on originally), the child is older (age 8) with changed developmental/school needs, the current short\u2011visit schedule disrupts homework/bedtime, and both parents agree the schedule is inappropriate. Those allegations, taken together, adequately plead a material and substantial change in circumstances for pleading purposes."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint ties the requested modification to the child\u2019s best interests by alleging specific benefits: more predictable, age\u2011appropriate time and parental bonding; reduced child fatigue and improved homework/bedtime routines; adequate and safe housing for overnights; and parental willingness to cooperate. These factual allegations connect the requested change to the child\u2019s welfare and thereby plead the best\u2011interests element."
+    }
+  }
+}

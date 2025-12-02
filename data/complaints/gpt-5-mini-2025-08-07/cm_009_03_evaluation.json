@@ -1,0 +1,41 @@
+{
+  "complaint_file": "cm_009_03.txt",
+  "scenario_id": "cm_009_03",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 1,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 209B": {
+      "raw_text": "M.G.L. c. 209B",
+      "citation_type": "statute",
+      "proposition": "The Barnstable Probate and Family Court is the appropriate venue for modification of the 2019 custody order entered in this county (see M.G.L. c. 209B regarding child custody jurisdiction).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Troxel v. Granville": {
+      "raw_text": "Troxel v. Granville",
+      "citation_type": "case",
+      "proposition": "If you want that list, I will include general, widely recognized authorities (for example, M.G.L. c. 209B (UCCJEA), and federal authority such as Troxel v. Granville) and flag that you should verify case citations with the court clerk or an attorney before filing.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

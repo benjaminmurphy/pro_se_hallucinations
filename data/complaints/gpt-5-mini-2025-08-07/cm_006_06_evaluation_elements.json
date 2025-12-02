@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_006_06.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The Complaint expressly alleges an existing custody/visitation order entered June 15, 2021, awarding Petitioner primary physical custody and Respondent alternate weekends and one midweek visit (the \u201cExisting Order\u201d)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The Complaint identifies concrete modifications: prohibit the named third party (the Cohabitant) from being present during parenting time OR require that all Respondent parenting time be supervised, together with interim protections (safety plan, background checks) and related orders (GAL, evaluation, DCF referral)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The Complaint alleges new, post\u2011judgment facts not known at the time of the Existing Order \u2014 Respondent\u2019s cohabitation with a person who has violent criminal history and a prior restraining order; children\u2019s reports of yelling, door\u2011slamming, and at least one physical incident leaving a visible mark; and a police response to a disturbance \u2014 which sufficiently plead a material and substantial change affecting the children\u2019s safety."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The Complaint connects the alleged changed circumstances to the children\u2019s safety and welfare and expressly alleges that limiting exposure to the Cohabitant (or imposing supervised visitation) is necessary and in the children\u2019s best interests, supported by specific factual allegations (physical mark, police call, prior criminal/RO history)."
+    }
+  }
+}

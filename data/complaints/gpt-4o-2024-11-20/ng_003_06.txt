@@ -1,0 +1,72 @@
+Below is a formal legal complaint drafted based on the facts you provided. It is structured to include all necessary sections and cites relevant Massachusetts negligence law and caselaw.
+
+---
+
+### COMMONWEALTH OF MASSACHUSETTS  
+### LOWELL DISTRICT COURT  
+### Civil Action No.: [To Be Assigned]
+
+**Jessica Hall,**  
+Plaintiff,  
+v.  
+**HomeGoods Plus,**  
+Defendant.  
+
+**COMPLAINT**  
+
+**PARTIES**  
+1. The Plaintiff, Jessica Hall, resides at [Your Address, if needed] in Lowell, Massachusetts.  
+2. The Defendant, HomeGoods Plus, is a business entity operating a retail store located at 1230 Main St, Lowell, Massachusetts, where the incident giving rise to this claim occurred.  
+
+**JURISDICTION AND VENUE**  
+3. This Court has jurisdiction over this matter pursuant to G.L. c. 218, § 19 as the amount in controversy does not exceed $50,000, and it is appropriately filed in the Lowell District Court, as the incident occurred within Middlesex County.  
+
+**FACTUAL ALLEGATIONS**  
+4. On or about September 20, 2023, Plaintiff Jessica Hall visited the HomeGoods Plus retail store located at 1230 Main St, Lowell, Massachusetts, as a lawful customer and invitee.  
+5. While shopping in the kitchenware aisle, Plaintiff was examining merchandise when another customer’s shopping cart lightly bumped one of the lower shelves.  
+6. Upon the cart’s minor contact with the shelf, a large box containing a toaster oven fell from a high shelf—approximately five to six boxes above ground level—striking Plaintiff on the shoulder and head.  
+7. No straps, barriers, guardrails, or other safety mechanisms were in place to secure the stacked merchandise on the upper shelves, despite the obvious foreseeable risk of objects falling.  
+8. As a result of the falling merchandise, Plaintiff immediately experienced dizziness and head pain.  
+9. Store employees were alerted to the incident, and the store manager completed an incident report but failed to take meaningful action to address the hazardous shelving conditions.  
+10. Later that evening, Plaintiff's symptoms worsened, and she sought medical attention at the emergency room, where she was diagnosed with a mild concussion and a shoulder strain.  
+11. Due to the injuries caused by Defendant’s negligence, Plaintiff incurred medical expenses in the approximate amount of $2,500 and lost approximately $1,200 in wages due to an inability to work as a delivery driver for multiple days.  
+12. Plaintiff's injuries also caused significant disruption to her life, including her inability to participate in recreational activities such as her weekly soccer league for approximately one month.  
+
+**CAUSE OF ACTION: NEGLIGENCE**  
+13. Plaintiff incorporates by reference each and every allegation in the preceding paragraphs as if fully stated herein.  
+14. As the occupier and manager of the premises, Defendant owed Plaintiff, a lawful invitee, a duty to maintain the premises in a reasonably safe condition, to avoid exposing invitees to unnecessary risk of harm, and to warn of any hazardous conditions that were known or should have been known to Defendant. *See Oliveri v. Massachusetts Bay Transp. Auth., 363 Mass. 165, 166 (1973); Mounsey v. Ellard, 363 Mass. 693, 707 (1973).*  
+15. Defendant breached this duty by:  
+   a. Permitting heavy merchandise to be stacked dangerously high without adequate safety measures such as straps, barriers, or guardrails, contrary to reasonable safety practices. *See Papadopoulos v. Target Corp., 457 Mass. 368, 375 (2010).*  
+   b. Failing to inspect or correct the hazardous condition of the shelves, which posed a foreseeable risk of falling objects injuring customers. *See Young v. Atlantic Richfield Co., 400 Mass. 837, 841-42 (1987).*  
+   c. Neglecting to implement precautionary measures or post warnings regarding the risk of falling merchandise, despite knowledge or constructive knowledge of similar risks. *See Sheehan v. Roche Bros. Supermkts., Inc., 448 Mass. 780, 786 (2007).*  
+16. Defendant’s negligence directly and proximately caused Plaintiff’s injuries, including her concussion and shoulder strain, along with attendant damages related to medical expenses, lost wages, and diminished quality of life. *See Mullins v. Pine Manor College, 389 Mass. 47, 56-57 (1983).*  
+17. Defendant knew or should have known that stacking heavy merchandise on high shelves without proper precautions constituted an unreasonably dangerous condition that could foreseeably harm customers.  
+
+**DAMAGES**  
+18. As a direct and proximate result of Defendant’s negligence, Plaintiff suffered the following damages:  
+   a. Medical expenses of approximately $2,500;  
+   b. Lost wages of approximately $1,200 due to missed work;  
+   c. Pain and suffering, including headaches and discomfort from the shoulder strain;  
+   d. Loss of enjoyment of life, including the inability to participate in recreational activities.  
+
+**PRAYER FOR RELIEF**  
+WHEREFORE, Plaintiff respectfully requests that this Honorable Court grant the following relief:  
+1. An award of damages in the amount of $25,000 or such other amount as the Court deems proper to compensate Plaintiff for her injuries, medical expenses, lost wages, and pain and suffering;  
+2. Prejudgment interest, costs, and reasonable attorneys’ fees as permitted by law;  
+3. Any further relief the Court deems just and equitable.  
+
+Respectfully submitted,  
+
+Dated: December 1, 2025  
+
+**Jessica Hall**  
+Plaintiff, Pro Se  
+[Your Address]  
+Phone: (617) 555-0123  
+Email: psm1443@gmail.com  
+
+---
+
+### Notes on Next Steps:
+You will need to file this complaint at the appropriate Lowell District Court and pay the applicable filing fee (or file a motion to proceed in forma pauperis if you qualify). If you’re unsure of court procedures, contact the court clerk’s office for guidance. Be sure to bring copies of the complaint and any supporting documentation, such as the incident report, medical bills, and proof of lost wages.  
+

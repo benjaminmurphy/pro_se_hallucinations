@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_001_09.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff was an invitee on Defendant's premises and expressly pleads Defendant's duty to maintain safe premises and warn of hazards (\u00b6\u00b66,16), including citations to governing legal principles\u2014facts are sufficient to establish duty as pleaded."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a spilled milk hazard with cart tracks (\u00b6\u00b67\u20138), no warning signs (\u00b69), and an employee who admitted noticing the spill minutes earlier but delayed cleanup (\u00b610). Paragraph 18 identifies specific failures to discover/clean, warn, and timely act\u2014sufficient factual allegations of breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff stepped into the spilled milk, slipped and fell, and as a direct result sustained a hip sprain and related harms (\u00b6\u00b67,11,19). Those facts adequately plead that the injury would not have occurred but for the spilled milk and Defendant\u2019s alleged failure to address it."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "A slip-and-fall from spilled milk is a foreseeable consequence of leaving a liquid hazard unremedied; the complaint alleges Defendant knew or should have known of the spill and failed to act, and that Plaintiff\u2019s injuries were the direct and proximate result (\u00b6\u00b610,17\u201319)\u2014sufficient to plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a diagnosed hip sprain, urgent care and physical therapy (\u00b611), itemizes approximately $2,500 in medical expenses and $1,200 in lost wages (\u00b612), and pleads pain and suffering and other non-economic losses (\u00b613,21)\u2014sufficiently pleads actual damages."
+    }
+  }
+}

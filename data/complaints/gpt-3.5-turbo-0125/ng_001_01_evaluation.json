@@ -1,0 +1,41 @@
+{
+  "complaint_file": "ng_001_01.txt",
+  "scenario_id": "ng_001_01",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws Ann. ch. 93A, \u00a7 2": {
+      "raw_text": "Mass. Gen. Laws Ann. ch. 93A, \u00a7 2",
+      "citation_type": "statute",
+      "proposition": "Defendant owed a duty to maintain its premises in a safe condition for customers and adequately warn of known hazards per Massachusetts common law and statutes, including but not limited to Mass. Gen. Laws Ann. ch. 93A, \u00a7 2, and ch. 231, \u00a7 85.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "ch. 231, \u00a7 85": {
+      "raw_text": "ch. 231, \u00a7 85",
+      "citation_type": "statute",
+      "proposition": "Defendant owed a duty to maintain its premises in a safe condition for customers and adequately warn of known hazards per Massachusetts common law and statutes, including but not limited to Mass. Gen. Laws Ann. ch. 93A, \u00a7 2, and ch. 231, \u00a7 85.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

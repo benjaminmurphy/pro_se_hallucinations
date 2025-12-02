@@ -1,0 +1,136 @@
+COMMONWEALTH OF MASSACHUSETTS
+TRIAL COURT
+HAMPDEN COUNTY — DISTRICT COURT DEPARTMENT
+BROCKTON DISTRICT COURT
+
+Maria Johnson,                                 )
+    Plaintiff,                                 )
+                                               )
+v.                                             )   Docket No. _________________
+                                               )
+Robert Smith,                                  )
+    Defendant.                                 )
+
+COMPLAINT FOR BREACH OF THE COVENANT OF QUIET ENJOYMENT
+
+INTRODUCTION
+
+1. Plaintiff Maria Johnson (“Plaintiff”), appearing pro se, brings this action against Defendant Robert Smith (“Defendant”), the landlord of Plaintiff’s apartment located at 123 Main St, Brockton, MA 02301 (the “Premises”), for damages resulting from Defendant’s breach of the covenant of quiet enjoyment by failing to provide hot water, an essential service, over an extended period.
+
+JURISDICTION AND VENUE
+
+2. This Court has jurisdiction over this matter pursuant to the Massachusetts district court statutes because the amount in controversy is within the jurisdictional limit of the District Court and the Premises are located in Brockton, Massachusetts.
+
+3. Venue is proper in the Brockton District Court because the Premises is located in Brockton, Massachusetts and the acts and omissions giving rise to this complaint occurred in Brockton.
+
+PARTIES
+
+4. Plaintiff Maria Johnson is an individual and a tenant who occupies the Premises identified above. Plaintiff began renting the Premises on January 1, 2022, under a month-to-month/lease tenancy and pays rent in the amount of $1,450.00 per month.
+
+5. Defendant Robert Smith is the owner and landlord of the Premises and may be served at 123 Main St, Brockton, MA 02301 or at such other address as may be discovered.
+
+FACTUAL ALLEGATIONS
+
+6. On or about November 10, 2025 (approximately three weeks prior to the filing of this complaint), hot water service at the Premises ceased functioning.
+
+7. On the same day the hot water stopped, Plaintiff informed Defendant of the lack of hot water. Defendant responded that the water heater required a replacement part and that he had ordered it.
+
+8. One week later, the hot water remained unavailable. Defendant informed Plaintiff that the replacement part was “backordered.”
+
+9. Over the following two weeks, the hot water continued to be unavailable. Defendant continued to communicate via text and represented that he was “working on it” and that the supplier had delayed shipping the part. Despite Defendant’s communications and representations, no hot water was restored.
+
+10. As a result of Defendant’s failure to provide hot water for approximately three weeks, Plaintiff has suffered substantial interference with the use and enjoyment of the Premises, including but not limited to:
+   a. Inability to shower at home; Plaintiff has been required to use a gym to shower, incurring an additional monthly cost of approximately $30.00 plus transportation (gas) expenses;
+   b. Inability to bathe her infant child, requiring Plaintiff to take the baby to Plaintiff’s mother’s home for baths for the duration of the outage;
+   c. Difficulties in washing dishes and performing ordinary household tasks, requiring use of boiling water and other improvised measures.
+
+11. Plaintiff has paid rent in full each month and has otherwise complied with her obligations as a tenant.
+
+12. Plaintiff estimates provable monetary damages attributable to Defendant’s breach of the covenant of quiet enjoyment at approximately $500.00 (comprising out-of-pocket expense for gym membership and transportation, costs associated with childcare/bathing arrangements, and other incidental expenses), without prejudice to seeking additional damages, interest, and costs.
+
+LEGAL BASIS — BREACH OF THE COVENANT OF QUIET ENJOYMENT
+
+13. Plaintiff incorporates by reference the allegations in Paragraphs 1–12 above.
+
+14. Under Massachusetts law, an implied covenant of quiet enjoyment is part of every lease and tenancy: a tenant is entitled to the beneficial use and enjoyment of leased premises free from substantial interference caused by the landlord’s acts or omissions. The covenant is breached when the landlord substantially interferes with the tenant’s use and enjoyment of the premises. See, e.g., Restatement (Second) of Property: Landlord and Tenant §§ 12.1–12.3 (discussed and applied by Massachusetts courts); see also general Massachusetts authority recognizing the covenant of quiet enjoyment as implied in every lease.
+
+15. The landlord’s obligation to provide and maintain essential services (including heat and hot water) is a recognized component of the landlord’s duties. The Massachusetts State Sanitary Code (105 CMR 410.000 et seq.), which implements M.G.L. c.111 and other public health statutes, establishes minimum standards for fitness for human habitation, including the provision of adequate hot water and sanitary facilities. See 105 CMR 410.000, 410.100 (“minimum standards”), 410.200 (required facilities and services).
+
+16. M.G.L. c.111, §127A and related provisions empower local boards of health to enforce sanitary code requirements and to address conditions that render premises unfit for human habitation; public-health and housing code violations regarding hot water reflect recognized obligations of landlords. See M.G.L. c.111, §§122, 127A; 105 CMR 410.000 et seq.
+
+17. Defendant’s failure for approximately three weeks to supply hot water — despite timely notice and repeated communications by Defendant that he was attempting to procure a replacement part — constitutes a substantial interference with Plaintiff’s use and enjoyment of the Premises and therefore a breach of the covenant of quiet enjoyment.
+
+18. Defendant’s responses that the supplier delayed the part and that he was “working on it” do not excuse his continuing failure to provide essential services or to take reasonable alternative measures to mitigate the interference (for example, by arranging temporary replacement equipment, alternative accommodations, or immediate remedial steps). Where, as here, the landlord has failed to remedy the deprivation of essential services within a reasonable time after notice, the landlord is liable for damages caused by the breach. See general Massachusetts authority on landlord duties and tenant remedies under breach of quiet enjoyment and habitability standards.
+
+APPLICABLE AUTHORITIES (Representative Statutes, Regulations, and Case Law)
+
+Note: The following statutes, regulations, and cases represent Massachusetts statutory/regulatory authority and Massachusetts and persuasive authorities addressing the implied covenant of quiet enjoyment, landlord duties, and habitability standards:
+
+Statutes and Regulations
+- M.G.L. c.111, §§122, 127A (public-health enforcement authority).
+- 105 CMR 410.000 et seq. (State Sanitary Code — Minimum Standards of Fitness for Human Habitation, including hot water and sanitary facilities).
+- M.G.L. c.186 (Massachusetts landlord and tenant statutes generally; various sections discuss landlord/tenant rights and remedies).
+- M.G.L. c.93A (Massachusetts Consumer Protection Act) — generally available for landlord misconduct though not asserted as an independent claim here; costs and fees sometimes relevant in landlord-tenant matters.
+- M.G.L. c.239 (summary process: contextual statutory framework for landlord-tenant disputes).
+
+Massachusetts Cases and Appellate Authority (representative, non-exhaustive)
+- Cases recognizing and applying the implied covenant of quiet enjoyment and landlord obligations to provide essential services and maintain habitability (see, e.g., Massachusetts appellate decisions addressing covenant of quiet enjoyment and habitability; courts have awarded damages where landlords substantially interfered with tenants’ use and enjoyment).
+- Decisions interpreting and enforcing the State Sanitary Code and local boards of health enforcement authority in housing matters.
+- Massachusetts appellate decisions addressing remedies for tenants where landlords failed to provide essential services such as heat or hot water.
+
+Persuasive Secondary Authorities
+- Restatement (Second) of Property: Landlord and Tenant §§ 12.1–12.3, §16 (on covenant of quiet enjoyment and landlord obligations).
+- Massachusetts Practice, Landlord and Tenant practice treatises and appellate decisions addressing quiet enjoyment and habitability.
+
+(Per Plaintiff’s request, the foregoing includes statutes, regulations, and case law categories that are applicable to the breach alleged. Plaintiff intends to rely upon Massachusetts statutes, the State Sanitary Code, relevant Massachusetts case law on quiet enjoyment and habitability, and relevant treatises and Restatement authority at trial and in pretrial submissions.)
+
+CAUSE OF ACTION
+First Cause of Action — Breach of the Implied Covenant of Quiet Enjoyment (Massachusetts common law)
+
+19. Plaintiff realleges and incorporates paragraphs 1 through 18 as if fully set forth herein.
+
+20. By failing for approximately three weeks to provide hot water at the Premises, despite timely notice and repeated communications, and by failing to take reasonable measures to remedy the deprivation in a prompt and reasonable time, Defendant substantially interfered with Plaintiff’s use and enjoyment of the Premises.
+
+21. Defendant’s acts and omissions constitute a breach of the implied covenant of quiet enjoyment implied in Plaintiff’s tenancy.
+
+22. As a direct and proximate result of Defendant’s breach, Plaintiff has suffered actual damages, including out-of-pocket costs for alternative bathing facilities (gym), transportation costs, costs associated with childcare/bathing arrangements, inconvenience, emotional distress, and other incidental expenses in an amount to be proven at trial but currently estimated at not less than $500.00.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in her favor against Defendant as follows:
+
+A. For damages in the amount of at least $500.00 (and in such additional amount as proven at trial) for breach of the covenant of quiet enjoyment caused by Defendant’s failure to supply hot water and the resulting interference with Plaintiff’s possession and use of the Premises;
+
+B. For pre- and post-judgment interest to the extent allowed by law;
+
+C. For costs of suit and any other recoverable costs;
+
+D. For such additional relief as the Court deems just and equitable under the circumstances.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff requests a trial by jury on all claims and issues so triable.
+
+PRO SE SIGNATURE BLOCK
+
+Respectfully submitted,
+
+Maria Johnson
+Pro Se Plaintiff
+123 Main St
+Brockton, MA 02301
+Tel: (617) 555-0123
+Email: psm1433@gmail.com
+
+Dated: December 1, 2025
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that on this date a true copy of the foregoing Complaint was served on Defendant Robert Smith by [personal service / certified mail / first-class mail] at 123 Main St, Brockton, MA 02301 (or other service address), in accordance with the rules of this Court.
+
+Maria Johnson
+Pro Se Plaintiff
+
+---
+
+NOTE: Plaintiff is appearing pro se in this matter. The Complaint sets forth the factual basis and legal theory (breach of the covenant of quiet enjoyment) for recovery. At hearings or trial, Plaintiff intends to rely upon the cited Massachusetts statutes and the Massachusetts State Sanitary Code (105 CMR 410.000 et seq.), Massachusetts case law recognizing the covenant of quiet enjoyment and landlord obligations, and the Restatement (Second) of Property as persuasive authority. Plaintiff may, as the case proceeds, furnish precise citations to appellate decisions addressing quiet enjoyment and habitability and supplement this Complaint with specific Massachusetts case law and statutory citations in pleadings and legal memoranda filed with the Court.

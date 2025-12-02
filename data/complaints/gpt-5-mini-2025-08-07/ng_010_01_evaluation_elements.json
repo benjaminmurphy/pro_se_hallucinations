@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_010_01.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant is the owner/occupant of the property with a tree whose limb overhangs the public sidewalk (\u00b62, \u00b66) and expressly pleads a landowner\u2019s duty to exercise reasonable care to prevent foreseeable harm to lawful sidewalk users (\u00b614). These factual allegations adequately establish a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the limb was visibly cracked and drooping for a prolonged period, neighbors informed Defendant, Defendant delayed action, and Defendant failed to inspect, trim, support, or remove the limb despite actual/constructive notice and opportunity to act (\u00b66\u20138, \u00b615). Those facts adequately plead a breach of the alleged duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that on Aug. 12 the cracked limb broke off and fell directly onto Plaintiff, knocking her down and causing the injuries complained of (\u00b69\u201311). Those allegations support a but\u2011for link: but for the falling branch (and Defendant\u2019s failure to remedy it), the injuries would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the branch\u2019s fall was the direct and proximate result of Defendant\u2019s failure to remedy a known dangerous condition, that the hazard was foreseeable to pedestrians (\u00b66\u20138, \u00b614\u201316), and that the incident occurred during ordinary weather (\u00b69), supporting proximate causation as a foreseeable consequence of the alleged breach."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific bodily injuries (shoulder strain, bruises), medical treatment, approximate medical expenses (~$1,200), lost wages (~$650), and pain and suffering (\u00b610\u201312, \u00b617), which adequately pleads actual damages."
+    }
+  }
+}

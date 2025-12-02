@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_005_03.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an existing custody order entered in Bristol Probate and Family Court on June 15, 2022 (\u00b64, \u00b66)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint requests specific relief: award primary physical custody to Plaintiff, Defendant to have reasonable/liberal parenting time, and detailed changes governing extracurricular scheduling, non\u2011disparagement, communication methods, and mental\u2011health evaluation (Relief B\u2013F)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads concrete facts since entry of the order: Defendant repeatedly enrolled children in activities during Plaintiff's scheduled parenting time without consultation, blamed Plaintiff to the children, refused reasonable swaps, and the children have shown emotional/physical symptoms (recurrent stomach aches, anxiety) tied to transitions (\u00b68\u201313). These allegations, if proven, are the type of interference and harm courts treat as a material and substantial change affecting the children\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint links the requested modification to the children\u2019s best interests by alleging ongoing interference with Plaintiff\u2019s parenting time, undermining of the parent\u2011child relationship, and demonstrable emotional/physical harm to the children, and by seeking remedies (custody change, scheduling rules, non\u2011disparagement, mental\u2011health evaluation) aimed at protecting the children\u2019s stability and welfare (\u00b611\u201316, Relief B\u2013F)."
+    }
+  }
+}

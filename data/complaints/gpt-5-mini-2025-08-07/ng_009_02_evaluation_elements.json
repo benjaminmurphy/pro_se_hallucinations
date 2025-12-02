@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_009_02.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads that Defendant is the landlord/manager responsible for maintenance of common\u2011area smoke detectors, cites statutory/regulatory duties (Mass. Gen. Laws and CMR provisions), and specifically alleges an obligation to maintain safety equipment and common areas\u2014facts that adequately plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific facts showing a failure to act: the hallway detector chirped for months; Plaintiff reported the problem at least three times; Defendant acknowledged the reports but did not replace the battery or repair the device; the detector was left inoperable. These factual allegations adequately plead a breach of the maintenance duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint links the inoperable detector (no battery) to the alarm\u2019s failure to sound (\u00b63.7), Plaintiff\u2019s delayed awareness of the fire and smoke exposure (\u00b6\u00b63.6\u20133.9), and alleges that but for Defendant\u2019s failure to maintain/repair the detector Plaintiff would have received earlier warning and avoided or reduced her injuries (\u00b6\u00b64.5, 6.4). Those facts sufficiently plead but\u2011for causation at the pleading stage."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant knew or should have known of the detector\u2019s condition and the foreseeable risk of personal injury and property damage from a nonfunctioning detector (\u00b63.11), and ties Defendant\u2019s failure to the foreseeable harm (\u00b6\u00b64.5, 6.4). Those allegations adequately plead proximate (foreseeable) causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges actual damages: hospitalization for smoke inhalation, approximately $4,500 in medical expenses, about $1,200 in lost wages, and property damage to personal belongings (\u00b6\u00b63.9\u20133.10, 7.1), which sufficiently pleads compensable damages."
+    }
+  }
+}

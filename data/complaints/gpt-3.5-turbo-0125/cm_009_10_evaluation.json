@@ -1,0 +1,41 @@
+{
+  "complaint_file": "cm_009_10.txt",
+  "scenario_id": "cm_009_10",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 1,
+  "statute_citations": 1,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 208, Section 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "The Plaintiff requests this Honorable Court to modify the existing custody order pursuant to Massachusetts General Laws Chapter 208, Section 28, which grants the court authority to modify custody orders if it is in the best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)": {
+      "raw_text": "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)",
+      "citation_type": "case",
+      "proposition": "The modification request is also in accordance with Massachusetts case law precedent, including but not limited to Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985), which emphasizes the importance of the child's well-being and overall health in custody decisions.",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion squarely frames custody and removal decisions in terms of the children\u2019s best interests, explicitly including their emotional, physical, and developmental needs and the impact of the custodial parent\u2019s well-being on the children. While the case is specifically about removal out of the Commonwealth, the court\u2019s articulated standard emphasizes that custody-related determinations must focus on improving the child\u2019s quality of life and protecting their overall welfare, which encompasses well-being and health. Thus, citing Yannas for the general proposition that Massachusetts custody decisions emphasize the child\u2019s well-being is accurate.",
+      "relevant_excerpt": "\u201cThe words \u2018upon cause shown\u2019 mean only that removal must be in the best interests of the child \u2026 An evaluation of the best interests of the child requires attention to whether the quality of the child\u2019s life may be improved by the change (including any improvement flowing from an improvement in the quality of the custodial parent\u2019s life), the possible adverse effect of the elimination or curtailment of the child\u2019s association with the noncustodial parent, and the extent to which moving or not moving will affect the emotional, physical, or developmental needs of the child.\u201d"
+    }
+  }
+}

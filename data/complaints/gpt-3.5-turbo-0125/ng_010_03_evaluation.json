@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_010_03.txt",
+  "scenario_id": "ng_010_03",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Massachusetts General Laws, Chapter 231, Section 85:": {
+      "raw_text": "Massachusetts General Laws, Chapter 231, Section 85:",
+      "citation_type": "statute",
+      "proposition": "The conduct of Defendant constitutes negligence under Massachusetts law, including but not limited to Massachusetts General Laws, Chapter 231, Section 85: \"Negligence is the failure to use such care as a reasonably prudent and careful person would use under similar circumstances.\"",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Trotto v. Berry, 316 Mass. 44 (1944)": {
+      "raw_text": "Trotto v. Berry, 316 Mass. 44 (1944)",
+      "citation_type": "case",
+      "proposition": "In Trotto v. Berry, 316 Mass. 44 (1944), the court found a landowner liable for damages when a tree limb fell and injured a passerby due to the property owner's failure to inspect and maintain the tree adequately.",
+      "is_valid": true,
+      "courtlistener_id": "6571088",
+      "case_name": "Dexter v. Commissioner of Corporations & Taxation",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The provided text from Trotto v. Berry does not concern tort liability, landowners, trees, or injuries to passersby. It is a lengthy opinion on Massachusetts legacy and succession tax statutes and the constitutionality and application of those tax provisions. Therefore, it does not support the proposition that the court found a landowner liable for injuries caused by a falling tree limb due to failure to inspect and maintain the tree.",
+      "relevant_excerpt": "[No relevant excerpt on landowner liability or falling tree limbs appears in the provided opinion; the entire text concerns legacy and succession taxation under G. L. c. 65.]"
+    },
+    "Ellenberg v. Pink Construct. Co., 312 Mass. 6 (1942)": {
+      "raw_text": "Ellenberg v. Pink Construct. Co., 312 Mass. 6 (1942)",
+      "citation_type": "case",
+      "proposition": "Similarly, in Ellenberg v. Pink Construct. Co., 312 Mass. 6 (1942), the court ruled in favor of the plaintiff injured by a falling object from a building, citing the property owner's duty to maintain a safe premises and prevent foreseeable harm to others.",
+      "is_valid": true,
+      "courtlistener_id": "6570558",
+      "case_name": "Buckman v. Gordon",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion concerns a corporate stock subscription dispute and issues of unpaid consideration for shares in a bankrupt corporation. It does not involve premises liability, falling objects from a building, or a property owner\u2019s duty to maintain safe premises or prevent foreseeable harm. The proposition mischaracterizes the subject matter and holding of the case.",
+      "relevant_excerpt": "\"This is a bill in equity brought to reach and apply twenty-five shares of stock in the defendant Elm Hill Realty Company owned by the defendant Gordon ... to the satisfaction of a debt alleged to be due from him to Peabody Paint and Wallpaper Company ... for ninety-four shares of stock in that corporation.... The master found that this statement was false and known to be false by the defendant; that he had paid nothing for the stock ... The master found further that the corporation performed its part of the contract by delivery of the certificate and that the defendant was liable for $9,400 on the subscription contract.\""
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_010_09.txt",
+  "scenario_id": "cm_010_09",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 208 (matters relating to divorce, custody and support)": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (matters relating to divorce, custody and support)",
+      "citation_type": "statute",
+      "proposition": "10.1. Plaintiff brings this Complaint under the authority of applicable Massachusetts statutes and caselaw governing modification of custody and parenting time, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 UCCJEA)": {
+      "raw_text": "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 UCCJEA)",
+      "citation_type": "statute",
+      "proposition": "10.1. Plaintiff brings this Complaint under the authority of applicable Massachusetts statutes and caselaw governing modification of custody and parenting time, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209C (parentage)": {
+      "raw_text": "Mass. Gen. Laws ch. 209C (parentage)",
+      "citation_type": "statute",
+      "proposition": "10.1. Plaintiff brings this Complaint under the authority of applicable Massachusetts statutes and caselaw governing modification of custody and parenting time, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119 (juvenile matters and child welfare provisions where applicable)": {
+      "raw_text": "Mass. Gen. Laws ch. 119 (juvenile matters and child welfare provisions where applicable)",
+      "citation_type": "statute",
+      "proposition": "10.1. Plaintiff brings this Complaint under the authority of applicable Massachusetts statutes and caselaw governing modification of custody and parenting time, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 215 (procedure, where applicable)": {
+      "raw_text": "Mass. Gen. Laws ch. 215 (procedure, where applicable)",
+      "citation_type": "statute",
+      "proposition": "10.1. Plaintiff brings this Complaint under the authority of applicable Massachusetts statutes and caselaw governing modification of custody and parenting time, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_004_02.txt",
+  "scenario_id": "cm_004_02",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 209C (Uniform Child Custody Jurisdiction and Enforcement Act)": {
+      "raw_text": "Mass. Gen. Laws ch. 209C (Uniform Child Custody Jurisdiction and Enforcement Act)",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 209C (Uniform Child Custody Jurisdiction and Enforcement Act)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208 (statutes governing divorce and orders for custody and support)": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (statutes governing divorce and orders for custody and support)",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 208 (statutes governing divorce and orders for custody and support)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119 (provisions concerning children and their welfare)": {
+      "raw_text": "Mass. Gen. Laws ch. 119 (provisions concerning children and their welfare)",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 119 (provisions concerning children and their welfare)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_001_10.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned, occupied, controlled and maintained the grocery store premises and, as owner/occupier/controller, owed invitees (including Plaintiff) a duty to keep the premises reasonably safe and warn of hazards (\u00b6\u00b613\u201316). These factual allegations are sufficient to plead the duty element for premises liability."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads a large puddle of spilled milk, absence of warnings or cones, and that an employee noticed the spill \u201ca few minutes ago\u201d but did not mop it up\u2014plus specific allegations of failures to inspect, warn, and remediate (\u00b6\u00b66\u20139,15\u201317). Those facts adequately allege a breach of the duty to maintain safe premises."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff stepped into the puddle, slipped and fell onto her hip, and thereafter was diagnosed with a hip sprain requiring treatment (\u00b6\u00b69\u201311,18). Those allegations, tied to the spilled milk and Defendant\u2019s alleged failure to remedy it, are sufficient at the pleading stage to allege but\u2011for causation."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the spilled milk created an unreasonable, foreseeable risk to customers and that Defendant had actual and/or constructive notice yet failed to act (\u00b6\u00b616\u201317,19). The injuries (slip, fall, hip sprain, medical care) are the foreseeable type of harm from a wet floor, supporting proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific economic damages (\u2248$1,200 medical expenses, \u2248$800 lost wages) and non\u2011economic damages (pain and suffering, loss of enjoyment of life) resulting from the fall (\u00b6\u00b610,11,18,20). Those allegations adequately plead actual damages."
+    }
+  }
+}

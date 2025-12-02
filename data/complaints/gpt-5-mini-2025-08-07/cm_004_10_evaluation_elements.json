@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_004_10.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint affirmatively pleads a Prior Order entered May 14, 2019 and describes its terms (Plaintiff awarded primary physical custody; Defendant limited to three short weekday visits and a Sunday afternoon visit with no overnights) (\u00b6\u00b63.1\u20133.3)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifies the modification sought: permit overnight parenting time at the Defendant\u2019s residence and proposes a concrete schedule (one midweek overnight and alternating weekends), transfer protocols to minimize school-night disruption, and conditioning on appropriate housing (\u00b6\u00b66.1\u20136.2(a)\u2013(c), Prayer B)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific factual changes since the Prior Order: Jacob is now eight and in full-time school with different developmental/routine needs (\u00b64.1(a)); Defendant now has his own apartment and a bedroom for Jacob (\u00b64.1(b)); the current short-visit schedule causes frequent school-night transfers, fatigue and stress, and Jacob has expressed a desire for overnights (\u00b64.1(c)); and the parties agree the schedule is no longer appropriate (\u00b64.1(d)). These factual allegations plausibly establish a material and substantial change not contemplated at entry of the Prior Order (\u00b64.2)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint ties the requested modification to the child\u2019s best interests, alleging the changes will promote stability, reduce school-night disruptions, support homework/bedtime routines, increase meaningful contact with the father, reflect Jacob\u2019s expressed wishes, and are supported by the Defendant\u2019s now-adequate housing (\u00b6\u00b65.1\u20135.2). These factual allegations directly address the best-interests inquiry."
+    }
+  }
+}

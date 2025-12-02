@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_006_05.txt",
+  "scenario_id": "qe_006_05",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 2,
+  "statute_citations": 3,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "M.G.L. c. 186, \u00a7 14": {
+      "raw_text": "M.G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under M.G.L. c. 186, \u00a7 14, every landlord covenants that tenants have the right to quiet enjoyment of their rental premises, free from substantial interference by the landlord or from conditions that make the premises unsuitable for their intended use.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 218, Section 19": {
+      "raw_text": "Massachusetts General Laws, Chapter 218, Section 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws, Chapter 218, Section 19, which grants the District Court jurisdiction over civil actions where the damages sought do not exceed $50,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 223, Section 2": {
+      "raw_text": "Massachusetts General Laws, Chapter 223, Section 2",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in this Court under Massachusetts General Laws, Chapter 223, Section 2, as the subject property is located in Brockton, Plymouth County, and the events giving rise to this action occurred in this judicial district.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Lowery v. Robinson, 13 Mass. App. Ct. 982 (1982)": {
+      "raw_text": "Lowery v. Robinson, 13 Mass. App. Ct. 982 (1982)",
+      "citation_type": "case",
+      "proposition": "Massachusetts caselaw clearly establishes that the non-functionality of essential utilities, including hot water, constitutes a breach of the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "6583025",
+      "case_name": "Lowery v. Robinson",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case clearly holds that failure to provide heat constitutes a breach of the covenant of quiet enjoyment and a violation of G.L. c. 186, \u00a7 14. However, it does not address hot water or \u2018essential utilities\u2019 generally; its reasoning and holding are specific to the non\u2011provision of heat. Thus it supports the narrower rule about heat, not the broader proposition regarding non\u2011functionality of all essential utilities, including hot water.",
+      "relevant_excerpt": "\u201cA landlord\u2019s failure to provide heat during the heating season\u2026 seriously \u2018impair[s] the character and value of the leased premises\u2019\u2026 and constitutes a breach of the covenant of quiet enjoyment. See generally Blackett v. Olanoff\u2026 It is not necessary to recovery that the landlord intended to violate the covenant. Rather \u2018the landlord\u2019s conduct, and not his intentions, is controlling.\u2019\u201d"
+    },
+    "Dartt v. Browning-Ferris Industries, Inc., 427 Mass. 1 (1998)": {
+      "raw_text": "Dartt v. Browning-Ferris Industries, Inc., 427 Mass. 1 (1998)",
+      "citation_type": "case",
+      "proposition": "Massachusetts caselaw clearly establishes that the non-functionality of essential utilities, including hot water, constitutes a breach of the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "6577577",
+      "case_name": "Dartt v. Browning-Ferris Industries, Inc.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This case concerns handicap discrimination in employment under Mass. G. L. c. 151B and the standard for a prima facie case, jury instructions, workers\u2019 compensation issues, and punitive damages. It does not address landlord-tenant law, the covenant of quiet enjoyment, or essential utilities such as hot water. Therefore, it provides no authority for the proposition that non-functionality of essential utilities constitutes a breach of the covenant of quiet enjoyment.",
+      "relevant_excerpt": "We clarify today the prima facie standard a plaintiff must meet to establish liability in a case involving a claim of handicap discrimination in violation of G. L. c. 151B, \u00a7 4 (16). The defendant, Browning-Ferris Industries, Inc. (Mass.) (BFI), appeals from a jury verdict that it unlawfully fired the plaintiff, Brian A. Dartt, because of a handicap, an earlier work-related injury to his back."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**HAMPDEN COUNTY SUPERIOR COURT**  
+-------------------------------------------------------------  
+**CARLOS MARTINEZ**,  
+Plaintiff,  
+v.  
+**THOMAS REED**,  
+Defendant.  
+-------------------------------------------------------------  
+**CIVIL ACTION NO. ___________**  
+**COMPLAINT AND JURY DEMAND**  
+(Negligence)  
+-------------------------------------------------------------
+
+### I. PARTIES
+
+1. The Plaintiff, **Carlos Martinez**, is an individual residing at 123 Maple Street, Springfield, Massachusetts.
+
+2. The Defendant, **Thomas Reed**, is an individual residing at 123 Maple Street, Springfield, Massachusetts, and is the Plaintiff’s adjoining neighbor in a duplex residence.
+
+### II. JURISDICTION AND VENUE
+
+3. This action arises under the common law of the Commonwealth of Massachusetts governing negligence.  
+4. Jurisdiction and venue are proper in this Court pursuant to **G.L. c. 212, § 4**, as the incident giving rise to this action occurred in Hampden County, Massachusetts.  
+5. The amount in controversy exceeds $25,000, giving this Court proper jurisdiction under **G.L. c. 212, § 3**.
+
+### III. FACTUAL ALLEGATIONS
+
+6. Plaintiff and Defendant share a common driveway and wooden fence separating their portions of the property located at 123 Maple Street, Springfield, Massachusetts.  
+
+7. For several months prior to March 15, 2023, Defendant kept a tall aluminum extension ladder leaning unsecured against the wooden fence adjacent to Plaintiff’s parking area.
+
+8. Plaintiff repeatedly expressed concerns to Defendant about the unsecured ladder, warning that it could fall during windy conditions and cause property damage. Defendant promised to secure or relocate it but failed to do so.
+
+9. On or about **March 15, 2023**, during a period of high wind, while Plaintiff was backing his vehicle into the driveway, a gust of wind toppled the ladder.
+
+10. The ladder fell directly onto the hood and windshield of Plaintiff’s vehicle, causing substantial property damage, including dents and a cracked windshield.
+
+11. Plaintiff’s vehicle required body repair and replacement of the windshield. Plaintiff incurred expenses in paying his insurance deductible and renting a car for transportation while his vehicle was being repaired.
+
+12. The Plaintiff’s property damage, rental costs, and related out-of-pocket losses total approximately **$3,500**.
+
+13. Defendant knew or should have known that leaving a tall metal ladder unsecured in an exposed outdoor area near a fence and vehicle posed an unreasonable risk of harm, particularly given Plaintiff’s prior warnings.
+
+14. Defendant’s failure to remove, tie down, or otherwise secure the ladder after repeated notice was careless, unreasonable, and constituted a breach of the duty of care owed to Plaintiff.
+
+15. As a direct and proximate result of Defendant’s negligence, Plaintiff sustained property damage and related economic losses.
+
+### IV. CAUSE OF ACTION — NEGLIGENCE
+
+16. Plaintiff incorporates by reference paragraphs 1 through 15 of this Complaint as though fully set forth herein.  
+
+17. Under Massachusetts law, every person has a duty to exercise reasonable care to avoid foreseeable harm to the person or property of others. **Jupin v. Kask, 447 Mass. 141, 146 (2006)**.
+
+18. Defendant owed Plaintiff a duty to use ordinary care in maintaining objects on his property, particularly those positioned in a manner that could foreseeably cause harm to Plaintiff’s person or property. **Restatement (Second) of Torts § 302 (1965)**; **Davis v. Westwood Group, 420 Mass. 739, 743 (1995)**.
+
+19. Defendant breached his duty by failing to secure or remove the ladder despite actual notice that it presented a risk of falling during windy weather and striking Plaintiff’s vehicle. See **Glidden v. Maglio, 430 Mass. 694, 696 (2000)** (landowner liable for foreseeable risk created by object on property); **O’Sullivan v. Shaw, 431 Mass. 201, 204 (2000)** (reasonableness of risk prevention is central to negligence).
+
+20. Defendant’s conduct directly and proximately caused Plaintiff’s property damage and economic loss. See **Toubiana v. Priestly, 402 Mass. 84, 87 (1988)** (plaintiff must show duty, breach, causation, and damages).
+
+21. Defendant’s actions were not those of a reasonably prudent homeowner under similar circumstances and constitute negligence as defined in **G.L. c. 231, § 85** and the common law of the Commonwealth. See also **Mullins v. Pine Manor College, 389 Mass. 47, 62 (1983)** (existence of duty based on foreseeability and relationship); **Leavitt v. Brockton Hosp., 454 Mass. 37, 45 (2009)** (concept of reasonable care lies at the heart of negligence).
+
+22. The injury was foreseeable, as Plaintiff expressly warned Defendant of the danger, establishing Defendant’s knowledge and foreseeability under **Fletcher v. Dorchester Mut. Ins. Co., 437 Mass. 544, 549 (2002)**.
+
+23. Defendant’s negligence caused Plaintiff’s damages, entitling Plaintiff to compensation for all reasonably foreseeable losses, including repair costs and rental expenses. **Borden v. Paul Revere Life Ins. Co., 935 F.2d 370, 375 (1st Cir. 1991)** (applying Massachusetts law on proximate cause).
+
+24. As a result of Defendant’s breach of duty, Plaintiff suffered monetary damages of approximately **$3,500**, including repair expenses, insurance deductible, and rental costs.
+
+### V. PRAYER FOR RELIEF
+
+WHEREFORE, the Plaintiff, Carlos Martinez, respectfully requests that this Honorable Court:
+
+A. Enter judgment for the Plaintiff and against Defendant Thomas Reed;  
+B. Award damages in the amount of **Three Thousand Five Hundred Dollars ($3,500)**, or such other amount as may be proven at trial;  
+C. Award statutory interest pursuant to **G.L. c. 231, § 6B** from the date of the incident;  
+D. Award costs and any other relief the Court deems just and equitable.
+
+### VI. JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable as of right under **Mass. R. Civ. P. 38**.
+
+---
+
+Respectfully submitted,  
+**CARLOS MARTINEZ**,  
+Plaintiff, pro se  
+
+Dated: December 1, 2025  
+Springfield, Massachusetts  
+
+**Signature:** ___________________________  
+Carlos Martinez  
+123 Maple Street  
+Springfield, MA 01103  
+Phone: (617) 555-0123  
+Email: psm1443@gmail.com  
+
+---
+
+**CERTIFICATE OF SERVICE**
+
+I, Carlos Martinez, hereby certify that on this date, a copy of the foregoing Complaint was mailed, postage prepaid, to Defendant Thomas Reed at his last known address, 123 Maple Street, Springfield, Massachusetts.
+
+Date: December 1, 2025  
+Signature: ___________________________  
+Carlos Martinez

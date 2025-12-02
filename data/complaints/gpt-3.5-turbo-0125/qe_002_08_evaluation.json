@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_002_08.txt",
+  "scenario_id": "qe_002_08",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws": {
+      "raw_text": "Massachusetts General Laws",
+      "citation_type": "statute",
+      "proposition": "This action arises under the laws of the Commonwealth of Massachusetts, particularly the Massachusetts General Laws and applicable case law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 185C, Section 19.": {
+      "raw_text": "Massachusetts General Laws Chapter 185C, Section 19.",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 185C, Section 19.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

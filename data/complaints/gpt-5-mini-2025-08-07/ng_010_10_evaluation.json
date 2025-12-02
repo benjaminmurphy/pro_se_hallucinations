@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_010_10.txt",
+  "scenario_id": "ng_010_10",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 4,
+  "statute_citations": 2,
+  "valid_citations": 3,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "Mass. Gen. Laws ch. 260, \u00a7 2A.": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A.",
+      "citation_type": "statute",
+      "proposition": "The statute of limitations for personal injury actions in Massachusetts is three years.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Fabre v. Walton, 436 Mass. 517 (2002) (discussing principles of negligence and apportionment of fault).": {
+      "raw_text": "Fabre v. Walton, 436 Mass. 517 (2002) (discussing principles of negligence and apportionment of fault).",
+      "citation_type": "case",
+      "proposition": "Defendant owed a duty to members of the public lawfully using the sidewalk adjacent to his property to exercise reasonable care with respect to conditions of his premises that created an unreasonable risk of harm.",
+      "is_valid": true,
+      "courtlistener_id": "6578481",
+      "case_name": "Fabre v. Walton",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion concerns the Massachusetts anti-SLAPP statute, the right to interlocutory appeal from denial of a special motion to dismiss, and whether an abuse-of-process claim is barred by petitioning immunity. It does not discuss premises liability, duties owed by a landowner to people using an adjacent sidewalk, or any negligence/apportionment-of-fault issues. Therefore it does not provide authority for the asserted duty-to-sidewalk-users proposition.",
+      "relevant_excerpt": "In enacting the anti-SLAPP statute, \u201cthe Legislature intended to immunize parties from claims \u2018based on\u2019 their petitioning activities.\u201d Duracraft Corp. v. Holmes Prods. Corp., 427 Mass. 156, 167 (1998). Accordingly, the statute provides broad protections for individuals who exercise their right to petition from harassing litigation and the costs and burdens of defending against retaliatory lawsuits. Id. at 161-162. In this regard, they are similar in purpose to the protections afforded public officials by the doctrine of governmental immunity."
+    },
+    "Mass. Gen. Laws ch. 231, \u00a7 85": {
+      "raw_text": "Mass. Gen. Laws ch. 231, \u00a7 85",
+      "citation_type": "statute",
+      "proposition": "To the extent any fault is claimed against any other person or entity (including non-parties), Plaintiff invokes the principles of comparative fault and apportionment as recognized under Massachusetts law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Donoghue v. Stevenson, [1932] A.C. 562": {
+      "raw_text": "Donoghue v. Stevenson, [1932] A.C. 562",
+      "citation_type": "case",
+      "proposition": "Landowners and occupiers are required to take reasonable measures to prevent harm from hazardous natural conditions on or adjacent to their property where those conditions create an unreasonable risk to lawful visitors to adjacent public ways.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Not found",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (duty and foreseeability)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (duty and foreseeability)",
+      "citation_type": "case",
+      "proposition": "Landowners and occupiers are required to take reasonable measures to prevent harm from hazardous natural conditions on or adjacent to their property where those conditions create an unreasonable risk to lawful visitors to adjacent public ways.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Palsgraf concerns the scope of duty in negligence based on foreseeability of harm to the particular plaintiff. It does not address premises liability, landowner/occupier obligations, or duties relating to hazardous natural conditions adjacent to public ways. The opinion is about relational duty and the foreseeability of risk, not about any special landowner duty to protect lawful visitors from natural conditions, so it does not support the specific proposition stated.",
+      "relevant_excerpt": "\u201cThe risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension\u2026 Negligence, like risk, is thus a term of relation. Negligence in the abstract, apart from things related, is surely not a tort\u2026 One who seeks redress at law does not make out a cause of action by showing without more that there has been damage to his person.\u201d"
+    },
+    "MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916) (duty imposed based on foreseeability and dangerous conditions).": {
+      "raw_text": "MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916) (duty imposed based on foreseeability and dangerous conditions).",
+      "citation_type": "case",
+      "proposition": "Landowners and occupiers are required to take reasonable measures to prevent harm from hazardous natural conditions on or adjacent to their property where those conditions create an unreasonable risk to lawful visitors to adjacent public ways.",
+      "is_valid": true,
+      "courtlistener_id": "3616523",
+      "case_name": "MacPherson v. . Buick Motor Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This case is a products-liability decision about a manufacturer's duty to remote purchasers, not about landowners' duties concerning hazardous natural conditions adjacent to public ways. The opinion (including this dissent) discusses privity, inherently dangerous products, and foreseeability in the manufacturer\u2013consumer context, but nowhere addresses premises liability, natural conditions, or duties of landowners/occupiers to users of public ways. Therefore it does not provide authority for the specific landowner-duty proposition stated.",
+      "relevant_excerpt": "\u201cThe plaintiff was injured in consequence of the collapse of a wheel of an automobile manufactured by the defendant corporation\u2026 The present suit is an action for negligence brought by the subvendee of the motor car against the manufacturer as the original vendor.\u2026 It has heretofore been held in this state that the liability of the vendor of a manufactured article for negligence arising out of the existence of defects therein does not extend to strangers injured in consequence of such defects but is confined to the immediate vendee.\u201d"
+    }
+  }
+}

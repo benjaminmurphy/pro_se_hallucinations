@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_006_08.txt",
+  "scenario_id": "qe_006_08",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 185C, \u00a7 16A": {
+      "raw_text": "Mass. Gen. Laws ch. 185C, \u00a7 16A",
+      "citation_type": "statute",
+      "proposition": "3. This court has jurisdiction over this matter pursuant to Mass. Gen. Laws ch. 185C, \u00a7 16A which grants jurisdiction to district courts over landlord-tenant disputes, as well as under applicable principles of common law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186 \u00a7 14": {
+      "raw_text": "Mass. Gen. Laws ch. 186 \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "10. Plaintiff alleges a single cause of action for breach of the covenant of quiet enjoyment, as codified under Mass. Gen. Laws ch. 186 \u00a7 14, which guarantees tenants the right to hot water in their leased premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

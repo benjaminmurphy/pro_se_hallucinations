@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_010_05.txt",
+  "scenario_id": "cm_010_05",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "M.G.L. c. 208, \u00a7 28": {
+      "raw_text": "M.G.L. c. 208, \u00a7 28",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to M.G.L. c. 208, \u00a7 28, as the subject child resides in Bristol County and the original custody order was issued by this Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 208, Section 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws Chapter 208, Section 28, establishes the statutory authority of the Court to modify custody orders based on a significant change in circumstances affecting the child's best interests.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)": {
+      "raw_text": "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)",
+      "citation_type": "case",
+      "proposition": "Modification of a custody order requires a showing of a substantial and material change in circumstances since the entry of the prior judgment, as outlined in Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985).",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Yannas is a removal/relocation case decided in the context of an original divorce and custody judgment, not a post-judgment modification proceeding. The opinion articulates the \u2018real advantage\u2019 standard and best-interests analysis under G.L. c. 208, \u00a7 30 for permitting a custodial parent to remove children from the Commonwealth, but it does not discuss or impose any requirement of a \u2018substantial and material change in circumstances\u2019 since a prior custody order. Therefore it does not provide authority for the claimed modification standard.",
+      "relevant_excerpt": "\u201cThe Massachusetts removal statute, G. L. c. 208, \u00a7 30 (1984 ed.), provides that \u2018[a] minor child of divorced parents who is a native of . . . this commonwealth . . . shall not, if of suitable age to signify his consent, be removed out of this commonwealth without such consent, or, if under that age, without the consent of both parents, unless the court upon cause shown otherwise orders.\u2019 The words \u2018upon cause shown\u2019 mean only that removal must be in the best interests of the child (Rubin v. Rubin, 370 Mass. 857 [1976]; Hale v. Hale, supra at 815)\u2026\u201d}"
+    }
+  }
+}

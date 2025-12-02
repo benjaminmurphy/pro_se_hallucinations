@@ -1,0 +1,93 @@
+{
+  "complaint_file": "cm_005_02.txt",
+  "scenario_id": "cm_005_02",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 3,
+  "statute_citations": 3,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "M.G.L. c. 208": {
+      "raw_text": "M.G.L. c. 208",
+      "citation_type": "statute",
+      "proposition": "See M.G.L. c. 208; M.G.L. c. 209C; and applicable Massachusetts caselaw establishing the standard for modification based on material change and best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 209C": {
+      "raw_text": "M.G.L. c. 209C",
+      "citation_type": "statute",
+      "proposition": "See M.G.L. c. 208; M.G.L. c. 209C; and applicable Massachusetts caselaw establishing the standard for modification based on material change and best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 119 (child welfare provisions; Court's authority to act in the best interests of children)": {
+      "raw_text": "M.G.L. c. 119 (child welfare provisions; Court's authority to act in the best interests of children)",
+      "citation_type": "statute",
+      "proposition": "Statutory authority and legal principles supporting this application include the statutes and precedents governing modification of custody orders and the best interests standard.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Troxel v. Granville, 530 U.S. 57 (2000) (parental rights and deference to fit parents)": {
+      "raw_text": "Troxel v. Granville, 530 U.S. 57 (2000) (parental rights and deference to fit parents)",
+      "citation_type": "case",
+      "proposition": "Statutory authority and legal principles supporting this application include the statutes and precedents governing modification of custody orders and the best interests standard.",
+      "is_valid": true,
+      "courtlistener_id": "1087668",
+      "case_name": "Troxel v. Granville",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Troxel v. Granville addresses constitutional limits on state interference with the fundamental rights of fit parents, specifically criticizing a statute that allowed courts to override parental decisions based solely on a judge\u2019s best-interests determination. It does not involve, interpret, or apply statutes governing modification of custody orders, nor does it endorse the generic use of a best interests standard in that context. Instead, it constrains how a best interests standard may be applied against fit parents, so it does not affirm the proposition claimed.",
+      "relevant_excerpt": "\"Thus, in practical effect, in the State of Washington a court can disregard and overturn any decision by a fit custodial parent concerning visitation whenever a third party affected by the decision files a visitation petition, based solely on the judge's determination of the child's best interests.... As we have explained, the Due Process Clause does not permit a State to infringe on the fundamental right of parents to make child rearing decisions simply because a state judge believes a 'better' decision could be made.\" (530 U.S. at 67, 73)"
+    },
+    "Parham v. J.R., 442 U.S. 584 (1979) (parental rights and children's welfare)": {
+      "raw_text": "Parham v. J.R., 442 U.S. 584 (1979) (parental rights and children's welfare)",
+      "citation_type": "case",
+      "proposition": "Statutory authority and legal principles supporting this application include the statutes and precedents governing modification of custody orders and the best interests standard.",
+      "is_valid": true,
+      "courtlistener_id": "110113",
+      "case_name": "Parham v. J. R.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Parham v. J.R. is a constitutional due process case about procedures for voluntary psychiatric commitment of minors and the balance between parental rights, children\u2019s liberty interests, and the state\u2019s role. It does not deal with family-law custody orders, modification of custody, or articulate or apply a generic \u2018best interests of the child\u2019 custody standard. Citing Parham as statutory or precedential authority on modification of custody orders and the best interests standard mischaracterizes its subject matter and holding.",
+      "relevant_excerpt": "\"Our jurisprudence historically has reflected Western civilization concepts of the family as a unit with broad parental authority over minor children. Our cases have consistently followed that course; our constitutional system long ago rejected any notion that a child is 'the mere creature of the State' and, on the contrary, asserted that parents generally 'have the right, coupled with the high duty, to recognize and prepare [their children] for additional obligations.' Pierce v. Society of Sisters, 268 U. S. 510, 535 (1925).\""
+    },
+    "Adoption of a Child, 418 Mass. 189 (1994) (discussing best interests principles)*": {
+      "raw_text": "Adoption of a Child, 418 Mass. 189 (1994) (discussing best interests principles)*",
+      "citation_type": "case",
+      "proposition": "Statutory authority and legal principles supporting this application include the statutes and precedents governing modification of custody orders and the best interests standard.",
+      "is_valid": true,
+      "courtlistener_id": "2069046",
+      "case_name": "In the Matter of Dugan",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion concerns the removal of a District Court clerk under G. L. c. 211, \u00a7 4 and related constitutional provisions regarding impeachment and address. It does not discuss modification of custody orders, adoption, or the best interests of the child standard. Therefore, it does not provide statutory or precedential authority for principles governing modification of custody orders or application of a best interests standard in that context.",
+      "relevant_excerpt": "\"On December 2, 1993, this court entered a judgment that Janet Rowe Dugan be removed from the office of clerk of the Northampton Division of the District Court Department... The court acted pursuant to statutory authority stated in G. L. c. 211, \u00a7 4 (1992 ed.). ... A District Court clerk is not a judicial officer removable only by address. The motion for relief from judgment is denied.\""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_005_10.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/controlled/placed the ladder adjacent to the shared driveway (\u00b62) and expressly pleads a duty to exercise reasonable care in storing/securing the ladder (\u00b614), including to avoid foreseeable risks to persons or property using the driveway."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant habitually left a tall unsecured extension ladder leaning by the driveway (\u00b66), was warned by Plaintiff and promised to secure or move it but failed to do so (\u00b67), and had the ability to secure or relocate it but did not (\u00b68); \u00b615 expressly alleges this conduct breached the duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads that on March 15, 2023 a gust of wind caused the unsecured ladder to fall and strike Plaintiff\u2019s automobile (\u00b69) and alleges the fall resulted from Defendant\u2019s failure to secure the ladder (\u00b616); thus but-for the failure to secure, the ladder would not have fallen and struck the car."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the harm was a foreseeable consequence of leaving a tall, unsecured ladder in an outdoor, wind-prone location adjacent to where vehicles and people would be present, and Plaintiff warned Defendant about the specific risk (\u00b67, \u00b616), establishing proximate (foreseeable) causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific property damage to the automobile (dented hood, cracked windshield) and related out-of-pocket expenses including repair costs, insurance deductible, and rental-car costs while repairs were made (\u00b610\u201311, \u00b617)."
+    }
+  }
+}

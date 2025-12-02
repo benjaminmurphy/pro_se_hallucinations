@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_006_08.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads facts showing Defendant was operating/occupying a vehicle adjacent to a bike lane and expressly alleges Defendant owed a duty to other road users including cyclists (\u00b6\u00b63.1\u20133.4, 4.2). Those allegations establish the requisite duty to exercise reasonable care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific negligent acts: opening the vehicle door into an active bike lane without looking, failing to check mirrors, opening the door while distracted by a phone, and similar failures (\u00b6\u00b63.2\u20133.4, 3.6, 4.3). Those factual allegations sufficiently plead a breach of the duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that Defendant opened the door directly into Plaintiff\u2019s path while Plaintiff was passing, Plaintiff collided with the door and was thrown from the bicycle, and that injuries and damage resulted (\u00b6\u00b63.3\u20133.5, 4.4). Those facts support the but\u2011for link (but for Defendant opening the door as alleged, the collision/injuries would not have occurred)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the injuries were a direct and proximate result of Defendant\u2019s conduct and that such harm was reasonably foreseeable (\u00b6\u00b63.5, 3.8, 4.4\u20134.5). Opening a door into an active bike lane is a foreseeable cause of a cyclist collision, so proximate causation is adequately pleaded."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific physical injuries (road rash, chipped tooth), property damage (bicycle), and quantifiable economic losses (approx. $1,200 medical/dental, $600 lost wages) and seeks additional damages (\u00b6\u00b63.5, 3.7, 4.4, 5.1). Those allegations sufficiently plead actual damages."
+    }
+  }
+}

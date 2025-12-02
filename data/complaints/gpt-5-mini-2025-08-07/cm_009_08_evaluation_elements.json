@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_009_08.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies and attaches the 2019 Order (entered August 15, 2019) and alleges its terms: Plaintiff has primary custody and Defendant has every-other-weekend plus a Wednesday midweek overnight, establishing an existing custody/parenting-time order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly requests elimination of the Wednesday midweek overnight (\u00b67.2) and modification of the weekend parenting-time schedule to provide alternatives that avoid school-night overnight travel (\u00b67.3), with examples of proposed arrangements."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete factual changes since the 2019 Order: Defendant relocated ~90 miles to Cape Cod (\u00b64.2), continues the Wednesday overnight despite long travel (\u00b64.3), causes early\u2011morning returns (\u22484:30 a.m.) and persistent exhaustion (\u00b64.4), and states the relocation/travel were not contemplated and are ongoing (\u00b64.5\u20134.6), which together plausibly plead a material and substantial change affecting the child."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that continuation of the current schedule adversely affects Emily\u2019s health, sleep, classroom participation and school functioning (\u00b64.4, \u00b66.2\u20136.3) and ties the requested modifications directly to protecting her welfare and schooling (\u00b67.3\u20137.4), thereby alleging that the modification is necessary in the child\u2019s best interests."
+    }
+  }
+}

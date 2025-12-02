@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_003_08.txt",
+  "scenario_id": "qe_003_08",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant)",
+      "citation_type": "statute",
+      "proposition": "This Court has subject matter jurisdiction over this action pursuant to its statutory and general landlord-tenant jurisdiction, including Mass. Gen. Laws ch. 186 (Landlord and Tenant) and Mass. Gen. Laws ch. 239 (Summary Process), and the rules establishing the Boston Housing Court\u2019s jurisdiction over landlord-tenant matters.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary Process)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary Process)",
+      "citation_type": "statute",
+      "proposition": "This Court has subject matter jurisdiction over this action pursuant to its statutory and general landlord-tenant jurisdiction, including Mass. Gen. Laws ch. 186 (Landlord and Tenant) and Mass. Gen. Laws ch. 239 (Summary Process), and the rules establishing the Boston Housing Court\u2019s jurisdiction over landlord-tenant matters.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A (Consumer Protection Act) (general statutory authority sometimes referenced in landlord-tenant contexts)": {
+      "raw_text": "Mass. Gen. Laws ch. 93A (Consumer Protection Act) (general statutory authority sometimes referenced in landlord-tenant contexts)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 93A (Consumer Protection Act) (general statutory authority sometimes referenced in landlord-tenant contexts)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 (Public Health) (public health authority applicable to dwelling conditions)": {
+      "raw_text": "Mass. Gen. Laws ch. 111 (Public Health) (public health authority applicable to dwelling conditions)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 111 (Public Health) (public health authority applicable to dwelling conditions)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "State Sanitary Code, 105 CMR 410.000 et seq. (Minimum Standards of Fitness for Human Habitation)": {
+      "raw_text": "State Sanitary Code, 105 CMR 410.000 et seq. (Minimum Standards of Fitness for Human Habitation)",
+      "citation_type": "statute",
+      "proposition": "State Sanitary Code, 105 CMR 410.000 et seq. (Minimum Standards of Fitness for Human Habitation)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "780 CMR (Massachusetts State Building Code)": {
+      "raw_text": "780 CMR (Massachusetts State Building Code)",
+      "citation_type": "statute",
+      "proposition": "780 CMR (Massachusetts State Building Code)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

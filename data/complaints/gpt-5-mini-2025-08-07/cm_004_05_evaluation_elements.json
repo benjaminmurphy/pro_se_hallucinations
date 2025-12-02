@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_004_05.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges a prior custody order entered April 15, 2018 by this Court, setting primary physical custody with Petitioner, limited short weekday visits and one Sunday visit for Respondent, and expressly prohibiting overnights."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint requests concrete relief: permit reasonable overnight parenting time with Respondent and reorganize parenting time to minimize school\u2011night shuttling (examples given: alternating overnight weekends and/or a midweek overnight and elimination of multiple short school\u2011night exchanges); it asks the Court to enter a specific revised schedule consistent with those goals."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific, factual changes since 2018: the child has aged from 3 to 8 and is in full\u2011time school with homework/bedtime routines disrupted by short school\u2011night visits; Respondent has obtained his own apartment with a bedroom suitable for overnight stays; the child has expressed a preference for sleepovers; and both parents agree the prior schedule is no longer appropriate. These allegations identify changes in circumstances that are material to the child\u2019s welfare and logistical parenting time needs."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint ties the requested modification to the child's welfare: it alleges that the current short, frequent school\u2011night exchanges disrupt sleep, homework, and school performance and that revised scheduling with overnights would better support stable bedtime/homework routines while allowing meaningful contact with Respondent (whose housing has improved). Those factual allegations adequately plead that the modification is intended to serve the child's best interests."
+    }
+  }
+}

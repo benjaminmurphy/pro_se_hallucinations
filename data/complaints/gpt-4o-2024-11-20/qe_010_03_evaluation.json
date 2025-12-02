@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_010_03.txt",
+  "scenario_id": "qe_010_03",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 2,
+  "statute_citations": 3,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "M.G.L. c. 186, \u00a7 14": {
+      "raw_text": "M.G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under M.G.L. c. 186, \u00a7 14, landlords are prohibited from interfering with a tenant\u2019s right to quiet enjoyment of rented premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 218, \u00a7\u00a7 19 and 21": {
+      "raw_text": "M.G.L. c. 218, \u00a7\u00a7 19 and 21",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction is proper in this Court pursuant to M.G.L. c. 218, \u00a7\u00a7 19 and 21, as the damages sought do not exceed $25,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 223, \u00a7 1": {
+      "raw_text": "M.G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in this Court pursuant to M.G.L. c. 223, \u00a7 1, as the property at issue is located within Lowell, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 275 (1994).": {
+      "raw_text": "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 275 (1994).",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s actions and inactions have resulted in a constructive eviction as defined by Massachusetts law, including the standard found in *Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 275 (1994).",
+      "is_valid": true,
+      "courtlistener_id": "2069029",
+      "case_name": "Doe v. New Bedford Housing Authority",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion does not define or apply the doctrine of constructive eviction under Massachusetts law. Instead, it analyzes statutory claims, the warranty of habitability, the statutory covenant of quiet enjoyment under G.L. c. 186, \u00a714, and nuisance. While it discusses serious interference with quiet enjoyment, it never uses the term \u201cconstructive eviction\u201d or sets out that doctrine\u2019s elements, so it cannot be cited as authority for a constructive eviction standard.",
+      "relevant_excerpt": "\u201cThe covenant of quiet enjoyment protects a tenant\u2019s right to freedom from serious interference with his tenancy \u2014 acts or omissions that impair the character and value of the leasehold. \u2026 Thus, a landlord may not intend to violate a tenant\u2019s right to quiet enjoyment, but may do so nevertheless when the breach is a \u2018natural and probable consequence of what the landlord did, what he failed to do, or what he permitted to be done.\u2019\u201d"
+    },
+    "*Boston Hous. Auth. v. Hemingway*, 363 Mass. 184, 199-200 (1973).": {
+      "raw_text": "*Boston Hous. Auth. v. Hemingway*, 363 Mass. 184, 199-200 (1973).",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s refusal to address the situation further violates the obligations imposed on landlords under *Boston Hous. Auth. v. Hemingway*, 363 Mass. 184, 199-200 (1973), which interprets the covenant of quiet enjoyment as requiring landlords to deliver premises that are fit for human habitation.",
+      "is_valid": true,
+      "courtlistener_id": "2000597",
+      "case_name": "Boston Housing Authority v. Hemingway",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This portion of Hemingway is a concurrence/dissent by Justice Quirico, not the majority opinion, and it expressly rejects framing the landlord\u2019s duty as a broad \u2018implied warranty of habitability\u2019 or a general requirement that premises be \u2018fit for human habitation\u2019 beyond compliance with statutory and code standards. While he would recognize an implied landlord obligation tied to minimum code requirements, he criticizes the majority\u2019s broader \u2018fitness for human occupation\u2019 language. Thus, this text does not support the proposition that Hemingway interprets the covenant of quiet enjoyment as requiring landlords to deliver premises that are fit for human habitation in the way the proposition states, and in any event it is not the controlling majority rule.",
+      "relevant_excerpt": "\u201cThe point at which I dissent from the opinion of the court is where it attempts to accomplish the first step by resort to an implied warranty of the fitness of the rented dwelling unit instead of by the implication of an agreement that the unit will comply with the minimum standards required therefor by law. The court states the new rule to be that the landlord renting a dwelling unit impliedly warrants to the tenant \u2018that the premises are fit for human occupation\u2019 ... I dissent from the statement of such a broad and sweeping new rule\u2026\u201d"
+    }
+  }
+}

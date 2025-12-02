@@ -1,0 +1,111 @@
+COMMONWEALTH OF MASSACHUSETTS
+TRIAL COURT
+HOUSING COURT DEPARTMENT
+Springfield Division
+
+ALICIA THOMPSON,                              )
+    Plaintiff                                )
+                                             )
+v.                                           )       C.A. No. _________________
+                                             )
+MARK JENSEN,                                 )
+    Defendant                                )
+                                             )
+
+COMPLAINT FOR BREACH OF THE COVENANT OF QUIET ENJOYMENT
+
+1. Parties, Jurisdiction, and Venue
+   1.1 Plaintiff Alicia Thompson ("Plaintiff") is an individual and tenant residing at 123 Elm Street, Apartment [Unit Number if any], Springfield, Hampden County, Massachusetts 01103.
+   1.2 Defendant Mark Jensen ("Defendant") is a landlord and the person or entity who leased the premises located at 123 Elm Street, Springfield, Massachusetts to Plaintiff.
+   1.3 Plaintiff took possession of the rental unit on or about January 15, 2022, and has paid monthly rent of $1,200.00.
+   1.4 This Court has subject matter jurisdiction under Massachusetts law over landlord-tenant matters. Venue and jurisdiction are proper in the Housing Court, Springfield Division, because the premises are located in Springfield, Massachusetts and the claim arises from the landlord-tenant relationship concerning those premises. See M.G.L. c. 239; M.G.L. c. 186.
+   1.5 Plaintiff submits to the jurisdiction of this Court and demands trial in the Housing Court.
+
+2. Statement of Facts
+   2.1 Plaintiff is a tenant in a two-bedroom apartment at 123 Elm Street, Springfield, MA, which she began renting on January 15, 2022, pursuant to a month-to-month tenancy (or lease, as applicable).
+   2.2 Beginning approximately October 20, 2025 (approximately six weeks prior to the date of this complaint), one of the two bedrooms in Plaintiff’s apartment (the "affected room") experienced a complete loss of electricity. The outlets in that room do not function, and the overhead light does not work.
+   2.3 The remainder of the apartment continued to receive electricity and remained in apparent working order; the problem is isolated to the affected room and, on information and belief, is due to defective or deteriorating wiring serving that room.
+   2.4 Plaintiff promptly notified Defendant of the lack of electricity in the affected room. Defendant arranged for an electrician to inspect the condition.
+   2.5 The electrician informed Defendant and Plaintiff that the condition would require a more extensive electrical repair (including wiring work behind walls and potentially in common building areas) and that the repair would be "complicated" by the building’s old wiring.
+   2.6 Defendant has told Plaintiff he is "getting quotes" to repair the condition but has not authorized or completed the necessary repair, has not provided a reasonable schedule for completing the repair, and has not provided a safe, alternative means to use the affected room.
+   2.7 As a result of the nonworking outlets and light, Plaintiff has been unable to use the affected bedroom for its intended purpose; Plaintiff formerly used the room as a home office and now cannot use it as such.
+   2.8 Because Plaintiff cannot use that room as a home office, Plaintiff has incurred out-of-pocket expenses to obtain a place to work. Plaintiff has purchased coffee and food at public locations for workspace at an estimated $15.00 per day, and Plaintiff has maintained a paid coworking space membership costing $150.00 per month for the period the room has been unusable.
+   2.9 Plaintiff has relocated office equipment and personal property into the living room; the entire apartment’s living conditions and Plaintiff’s ability to use the apartment for the purposes for which it was rented have been substantially impaired.
+   2.10 Despite repeated oral requests and notice, Defendant has failed to promptly and fully restore electrical service to the affected room or otherwise provide a timely, reasonable remedy.
+
+3. Claim — Breach of the Covenant of Quiet Enjoyment (Massachusetts Law)
+   3.1 Plaintiff realleges and incorporates by reference paragraphs 1.1 through 2.10 above.
+   3.2 Under Massachusetts law, a tenant is entitled to the covenant of quiet enjoyment, which guarantees that a tenant will be able to possess and enjoy the leased premises without substantial interference from the landlord or conditions attributable to the landlord. The landlord may be liable for breach of that covenant where the landlord causes or allows conditions that materially and substantially interfere with the tenant’s use and enjoyment of the leased premises. See, e.g., Massachusetts case law recognizing the covenant of quiet enjoyment and that substantial interference with the use of premises may support recovery (see authorities and governing law cited below).
+   3.3 The covenant is breached when a landlord’s acts or omissions substantially and adversely affect the tenant’s use and enjoyment of the premises, including by allowing a condition that renders a portion of the premises unusable for its intended purpose. See Restatement (Second) of Property: Landlord & Tenant § 15.4 (quiet enjoyment and constructive eviction principles); see also Massachusetts landlord-tenant authority and caselaw construing analogous doctrines and remedies.
+   3.4 Defendant’s failure to repair the electrical wiring and restore electricity to the affected room, after notice and inspection, constitutes conduct that has materially and substantially interfered with Plaintiff’s use and enjoyment of the leased premises.
+   3.5 Plaintiff has been deprived of the reasonable use of one bedroom (approximately 50% of the sleeping/office space), has been forced to relocate her work to public spaces and a paid coworking facility, has incurred out-of-pocket expenses for same, and has suffered a reduction in the habitability and usefulness of the dwelling — all as a proximate result of Defendant’s failure to timely and properly repair the premises.
+   3.6 Plaintiff has thereby suffered damages, including but not limited to out-of-pocket expenses, and diminution in the value of the tenancy during the period of electrical outage. Plaintiff estimates damages of approximately $900.00 for the period of loss to date (including coworking fees, daily expenses, and a reasonable allowance for loss of use of the room), with prejudice to claim additional damages and costs should the condition continue or additional losses be shown at trial.
+
+4. Governing Statutes, Regulations, and Authority
+   4.1 The following statutes, regulations, and authorities are relevant to the rights and remedies of tenants in Massachusetts, and are cited for the Court’s consideration in construing the landlord’s obligations and tenant remedies:
+       - M.G.L. c. 186 (Leases: general provisions governing tenants’ and landlords’ rights and obligations).
+       - M.G.L. c. 239 (Summary process; court jurisdiction in landlord-tenant matters).
+       - M.G.L. c. 93A (Massachusetts unfair and deceptive practices statute) — for example where landlord conduct constitutes unfair or deceptive acts or practices (reserved here as background; Plaintiff’s sole claim in this complaint is breach of the covenant of quiet enjoyment).
+       - M.G.L. c. 111, §127A et seq. (public health and local board of health authority to enforce sanitary code standards).
+       - 105 C.M.R. 410.000 (Massachusetts Sanitary Code, Minimum Standards of Fitness for Human Habitation) (standards concerning safe electrical systems and maintenance obligations).
+       - Restatement (Second) of Property: Landlord and Tenant §§ 15.1–15.4 (quiet enjoyment; constructive eviction; landlord obligations).
+   4.2 Relevant Massachusetts caselaw (illustrative, nonexclusive) recognizes the covenant of quiet enjoyment and the landlord’s duty not to interfere with or permit substantial interference with a tenant’s use of leased premises. (Plaintiff will rely on controlling Massachusetts precedent at trial, including SJC and Appeals Court decisions interpreting the covenant of quiet enjoyment and remedies for substantial interference or constructive eviction.)
+
+   Note: Plaintiff expressly pleads breach of the covenant of quiet enjoyment under Massachusetts law as the sole cause of action in this Complaint. Plaintiff reserves the right to rely on applicable statutory provisions, regulations, and Massachusetts authority in support of proof of the elements of the cause of action, damages, and equitable relief.
+
+5. Damages
+   5.1 As a direct and proximate result of Defendant’s breach of the covenant of quiet enjoyment, Plaintiff has incurred economic losses, including:
+       a. Coworking membership fees: $150.00 per month for the period the bedroom has been unusable.
+       b. Daily out-of-pocket expenses for coffee/food/workspace estimated at $15.00 per day for approximately six weeks (or other period as proven at trial).
+       c. Loss of use of the affected bedroom and diminished enjoyment of the premises.
+   5.2 Plaintiff estimates and pleads damages in the amount of $900.00 to date, subject to amendment to reflect the full period of the condition, additional losses, and attorney’s fees and costs if applicable under law.
+
+6. Prayer for Relief
+   WHEREFORE, Plaintiff requests that this Court enter judgment in her favor and against Defendant as follows:
+   A. For compensatory damages in an amount to be proven at trial, and presently estimated at no less than $900.00, plus additional damages incurred through the date of judgment;
+   B. For an order requiring Defendant to promptly and fully repair the electrical defect and restore full use of the affected room, or in the alternative, for an appropriate rent abatement for the period during which the bedroom was unusable;
+   C. For costs of suit and interest as allowed by law;
+   D. For such other and further relief as the Court deems just and proper under the circumstances, including any equitable relief to effectuate the covenant of quiet enjoyment.
+
+7. Demand for Jury Trial
+   Plaintiff hereby demands a trial by jury on all issues so triable.
+
+8. Certificate of Service
+   I certify that on the date below I will serve a copy of this Complaint and any accompanying documents on Defendant at his last known address in accordance with the Rules of the Housing Court and Massachusetts law.
+
+Dated: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Alicia Thompson
+Alicia Thompson
+123 Elm Street, Apartment [#]
+Springfield, MA 01103
+Phone: (617) 555-0123
+Email: psm1433@gmail.com
+Pro Se Plaintiff
+
+Attorney/Contact for Plaintiff (if retained):
+[Reserved — Plaintiff presently proceeding pro se.]
+
+Authorities and Authorities for Trial (Representative list cited in support of legal principles invoked herein — Plaintiff will rely on controlling Massachusetts precedent and statutory law at trial):
+   - Massachusetts General Laws, ch. 186 (general landlord-tenant law)
+   - Massachusetts General Laws, ch. 239 (summary process)
+   - Massachusetts General Laws, ch. 93A (consumer protection)
+   - Massachusetts General Laws, ch. 111 (public health; boards of health)
+   - 105 CMR 410.000 et seq. (Massachusetts Sanitary Code — Minimum Standards of Fitness for Human Habitation)
+   - Restatement (Second) of Property: Landlord and Tenant §§ 15.1–15.4 (quiet enjoyment and constructive eviction)
+   - [Plaintiff will introduce at trial controlling Massachusetts cases construing the covenant of quiet enjoyment and landlord obligations; representative Massachusetts authorities addressing tenant rights, the covenant of quiet enjoyment, habitability, and remedies for substantial interference will be submitted in briefing and at trial.]
+
+Certificate of Service
+
+I hereby certify that a true and correct copy of the foregoing Complaint was served on Defendant, Mark Jensen, by [personal service/first-class mail/other permitted method], at the following address on the date below: [insert service method and date].
+
+Dated: December 1, 2025
+
+/s/ Alicia Thompson
+Alicia Thompson
+
+---
+
+Notes to Court Clerk: Plaintiff is proceeding pro se. Please enter this case in the Housing Court docket for the Springfield Division. Plaintiff requests scheduling of a date for an initial hearing consistent with Housing Court procedures.

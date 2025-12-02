@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_001_09.txt",
+  "scenario_id": "qe_001_09",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 1,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant)",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law (and longstanding common law principles recognized by Massachusetts courts), a tenant is entitled to the covenant of quiet enjoyment of the leased premises, which includes the right to possession and beneficial use of the premises without substantial interference by the landlord.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary Process) (procedures affecting landlord/tenant matters).": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary Process) (procedures affecting landlord/tenant matters).",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 239 (Summary Process) (procedures affecting landlord/tenant matters).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 and the public health authority of local boards of health (public health standards applicable to residential premises).": {
+      "raw_text": "Mass. Gen. Laws ch. 111 and the public health authority of local boards of health (public health standards applicable to residential premises).",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 111 and the public health authority of local boards of health (public health standards applicable to residential premises).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000, State Sanitary Code: Minimum Standards of Fitness for Human Habitation (standards for heat, ventilation, and habitable housing).": {
+      "raw_text": "105 CMR 410.000, State Sanitary Code: Minimum Standards of Fitness for Human Habitation (standards for heat, ventilation, and habitable housing).",
+      "citation_type": "statute",
+      "proposition": "105 CMR 410.000, State Sanitary Code: Minimum Standards of Fitness for Human Habitation (standards for heat, ventilation, and habitable housing).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A (Consumer Protection Act) (limited relevance to landlord practices; reserved rights).": {
+      "raw_text": "Mass. Gen. Laws ch. 93A (Consumer Protection Act) (limited relevance to landlord practices; reserved rights).",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 93A (Consumer Protection Act) (limited relevance to landlord practices; reserved rights).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970) (recognition of implied warranty of habitability and tenant remedies; widely cited in landlord-tenant jurisprudence).": {
+      "raw_text": "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970) (recognition of implied warranty of habitability and tenant remedies; widely cited in landlord-tenant jurisprudence).",
+      "citation_type": "case",
+      "proposition": "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970) (recognition of implied warranty of habitability and tenant remedies; widely cited in landlord-tenant jurisprudence).",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

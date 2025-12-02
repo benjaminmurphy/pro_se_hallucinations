@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_001_03",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Emily Johnson",
+  "defendant": "FreshMart Grocery Store"
+}

@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_007_01.txt",
+  "scenario_id": "qe_007_01",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant \u2014 general statutory framework)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant \u2014 general statutory framework)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 186 (Landlord and Tenant \u2014 general statutory framework)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary process; jurisdiction and landlord-tenant procedures)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary process; jurisdiction and landlord-tenant procedures)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 239 (Summary process; jurisdiction and landlord-tenant procedures)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A, \u0000\u00a7 9 (private right of action under the Consumer Protection Act) \u0000\u2014 cited for informational context concerning remedies in landlord-tenant disputes (no separate 93A claim is pleaded)": {
+      "raw_text": "Mass. Gen. Laws ch. 93A, \u0000\u00a7 9 (private right of action under the Consumer Protection Act) \u0000\u2014 cited for informational context concerning remedies in landlord-tenant disputes (no separate 93A claim is pleaded)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 93A, \u00a7 9 (private right of action under the Consumer Protection Act) \u2014 cited for informational context concerning remedies in landlord-tenant disputes (no separate 93A claim is pleaded)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 (public health and nuisance authority) \u0000\u2014 cited for context regarding habitability and dust/health concerns": {
+      "raw_text": "Mass. Gen. Laws ch. 111 (public health and nuisance authority) \u0000\u2014 cited for context regarding habitability and dust/health concerns",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 111 (public health and nuisance authority) \u2014 cited for context regarding habitability and dust/health concerns",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts Rules of Civil Procedure, Rules 8 and 10 (pleading standards, identification of parties)": {
+      "raw_text": "Massachusetts Rules of Civil Procedure, Rules 8 and 10 (pleading standards, identification of parties)",
+      "citation_type": "statute",
+      "proposition": "Massachusetts Rules of Civil Procedure, Rules 8 and 10 (pleading standards, identification of parties)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_009_08.txt",
+  "scenario_id": "ng_009_08",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 148 (Fire Prevention and Control) and related statutory provisions governing fire safety;": {
+      "raw_text": "Massachusetts General Laws Chapter 148 (Fire Prevention and Control) and related statutory provisions governing fire safety;",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws Chapter 148 (Fire Prevention and Control) and related statutory provisions governing fire safety;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 186 (Landlord and Tenant law) and duties of landlords regarding common areas and habitability;": {
+      "raw_text": "Massachusetts General Laws Chapter 186 (Landlord and Tenant law) and duties of landlords regarding common areas and habitability;",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws Chapter 186 (Landlord and Tenant law) and duties of landlords regarding common areas and habitability;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 111 (Public Health), and related statutes imposing duties to maintain safe conditions in dwellings;": {
+      "raw_text": "Massachusetts General Laws Chapter 111 (Public Health), and related statutes imposing duties to maintain safe conditions in dwellings;",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws Chapter 111 (Public Health), and related statutes imposing duties to maintain safe conditions in dwellings;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 et seq. (Massachusetts Department of Public Health regulations concerning smoke detectors and alarms in dwellings);": {
+      "raw_text": "105 CMR 410.000 et seq. (Massachusetts Department of Public Health regulations concerning smoke detectors and alarms in dwellings);",
+      "citation_type": "statute",
+      "proposition": "105 CMR 410.000 et seq. (Massachusetts Department of Public Health regulations concerning smoke detectors and alarms in dwellings);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "780 CMR (Massachusetts State Building Code and fire protection provisions requiring detection and alarm systems and maintenance thereof);": {
+      "raw_text": "780 CMR (Massachusetts State Building Code and fire protection provisions requiring detection and alarm systems and maintenance thereof);",
+      "citation_type": "statute",
+      "proposition": "780 CMR (Massachusetts State Building Code and fire protection provisions requiring detection and alarm systems and maintenance thereof);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

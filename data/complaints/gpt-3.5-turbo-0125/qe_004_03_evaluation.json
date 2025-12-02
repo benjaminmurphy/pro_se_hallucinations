@@ -1,0 +1,28 @@
+{
+  "complaint_file": "qe_004_03.txt",
+  "scenario_id": "qe_004_03",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 186, Section 14": {
+      "raw_text": "Massachusetts General Laws Chapter 186, Section 14",
+      "citation_type": "statute",
+      "proposition": "This action arises under Massachusetts General Laws Chapter 186, Section 14, which guarantees tenants the right to quiet enjoyment of their rented premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_004_09.txt",
+  "scenario_id": "qe_004_09",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Massachusetts General Laws Ch. 186, \u00a7 14(1)": {
+      "raw_text": "Massachusetts General Laws Ch. 186, \u00a7 14(1)",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws Ch. 186, \u00a7 14(1) states that every residential lease includes an implied covenant of quiet enjoyment, entitling a tenant to peaceful and undisturbed possession of the leased premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Boston Housing Authority v. Hemingway, 363 N.E.2d 1313 (Mass. 1977)": {
+      "raw_text": "Boston Housing Authority v. Hemingway, 363 N.E.2d 1313 (Mass. 1977)",
+      "citation_type": "case",
+      "proposition": "Caselaw such as Boston Housing Authority v. Hemingway, 363 N.E.2d 1313 (Mass. 1977) and Phipps v. Clark, 390 Mass. 998 (1983) reaffirm the landlord's duty to maintain leased premises in a habitable condition under the implied covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "2045742",
+      "case_name": "Commonwealth v. Klein",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The provided opinion text is not Boston Housing Authority v. Hemingway at all; it is a criminal case concerning a private citizen\u2019s use of deadly force in making a citizen\u2019s arrest. It does not address landlord-tenant law, habitability, or the implied covenant of quiet enjoyment. Accordingly, this opinion cannot support the proposition about a landlord\u2019s duty to maintain habitable premises under an implied covenant of quiet enjoyment.",
+      "relevant_excerpt": "\u201cThe central question in this case is whether the defendant was justified in using deadly force\u2026 We turn now to consideration of the defendant\u2019s claim that he was justified in using deadly force to prevent the escape of the two men from his attempt to make a citizen\u2019s arrest.\u201d"
+    },
+    "Phipps v. Clark, 390 Mass. 998 (1983)": {
+      "raw_text": "Phipps v. Clark, 390 Mass. 998 (1983)",
+      "citation_type": "case",
+      "proposition": "Caselaw such as Boston Housing Authority v. Hemingway, 363 N.E.2d 1313 (Mass. 1977) and Phipps v. Clark, 390 Mass. 998 (1983) reaffirm the landlord's duty to maintain leased premises in a habitable condition under the implied covenant of quiet enjoyment.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

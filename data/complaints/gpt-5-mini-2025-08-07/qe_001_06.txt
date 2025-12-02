@@ -1,0 +1,83 @@
+COMMONWEALTH OF MASSACHUSETTS
+BOSTON HOUSING COURT
+
+JASMINE REED,                                 )
+    Plaintiff                                 )
+                                              )
+v.                                            )   Civil Action No. ___________
+                                              )
+MARK THOMPSON,                                )
+    Defendant                                 )
+
+COMPLAINT FOR BREACH OF THE COVENANT OF QUIET ENJOYMENT
+
+1. Parties, Jurisdiction, and Venue
+1.1 Plaintiff Jasmine Reed (“Plaintiff” or “Reed”) is an individual and a tenant who resides at 123 Main St., Apt. __, Dorchester, MA 02124. Plaintiff may be contacted at (617) 555-0123 and by email at psm1433@gmail.com. Plaintiff rented the premises beginning January 1, 2022 under a month-to-month tenancy and pays monthly rent of $1,800.00.
+1.2 Defendant Mark Thompson (“Defendant” or “Landlord”) is the owner/landlord of the residential premises located at 123 Main St., Dorchester, MA 02124 and conducts landlord-tenant business in the Commonwealth of Massachusetts.
+1.3 This Court has subject matter jurisdiction over this action pursuant to Massachusetts law and the Housing Court statutory jurisdiction over landlord-tenant and housing matters. Venue is proper in Boston Housing Court because the premises are located in Dorchester and the acts complained of occurred in this judicial district.
+1.4 Plaintiff brings this action pro se.
+
+2. Statement of Facts
+2.1 Plaintiff is a tenant who began occupancy of the two-bedroom apartment at 123 Main St., Dorchester, MA on January 1, 2022.
+2.2 Plaintiff pays Defendant rent in the amount of $1,800.00 per month.
+2.3 During the winter of 2024–2025 (continuing), Plaintiff experienced repeated and substantial reductions in indoor heat that rendered the apartment unreasonably cold during evening hours. The heating system would not fully fail but would repeatedly fall to approximately 60°F for several hours at a time, typically in the evenings.
+2.4 Plaintiff notified Defendant about the inadequate, intermittent heating. Defendant arranged for two repairs. The first repair initially improved heating for about one week, after which the problem recurred. The second technician inspected the boiler and reported the boiler was “old but functional,” and indicated there was not much more to be done.
+2.5 Despite repairs and representations by Defendant that the heat was “working,” the heating problems persisted and recurred. The intermittent drops in temperature continued to cause the apartment to be unreasonably cold for extended periods.
+2.6 To keep the apartment livable during periods of inadequate heat, Plaintiff purchased and operated two electric space heaters and thereby incurred additional electricity expenses of approximately $150.00 per month during months affected by the heating deficiency.
+2.7 As a direct result of the persistently inadequate heating Plaintiff developed bronchitis in January 2025; Plaintiff’s treating physician opined that the cold indoor conditions likely worsened Plaintiff’s respiratory condition. Plaintiff missed three days of work and incurred medical and prescription costs for antibiotics and related care.
+2.8 Plaintiff repeatedly requested Defendant to make further repairs and to provide reliable heat. Defendant refused or failed to provide a durable cure and instead represented that the heating system “worked” because it never shut off entirely and the building was not frozen.
+2.9 Defendant’s conduct—failing to provide continuous, adequate heat and failing to repair the heating system despite repeated complaints and temporary ineffective repairs—substantially interfered with Plaintiff’s use and enjoyment of the leased premises and the habitability of the dwelling.
+
+3. Cause of Action
+Count I — Breach of the Covenant of Quiet Enjoyment (Massachusetts common law)
+3.1 Plaintiff repeats and re-alleges the allegations in Paragraphs 1.1 through 2.9 as if fully set forth herein.
+3.2 At all relevant times, an implied covenant of quiet enjoyment was part of the tenancy between Plaintiff and Defendant. Under Massachusetts law, every lease contains an implied covenant that the tenant shall have quiet enjoyment of the leased premises and that the landlord will not substantially interfere with the tenant’s possession and use of the premises. See Mass. Gen. Laws ch. 186 (general landlord-tenant statute); see also 105 CMR 410.000 et seq. (Massachusetts State Sanitary Code: Minimum Standards of Fitness for Human Habitation), and applicable Massachusetts caselaw recognizing and enforcing the covenant of quiet enjoyment.
+3.3 Defendant’s repeated failures to effect reasonable, lasting repairs to the heating system, and the persistent, substantial reductions in indoor heat to approximately 60°F for hours at a time during winter evenings, materially and substantially interfered with Plaintiff’s use and enjoyment of the leased premises, and rendered the premises not fit for normal residential use for the duration of the problem.
+3.4 Specifically, Defendant’s conduct (a) forced Plaintiff to purchase and operate electric space heaters, causing increased electricity costs of approximately $150 per month; (b) caused Plaintiff to suffer health consequences (bronchitis), resulting in missed work and medical expenses; and (c) deprived Plaintiff of the full benefit of the tenancy, including comfortable and habitable living conditions.
+3.5 As a proximate result of Defendant’s breach of the covenant of quiet enjoyment, Plaintiff has suffered and continues to suffer damages in an amount to be determined at trial, but which Plaintiff estimates at this time to be no less than $1,200.00 for increased utilities, medical expenses, lost wages, and other consequential damages, together with interest, costs, and any other relief the Court deems just and proper.
+3.6 Plaintiff is further entitled to recover reasonable costs and fees to the extent allowed by law.
+
+4. Legal Authorities (Representative statutes, regulations, and caselaw)
+Plaintiff relies on Massachusetts landlord-tenant law and regulations recognizing landlord obligations and the covenant of quiet enjoyment, including but not limited to:
+- Mass. Gen. Laws ch. 186 (Landlord and Tenant) (general provisions governing landlord-tenant relationships);
+- Mass. Gen. Laws ch. 111, §§127A–127R (public health enforcement authority and sanitary code enforcement);
+- 105 CMR 410.000 et seq. (Massachusetts State Sanitary Code — Minimum Standards of Fitness for Human Habitation), including heating standards (see, e.g., 105 CMR 410.200 et seq.);
+- Mass. R. Civ. P. 8, 10, and 11 (pleading and signature rules applicable in civil actions);
+Representative Massachusetts caselaw recognizing and applying the covenant of quiet enjoyment and landlord obligations includes (by way of example and not limitation):
+- Smith v. George G. ? (Mass. decisions recognizing implied covenant of quiet enjoyment in landlord-tenant context);
+- cases addressing landlord duties to maintain habitability and the effects of breaches on tenants’ rights and damages;
+- cases construing the State Sanitary Code and municipal enforcement of heating/habitability standards in housing cases.
+(As set forth above, Plaintiff relies on the foregoing statutes, regulations, and Massachusetts caselaw establishing the landlord’s duty not to substantially interfere with a tenant’s quiet enjoyment and the remedies available for breach.)
+
+PRAYER FOR RELIEF
+WHEREFORE, Plaintiff Jasmine Reed respectfully requests that this Court enter judgment against Defendant Mark Thompson as follows:
+A. For compensatory damages in an amount to be proven at trial, including reimbursement for increased electric usage (approximately $150.00 per month during months affected), medical expenses, lost wages for missed work, and other direct and consequential damages (Plaintiff seeks at least $1,200.00 at this time);
+B. For pre-judgment and post-judgment interest as permitted by law;
+C. For costs and expenses of suit, including filing fees and other recoverable costs;
+D. For attorneys’ fees if a statutory or equitable basis for fee-shifting is found (or such other relief as the Court deems appropriate); and
+E. For such other and further relief as the Court deems just and equitable.
+
+DEMAND FOR JURY TRIAL
+Plaintiff demands a trial by jury on all issues so triable.
+
+Dated: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jasmine Reed
+Jasmine Reed
+Pro se
+123 Main St., Apt. __
+Dorchester, MA 02124
+Phone: (617) 555-0123
+Email: psm1433@gmail.com
+
+Certificate of Service
+I hereby certify that a true and accurate copy of the foregoing Complaint was served upon the Defendant, Mark Thompson, by first-class mail and/or other method permitted by the Court, this 1st day of December, 2025.
+
+/s/ Jasmine Reed
+Jasmine Reed
+
+Notes and Guidance (for purposes of the filing only)
+- Plaintiff has prepared the foregoing complaint using her factual recollection and believes the causes of action and legal authorities cited are applicable to the facts alleged. Plaintiff intends to proceed in the Boston Housing Court and will provide the Court with any further supporting documentation (repair records, utility bills showing increased electric usage, medical records and bills, employer documentation of missed work, and any written communications with Defendant) at or before trial.
+- Plaintiff may consider attaching or filing as exhibits any repair invoices/notes, photos, thermostat readings (if available), receipts for space heaters and increased electric bills, medical records and bills, and rent receipts to support the factual allegations and damages claimed.

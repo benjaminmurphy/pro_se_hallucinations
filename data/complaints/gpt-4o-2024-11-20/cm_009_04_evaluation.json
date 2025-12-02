@@ -1,0 +1,93 @@
+{
+  "complaint_file": "cm_009_04.txt",
+  "scenario_id": "cm_009_04",
+  "category": "custody_modification",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 4,
+  "statute_citations": 2,
+  "valid_citations": 4,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 3,
+  "citations": {
+    "G.L. c. 208, \u00a7\u00a7 28 and 31": {
+      "raw_text": "G.L. c. 208, \u00a7\u00a7 28 and 31",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction pursuant to G.L. c. 208, \u00a7\u00a7 28 and 31, and venue is proper because this matter involves the custody and parenting schedule for a minor child who resides primarily in Barnstable County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 208, \u00a7 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208, \u00a7 28",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts General Laws Chapter 208, \u00a7 28, the Court may modify a custody or parenting order upon a showing of a material and substantial change in circumstances and a determination that modification is in the best interest of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mason v. Coleman, 447 Mass. 177 (2006)": {
+      "raw_text": "Mason v. Coleman, 447 Mass. 177 (2006)",
+      "citation_type": "case",
+      "proposition": "In Mason v. Coleman, 447 Mass. 177 (2006), the Massachusetts Supreme Judicial Court reaffirmed that the overriding concern in custody matters is the best interests of the child, which includes examining the practicality and feasibility of parenting schedules.",
+      "is_valid": true,
+      "courtlistener_id": "6579384",
+      "case_name": "Mason v. Coleman",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The SJC repeatedly states that the removal decision turns on the children\u2019s best interests and explicitly frames that standard as requiring consideration of all circumstances, including how relocation affects the feasibility of the existing shared physical custody arrangement. The opinion discusses at length the impact of distance, travel time, and the practical ability of each parent to exercise parenting time, which directly involves examining the practicality and feasibility of the parenting schedule. Thus, it reaffirms the best-interests standard in a way that encompasses practical scheduling considerations.",
+      "relevant_excerpt": "\u201cWe conclude that in such a situation \u2018cause shown\u2019 pursuant to G. L. c. 208, \u00a7 30, means a showing that removal is in the \u2018best interests\u2019 of the children taking into account all the circumstances and weighing the factors as described below. \u2026 It is a question for a judge, taking into account all of the facts, whether an increase in travel time between households and schools brought about by removal, and other burdens of distance, will significantly impair either parent\u2019s ability to exercise existing responsibilities, and ultimately whether removal is in a child\u2019s best interests.\u201d"
+    },
+    "Hunter v. Rose, 463 Mass. 488 (2012)": {
+      "raw_text": "Hunter v. Rose, 463 Mass. 488 (2012)",
+      "citation_type": "case",
+      "proposition": "In Hunter v. Rose, 463 Mass. 488 (2012), the Court stated that a parenting arrangement adversely affecting a child\u2019s education and well-being constitutes sufficient grounds for modification.",
+      "is_valid": true,
+      "courtlistener_id": "6580530",
+      "case_name": "Hunter v. Rose",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion applies the best-interests standard for an initial custody determination, not a petition to modify an existing custody or parenting order. While it recognizes that instability, wrongful removal, and alienating behavior that harm a child\u2019s well-being justify awarding primary physical custody to the other parent, it does not discuss or set the standard for modification of an existing parenting arrangement. Thus, it does not stand for the specific proposition that an arrangement adversely affecting a child\u2019s education and well-being constitutes sufficient grounds for modification.",
+      "relevant_excerpt": "\u201cHowever, the judge must weigh \u2018all relevant factors in determining the best interests of the child.\u2019 \u2026 The judge shall consider \u2018whether or not the child\u2019s present or past living conditions adversely affect his physical, mental, moral or emotional health.\u2019 G. L. c. 208, \u00a7 31. Factors a judge may weigh are whether one parent\u2019s home is more stable in terms of a parent\u2019s work schedule, whether siblings are being raised together, and whether one parent seeks to undermine the relationship a child has with the other parent.\u201d"
+    },
+    "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)": {
+      "raw_text": "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)",
+      "citation_type": "case",
+      "proposition": "The exhaustion and educational impact faced by the child herein falls squarely within the type of circumstances the Court reviewed in cases such as Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985), and Murphy v. Murphy, 82 Mass. App. Ct. 186 (2012), which emphasize the Court's broad discretion in modifying custody orders to protect the physical and emotional welfare of children.",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Yannas addresses the standard for removal of children from the Commonwealth by a custodial parent (\u201creal advantage\u201d test) and the trial judge\u2019s discretion in determining best interests in that removal context. It does affirm broad discretion in custody-related decisions, but it does not involve modification of existing custody orders in response to a child\u2019s exhaustion or educational impact, nor does it focus on protecting children from such specific harms. Using Yannas as authority for modifying custody orders due to a child\u2019s exhaustion and educational difficulties overstates and mischaracterizes its holding.",
+      "relevant_excerpt": "\u201cCases involving removal of a child from the jurisdiction present difficult choices. Unless one is to apply a fixed but arbitrary rule, the issue can be resolved only on a case by case basis. The effect on the child of any removal is most important. An evaluation of the best interests of the child requires attention to whether the quality of the child\u2019s life may be improved by the change \u2026 and the extent to which moving or not moving will affect the emotional, physical, or developmental needs of the child.\u201d"
+    },
+    "Murphy v. Murphy, 82 Mass. App. Ct. 186 (2012)": {
+      "raw_text": "Murphy v. Murphy, 82 Mass. App. Ct. 186 (2012)",
+      "citation_type": "case",
+      "proposition": "The exhaustion and educational impact faced by the child herein falls squarely within the type of circumstances the Court reviewed in cases such as Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985), and Murphy v. Murphy, 82 Mass. App. Ct. 186 (2012), which emphasize the Court's broad discretion in modifying custody orders to protect the physical and emotional welfare of children.",
+      "is_valid": true,
+      "courtlistener_id": "6589799",
+      "case_name": "Murphy v. Murphy",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Murphy is a removal/custody case emphasizing the judge\u2019s broad discretion to determine the child\u2019s best interests, but it does not involve or discuss a child\u2019s \u201cexhaustion and educational impact\u201d from a parenting plan or similar circumstances. The opinion focuses on relocation standards (Yannas vs. Mason), primary caretaker status, and general best-interests analysis, not on modifying custody orders due to a child\u2019s physical or educational strain. Thus, citing Murphy specifically for the proposition that it covers exhaustion and educational impact similar to the present child\u2019s circumstances overstates its holding and context.",
+      "relevant_excerpt": "\u201c\u2018The best interests of a child is the overarching principle that governs custody disputes in the Commonwealth.\u2019\u2026 \u2018The judge is afforded considerable freedom to identify pertinent factors in assessing the welfare of the child and weigh them as [he] sees fit.\u2019\u2026 A custody determination requires a \u2018realistic, commonsense judgment\u2019\u2026 and evaluates them in light of the \u2018well-being of the child and [her] future development.\u2019\u2026 In view of the trial judge\u2019s superior position to observe witnesses and weigh evidence, we review only for abuse of discretion.\u201d"
+    }
+  }
+}

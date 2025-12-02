@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_008_09.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/controlled the restaurant premises (\u00b63), that Plaintiff was a business invitee (\u00b67), and expressly pleads the proprietor\u2019s duty to invitees to maintain safe premises and warn of dangerous conditions (\u00b616)."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific acts/omissions: a server dropped a tray and left water/ice on the tiled hallway (\u00b68\u20139), no warning signs or barriers were placed (\u00b610), employees anticipated the hazard (\u00b612), and \u00b617 lists the particular breaches (failing to correct or warn)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff stepped into pooled water and slipped, injuring her knee as a direct result of the hazardous wet condition (\u00b611), and expressly pleads she would not have slipped but for Defendant\u2019s failure to remedy or warn (\u00b619)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The alleged hazardous condition (spilled water/ice on a tiled hallway used by patrons) is a foreseeable source of slip-and-fall injuries; the complaint pleads Defendant\u2019s awareness or constructive notice (\u00b612, \u00b618) and that Defendant\u2019s breach proximately caused the injuries (\u00b619)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete, compensable injuries and losses: medical treatment and diagnosis of a sprained knee, knee brace, physical therapy (\u00b613), plus claimed medical expenses (~$2,000) and lost wages (~$1,500) and other damages (\u00b614, \u00b620, Prayer A)."
+    }
+  }
+}

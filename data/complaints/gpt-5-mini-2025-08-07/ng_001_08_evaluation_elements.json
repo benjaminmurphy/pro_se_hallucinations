@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_001_08.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Plaintiff was a lawful customer (an invitee) on Defendant\u2019s premises and expressly pleads the store\u2019s duty to maintain safe premises and warn of known or discoverable hazards (citing Restatement \u00a7343 and Massachusetts premises-liability law). These factual allegations are sufficient to plead the existence of a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific facts showing a breach: a sizable puddle of milk (with cart tracks visible), absence of any warnings or barriers, and an employee in the immediate area who acknowledged seeing the spill but did not timely clean it up. Those factual allegations adequately plead that the defendant failed to exercise reasonable care."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that Plaintiff stepped into the puddle, slipped and fell, and as a result sustained a hip injury requiring treatment. Those allegations directly connect the spill and the fall to the injury and sufficiently plead but\u2011for causation (the injury would not have occurred but for stepping in the spill)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the hazardous, slippery condition (spilled milk) was known or discoverable (employee saw it; cart tracks visible) and that slipping on such a spill was the foreseeable consequence. It expressly pleads proximate causation. These facts adequately plead that the injury was a foreseeable result of the defendant\u2019s conduct."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific actual damages: approximately $1,200 in medical expenses, approximately $800 in lost wages, and claims for pain and suffering, disability, and emotional distress. Those allegations sufficiently plead compensable damages."
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_010_03",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "plaintiff": "Jessica Turner",
+  "defendant": "Linda Martinez"
+}

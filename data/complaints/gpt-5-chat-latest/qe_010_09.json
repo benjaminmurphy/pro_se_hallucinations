@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_010_09",
+  "category": "landlord_tenant",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jessica Tran",
+  "defendant": "Linda Harrison"
+}

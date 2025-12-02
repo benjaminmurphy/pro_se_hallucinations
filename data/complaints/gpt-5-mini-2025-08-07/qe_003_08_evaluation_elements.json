@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_003_08.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff is a tenant at 123 Green Street, states Defendant is owner and landlord of the Premises, recites the rental agreement/lease entry and monthly rent \u2014 facts that adequately establish a landlord\u2011tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges affirmative misrepresentations by Defendant about a prior leak and numerous omissions \u2014 specifically repeated dismissal of complaints and failure/refusal to repair despite notice and opportunity \u2014 which adequately plead landlord acts and omissions."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges ongoing, worsening water intrusion that ruined personal property (laptop), produced a persistent musty odor and headaches, and forced Plaintiff to relocate furniture and restrict use of roughly half the Premises \u2014 facts that adequately allege a substantial interference with beneficial use and enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint links Defendant\u2019s pre\u2011lease representation, repeated notice of active leaks, and failure to timely and reasonably repair to the continuing water intrusion, property damage, odor, and health symptoms, thus adequately alleging that the landlord\u2019s conduct caused the interference."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific actual damages (approximately $900 for the damaged laptop), alleged loss of use/need for rent abatement, and other compensable harms (property damage, health symptoms) and seeks monetary relief \u2014 sufficiently alleging damages."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_010_01.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads a residential tenancy (\u00b63), rent amount ($1,200/month) and identifies Defendant as owner/landlord of the premises (\u00b62), establishing the landlord\u2013tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff notified Defendant of mold (\u00b68), Defendant inspected and acknowledged mold but refused to investigate or repair the ventilation or underlying cause and only offered to \"clean\" visible mold (\u00b69, \u00b619), a nonfeasance/omission to remediate."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Factual allegations describe mold spread in the interior bathroom with no operable window (\u00b66\u20137, \u00b610), documented new respiratory symptoms attributed to mold by Plaintiff\u2019s physician (\u00b611), loss of personal property (\u00b612), and explicit allegations of diminished habitability and substantial interference with quiet enjoyment (\u00b613\u201314)."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff notified Defendant and Defendant\u2019s refusal to investigate/repair ventilation permitted the mold to persist (\u00b68\u20139, \u00b613, \u00b619, \u00b621), and Plaintiff\u2019s physician linked symptoms to mold exposure (\u00b611), alleging a causal chain from landlord omission to continued condition and harm."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges economic and non\u2011economic harms: personal property loss (~$60) (\u00b612), medical/physical injury (new respiratory symptoms and physician documentation) (\u00b611, \u00b620, \u00b622), emotional distress and loss of use (\u00b620, \u00b622), and seeks compensatory damages (\u00b622, Prayer)."
+    }
+  }
+}

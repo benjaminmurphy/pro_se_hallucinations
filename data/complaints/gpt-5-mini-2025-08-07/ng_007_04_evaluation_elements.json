@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_007_04.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the Community Center operates an after-school program for children, advertises and holds itself out as providing supervision, and explicitly pleads the Center owed an affirmative duty to supervise and exercise ordinary care to protect invitees/participants (citing Restatement \u00a7314A). These factual allegations sufficiently establish a duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads specific acts and omissions constituting breach: understaffing (one adult supervising ~20 children), a staffer inattentive and on her phone, failure to intervene after children reported dangerous conduct, and failure to stop rough tackling. Those factual allegations adequately allege a breach of the asserted duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the lone inattentive staffer\u2019s failure to supervise/intervene allowed two older boys to play a rough tackle game and that, as a direct result, one boy tackled the plaintiff\u2019s son causing him to strike his head and suffer a concussion. Those facts plead a but-for causal link between the supervision failures and the injury."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint explicitly alleges the risk of injury from rough play on a hard gym surface was foreseeable and that the defendant\u2019s failure to supervise was a proximate cause of the tackle and concussion. The pleaded facts (age disparity, hard-surface gym, reports to staff ignored) support foreseeability and proximate cause."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete damages: the child lost consciousness, was diagnosed with a concussion, required follow-up care, missed school, incurred approximately $5,500 in medical expenses, and the plaintiff incurred about $1,200 in lost wages, plus pain and suffering and other harms."
+    }
+  }
+}

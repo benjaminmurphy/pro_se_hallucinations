@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_008_10.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads that Plaintiff was a lawful invitee on Defendant\u2019s premises (\u00b65), that Defendant is the owner/occupier/operator of the restaurant (\u00b63), and expressly alleges the occupier\u2019s duty to maintain safe premises and warn of known dangers (\u00b613). Those factual allegations are sufficient to establish a duty of care to an invitee."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific facts showing failure to exercise reasonable care: a server dropped glasses and left water/ice on the tile floor (\u00b66), no wet-floor sign or warning was placed (\u00b67), the server said she would get a mop but did not promptly remediate (\u00b66\u20137), and the complaint lists concrete breaches (\u00b614(a)\u2013(d)). These allegations adequately plead breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that Plaintiff stepped on the unmarked wet tile and, as a direct result of that condition, slipped, twisted her knee, and fell (\u00b68\u20139, \u00b616). Those facts sufficiently plead that the injury would not have occurred but for the hazardous wet floor created/left by Defendant\u2019s employees."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The harm alleged (slipping on a wet, unmarked floor causing knee injury) is a foreseeable consequence of permitting an unremediated wet floor in a high\u2011traffic area. The complaint also alleges actual/constructive notice (staff \u2018\u2018dodging that puddle,\u2019\u2019 server\u2019s statement about getting a mop) indicating the condition was known or should have been known (\u00b610, \u00b615), supporting proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific special damages (approximately $1,500 in medical expenses and $2,000 in lost wages) and general damages for pain and suffering (\u00b611, \u00b622). These allegations adequately plead actual damages."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_003_09.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 2.1 expressly alleges a prior court order dated September 15, 2021 providing shared legal custody with the child primarily residing with Plaintiff and weekend visits for Defendant; the complaint also attaches a copy of the Existing Order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Paragraph 3.2 and the relief section (7.2) specify the requested changes (e.g., supervised overnight visitation, or alternatively conditions such as no overnights until Defendant completes substance-evaluation/treatment and demonstrates sobriety), which are concrete, discrete modifications the Court can order."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Section 4 alleges new, specific facts since the 2021 order (child disclosures about \u201cspecial drinks\u201d and Defendant\u2019s unsteadiness, a neighbor\u2019s preserved video showing Defendant stumbling while removing Ethan after a visit, and school reports of Ethan\u2019s Monday-morning exhaustion) and expressly states these were not known or contemplated at the time of the prior order\u2014allegations that plausibly constitute a material and substantial change affecting the child\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint ties the factual allegations to the child\u2019s safety, health and welfare, expressly requests protective measures (supervision/conditions on visitation), and cites the relevant statutory and case law prioritizing the child\u2019s best interests; those allegations adequately assert that the proposed modifications are necessary to protect Ethan and therefore serve his best interests."
+    }
+  }
+}

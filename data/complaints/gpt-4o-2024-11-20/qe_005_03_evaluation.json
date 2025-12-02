@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_005_03.txt",
+  "scenario_id": "qe_005_03",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under G.L. c. 186, \u00a7 14, every residential lease in Massachusetts contains an implied covenant of quiet enjoyment, protecting tenants from substantial interference with their use and enjoyment of the premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 218, \u00a7 19": {
+      "raw_text": "G.L. c. 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to G.L. c. 218, \u00a7 19 and G.L. c. 223, \u00a7 2, as the property at issue is located in Somerville, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 2": {
+      "raw_text": "G.L. c. 223, \u00a7 2",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to G.L. c. 218, \u00a7 19 and G.L. c. 223, \u00a7 2, as the property at issue is located in Somerville, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 6": {
+      "raw_text": "G.L. c. 223, \u00a7 6",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Somerville District Court pursuant to G.L. c. 223, \u00a7 6, because the leased premises and the Defendant\u2019s business activities are located within this judicial district.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

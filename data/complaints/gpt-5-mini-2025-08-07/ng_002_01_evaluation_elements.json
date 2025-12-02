@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_002_01.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant owned and controlled the dog, the park had a posted leash rule, and explicitly pleads Defendant owed park users a duty to exercise reasonable care and keep the dog leashed (\u00b6\u00b62,7,8,18)."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant routinely allowed the dog to run loose, had the dog off-leash on May 15 with the leash over his shoulder but not attached, and failed to restrain or control the dog in violation of the posted rules (\u00b6\u00b68\u201311,19)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads a causal sequence: the dog charged Plaintiff, Plaintiff swerved to avoid the dog, tripped over an exposed tree root, and suffered a fractured wrist \u2014 i.e., but for the dog\u2019s unrestrained approach Plaintiff would not have swerved and fallen (\u00b6\u00b610\u201312,13)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the harm was foreseeable: an unrestrained large dog would likely approach or frighten park users and could cause them to take evasive action leading to injury, and it expressly pleads that Defendant\u2019s breach was a proximate cause of the fall and injury (\u00b6\u00b611,12,20)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete damages including a diagnosed fractured wrist, emergency treatment and follow-up care, approximately $3,500 in medical bills, approximately $1,200 in lost wages, pain and suffering, and other losses (\u00b6\u00b612,15,16,21)."
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_003_03.txt",
+  "scenario_id": "cm_003_03",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 3,
+  "statute_citations": 1,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "Massachusetts General Laws, Chapter 208, Section 28": {
+      "raw_text": "Massachusetts General Laws, Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws, Chapter 208, Section 28 provides that the Court may modify a custody order based on a substantial change in circumstances affecting the welfare of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Bower v. Bournay-Bower, 469 Mass. 690 (2014)": {
+      "raw_text": "Bower v. Bournay-Bower, 469 Mass. 690 (2014)",
+      "citation_type": "case",
+      "proposition": "The case of Bower v. Bournay-Bower, 469 Mass. 690 (2014) established the standard of a substantial change in circumstances justifying a modification in custody arrangements.",
+      "is_valid": true,
+      "courtlistener_id": "2735268",
+      "case_name": "Bower v. Bournay-Bower",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion does not establish or articulate the standard for a \u201csubstantial change in circumstances\u201d justifying modification of custody. Instead, it concerns the Probate and Family Court\u2019s inherent authority to appoint parenting coordinators and holds that the particular order improperly delegated judicial authority and infringed access to the courts. The only mention of the modification standard is descriptive, quoting G.L. c. 208, \u00a7 28; the case neither develops nor changes that standard, so it is not appropriate authority for the proposition claimed.",
+      "relevant_excerpt": "\u201cBy statute, if a party seeks a modification of a final judgment of divorce, a judge may make a judgment modifying his or her earlier judgment provided the judge finds that \u2018a material and substantial change in the circumstances of the parties has occurred and the judgment of modification is necessary in the best interests of the children.\u2019 G. L. c. 208, \u00a7 28.\u201d"
+    },
+    "Ross v. Ross, 371 Mass. 181 (1976)": {
+      "raw_text": "Ross v. Ross, 371 Mass. 181 (1976)",
+      "citation_type": "case",
+      "proposition": "In the case of Ross v. Ross, 371 Mass. 181 (1976), the Court recognized the importance of prioritizing the best interests of the child in custody matters.",
+      "is_valid": true,
+      "courtlistener_id": "2078450",
+      "case_name": "Rubera v. Commonwealth",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Ross v. Ross deals exclusively with probation revocation and the permissibility of relying on convictions that are on appeal as a basis for revoking probation. It does not involve a custody dispute, children\u2019s welfare, or any discussion of the \u2018best interests of the child\u2019 standard. Therefore, it cannot be cited as authority for the proposition that the Court recognized prioritizing the best interests of the child in custody matters.",
+      "relevant_excerpt": "The basic issue argued by both sides is whether convictions of the petitioner by the first judge on complaints Nos. 5691-5692, which she appealed to the Superior Court, are sufficient to form the basis for revocation by the second judge of her earlier probation on complaint No. 2783.... Any conduct by a person on probation which constitutes a violation of any of the conditions of his probation may form the basis for the revocation of that probation."
+    },
+    "Guardianship of Estelle, 70 Mass. App. Ct. 168 (2007)": {
+      "raw_text": "Guardianship of Estelle, 70 Mass. App. Ct. 168 (2007)",
+      "citation_type": "case",
+      "proposition": "Further supporting the requested modification, the case of Guardianship of Estelle, 70 Mass. App. Ct. 168 (2007) held that a child's safety and well-being are paramount considerations in custody determinations.",
+      "is_valid": true,
+      "courtlistener_id": "6588704",
+      "case_name": "Commonwealth v. Masonoff",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The provided opinion is a criminal case about ineffective assistance of counsel, severance, Bruton issues, and a motion for new trial. It does not involve guardianship, custody, or any discussion of a child's safety and well-being as paramount considerations. The citation to Guardianship of Estelle for a custody principle is therefore inaccurate and unsupported by this text.",
+      "relevant_excerpt": "A judge may grant a motion for new trial only \u201cif it appears that justice may not have been done.\u201d Commonwealth v. DeMarco, 387 Mass. 481, 482 (1982). Mass.R.Crim.P. 30(b), as appearing in 435 Mass. 1501 (2001). \u201cJudges are to apply the standard set forth in rule 30(b) rigorously and should only grant such a motion if the defendant comes forward with a credible reason which outweighs the risk of prejudice to the Commonwealth.\u201d Commonwealth v. Wheeler, 52 Mass. App. Ct. 631, 635-636 (2001)."
+    }
+  }
+}

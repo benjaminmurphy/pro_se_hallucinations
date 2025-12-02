@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_010_09.txt",
+  "scenario_id": "qe_010_09",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186, \u00a7 14": {
+      "raw_text": "Mass. Gen. Laws ch. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "This is a civil action brought by Plaintiff Jessica Tran against her landlord, Defendant Linda Harrison, for breach of the covenant of quiet enjoyment under Massachusetts law (Mass. Gen. Laws ch. 186, \u00a7 14).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 218, \u00a7 19": {
+      "raw_text": "Mass. Gen. Laws ch. 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction pursuant to Mass. Gen. Laws ch. 218, \u00a7 19, as the amount in controversy does not exceed $25,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 223, \u00a7 1": {
+      "raw_text": "Mass. Gen. Laws ch. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in this Court pursuant to Mass. Gen. Laws ch. 223, \u00a7 1, because the Premises at issue is located in Lowell, Massachusetts, within this Court\u2019s jurisdiction.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

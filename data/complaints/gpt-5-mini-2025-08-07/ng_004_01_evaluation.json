@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_004_01.txt",
+  "scenario_id": "ng_004_01",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 231 (general provisions governing civil actions and tort law in the Commonwealth);": {
+      "raw_text": "Mass. Gen. Laws ch. 231 (general provisions governing civil actions and tort law in the Commonwealth);",
+      "citation_type": "statute",
+      "proposition": "Representative authorities that govern and inform the negligence claim include, but are not limited to: Mass. Gen. Laws ch. 231 (general provisions governing civil actions and tort law in the Commonwealth);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 260 (statute of limitations and related provisions for civil actions);": {
+      "raw_text": "Mass. Gen. Laws ch. 260 (statute of limitations and related provisions for civil actions);",
+      "citation_type": "statute",
+      "proposition": "Representative authorities that govern and inform the negligence claim include, but are not limited to: Mass. Gen. Laws ch. 260 (statute of limitations and related provisions for civil actions);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186 (provisions relating to landlord and tenant responsibilities relevant to duties of property owners);": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (provisions relating to landlord and tenant responsibilities relevant to duties of property owners);",
+      "citation_type": "statute",
+      "proposition": "Representative authorities that govern and inform the negligence claim include, but are not limited to: Mass. Gen. Laws ch. 186 (provisions relating to landlord and tenant responsibilities relevant to duties of property owners);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 84 (provisions addressing public ways and related duties that may be relevant to maintenance of sidewalks);": {
+      "raw_text": "Mass. Gen. Laws ch. 84 (provisions addressing public ways and related duties that may be relevant to maintenance of sidewalks);",
+      "citation_type": "statute",
+      "proposition": "Representative authorities that govern and inform the negligence claim include, but are not limited to: Mass. Gen. Laws ch. 84 (provisions addressing public ways and related duties that may be relevant to maintenance of sidewalks);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

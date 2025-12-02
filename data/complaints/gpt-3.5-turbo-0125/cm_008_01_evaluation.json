@@ -1,0 +1,41 @@
+{
+  "complaint_file": "cm_008_01.txt",
+  "scenario_id": "cm_008_01",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 1,
+  "statute_citations": 1,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Mass. Gen. Laws ch. 208, \u00a7 28": {
+      "raw_text": "Mass. Gen. Laws ch. 208, \u00a7 28",
+      "citation_type": "statute",
+      "proposition": "Massachusetts law recognizes that modifications to custody orders are appropriate when such changes affect the child's best interests.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mason v. Coleman, 447 Mass. 177 (2006)": {
+      "raw_text": "Mason v. Coleman, 447 Mass. 177 (2006)",
+      "citation_type": "case",
+      "proposition": "Massachusetts law recognizes that modifications to custody orders are appropriate when such changes affect the child's best interests.",
+      "is_valid": true,
+      "courtlistener_id": "6579384",
+      "case_name": "Mason v. Coleman",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case concerns standards for a *removal* request under G.L. c. 208, \u00a7 30 when parents share joint custody, not general modification of custody orders. While the court repeatedly applies a best-interests-of-the-child standard in deciding whether to allow removal and considering parenting arrangements, it does not articulate a general rule that modifications to custody orders are appropriate whenever changes affect the child\u2019s best interests. The opinion is focused on defining and applying the best-interests standard in the relocation context, not on the general modifiability of custody orders under Massachusetts law.",
+      "relevant_excerpt": "\u201c\u2018The words \u2018upon cause shown\u2019 mean only that removal must be in the best interests of the child.\u2019 Yannas v. Frondistou-Yannas, 395 Mass. 704, 711 (1985), citing Rubin v. Rubin, 370 Mass. 857 (1976). \u2026 \u2018[T]he best interests of the child standard is one grounded in the particular needs and circumstances of the individual child in question.\u2019 Adoption of Vito, 431 Mass. 550, 566 (2000). Assuming the judge\u2019s findings are not clearly erroneous, we review her determination of the best interests of the children only for an abuse of discretion.\u201d"
+    }
+  }
+}

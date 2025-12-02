@@ -1,0 +1,41 @@
+{
+  "complaint_file": "cm_004_06.txt",
+  "scenario_id": "cm_004_06",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws ch. 209B, \u00a7 2": {
+      "raw_text": "Massachusetts General Laws ch. 209B, \u00a7 2",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to Massachusetts General Laws ch. 209B, \u00a7 2, and ch. 215, \u00a7 6.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "ch. 215, \u00a7 6": {
+      "raw_text": "ch. 215, \u00a7 6",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to Massachusetts General Laws ch. 209B, \u00a7 2, and ch. 215, \u00a7 6.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

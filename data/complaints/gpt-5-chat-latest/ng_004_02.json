@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_004_02",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jessica Miller",
+  "defendant": "Emily Johnson"
+}

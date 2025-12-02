@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_001_10.txt",
+  "scenario_id": "qe_001_10",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 6,
+  "case_citations": 2,
+  "statute_citations": 4,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Ch. 218, Sec. 19": {
+      "raw_text": "Massachusetts General Laws Ch. 218, Sec. 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over the subject matter of this action pursuant to Massachusetts General Laws Ch. 218, Sec. 19 and Ch. 185C, Sec. 3.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Ch. 185C, Sec. 3": {
+      "raw_text": "Ch. 185C, Sec. 3",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over the subject matter of this action pursuant to Massachusetts General Laws Ch. 218, Sec. 19 and Ch. 185C, Sec. 3.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Ch. 186, Sec. 14": {
+      "raw_text": "Massachusetts General Laws Ch. 186, Sec. 14",
+      "citation_type": "statute",
+      "proposition": "This Complaint is based on Massachusetts General Laws Ch. 186, Sec. 14, Ch. 239, Sec. 8A, as well as relevant case law including Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973), and Simon v. Solomon, 385 Mass. 91 (1982), among others.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Ch. 239, Sec. 8A": {
+      "raw_text": "Ch. 239, Sec. 8A",
+      "citation_type": "statute",
+      "proposition": "This Complaint is based on Massachusetts General Laws Ch. 186, Sec. 14, Ch. 239, Sec. 8A, as well as relevant case law including Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973), and Simon v. Solomon, 385 Mass. 91 (1982), among others.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973)": {
+      "raw_text": "Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973)",
+      "citation_type": "case",
+      "proposition": "This Complaint is based on Massachusetts General Laws Ch. 186, Sec. 14, Ch. 239, Sec. 8A, as well as relevant case law including Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973), and Simon v. Solomon, 385 Mass. 91 (1982), among others.",
+      "is_valid": true,
+      "courtlistener_id": "2000597",
+      "case_name": "Boston Housing Authority v. Hemingway",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "medium",
+      "support_reasoning": "The proposition merely cites Hemingway as part of the legal basis for a complaint grounded in G.L. c. 186, \u00a7 14 and c. 239, \u00a7 8A and related case law. While this excerpt is a concurrence/dissent and not the majority, it squarely discusses G.L. c. 239, \u00a7 8A, tenants\u2019 use of sanitary code violations as a defense to nonpayment, and the interdependence of rent and habitability obligations\u2014core issues relevant to a complaint relying on habitability and \u00a7 8A. Thus, Hemingway is an appropriate supporting authority, even though this passage is not the binding holding itself.",
+      "relevant_excerpt": "\"The answer of each tenant also \u2018claims the protection of ... [G. L. c. 239, \u00a7 8A] ... That the defendant has complied with ... [c. 239, \u00a7 8A] and that therefore the plaintiff cannot recover.\u2019 As to each tenant the trial judge found that she had failed to give the written notice required by \u00a7 8A... He then properly ruled that \u00a7 8A \u2018is not available to the defendant as a defense to this proceeding.\u2019 ... Having thus failed to qualify for the defence which would otherwise have been available to them under \u00a7 8A, the tenants ask this court to give them relief by holding (a) that the landlord impliedly warranted the fitness of their apartments for habitation...\""
+    },
+    "Simon v. Solomon, 385 Mass. 91 (1982)": {
+      "raw_text": "Simon v. Solomon, 385 Mass. 91 (1982)",
+      "citation_type": "case",
+      "proposition": "This Complaint is based on Massachusetts General Laws Ch. 186, Sec. 14, Ch. 239, Sec. 8A, as well as relevant case law including Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973), and Simon v. Solomon, 385 Mass. 91 (1982), among others.",
+      "is_valid": true,
+      "courtlistener_id": "2038443",
+      "case_name": "Simon v. Solomon",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition merely asserts that the complaint is based on G.L. c. 186, \u00a714, c. 239, \u00a78A, and relevant case law including Boston Housing Authority v. Hemingway and Simon v. Solomon. Simon v. Solomon squarely addresses and applies G.L. c. 186, \u00a714, discusses its relationship to other tenant-remedy statutes including c. 239, \u00a78A, and builds on Hemingway\u2019s warranty-of-habitability framework. Thus, citing Simon v. Solomon as part of the relevant case law foundation for such a complaint is accurate and supported by the opinion.",
+      "relevant_excerpt": "\u201cSection 14 belongs to a body of statutes establishing tenants\u2019 remedies against landlords who fail to provide safe and sanitary housing. See, e.g., G. L. c. 111, \u00a7\u00a7 127A-127L, c. 186, \u00a7\u00a7 14, 15E, 15F, 18, 19; c. 239, \u00a7 8A. These statutes are designed to facilitate enforcement of State housing regulations and to provide relief for tenants deprived of decent homes. See Boston Hous. Auth. v. Hemingway, 363 Mass. 184, 191-193 (1973).\u201d}"
+    }
+  }
+}

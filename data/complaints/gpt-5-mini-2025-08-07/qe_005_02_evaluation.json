@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_005_02.txt",
+  "scenario_id": "qe_005_02",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 186 (Landlord and Tenant statutes)": {
+      "raw_text": "M.G.L. c. 186 (Landlord and Tenant statutes)",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, tenants are entitled to the covenant (express and/or implied) of quiet enjoyment: the right to possession and use of the leased premises without substantial interference by the landlord or others acting with the landlord\u2019s knowledge or consent. The landlord is obligated to take reasonable steps to abate substantial interferences of which the landlord has notice.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant generally)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant generally)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon and cites the following Massachusetts statutes, rules, and authorities relevant to landlord obligations and remedies for breaches of the covenant of quiet enjoyment and related landlord-tenant principles (non-exhaustive):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary Process; jurisdiction and procedure for housing matters)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary Process; jurisdiction and procedure for housing matters)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon and cites the following Massachusetts statutes, rules, and authorities relevant to landlord obligations and remedies for breaches of the covenant of quiet enjoyment and related landlord-tenant principles (non-exhaustive):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A, \u00a7 2 and \u00a7 9 (Unfair and deceptive acts or practices; private remedy for certain landlord conduct)": {
+      "raw_text": "Mass. Gen. Laws ch. 93A, \u00a7 2 and \u00a7 9 (Unfair and deceptive acts or practices; private remedy for certain landlord conduct)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon and cites the following Massachusetts statutes, rules, and authorities relevant to landlord obligations and remedies for breaches of the covenant of quiet enjoyment and related landlord-tenant principles (non-exhaustive):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

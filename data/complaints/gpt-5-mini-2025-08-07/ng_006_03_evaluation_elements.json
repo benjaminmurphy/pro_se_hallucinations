@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_006_03.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges statutory and common-law duties of motorists to avoid creating hazards for nonmotorists and bicyclists (\u00b6\u00b615\u201316) and pleads that Defendant was operating/occupying a vehicle adjacent to a bike lane (\u00b6\u00b62,6), which sufficiently alleges a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific, factual conduct constituting breach: Defendant opened a curbside door suddenly into the bike lane without looking, was using his phone and admitted he \"didn\u2019t see\" Plaintiff, and failed to take reasonable precautions (\u00b6\u00b67\u20139,17)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that but for Defendant\u2019s opening the door into the bike lane, Plaintiff would not have struck the door, been ejected, and suffered injury (\u00b6\u00b67\u20138,18)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the injuries were a direct and foreseeable result of the door being opened into the bike lane\u2014an obviously foreseeable risk to a bicyclist proceeding lawfully\u2014(\u00b6\u00b67\u20139,18) and pleads proximate-cause language (\u00b6\u00b618,21)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies concrete injuries and losses (road rash, chipped tooth, bent bicycle) and quantifies past medical/dental expenses (~$1,500) and lost wages (~$800), as well as other economic and non-economic damages (\u00b6\u00b610\u201312,21), which adequately pleads actual damages."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_007_05.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly identifies a May 15, 2018 custody/parenting-time order (one-week-on/one-week-off joint physical custody) and states that the 2018 Order remains in effect and is the order sought to be modified."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint requests specific relief: award primary physical custody to Petitioner, a revised parenting-time schedule (including supervised/supported or graduated visits), a prohibition on Respondent being alone with the child in specified circumstances, and production of medical records/functional assessments\u2014i.e., concrete, identifiable modifications."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges factual changes since the 2018 Order: Respondent diagnosed with a progressive neurological condition that has materially worsened in the past 12\u201324 months, multiple falls, physician warnings against leaving Respondent alone with the child in situations involving stairs or rapid physical response, and the child assisting with transfers\u2014facts that plausibly constitute a material and substantial change affecting the child's safety and welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint links the alleged change to the child's safety, physical and emotional needs, and established routines; alleges that continued adherence to the old schedule creates real risk to the child's safety and emotional well-being; and proposes remedies tailored to protect those interests, adequately pleading that the requested modification is in the child's best interests."
+    }
+  }
+}

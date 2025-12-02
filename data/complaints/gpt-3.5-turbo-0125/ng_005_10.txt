@@ -1,0 +1,80 @@
+[Caption]
+
+SUPERIOR COURT DEPARTMENT
+HAMPDEN, ss.
+--------------------------------
+EMILY JOHNSON,
+Plaintiff,
+v.
+MARK THOMPSON,
+Defendant.
+--------------------------------
+Civil Action No. _________
+
+[Body]
+
+COMPLAINT
+
+Now comes the Plaintiff, Emily Johnson, by and through undersigned counsel, and for her Complaint against Defendant Mark Thompson, states as follows:
+
+PARTIES
+
+1. Plaintiff, EMILY JOHNSON, is an individual residing at [Plaintiff's Address], Springfield, MA.
+
+2. Defendant, MARK THOMPSON, is an individual residing at [Defendant's Address], Springfield, MA.
+
+JURISDICTION AND VENUE
+
+3. Jurisdiction of this Court is proper pursuant to Massachusetts General Laws Chapter 223, section 2, as the matter in controversy exceeds the sum of $25,000, exclusive of interest and costs. Venue is proper as the events giving rise to this action occurred in Hampden County.
+
+FACTUAL ALLEGATIONS
+
+4. On or about March 15, 2023, at 123 Elm Street, Springfield, MA 01105, Defendant, Mark Thompson, negligently kept a tall aluminum extension ladder leaning against the wooden fence in the shared driveway of Plaintiff’s duplex.
+
+5. Plaintiff had expressed concerns to Defendant about the ladder posing a danger to her car parked in the driveway, especially on windy days. Despite Plaintiff's warning, Defendant failed to secure or relocate the ladder.
+
+6. On the aforementioned date, due to Defendant's negligence, a gust of wind knocked the ladder over, causing it to crash onto the hood and windshield of Plaintiff's car, resulting in damage to the hood and a cracked windshield. As a direct result of the incident, Plaintiff incurred expenses for necessary repairs, including a new windshield, and had to pay a deductible for insurance coverage.
+
+CAUSE OF ACTION
+
+7. Defendant owed a duty of care to Plaintiff to maintain his property in a safe manner and prevent foreseeable harm. Defendant breached this duty by negligently keeping the ladder unsecured near Plaintiff's car, despite being aware of the risk it posed.
+
+8. Defendant's breach of duty was a proximate cause of the damage to Plaintiff's car, resulting in financial loss and inconvenience to Plaintiff.
+
+9. The negligent actions of Defendant constitute negligence under Massachusetts law, giving rise to a cause of action for negligence.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Honorable Court:
+
+a. Award damages in an amount to be determined at trial, but not less than $25,000, for the cost of repairs, rental car expenses, and inconvenience suffered by Plaintiff;
+
+b. Award pre-judgment and post-judgment interest as allowed by law;
+
+c. Award costs and attorney fees incurred in prosecuting this action; and
+
+d. Grant any further relief as the Court may deem just and proper.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+Respectfully submitted,
+
+[Signature]
+Emily Johnson
+Plaintiff, Pro Se
+[Plaintiff's Address]
+Springfield, MA
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+
+DATED: December 1, 2025
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that a true and accurate copy of the foregoing Complaint was served on Defendant, Mark Thompson, via certified mail, return receipt requested, on December 1, 2025.
+
+[Signature]
+Emily Johnson
+Plaintiff, Pro Se

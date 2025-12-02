@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_008_05.txt",
+  "scenario_id": "ng_008_05",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 1,
+  "statute_citations": 3,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "G. L. c. 214": {
+      "raw_text": "G. L. c. 214",
+      "citation_type": "statute",
+      "proposition": "The amount in controversy exceeds the jurisdictional limit of the District Court and this suit is properly brought in the Norfolk Superior Court pursuant to G. L. c. 214 and other applicable law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G. L. c. 260, \u00a72A": {
+      "raw_text": "G. L. c. 260, \u00a72A",
+      "citation_type": "statute",
+      "proposition": "Plaintiff has complied with all conditions precedent to bringing this action, if any, and has brought this action within the applicable statute of limitations (see G. L. c. 260, \u00a72A).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G. L. c. 231, \u00a785": {
+      "raw_text": "G. L. c. 231, \u00a785",
+      "citation_type": "statute",
+      "proposition": "Massachusetts statutes governing limitations and related procedural matters, including G. L. c. 260, \u00a72A (statute of limitations for personal injury actions), and the Massachusetts comparative negligence statute, G. L. c. 231, \u00a785.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Scheibel v. Hill, 368 Mass. 42 (1975) (negligence and jury questions)": {
+      "raw_text": "Scheibel v. Hill, 368 Mass. 42 (1975) (negligence and jury questions)",
+      "citation_type": "case",
+      "proposition": "Massachusetts Supreme Judicial Court and Appeals Court precedent addressing duty, inspection, notice, and liability of property possessors and occupiers to invitees, including Scheibel v. Hill, 368 Mass. 42 (1975) (negligence and jury questions), and other Massachusetts authorities construing premises liability and the standard of care for business owners toward invitees.",
+      "is_valid": true,
+      "courtlistener_id": "2017930",
+      "case_name": "Broderick v. Police Commissioner of Boston",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion has nothing to do with premises liability, duties of possessors or occupiers of land, inspection, notice, or the standard of care owed to invitees. It concerns the authority of the Boston police commissioner to require officers to answer questionnaires about off-duty conduct and addresses constitutional and privacy issues in public employment. Citing this case for Massachusetts premises-liability standards toward invitees would be inaccurate and misleading.",
+      "relevant_excerpt": "\u201cPursuant to St. 1962, c. 322, \u00a7 11, the police commissioner is charged with administration of the police department. \u2018The police commissioner shall have cognizance and control of the government, administration, disposition and discipline of the department, and of the police force of the department and shall make all needful rules and regulations for the efficiency of said police .... Officers and members of said police shall, whether on or off duty, be subject to the rules and regulations made under this section\u2019 (emphasis supplied).\u201d"
+    }
+  }
+}

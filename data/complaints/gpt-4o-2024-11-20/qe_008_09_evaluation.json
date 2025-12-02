@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_008_09.txt",
+  "scenario_id": "qe_008_09",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws chapter 186, section 14": {
+      "raw_text": "Massachusetts General Laws chapter 186, section 14",
+      "citation_type": "statute",
+      "proposition": "This is a civil action brought by Plaintiff Jessica Hartman against Defendant Michael Thompson for Defendant\u2019s breach of the covenant of quiet enjoyment as guaranteed under Massachusetts law, specifically Massachusetts General Laws chapter 186, section 14.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 2": {
+      "raw_text": "G.L. c. 223, \u00a7 2",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to G.L. c. 223, \u00a7 2, as the events giving rise to this Complaint occurred within this jurisdiction and the property at issue is located in Chelsea, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a71": {
+      "raw_text": "G.L. c. 223, \u00a71",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Chelsea District Court under G.L. c. 223, \u00a71, as both the property and the Plaintiff are located in Chelsea, and Defendant conducts business there.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Pursuant to G.L. c. 186, \u00a7 14, every residential lease in Massachusetts includes a covenant of quiet enjoyment.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

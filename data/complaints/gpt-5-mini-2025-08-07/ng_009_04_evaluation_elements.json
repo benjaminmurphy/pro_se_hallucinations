@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_009_04.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned, managed, controlled, and had responsibility for common areas of the building and expressly pleads the landlord/manager duty to maintain common-area safety and smoke detectors, citing statutory and common-law authorities \u2014 facts that adequately plead the existence of a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads that a hallway detector intermittently chirped for months, Plaintiff notified management at least three times, management promised to 'take care of it' but did not, the detector was left without a battery and inoperable, and Defendant failed to repair or replace it \u2014 factual allegations that sufficiently plead a failure to perform the asserted duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the inoperable detector failed to detect the first-floor fire and provide warning, Plaintiff only became aware when smoke blocked evacuation, and that had the detector been functioning (or been repaired after notice) Plaintiff would have received timely warning and would not have suffered the same injuries \u2014 factual allegations that, if proved, establish but-for causation."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a foreseeable risk from failing to maintain smoke detectors (fire/smoke injury to occupants), cites statutory and code duties, and directly ties Defendant's failure to the injuries sustained; these allegations sufficiently plead that the harms were a foreseeable, proximate result of Defendant's conduct."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages including hospitalization and medical treatment for smoke inhalation, approx. $5,200 in medical expenses, approx. $1,000 lost wages, property damage, and pain and suffering \u2014 facts sufficiently alleging actual damages."
+    }
+  }
+}

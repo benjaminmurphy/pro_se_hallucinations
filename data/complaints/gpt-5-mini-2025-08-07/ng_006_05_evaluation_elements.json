@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_006_05.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant operates a rideshare service and owed a duty to the traveling public and Plaintiff to exercise reasonable care in the operation and control of its vehicles and drivers and to avoid opening vehicle doors into the path of bicyclists (see \u00b6\u00b62, 16). These factual allegations adequately plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific facts showing breach: the driver opened the driver-side door without looking and while distracted by a phone (\u00b6\u00b68, 11), and pleads multiple negligent acts and omissions by Defendant/the driver (\u00b617(a)\u2013(e)). Those facts sufficiently allege a breach of the duty described."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that as Plaintiff approached the parked vehicle the door opened directly into his path, he had no opportunity to avoid it, collided with the door, was thrown from his bicycle, and sustained injuries as a result (\u00b6\u00b69\u201312). Those allegations support the inference that but for the driver opening the door into the bike lane, the collision and resulting injuries would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint explicitly pleads that Plaintiff\u2019s injuries were the direct and proximate result of the driver\u2019s conduct and Defendant\u2019s negligence (\u00b6\u00b612, 14, 19, 20). Opening a vehicle door into an adjacent bike lane while distracted is a foreseeable cause of a bicyclist collision and injury, so proximate causation is adequately alleged."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific actual damages: medical/dental expenses (~$1,200), lost wages (~$400), property damage to the bicycle, and non-economic harms including pain, scarring, and loss of enjoyment of life (\u00b6\u00b612\u201313, 19). These allegations adequately plead damages."
+    }
+  }
+}

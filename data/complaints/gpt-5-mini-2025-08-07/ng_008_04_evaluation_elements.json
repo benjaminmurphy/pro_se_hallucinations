@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_008_04.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant owns, manages, operates and controls the premises and expressly alleges the responsibility/duty to maintain the restaurant in a reasonably safe condition and to warn invitees (\u00b6\u00b62,6,14). These factual allegations sufficiently plead a duty to invitees."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads specific conduct constituting breach: a server dropped glasses, left water and ice on the tile, failed to clean up or place warnings, and allowed the hazard to persist (\u00b6\u00b67\u20139,15(a)\u2013(e)). Those factual allegations adequately allege a breach of the duty to maintain and warn."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that because the floor was wet and unmarked Plaintiff slipped and twisted her knee while using the restroom (\u00b69), and that the unremoved water/ice was left by Defendant\u2019s employees (\u00b67\u20139). Those allegations link the injury to the alleged failure to clean/warn such that, but for Defendant\u2019s conduct, the fall would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The harm alleged (slipping on unmarked wet floor and sustaining knee injury) is a foreseeable consequence of leaving water/ice on a walkway without warning (\u00b6\u00b67\u20139,16). The complaint expressly pleads that Defendant\u2019s negligence was a proximate cause of the fall and injuries (\u00b616)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete past medical treatment and diagnosis, $2,500 in medical expenses, approximately $1,200 in lost wages, and pain and suffering and other losses (\u00b6\u00b610\u201312,17). These allegations sufficiently plead actual damages."
+    }
+  }
+}

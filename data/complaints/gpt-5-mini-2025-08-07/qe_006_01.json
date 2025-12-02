@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_006_01",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "plaintiff": "Emily Johnson",
+  "defendant": "Mark Thompson"
+}

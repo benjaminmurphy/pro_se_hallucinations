@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_004_07.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant is the owner of the building and expressly alleges she was responsible for maintenance of the sidewalk (including clearing snow/ice) and had a duty to maintain and warn invitees/the public; statutory and common-law authorities are pleaded as supporting law."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific acts and omissions: Defendant shoveled a narrow path but did not apply de-icing material, the path became a sheet of ice, tenants notified Defendant who declined to act\u2014facts that sufficiently plead a failure to exercise ordinary care in maintaining the sidewalk."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges she stepped on the icy patch created/deteriorated by Defendant\u2019s failure to remediate, slipped and fell, and as a result suffered a lower back injury; these allegations link the injury to Defendant\u2019s conduct and adequately plead but\u2011for causation."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the hazardous icy condition was known or discoverable (actual notice via tenant messages) and that failure to remedy foreseeably led to a slip-and-fall; thus it adequately pleads that the injury was a foreseeable, proximate result of Defendant\u2019s conduct."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete economic damages (approx. $1,500 medical expenses and $1,000 lost wages) and non-economic damages (pain and suffering, etc.), which sufficiently pleads actual damages."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_004_03.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant owned and controlled the building and was responsible for maintenance of the public sidewalk abutting the Premises and cites applicable premises-liability law\u2014facts that plead a duty to lawful users of the sidewalk."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific acts and omissions: Defendant shoveled a narrow path but did not apply de-icing, allowed the path to become a sheet of ice, and ignored tenant notices and photographs\u2014factual allegations sufficient to show a breach of the asserted duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the narrow path became a smooth sheet of ice because Defendant failed to apply de-icing and remediate the condition, and that Plaintiff slipped on that ice and fell; these allegations, if proved, establish that the injury would not have occurred but for Defendant\u2019s conduct."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the icy condition was a foreseeable result of failing to apply de-icing and that tenants warned Defendant of the hazard; it expressly alleges Defendant\u2019s failure was a proximate cause of the fall\u2014facts that sufficiently plead foreseeability and proximate causation at the pleading stage."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete damages: a lower back injury requiring medical treatment, approximately $2,500 in medical expenses, about $600 in lost wages, and claims for pain and suffering and other non-economic losses."
+    }
+  }
+}

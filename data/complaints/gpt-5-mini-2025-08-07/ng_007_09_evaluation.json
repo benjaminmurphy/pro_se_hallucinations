@@ -1,0 +1,41 @@
+{
+  "complaint_file": "ng_007_09.txt",
+  "scenario_id": "ng_007_09",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Restatement (Second) of Torts \u00a7 343 (dangerous conditions on land)": {
+      "raw_text": "Restatement (Second) of Torts \u00a7 343 (dangerous conditions on land)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff also relies on recognized tort authorities, including Restatement (Second) of Torts \u00a7 343 (dangerous conditions on land) and \u00a7 314A (duty regarding conduct of third persons on premises), as guidance for the duties of possessors of land and operators of programs with respect to supervision and protection of invitees and children on their premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "\u00a7 314A (duty regarding conduct of third persons on premises)": {
+      "raw_text": "\u00a7 314A (duty regarding conduct of third persons on premises)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff also relies on recognized tort authorities, including Restatement (Second) of Torts \u00a7 343 (dangerous conditions on land) and \u00a7 314A (duty regarding conduct of third persons on premises), as guidance for the duties of possessors of land and operators of programs with respect to supervision and protection of invitees and children on their premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

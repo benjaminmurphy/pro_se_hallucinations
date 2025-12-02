@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_006_10.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges facts showing Defendant, as a motorist, owed a duty to other road users including bicyclists to exercise reasonable care (\u00b6\u00b65\u20137, 13). It describes the specific obligations (e.g., check for approaching traffic before opening a door, not using a phone while performing lookout) sufficient to plead duty even though the legal label is not required (\u00b613)."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete acts and omissions constituting a breach: opening the driver\u2019s door into the bicycle lane without checking mirrors or shoulder\u2011checking, opening the door while distracted by a phone, and failing to ensure it was safe to open the door (\u00b6\u00b67, 9, 14(a)\u2013(c))."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges that as he approached, Defendant opened the door into the bicycle lane and Plaintiff collided with the door, had no time to avoid it, and was thrown from his bicycle (\u00b6\u00b67\u20138). Those facts support the reasonable inference that but for Defendant\u2019s opening the door (and related conduct), the collision and injuries would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the injuries were a direct and proximate result of Defendant\u2019s conduct (\u00b6\u00b615\u201316) and the alleged conduct (opening a door into an occupied bicycle lane while distracted) plainly makes the resulting collision and injuries foreseeable to a reasonable person, satisfying proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads specific actual damages: physical injuries (road rash, chipped tooth), property damage (bent bicycle), medical/dental expenses (~$1,500), lost wages (~$500), and non\u2011economic harms (pain and suffering) (\u00b610). These allegations adequately plead compensable damages."
+    }
+  }
+}

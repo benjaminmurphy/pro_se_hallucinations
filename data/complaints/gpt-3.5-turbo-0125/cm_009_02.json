@@ -1,0 +1,7 @@
+{
+  "scenario_id": "cm_009_02",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "petitioner": "Laura Smith",
+  "respondent": "Mark Johnson"
+}

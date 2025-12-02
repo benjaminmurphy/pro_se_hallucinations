@@ -1,0 +1,106 @@
+Here is your drafted legal complaint:
+
+---
+
+**COMMONWEALTH OF MASSACHUSETTS**  
+**NORFOLK COUNTY SUPERIOR COURT**  
+
+**Michael Johnson,**  
+Plaintiff,  
+
+v.  
+
+**Quincy Bistro,**  
+Defendant.  
+
+**Civil Action No._________**
+
+**COMPLAINT AND JURY DEMAND**
+
+**PARTIES**
+
+1. The plaintiff, Michael Johnson, is an individual residing in Quincy, Massachusetts.
+
+2. The defendant, Quincy Bistro, is a business entity conducting restaurant operations at 123 Main St., Quincy, MA 02169, in Norfolk County. Upon information and belief, Quincy Bistro is organized and exists under the law of Massachusetts.
+
+**JURISDICTION AND VENUE**
+
+3. This Court has subject matter jurisdiction over this action pursuant to Massachusetts General Laws c. 212, § 4.
+
+4. Venue is proper in Norfolk County pursuant to Massachusetts General Laws c. 223, § 1, as the incident giving rise to this action occurred in Norfolk County, and the defendant operates its business in Norfolk County.
+
+**FACTUAL ALLEGATIONS**
+
+5. On or about September 15, 2023, the plaintiff was a patron at Quincy Bistro, located at 123 Main St., Quincy, MA 02169.
+
+6. After being seated and having dinner, the plaintiff proceeded to use the restroom, located in a narrow hallway between the kitchen and dining room of the restaurant.
+
+7. Prior to the plaintiff's approach, a server employed by the defendant had dropped a tray of water glasses in that hallway, causing the floor to become wet with water and ice.
+
+8. The server quickly picked up the broken glass but left the water and ice on the tile floor. Although the server remarked that she would "be right back with a mop," no mop or cautionary measures, such as placement of a "wet floor" sign or warning to patrons, were implemented for approximately ten minutes.
+
+9. The plaintiff, unaware of the hazardous condition and observing only what he reasonably believed to be shiny tile, stepped into the wet area, slipping on the water and ice.
+
+10. As a result of the slip-and-fall, the plaintiff suffered a serious injury, specifically a sprained knee, necessitating medical treatment, the use of a knee brace, and physical therapy.
+
+11. The plaintiff incurred medical expenses of approximately $2,500 and lost wages totaling approximately $1,200 due to his inability to work during his recovery period.
+
+12. The hazardous condition of the hallway remained unaddressed for a prolonged and unreasonable amount of time, as other staff members later admitted they had been "dodging that puddle" for a while.
+
+13. The plaintiff did not receive any warning regarding the dangerous condition of the hallway despite the defendant’s employees’ awareness of the hazardous condition and their knowledge that patrons such as the plaintiff would likely encounter it.
+
+**CAUSE OF ACTION – NEGLIGENCE**
+
+14. The plaintiff realleges and incorporates all preceding paragraphs as though fully set forth herein.
+
+15. Under Massachusetts law, businesses that invite patrons onto their premises owe those patrons a duty to exercise reasonable care in maintaining the premises in a reasonably safe condition. See *Scott v. Garfield*, 454 Mass. 790, 793 (2009); *Sheehan v. Roche Bros. Supermarkets, Inc.*, 448 Mass. 780, 783 (2007).
+
+16. The defendant owed the plaintiff, as an invitee, a duty to ensure that the restaurant, including the hallway leading to the restroom, was maintained in a reasonably safe condition and that patrons were protected from dangerous conditions. See *Oliveri v. Massachusetts Bay Transp. Auth.*, 363 Mass. 165, 166 (1973); *Young v. Atlantic Ave. Rink Corp.*, 323 Mass. 401, 402 (1948).
+
+17. The defendant breached its duty of reasonable care by, inter alia, failing to:
+
+   a. Properly clean and dry the wet and slippery floor within a reasonable period of time;  
+   b. Provide adequate warning to patrons, including the plaintiff, about the existence of the hazardous condition in the hallway;  
+   c. Adhere to standard safety procedures typically expected in the restaurant industry; and  
+   d. Employ and supervise staff to ensure prompt remedy of dangerous conditions that posed foreseeable risks to the public.  
+      
+18. The defendant knew or should have known about the dangerous condition in the hallway, as evidenced by the statements of staff acknowledging awareness of the hazard and the fact that it remained unaddressed for an extended period. See *Goddard v. Boston & Maine R.R.*, 179 Mass. 52, 54 (1901) (a defendant is liable for injuries caused by a condition it either knew of or should have discovered with reasonable diligence).
+
+19. The defendant’s failure to promptly address the hazard or provide any warning created a foreseeable risk of harm to the plaintiff and other patrons. See *Santos v. Chrysler Corp.*, 430 Mass. 198, 201 (1999); *Papadopoulos v. Target Corp.*, 457 Mass. 368, 373-74 (2010).
+
+20. As a direct and proximate result of the defendant’s negligence, the plaintiff sustained physical injuries, endured pain and suffering, and incurred special damages including medical expenses and lost wages. See *Donovan v. Vigeant*, 77 Mass. App. Ct. 312, 314 (2010).
+
+**PRAYER FOR RELIEF**
+
+WHEREFORE, the plaintiff, Michael Johnson, respectfully requests that this Honorable Court enter judgment in his favor and against the defendant, Quincy Bistro, and award him the following relief:
+
+1. Compensatory damages in an amount sufficient to fairly and fully compensate the plaintiff for his injuries, including but not limited to $2,500 in medical expenses and $1,200 in lost wages, as well as damages for his pain and suffering and emotional distress;
+
+2. Prejudgment interest, pursuant to G.L. c. 231, § 6B;
+
+3. Costs and attorneys’ fees, to the extent permitted by law;
+
+4. Such further relief as the Court deems just and proper.
+
+**JURY DEMAND**
+
+The plaintiff demands a trial by jury on all claims so triable.
+
+Respectfully submitted,  
+Michael Johnson, Pro Se  
+123 Main St.  
+Quincy, MA 02169  
+(617) 555-0123  
+psm1443@gmail.com  
+
+Dated: December 1, 2025  
+
+**SIGNATURE**  
+
+__/s/ Michael Johnson__  
+Michael Johnson  
+Plaintiff, Pro Se  
+
+---
+
+This document follows formal complaint drafting requirements, including facts, legal claims, and necessary citations. You may file this with the Norfolk County Superior Court following your local court rules. Good luck!

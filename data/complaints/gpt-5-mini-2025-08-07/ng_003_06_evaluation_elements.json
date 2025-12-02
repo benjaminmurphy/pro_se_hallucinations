@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_003_06.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Plaintiff was a business invitee on Defendant\u2019s premises and identifies Defendant as the possessor/operator of the store. It pleads the store\u2019s obligations (to maintain, inspect, store merchandise safely, and warn invitees) (\u00b6\u00b64,14), which sufficiently alleges a duty of care under premises-liability principles."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete factual failures: heavy boxed appliances stacked five or six high without restraining straps, barriers, or other safety devices, and failure to inspect, warn, or prevent hazards (\u00b6\u00b65,15(a)\u2013(d)). Those factual allegations adequately plead a breach of the duty described."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that an ordinary contact with lower shelving by another customer displaced the improperly stored boxes and a boxed toaster-oven fell and struck Plaintiff (\u00b6\u00b66\u20137). Those allegations sufficiently plead that, but for the unsafe storage/securement, the box would not have fallen and injured Plaintiff."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the hazard was an unsecured high stack of heavy boxes and that an ordinary bump caused a box to fall and injure Plaintiff (\u00b6\u00b65\u20137,15(d)). That makes the harm the foreseeable result of the alleged negligent storage and failure to secure/warn\u2014sufficient to plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges diagnosed injuries (mild concussion and shoulder strain), approximately $2,500 in medical expenses, about $1,200 in lost wages, and ongoing pain, emotional distress, and other economic and noneconomic losses (\u00b6\u00b69\u201311,17). These allegations adequately plead actual damages."
+    }
+  }
+}

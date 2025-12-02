@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_005_08.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges defendant possessed and maintained the ladder adjacent to the shared driveway and expressly pleads that defendant owed Plaintiff a duty to exercise reasonable care in storage/securing of objects in shared areas (\u00b6\u00b64\u20136, 11). Defendant\u2019s control of the ladder and shared-use context establish a duty to avoid foreseeable harm."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific facts showing breach: defendant failed to secure, relocate, or tie down the ladder despite repeated warnings from Plaintiff and acknowledgements that he would do so (\u00b6\u00b66, 12\u201313). Those factual allegations adequately describe a negligent failure to act."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the ladder was unsecured and that a gust of wind caused the unsecured ladder to topple onto Plaintiff\u2019s car (\u00b67), supporting the inference that but for defendant\u2019s failure to secure/move the ladder, it would not have fallen onto the vehicle."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the harm (ladder falling onto a parked car) was a foreseeable result of leaving an unsecured ladder in a zone adjacent to Plaintiff\u2019s parking spot, especially after Plaintiff warned defendant (\u00b6\u00b66, 14\u201315). No superseding/intervening cause is alleged, and foreseeability is pled."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete, out-of-pocket property damages and economic losses (dented hood, cracked windshield, repair costs, insurance deductible, and rental-car expenses) with supporting factual detail (\u00b68, 14; Prayer A)."
+    }
+  }
+}

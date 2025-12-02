@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_010_08",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Emily Johnson",
+  "defendant": "Robert Thompson"
+}

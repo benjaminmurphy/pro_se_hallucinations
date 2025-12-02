@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_009_03.txt",
+  "scenario_id": "qe_009_03",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 186 (General provisions governing landlord and tenant obligations).": {
+      "raw_text": "M.G.L. c. 186 (General provisions governing landlord and tenant obligations).",
+      "citation_type": "statute",
+      "proposition": "M.G.L. c. 186 (General provisions governing landlord and tenant obligations).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 239 (Summary process and related landlord-tenant procedures).": {
+      "raw_text": "M.G.L. c. 239 (Summary process and related landlord-tenant procedures).",
+      "citation_type": "statute",
+      "proposition": "M.G.L. c. 239 (Summary process and related landlord-tenant procedures).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 93A (Unfair and deceptive acts or practices \u2014 relevant to landlord conduct in some contexts).": {
+      "raw_text": "M.G.L. c. 93A (Unfair and deceptive acts or practices \u2014 relevant to landlord conduct in some contexts).",
+      "citation_type": "statute",
+      "proposition": "M.G.L. c. 93A (Unfair and deceptive acts or practices \u2014 relevant to landlord conduct in some contexts).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 111 (Public Health Laws \u2014 enabling enforcement of sanitary standards).": {
+      "raw_text": "M.G.L. c. 111 (Public Health Laws \u2014 enabling enforcement of sanitary standards).",
+      "citation_type": "statute",
+      "proposition": "M.G.L. c. 111 (Public Health Laws \u2014 enabling enforcement of sanitary standards).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 et seq. (Massachusetts State Sanitary Code, Minimum Standards of Fitness for Human Habitation) \u2014 specifically provisions regarding electrical service, lighting, and maintenance of safe, sanitary conditions.": {
+      "raw_text": "105 CMR 410.000 et seq. (Massachusetts State Sanitary Code, Minimum Standards of Fitness for Human Habitation) \u2014 specifically provisions regarding electrical service, lighting, and maintenance of safe, sanitary conditions.",
+      "citation_type": "statute",
+      "proposition": "105 CMR 410.000 et seq. (Massachusetts State Sanitary Code, Minimum Standards of Fitness for Human Habitation) \u2014 specifically provisions regarding electrical service, lighting, and maintenance of safe, sanitary conditions.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "310 CMR 7.00 et seq. (May be relevant where building conditions affect health and safety).": {
+      "raw_text": "310 CMR 7.00 et seq. (May be relevant where building conditions affect health and safety).",
+      "citation_type": "statute",
+      "proposition": "310 CMR 7.00 et seq. (May be relevant where building conditions affect health and safety).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

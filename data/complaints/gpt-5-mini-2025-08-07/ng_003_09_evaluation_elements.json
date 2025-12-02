@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_003_09.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Plaintiff was a lawful invitee at Defendant\u2019s retail store and expressly pleads the storeowner/occupier duty to keep premises reasonably safe and to warn of known/discoverable hazards (\u00b6\u00b65,14). Those factual allegations are sufficient to establish duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint describes specific factual failures by Defendant: stacking heavy boxed merchandise five\u2013six boxes high in customer aisles without securing devices, straps, barriers, inspections, or warnings (\u00b6\u00b66,15(a)\u2013(d)). Those facts adequately allege a breach of the asserted duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that because the boxes were stored unsecured, a normal bump by another customer caused a boxed toaster\u2011oven to fall and strike Plaintiff (\u00b6\u00b67\u20138,16). Those allegations sufficiently plead that, but for the unsafe storage/handling, the box would not have fallen and Plaintiff would not have been injured."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads that the harm (falling boxed merchandise striking a customer) was a foreseeable result of negligently stacked/unsecured heavy merchandise and alleges the breach was a proximate cause of the injuries (\u00b6\u00b66,8,16). Those allegations adequately plead foreseeability and proximate causation (the intervening \u2018\u2018normal bump\u2019\u2019 is alleged as an ordinary, foreseeable event)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete damages: medical treatment and diagnosis of mild concussion and shoulder strain, approximately $1,800 in medical expenses, about $600 in lost wages, missed recreational activity, and pain and suffering (\u00b6\u00b610\u201311,17). Those factual allegations sufficiently plead actual damages."
+    }
+  }
+}

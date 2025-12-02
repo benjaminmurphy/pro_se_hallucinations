@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_007_08.txt",
+  "scenario_id": "ng_007_08",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G.L. c. 212, \u00a7 3": {
+      "raw_text": "G.L. c. 212, \u00a7 3",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to G.L. c. 212, \u00a7 3, as the amount in controversy exceeds $25,000 and involves allegations of negligence under Massachusetts law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Bristol County pursuant to G.L. c. 223, \u00a7 1, as the events giving rise to this action occurred in Brockton, Massachusetts, which is located in Bristol County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 231, \u00a7 85": {
+      "raw_text": "G.L. c. 231, \u00a7 85",
+      "citation_type": "statute",
+      "proposition": "Defendant\u2019s breaches of duty are actionable under Massachusetts law, including G.L. c. 231, \u00a7 85, which establishes the general principles of negligence and liability.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_007_02.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant operated the after\u2011school program, advertised and represented that children would be supervised, and expressly pleads that Defendant owed children a duty to exercise reasonable care, supervise, enforce safety rules, and maintain safe premises\u2014facts sufficient to plead a duty of care for custodial supervision."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific facts showing breach: scheduled two staff but one left; sole staff was inattentive on her cell phone; staff dismissed warnings and failed to separate older/larger children or stop rough play\u2014specific factual allegations of failures to perform the supervisory duties alleged."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a direct causal chain: because of inadequate supervision and failure to intervene, an older boy tackled Plaintiff\u2019s son causing him to strike his head and lose consciousness and sustain a concussion\u2014facts alleging that the injury would not have occurred but for the defendant\u2019s inadequate supervision."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the injuries were a foreseeable result of leaving one inattentive supervisor responsible for many children, the known risk of rough play among mixed\u2011age groups, and the staff\u2019s failure to intervene\u2014allegations sufficient to plead proximate (foreseeable) causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads concrete damages: diagnosed concussion, approximately $5,500 in medical expenses, missed school, pain and suffering and emotional distress\u2014specific, quantifiable and non\u2011economic damages are alleged."
+    }
+  }
+}

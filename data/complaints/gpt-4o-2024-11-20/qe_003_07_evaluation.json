@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_003_07.txt",
+  "scenario_id": "qe_003_07",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 3,
+  "statute_citations": 3,
+  "valid_citations": 1,
+  "invalid_citations": 2,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "G.L. c. 185C, \u00a7 3": {
+      "raw_text": "G.L. c. 185C, \u00a7 3",
+      "citation_type": "statute",
+      "proposition": "The Court has jurisdiction over this matter pursuant to G.L. c. 185C, \u00a7 3, as this dispute involves the use, condition, or occupancy of residential property and arises under Massachusetts landlord-tenant law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, every lease contains an implied covenant of quiet enjoyment, pursuant to G.L. c. 186, \u00a7 14.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 93A": {
+      "raw_text": "G.L. c. 93A",
+      "citation_type": "statute",
+      "proposition": "Plaintiff is entitled to damages as a result of Defendant\u2019s failure to comply with Massachusetts law, including G.L. c. 93A claims for unfair and deceptive practices, which may result from a breach of the covenant of quiet enjoyment (see *Haddad v. Gonzalez*, 487 Mass. 543 (2022)).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Johnson v. Rabelais*, 201 Mass. App. Ct. 148 (1983)": {
+      "raw_text": "*Johnson v. Rabelais*, 201 Mass. App. Ct. 148 (1983)",
+      "citation_type": "case",
+      "proposition": "A landlord\u2019s failure to address systemic issues that render a rental property unsafe or unsuitable constitutes a violation of G.L. c. 186, \u00a7 14.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Dartmouth v. Goodman*, 78 Mass. App. Ct. 137 (2010)": {
+      "raw_text": "*Dartmouth v. Goodman*, 78 Mass. App. Ct. 137 (2010)",
+      "citation_type": "case",
+      "proposition": "A landlord\u2019s failure to address systemic issues that render a rental property unsafe or unsuitable constitutes a violation of G.L. c. 186, \u00a7 14.",
+      "is_valid": true,
+      "courtlistener_id": "6589450",
+      "case_name": "Commonwealth v. Bell",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion concerns a criminal motion to suppress evidence arising from a vehicle stop and warrantless search after a shooting. It analyzes reasonable suspicion, probable cause, the automobile exception, and timing of a warrantless search; it does not involve landlord\u2011tenant law, habitability, or G.L. c. 186, \u00a7 14. Because the case never addresses a landlord\u2019s duty to remedy unsafe rental conditions or statutory violations under c. 186, it cannot support the stated proposition.",
+      "relevant_excerpt": "The opinion discusses only criminal procedure issues surrounding a vehicle stop and search; there is no mention of G.L. c. 186, \u00a7 14 or landlord\u2011tenant obligations anywhere in the provided text."
+    },
+    "*Haddad v. Gonzalez*, 487 Mass. 543 (2022)": {
+      "raw_text": "*Haddad v. Gonzalez*, 487 Mass. 543 (2022)",
+      "citation_type": "case",
+      "proposition": "Plaintiff is entitled to damages as a result of Defendant\u2019s failure to comply with Massachusetts law, including G.L. c. 93A claims for unfair and deceptive practices, which may result from a breach of the covenant of quiet enjoyment (see *Haddad v. Gonzalez*, 487 Mass. 543 (2022)).",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

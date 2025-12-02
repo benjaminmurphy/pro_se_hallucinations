@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_008_07.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads a Prior Order entered March 15, 2021 and summarizes its terms (shared legal custody; Plaintiff primary residential parent; Defendant has substantial weekend parenting time including Sunday overnights; parental cooperation on school matters). (See \u00b63.1\u20133.2.)"
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint requests concrete relief: final decision\u2011making authority over educational matters, modification or elimination/restructuring of Sunday overnight parenting time that precedes school days, requirements for documentation of health/mental\u2011health absences, orders to ensure tutoring attendance, regular exchange of school records, and temporary/emergency relief. (See \u00b66(A)\u2013(H).)"
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a new, recurring pattern since 2024\u20132025 of Defendant keeping Emily home on Mondays after his parenting time, multiple unexcused absences, school truancy warnings, a measurable decline in grades and test scores, and Defendant\u2019s refusal to cooperate with tutoring\u2014facts pled as a change from the child\u2019s prior regular attendance and performance. (See \u00b64.1\u20134.8.)"
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint links the alleged changed conduct to demonstrable harms to Emily\u2019s attendance, academic performance, and welfare and expressly alleges that modification is necessary to protect her educational welfare and best interests, seeking relief tailored to remedy those harms. (See \u00b64.4\u20134.7, 4.9, \u00b66(B)\u2013(E).)"
+    }
+  }
+}

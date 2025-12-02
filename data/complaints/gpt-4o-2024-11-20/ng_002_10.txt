@@ -1,0 +1,92 @@
+```plaintext
+COMMONWEALTH OF MASSACHUSETTS  
+MIDDLESEX COUNTY SUPERIOR COURT  
+NEWTON DIVISION  
+
+-------------------------------  
+EMILY CARTER,  
+    Plaintiff,  
+
+v.  
+
+JOHN THOMPSON,  
+    Defendant.  
+-------------------------------  
+
+CIVIL ACTION NO. ____________  
+
+COMPLAINT FOR NEGLIGENCE  
+
+NOW COMES the Plaintiff, Emily Carter, by and through herself, and for her Complaint against Defendant John Thompson alleges as follows:
+
+### INTRODUCTION
+This is an action for negligence arising out of Defendant’s failure to control his unleashed dog in violation of applicable statutes and ordinances, resulting in a foreseeable injury to the Plaintiff. Plaintiff seeks compensatory damages for physical injuries, medical expenses, lost wages, and accompanying emotional distress.
+
+---
+
+### PARTIES  
+1. Plaintiff, Emily Carter, is an individual residing in Newton, Middlesex County, Massachusetts.  
+2. Defendant, John Thompson, is an individual residing in or having a business address in Middlesex County, Massachusetts.
+
+---
+
+### JURISDICTION AND VENUE  
+3. This Court has jurisdiction over this matter pursuant to G.L. c. 212, § 4 because the matter in controversy exceeds $25,000.  
+4. Venue is proper in this Court under G.L. c. 223, § 1 because the Plaintiff resides in Middlesex County, and the events giving rise to this action occurred in Newton, Middlesex County, Massachusetts.
+
+---
+
+### FACTUAL ALLEGATIONS  
+5. On September 15, 2023, at approximately 4:00 p.m., Plaintiff was jogging on a designated public jogging path in Newton Commonwealth Park, located in Newton, Massachusetts.  
+6. At all relevant times, the jogging path and park were open to the public and subject to local rules and ordinances requiring all dogs to be kept on a leash.  
+7. Defendant, John Thompson, was present in the park with his large, unleashed dog, despite holding a leash that was not attached to the animal.  
+8. Defendant’s dog began running freely in the park and subsequently charged at Plaintiff, barking aggressively.  
+9. Defendant, approximately thirty feet from the dog, made no reasonable efforts to control the dog or ensure Plaintiff’s safety.  
+10. Fearing an imminent attack from Defendant’s dog, Plaintiff swerved off the jogging path to avoid the animal.  
+11. While swerving, Plaintiff tripped over a hidden tree root, losing her balance and falling down a small embankment.  
+12. Plaintiff sustained a fractured wrist in the fall and was unable to work or participate in her normal recreational activities for several weeks.  
+13. As a direct and proximate result of Defendant’s negligence, including his failure to comply with applicable leash laws, Plaintiff has incurred medical expenses totaling approximately $3,500, lost earnings totaling $1,200, and suffered significant physical and emotional distress.  
+
+---
+
+### COUNT I: NEGLIGENCE  
+14. Plaintiff incorporates each and every allegation set forth in paragraphs 1 through 13 as if fully set forth herein.  
+15. Defendant had a duty to comply with state and municipal laws, including Massachusetts leash laws codified in G.L. c. 140, §§ 136A-174E, and Newton’s leash ordinance, requiring all dogs in public spaces to be leashed.  
+16. Defendant further owed a duty to other park visitors, including Plaintiff, to act reasonably to ensure his dog did not pose a danger or cause foreseeable harm.  
+17. Defendant breached his duties by allowing his dog to roam unleashed and failing to control its behavior, including failing to prevent it from charging at Plaintiff.  
+18. Defendant’s breaches of duty were the direct and proximate cause of Plaintiff’s injuries.  
+19. Massachusetts courts have consistently held that individuals may be liable for injuries resulting from their failure to restrain animals, particularly when the owner violates laws or ordinances designed to protect public safety. See Commonwealth v. Farren, 9 Mass. App. Ct. 610 (1980); Irwin v. Degtiarov, 95 Mass. App. Ct. 677 (2019).  
+20. Massachusetts law also recognizes that a dog owner may be liable for injuries caused by a victim’s foreseeable reaction to an uncontrolled dog, even if the dog does not physically touch the victim. See Horton v. Union Light, Heat & Power Co., 690 N.E.2d 599 (Mass. 1998).  
+21. Defendant’s conduct was negligent under the circumstances and caused foreseeable harm to Plaintiff, who acted reasonably in attempting to avoid the perceived threat posed by Defendant’s unleashed dog.  
+22. As a result of Defendant’s negligence, Plaintiff suffered economic and non-economic damages, including medical expenses, lost wages, pain and suffering, emotional distress, and loss of enjoyment of life.  
+
+---
+
+### PRAYER FOR RELIEF  
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in her favor and award the following relief:  
+A. Compensatory damages in an amount sufficient to cover her medical expenses, lost wages, and other economic losses, in an approximate amount of $4,700 and to be determined at trial;  
+B. Damages for her pain and suffering, emotional distress, and loss of enjoyment of life;  
+C. Costs and reasonable attorneys’ fees as permitted by law;  
+D. Prejudgment and postjudgment interest as allowed by law; and  
+E. Such other and further relief as this Court deems just and proper.
+
+---
+
+### JURY DEMAND  
+Plaintiff demands a trial by jury on all issues so triable.
+
+---
+
+Respectfully submitted,  
+Dated: December 1, 2025  
+
+/s/ Emily Carter  
+Emily Carter  
+Plaintiff, Pro Se  
+[Address Redacted for Privacy]  
+Newton, MA  
+Tel: (617) 555-0123  
+Email: psm1443@gmail.com
+```
+
+**Note:** Keep in mind that, as a pro se litigant (representing yourself), you should verify your compliance with any specific formatting or procedural requirements of the Massachusetts judicial system before filing your complaint. Each county may have additional rules, so check with the Middlesex Superior Court's Clerk.

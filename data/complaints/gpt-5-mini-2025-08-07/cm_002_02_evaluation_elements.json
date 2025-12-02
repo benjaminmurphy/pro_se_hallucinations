@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_002_02.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges an existing probate court order entered March 15, 2020 providing Plaintiff primary physical custody and Defendant midweek Wednesday overnight and every-other-weekend parenting time (\u00b65\u20136)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint specifies concrete relief: suspend/terminate Defendant's Wednesday overnight midweek parenting time, modify the weekend schedule with several enumerated alternatives, set exchange/logistics provisions, and request temporary relief pending hearing (\u00b615, WHEREFORE B\u2013C)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant accepted employment in New Hampshire and intends to relocate, causing midweek overnights to require ~90-minute drives each way and making the prior schedule impracticable\u2014facts pled as a substantial change since the 2020 order (\u00b67\u201311, \u00b613)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges how the proposed modifications serve Sophie's best interests: minimizing long midweek travel, preserving school attendance and extracurricular participation, reducing stress/anxiety (including observed changes in Sophie's demeanor), and preventing material harm to education and emotional well\u2011being (\u00b68\u20139, \u00b611, \u00b614\u201316)."
+    }
+  }
+}

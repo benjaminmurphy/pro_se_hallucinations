@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_008_05.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff was a lawful invitee on Defendant's premises (\u00b66\u20137) and expressly pleads the restaurant's duty to maintain, inspect, and warn/repair hazardous conditions (\u00b618), including citation to Restatement \u00a7343. Those facts sufficiently plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific acts and omissions constituting breach: a server dropped a tray and left water/ice on the tile (\u00b68\u20139), no warning or barrier was placed (\u00b610), employees knew patrons were avoiding the puddle (\u00b614), and \u00b619 lists failures to clean, warn, inspect, and supervise. Those factual allegations adequately plead breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that Plaintiff slipped after stepping on the uncleaned water/ice in the hallway and injured her knee (\u00b611\u201312), and that the failure to remove or warn of the puddle preceded the slip. Those factual allegations sufficiently plead but\u2011for causation (but for the hazardous puddle and Defendant's failure to remedy/warn, Plaintiff would not have slipped)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "A wet tile hallway causing a slip and knee injury is a foreseeable consequence of leaving spilled water/ice uncleaned or unwarned. Complaint alleges the hazard created an unreasonable risk to invitees and that employees knew or should have known (\u00b615\u201316, \u00b620), adequately pleading proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges actual, specific damages: diagnosis of a severe knee sprain, treatment (brace, physical therapy), approximately $2,500 in medical bills and $1,200 in lost wages, and pain and suffering (\u00b613, \u00b621), which sufficiently pleads compensable damages."
+    }
+  }
+}

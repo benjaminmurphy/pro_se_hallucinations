@@ -1,0 +1,4 @@
+__pycache__/
+analysis/output/
+.DS_Store
+.env

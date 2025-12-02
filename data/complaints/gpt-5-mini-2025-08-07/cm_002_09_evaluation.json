@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_002_09.txt",
+  "scenario_id": "cm_002_09",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 209B, et seq.": {
+      "raw_text": "Mass. Gen. Laws ch. 209B, et seq.",
+      "citation_type": "statute",
+      "proposition": "This Court has continuing jurisdiction over custody issues involving Emily pursuant to the existing custody order entered in Middlesex Probate and Family Court on June 15, 2021, and pursuant to the Uniform Child Custody Jurisdiction and Enforcement Act, Mass. Gen. Laws ch. 209B, et seq., and other applicable Massachusetts law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119 (provisions concerning the care and protection of children and the best interests standard);": {
+      "raw_text": "Mass. Gen. Laws ch. 119 (provisions concerning the care and protection of children and the best interests standard);",
+      "citation_type": "statute",
+      "proposition": "Applicable statutes and authorities include, but are not limited to:\n- Mass. Gen. Laws ch. 119 (provisions concerning the care and protection of children and the best interests standard);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208 and related statutes governing family and domestic relations matters (as applicable to custody determinations);": {
+      "raw_text": "Mass. Gen. Laws ch. 208 and related statutes governing family and domestic relations matters (as applicable to custody determinations);",
+      "citation_type": "statute",
+      "proposition": "Applicable statutes and authorities include, but are not limited to:\n- Mass. Gen. Laws ch. 208 and related statutes governing family and domestic relations matters (as applicable to custody determinations);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

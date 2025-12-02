@@ -1,0 +1,93 @@
+{
+  "complaint_file": "cm_002_06.txt",
+  "scenario_id": "cm_002_06",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G.L. c. 208, c. 209": {
+      "raw_text": "G.L. c. 208, c. 209",
+      "citation_type": "statute",
+      "proposition": "See, e.g., G.L. c. 208, c. 209, and the body of Massachusetts caselaw holding that modification requires a showing of a material change in circumstances and a determination of the child\u2019s best interests (see cases and statutes cited below).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208 (Divorce and related family provisions)": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (Divorce and related family provisions)",
+      "citation_type": "statute",
+      "proposition": "Petitioner relies upon the governing statutes and controlling Massachusetts caselaw addressing modification of custody and parenting time, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209 (Guardianship of minors / custody-related provisions)": {
+      "raw_text": "Mass. Gen. Laws ch. 209 (Guardianship of minors / custody-related provisions)",
+      "citation_type": "statute",
+      "proposition": "Petitioner relies upon the governing statutes and controlling Massachusetts caselaw addressing modification of custody and parenting time, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209A (Abuse Prevention \u2014 relevant if allegations arise)": {
+      "raw_text": "Mass. Gen. Laws ch. 209A (Abuse Prevention \u2014 relevant if allegations arise)",
+      "citation_type": "statute",
+      "proposition": "Petitioner relies upon the governing statutes and controlling Massachusetts caselaw addressing modification of custody and parenting time, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a7\u00a7 39 & 51A (child welfare and reporting obligations where relevant)": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a7\u00a7 39 & 51A (child welfare and reporting obligations where relevant)",
+      "citation_type": "statute",
+      "proposition": "Petitioner relies upon the governing statutes and controlling Massachusetts caselaw addressing modification of custody and parenting time, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 215 (procedure and enforcement provisions in certain contexts)": {
+      "raw_text": "Mass. Gen. Laws ch. 215 (procedure and enforcement provisions in certain contexts)",
+      "citation_type": "statute",
+      "proposition": "Petitioner relies upon the governing statutes and controlling Massachusetts caselaw addressing modification of custody and parenting time, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,118 @@
+COMMONWEALTH OF MASSACHUSETTS
+LOWELL DISTRICT COURT
+
+Emily Thompson,                           )
+    Plaintiff                             )
+                                          )
+v.                                        )    Civil Action No. ___________
+                                          )
+Sarah Bennett,                            )
+    Defendant                             )
+__________________________________________)
+
+COMPLAINT FOR BREACH OF THE COVENANT OF QUIET ENJOYMENT
+
+Plaintiff Emily Thompson ("Plaintiff"), by way of Complaint against Defendant Sarah Bennett ("Defendant"), alleges as follows:
+
+PARTIES, JURISDICTION, VENUE
+
+1. Plaintiff is an individual residing at 123 Maple Street, Apartment __, Lowell, Middlesex County, Massachusetts 01852.
+
+2. Defendant is the owner and landlord of the residential premises located at 123 Maple Street, Lowell, Massachusetts 01852 (the "Premises") and at all relevant times was the landlord of Plaintiff’s apartment.
+
+3. Plaintiff entered into a tenancy/lease and began renting the Premises from Defendant on May 1, 2022, paying rent of $1,200.00 per month.
+
+4. This Court has jurisdiction pursuant to the Massachusetts District Court statutes because the requested monetary relief falls within the Court’s jurisdictional limits and the cause of action arises in Lowell. Venue is proper in Lowell District Court because the Premises are located in Lowell.
+
+FACTUAL ALLEGATIONS
+
+5. At all times material to this Complaint, Plaintiff was a lawful tenant in possession of the Premises and Defendant was the landlord with responsibility for maintenance and repair.
+
+6. Beginning in or about [spring/summer/fall] 2024 (and continuing), Plaintiff discovered mold growth in the bathroom of the Premises, initially observed in a corner of the shower and subsequently spreading to the bathroom ceiling.
+
+7. The bathroom has no operable window; the only ventilation is an exhaust fan. Plaintiff routinely uses the bathroom exhaust fan when she showers; she may not have run it every single shower but has used it regularly and relied on it as the sole available ventilation.
+
+8. Plaintiff notified Defendant of the mold and requested remediation and, separately, that the ventilation deficiency be addressed to prevent recurrence.
+
+9. Defendant inspected and acknowledged the mold problem but refused to make ventilation repairs or to otherwise remedy conditions contributing to mold growth, asserting that Plaintiff “caused” the mold by not running the fan every time and by taking showers that were “too hot and too long.” Defendant offered only to "clean the existing mold" but declined to address the ventilation system or otherwise take steps reasonably necessary to remediate and prevent recurrence.
+
+10. Plaintiff’s treating physician has linked Plaintiff’s new onset respiratory symptoms—coughing, nasal congestion, and wheezing—to exposure to mold in the Premises and has advised that the mold should be remediated.
+
+11. As a direct result of the mold in the Premises, Plaintiff has been forced to discard a shower curtain and several towels that became moldy, totaling approximately $60 in out-of-pocket property loss.
+
+12. Plaintiff has suffered loss and damage from Defendant’s wrongful conduct in at least the amount of $150.00, reflecting personal property loss, physical symptoms and distress, and diminution of the use and enjoyment of the Premises. Plaintiff reserves the right to amend and increase the damage amount as discovery and evidence may show.
+
+13. Defendant’s failure to remediate the mold problem and to provide or arrange adequate ventilation has substantially interfered with Plaintiff’s use and enjoyment of the Premises and has made living conditions unhealthy and uncomfortable.
+
+CAUSE OF ACTION
+Breach of the Covenant of Quiet Enjoyment (Massachusetts Common Law)
+
+14. Plaintiff repeats and realleges paragraphs 1 through 13 as if fully set forth herein.
+
+15. Under Massachusetts law, a landlord implicitly covenants that a tenant shall be able to enjoy possession of leased premises without substantial disturbance by the landlord’s acts or omissions and that the premises will be maintained in a condition fit for habitation consistent with applicable statutory and regulatory standards. See Mass. Gen. Laws ch. 186 (Landlord and Tenant); 105 CMR 410.000 et seq. (Massachusetts sanitary code: Minimum Standards of Fitness for Human Habitation); Restatement (Second) of Property: Landlord & Tenant §§ 16.1–16.7 (general principles regarding quiet enjoyment and landlord obligations).
+
+16. A landlord breaches the covenant of quiet enjoyment when the landlord’s actions or omissions substantially interfere with the tenant’s beneficial use and enjoyment of the leased premises, including where a landlord fails to repair or abate conditions that render parts of the premises unfit for habitation or substantially impair health or safety. See, e.g., principles recognized in Massachusetts decisions interpreting the covenant and the landlord’s duties to maintain habitability and to abate conditions that interfere with tenant possession and health (see, e.g., cases applying the covenant and habitability principles in Massachusetts and related authority).
+
+17. The presence of mold in a bathroom, particularly when combined with inadequate ventilation and a landlord’s refusal to remediate or correct ventilation defects, constitutes a substantial interference with the tenant’s use and enjoyment of the premises and may render the premises unfit or unsafe for their ordinary residential use. See 105 CMR 410.000 et seq. (sanitary code standards addressing ventilation, heating and maintenance); see also authority addressing habitability and health-related housing standards.
+
+18. Defendant knew or reasonably should have known of the mold and the bathroom’s lack of adequate ventilation. Defendant’s refusal to remedy the ventilation defect or otherwise take reasonable steps to prevent recurring mold growth was unreasonable and has caused and will continue to cause ongoing harm to Plaintiff (including health effects, property damage, and deprivation of full use and enjoyment of the Premises).
+
+19. By failing to remediate the mold problem and to correct the ventilation deficiency, and by blaming Plaintiff for the conditions rather than undertaking reasonable repairs, Defendant has breached the covenant of quiet enjoyment and Defendant is liable to Plaintiff for resulting damages.
+
+20. As a direct and proximate result of Defendant’s breach of the covenant of quiet enjoyment, Plaintiff has suffered actual damages including but not limited to physical symptoms and medical concerns attributable to mold exposure, the loss of personal property totaling approximately $60, loss of comfortable and usable enjoyment of the Premises, and other economic and non-economic losses in an amount in excess of $150.00 for which Defendant is liable. Plaintiff seeks compensation for these damages, costs, and such other relief as the Court deems just.
+
+APPLICABLE LAW AND AUTHORITIES (Representative)
+
+(Statutes, regulations, and authorities that provide the legal framework for Plaintiff’s claim include, without limitation:)
+- Mass. Gen. Laws ch. 186 (Landlord and Tenant statutes generally governing landlord-tenant relationships and remedies);
+- Mass. Gen. Laws ch. 239 (Summary process; venue and related provisions applicable to landlord-tenant matters);
+- 105 CMR 410.000 et seq. (Massachusetts Sanitary Code — Minimum Standards of Fitness for Human Habitation, including requirements for ventilation, heating, and sanitary conditions);
+- Mass. Gen. Laws ch. 111 (public health statutes and local board of health authority concerning nuisances and unhealthful living conditions);
+- Restatement (Second) of Property: Landlord & Tenant §§ 16.1–16.7 (covenant of quiet enjoyment and landlord duties) (as persuasive authority on the content of the covenant and landlord obligations);
+- Massachusetts cases and decisions interpreting and applying the covenant of quiet enjoyment and habitability principles (see, e.g., Massachusetts Supreme Judicial Court and Appeals Court decisions addressing landlord obligations to maintain premises and tenant remedies for substantial interference and habitability violations);
+- Secondary authorities discussing landlord obligations to correct conditions affecting health and safety and the tenant’s remedies for breaches of quiet enjoyment (treatises and practice guides).
+
+(Notes: Plaintiff asserts these statutory and regulatory authorities and relevant Massachusetts caselaw interpreting the covenant of quiet enjoyment and the landlord’s duty to maintain safe and habitable premises. Plaintiff will rely on specific case law and statutory provisions at trial. Representative Massachusetts authority includes cases and decisions recognizing the landlord’s duty to refrain from substantial interference and to maintain premises consistent with health, safety and sanitary codes.)
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in her favor against Defendant and award relief as follows:
+
+A. A judgment finding that Defendant breached the covenant of quiet enjoyment owed to Plaintiff;
+
+B. Monetary damages in the amount of Plaintiff’s proven compensatory damages, including at least $150.00 and any additional amounts supported by evidence (including the $60.00 in personal property loss), together with pre-judgment and post-judgment interest to the extent permitted by law;
+
+C. An order directing Defendant to undertake and pay for remediation of mold and to correct the ventilation deficiency in the bathroom to comply with applicable health and safety standards (injunctive or equitable relief ordering remediation), or, in the alternative, an award of abatement of rent or damages for loss of use for the period the condition remains unremedied;
+
+D. Costs of suit, filing fees, and such other and further relief as the Court deems just and proper.
+
+Plaintiff demands a jury trial on all issues so triable.
+
+Dated: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Emily Thompson
+Emily Thompson
+123 Maple Street
+Apartment __
+Lowell, MA 01852
+Tel: (617) 555-0123
+Email: psm1433@gmail.com
+Pro Se Plaintiff
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that a true copy of the foregoing Complaint was served upon Defendant Sarah Bennett by [personal service/first-class mail/leave at dwelling — select appropriate method per Court rules] on the date set forth below.
+
+Dated: December 1, 2025
+/s/ Emily Thompson
+Emily Thompson
+
+---
+
+Notes and Practical Considerations (for filing and use)
+- This complaint focuses exclusively on breach of the covenant of quiet enjoyment, as requested. If you file this complaint, check the local court’s filing requirements for district court civil actions (filing fee, number of copies, cover sheet, etc.). For service, follow Massachusetts Rules of Civil Procedure and local rules for service on individuals.
+- The Complaint cites statutory and regulatory frameworks relevant to habitability and quiet enjoyment (Mass. Gen. Laws ch. 186; 105 CMR 410.000 et seq.; Mass. Gen. Laws ch. 111). You should, if possible, include and cite specific controlling Massachusetts cases at the time of filing and tailor the legal citations to the particular judicial authority you plan to rely on at trial. If you later obtain counsel, counsel can refine and supplement legal citations and remedies (including injunctive relief or claims under other statutes, if appropriate).
+
+(End of Complaint)

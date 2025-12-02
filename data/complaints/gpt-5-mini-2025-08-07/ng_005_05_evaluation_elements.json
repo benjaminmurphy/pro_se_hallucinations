@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_005_05.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a specific relationship (neighbors sharing a driveway) and expressly pleads a legal duty to exercise reasonable care in storing and maintaining items adjacent to the shared driveway (\u00b6\u00b65,14,21). Those factual allegations suffice to establish duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant left a tall extension ladder unsecured and propped against the fence despite Plaintiff's repeated warnings and Defendant's promises to secure or move it (\u00b6\u00b66\u20137,15\u201316,22). Those facts sufficiently allege a breach of the pleaded duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that a gust of wind caused the unsecured ladder to tip over and strike Plaintiff's vehicle (\u00b6\u00b68\u20139,17) and that Defendant's failure to secure or remove the ladder was the cause of the fall (\u00b6\u00b615\u201318,23). Those allegations support the but\u2011for inference that, but for Defendant leaving the ladder unsecured, the ladder would not have fallen onto the vehicle."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the harm was foreseeable: Plaintiff warned Defendant that the ladder could fall in wind and could strike vehicles or persons using the driveway, and the complaint pleads that falling in windy conditions was the natural and foreseeable consequence of leaving the ladder unsecured (\u00b6\u00b67,16\u201317). Those facts adequately plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific, actual damages: vehicle damage (hood and cracked windshield), repair and replacement costs, insurance deductible, rental vehicle expenses, and other economic losses (\u00b6\u00b610\u201311,19,24). These allegations sufficiently plead compensable damages."
+    }
+  }
+}

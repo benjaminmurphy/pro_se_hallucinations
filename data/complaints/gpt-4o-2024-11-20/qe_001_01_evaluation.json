@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_001_01.txt",
+  "scenario_id": "qe_001_01",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws, Chapter 186, Section 14,": {
+      "raw_text": "Massachusetts General Laws, Chapter 186, Section 14,",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts General Laws, Chapter 186, Section 14, every residential lease includes an implied covenant of quiet enjoyment, which obligates the landlord to provide the tenant possession of the premises free from substantial interference.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 223, Section 1,": {
+      "raw_text": "Massachusetts General Laws, Chapter 223, Section 1,",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in the Boston Municipal Court, Dorchester Division, pursuant to Massachusetts General Laws, Chapter 223, Section 1, as the property subject to this dispute is located within the jurisdiction of this court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 C.M.R. \u00a7 410.201.": {
+      "raw_text": "105 C.M.R. \u00a7 410.201.",
+      "citation_type": "statute",
+      "proposition": "The Massachusetts State Sanitary Code requires that landlords provide heating sufficient to maintain a minimum temperature of 68 degrees Fahrenheit during the daytime and 64 degrees Fahrenheit at night.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 186, \u00a7 14.": {
+      "raw_text": "G.L. c. 186, \u00a7 14.",
+      "citation_type": "statute",
+      "proposition": "Defendant's failure to provide adequate heat and maintain the premises in habitable condition has substantially interfered with Plaintiff's quiet enjoyment of the property, in violation of G.L. c. 186, \u00a7 14.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Rule 38 of the Massachusetts Rules of Civil Procedure,": {
+      "raw_text": "Rule 38 of the Massachusetts Rules of Civil Procedure,",
+      "citation_type": "statute",
+      "proposition": "Pursuant to Rule 38 of the Massachusetts Rules of Civil Procedure, Plaintiff demands a trial by jury on all issues so triable.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

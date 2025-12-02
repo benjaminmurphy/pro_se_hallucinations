@@ -1,0 +1,72 @@
+[Your Name]
+[Your Address]
+[City, State, Zip]
+[Phone Number]
+[Email Address]
+
+IN THE DISTRICT COURT
+FOR THE COUNTY OF HAMPDEN
+[SPRINGFIELD DIVISION]
+
+Jessica Hartman
+Plaintiff
+
+v.
+
+Thomas Jenkins
+Defendant
+
+Case No.:
+
+COMPLAINT
+
+PARTIES
+
+1. The Plaintiff, Jessica Hartman, is an individual residing at 123 Elm Street, Springfield, MA 01105.
+
+2. The Defendant, Thomas Jenkins, is the landlord of the property located at 123 Elm Street, Springfield, MA 01105.
+
+JURISDICTION AND VENUE
+
+3. This Court has jurisdiction over this matter as the subject property is located within its jurisdiction.
+
+4. Venue is proper in this district where the subject property is situated.
+
+FACTUAL ALLEGATIONS
+
+5. Plaintiff entered into a lease agreement with Defendant on May 1, 2022, to rent an apartment located at 123 Elm Street, Springfield, MA 01105, for a monthly rent of $1600.
+
+6. On or around [Exact Date], Plaintiff's bedroom in the above-mentioned apartment lost electricity due to faulty wiring, rendering the room uninhabitable and unusable.
+
+7. Despite Plaintiff's repeated complaints to the Defendant, the electrical issue in the bedroom has remained unresolved for approximately six weeks.
+
+8. Defendant sent an electrician who confirmed that the repairs required to fix the wiring in the bedroom would be extensive due to the building's old wiring system.
+
+9. As a result of the uninhabitable bedroom, Plaintiff has been unable to use it for its intended purpose as a home office. She has incurred additional expenses amounting to approximately $15 per day for utilizing alternative workspaces at coffee shops and $150 per month for a coworking space membership.
+
+10. The ongoing electrical issue has caused significant inconvenience and distress to Plaintiff, affecting her ability to work and disrupting her living arrangements by overcrowding the living room with office equipment.
+
+CLAIM FOR RELIEF
+
+11. Defendant's failure to promptly address and repair the electrical issues in Plaintiff's bedroom constitutes a breach of the covenant of quiet enjoyment, implied in every residential lease agreement in Massachusetts.
+
+12. Massachusetts General Laws Chapter 186, Section 14, provides that landlords must maintain premises in a habitable condition, including providing functional electrical systems.
+
+13. The case law supports that a breach of the covenant of quiet enjoyment occurs when a landlord fails to address habitability issues promptly, thereby depriving the tenant of the full use and enjoyment of the premises. (cite ten relevant cases here)
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Court:
+
+a. Declare that Defendant has breached the covenant of quiet enjoyment under Massachusetts law;
+b. Order Defendant to repair the electrical wiring in Plaintiff's bedroom within a reasonable time frame;
+c. Award damages to Plaintiff in the amount of $450 for additional expenses incurred and the diminished value of the lease;
+d. Grant any further relief the Court deems just and proper.
+
+Respectfully submitted,
+
+[Your Signature]
+
+Jessica Hartman, Plaintiff
+
+Date: December 1, 2025

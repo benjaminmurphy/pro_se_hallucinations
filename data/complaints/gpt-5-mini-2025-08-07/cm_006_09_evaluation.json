@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_006_09.txt",
+  "scenario_id": "cm_006_09",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Uniform Child Custody Jurisdiction and Enforcement Act, M.G.L. c. 209C.": {
+      "raw_text": "Uniform Child Custody Jurisdiction and Enforcement Act, M.G.L. c. 209C.",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to the Probate and Family Court\u2019s authority to modify custody and visitation orders affecting minor children who reside in Massachusetts and under the Uniform Child Custody Jurisdiction and Enforcement Act, M.G.L. c. 209C.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 209A (Abuse Prevention Act);": {
+      "raw_text": "M.G.L. c. 209A (Abuse Prevention Act);",
+      "citation_type": "statute",
+      "proposition": "The statutory and decisional authorities applicable to custody modification, child protection and abuse-prevention in Massachusetts include, without limitation:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 119, \u00a7 51A (duty to report child abuse and neglect);": {
+      "raw_text": "M.G.L. c. 119, \u00a7 51A (duty to report child abuse and neglect);",
+      "citation_type": "statute",
+      "proposition": "The statutory and decisional authorities applicable to custody modification, child protection and abuse-prevention in Massachusetts include, without limitation:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 119, \u00a7 39 (and related provisions regarding care and protection of children);": {
+      "raw_text": "M.G.L. c. 119, \u00a7 39 (and related provisions regarding care and protection of children);",
+      "citation_type": "statute",
+      "proposition": "The statutory and decisional authorities applicable to custody modification, child protection and abuse-prevention in Massachusetts include, without limitation:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. ch. 208 and ch. 209": {
+      "raw_text": "M.G.L. ch. 208 and ch. 209",
+      "citation_type": "statute",
+      "proposition": "The statutory and decisional authorities applicable to custody modification, child protection and abuse-prevention in Massachusetts include, without limitation:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

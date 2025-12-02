@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_006_09.txt",
+  "scenario_id": "ng_006_09",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 218, Section 3.": {
+      "raw_text": "Massachusetts General Laws Chapter 218, Section 3.",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 218, Section 3.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 90, Section 14": {
+      "raw_text": "Massachusetts General Laws Chapter 90, Section 14",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws Chapter 90, Section 14 states that drivers opening vehicle doors must do so \"with due regard for the safety of all persons.\"",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Tompkins v. Menino, 297 N.E.2d 177 (Mass. App. Ct. 1973)": {
+      "raw_text": "Tompkins v. Menino, 297 N.E.2d 177 (Mass. App. Ct. 1973)",
+      "citation_type": "case",
+      "proposition": "In Tompkins v. Menino, 297 N.E.2d 177 (Mass. App. Ct. 1973), the court held that a driver has a duty to ensure the way is clear before opening a car door to avoid injuring a passing cyclist.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_009_02.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges a prior custody order entered May 15, 2019 awarding Plaintiff primary custody and Defendant visitation every other weekend plus one midweek (Wednesday) overnight."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies specific relief: eliminate the Wednesday midweek overnight; limit weekend parenting time (proposed Friday 6:00 p.m. to Sunday 6:00 p.m. with local pick-up/return); prohibit midweek overnights that cause missed/delayed or tired school attendance; permit reasonable phone/video contact and limited in-person midweek time not requiring early-morning travel."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant moved ~90 miles from the child\u2019s school since the 2019 order and continues the Wednesday overnight, resulting in long round-trip drives (child awakened ~4:30 a.m.), observable and documented ongoing fatigue, and a teacher-reported drop in participation on Thursdays \u2014 facts pleaded as a material and substantial change affecting the child\u2019s routine and school performance."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the requested modifications are necessary to eliminate repeated early-morning long-distance travel that causes exhaustion and impaired school functioning, to protect Emily\u2019s health, safety and educational interests, and seeks temporary relief pending hearing \u2014 allegations connecting the requested change to the child\u2019s best interests."
+    }
+  }
+}

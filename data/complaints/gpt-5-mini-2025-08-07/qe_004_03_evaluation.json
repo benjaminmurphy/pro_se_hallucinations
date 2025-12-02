@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_004_03.txt",
+  "scenario_id": "qe_004_03",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 3,
+  "statute_citations": 3,
+  "valid_citations": 2,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970).": {
+      "raw_text": "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970).",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, every residential lease contains an implied covenant of quiet enjoyment under which the landlord must refrain from materially interfering with the tenant\u2019s use and enjoyment of the leased premises, and must not permit conditions that substantially deprive the tenant of beneficial use of the premises.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Green v. Superior Court, 10 Cal.3d 616 (1974).": {
+      "raw_text": "Green v. Superior Court, 10 Cal.3d 616 (1974).",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts have long treated the covenant of quiet enjoyment and the implied warranty of habitability as enforceable tenant protections against landlord conduct or omissions that substantially and materially impair a tenant\u2019s use and enjoyment of the premises.",
+      "is_valid": true,
+      "courtlistener_id": "1182285",
+      "case_name": "Green v. Superior Court",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition is about Massachusetts courts\u2019 treatment of the covenant of quiet enjoyment and implied warranty of habitability. Green v. Superior Court is a California Supreme Court case that adopts an implied warranty of habitability under California law; it only mentions Massachusetts (Boston Housing Authority v. Hemingway and Ingalls v. Hobbs) as persuasive authority from another jurisdiction. It does not analyze or establish Massachusetts doctrine, so it cannot be cited as authority for what Massachusetts courts have \u201clong treated\u201d these covenants to mean.",
+      "relevant_excerpt": "\u201cThe Supreme Court of Wisconsin was the first to adopt this approach in 1961, and since 1969 the Supreme Courts of Hawaii, New Jersey, New Hampshire, Illinois, Iowa, and Massachusetts and the Circuit Court of Appeals for the District of Columbia have followed this lead. [fn. 12] \u2026 In the seminal case of Ingalls v. Hobbs (1892) 156 Mass. 348, 350 [31 N.E. 286]) the Supreme Judicial Court of Massachusetts explained why the traditional no warranty of habitability rule did not apply to such rentals\u2026 Our decision today may be seen as a logical development of the common law principles embodied in the Ingalls decision.\u201d}"
+    },
+    "Hilder v. St. Peter, 478 A.2d 202 (Vt. 1984).": {
+      "raw_text": "Hilder v. St. Peter, 478 A.2d 202 (Vt. 1984).",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts have long treated the covenant of quiet enjoyment and the implied warranty of habitability as enforceable tenant protections against landlord conduct or omissions that substantially and materially impair a tenant\u2019s use and enjoyment of the premises.",
+      "is_valid": true,
+      "courtlistener_id": "2315224",
+      "case_name": "Hilder v. St. Peter",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition is specifically about the law of Massachusetts and how its courts treat the covenant of quiet enjoyment and the implied warranty of habitability. Hilder v. St. Peter is a Vermont Supreme Court case that adopts and explains the implied warranty of habitability under Vermont law; it does not interpret Massachusetts law or discuss Massachusetts courts\u2019 treatment of these doctrines. Although Hilder favorably quotes Boston Housing Authority v. Hemingway, that reference is persuasive authority and does not itself establish what Massachusetts courts have \u2018long\u2019 done, so this case does not support the proposition as stated.",
+      "relevant_excerpt": "\u201cThe modern view favors a new approach which recognizes that a lease is essentially a contract between the landlord and the tenant wherein the landlord promises to deliver and maintain the demised premises in habitable condition and the tenant promises to pay rent for such habitable premises. These promises constitute interdependent and mutual considerations. Thus, the tenant\u2019s obligation to pay rent is predicated on the landlord\u2019s obligation to deliver and maintain the premises in habitable condition. Boston Housing Authority v. Hemingway, 363 Mass. 184, 198, 293 N.E.2d 831, 842 (1973).\u201d"
+    },
+    "Mass. Gen. Laws ch. 111 (public health), including authority for boards of health to enforce sanitary conditions and housing-related public health standards.": {
+      "raw_text": "Mass. Gen. Laws ch. 111 (public health), including authority for boards of health to enforce sanitary conditions and housing-related public health standards.",
+      "citation_type": "statute",
+      "proposition": "Massachusetts statutory and regulatory law recognizes and enforces minimum standards of habitability and public health through the State Sanitary Code and the public health statutes enforced by local boards of health.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "State Sanitary Code, 105 C.M.R. 410.000 et seq. (Minimum Standards of Fitness for Human Habitation), including provisions addressing pest infestation and obligations to maintain sanitary, habitable housing.": {
+      "raw_text": "State Sanitary Code, 105 C.M.R. 410.000 et seq. (Minimum Standards of Fitness for Human Habitation), including provisions addressing pest infestation and obligations to maintain sanitary, habitable housing.",
+      "citation_type": "statute",
+      "proposition": "Massachusetts statutory and regulatory law recognizes and enforces minimum standards of habitability and public health through the State Sanitary Code and the public health statutes enforced by local boards of health.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant statute provisions generally; landlord and tenant relationship and summary process provisions), including but not limited to provisions regarding landlord duties and tenant remedies.": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant statute provisions generally; landlord and tenant relationship and summary process provisions), including but not limited to provisions regarding landlord duties and tenant remedies.",
+      "citation_type": "statute",
+      "proposition": "Plaintiff expressly invokes and relies upon the common-law covenant of quiet enjoyment as enforced in landlord-tenant jurisprudence and the following representative authorities:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

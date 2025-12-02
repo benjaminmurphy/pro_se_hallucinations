@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_001_04.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 3 alleges a prior Probate and Family Court custody/parenting order entered May 15, 2020, awarding primary residential custody to Plaintiff and specifying Defendant's parenting time (every other weekend and one midweek overnight). The complaint also states a copy of the Existing Order is in the court file."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Paragraph 7(B) requests concrete, identifiable modifications (e.g., prohibit overnights on days following Defendant's scheduled night shifts, require two-week written work schedule notice and prompt updates, require disclosure/approval of any third\u2011party caregivers, prohibit leaving children with unapproved persons, and a defined enforceable schedule). These are specific, discrete changes to the Existing Order."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Paragraph 4 and supporting paragraphs allege factual changes since the Existing Order: Defendant took night-shift employment (approx. 7:00 p.m.\u20137:00 a.m.) several nights per week; this schedule often coincides with his scheduled overnights and has resulted in repeated instances of returning the children with little notice, leaving them in the middle of the night, leaving them with an unapproved roommate, and children falling asleep while Defendant naps. The complaint also alleges these changes were not reasonably foreseeable at the time of the Existing Order and that they affect the children\u2019s health, safety, routine and welfare\u2014facts sufficient to plead a material and substantial change."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Paragraph 5 and the requested relief tie the alleged facts to the children\u2019s safety, supervision, sleep routines, schooling, extracurricular schedules, and emotional stability and state that modification is necessary to ensure safety, continuity of care, and to promote the children\u2019s best interests. These allegations connect the requested changes to the children\u2019s welfare and therefore adequately plead that modification is in the children\u2019s best interests."
+    }
+  }
+}

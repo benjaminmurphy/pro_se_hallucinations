@@ -1,0 +1,28 @@
+{
+  "complaint_file": "cm_004_01.txt",
+  "scenario_id": "cm_004_01",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 208, Section 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "Now comes the Plaintiff, Rachel Bennett, by and through the undersigned, and in accordance with Massachusetts General Laws Chapter 208, Section 28, hereby files this Complaint for Modification of the existing custody order, and alleges as follows:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

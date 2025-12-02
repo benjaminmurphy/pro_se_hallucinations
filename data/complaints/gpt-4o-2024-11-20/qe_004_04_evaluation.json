@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_004_04.txt",
+  "scenario_id": "qe_004_04",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 3,
+  "statute_citations": 3,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 3,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G.L. c. 218, \u00a7 19": {
+      "raw_text": "G.L. c. 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over the parties and the subject matter of this action pursuant to G.L. c. 218, \u00a7 19, as the amount in controversy is within the jurisdictional limit of the Worcester District Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in this Court pursuant to G.L. c. 223, \u00a7 1, as the property that is the subject of this action is located in Worcester, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Pursuant to G.L. c. 186, \u00a7 14, every tenancy in Massachusetts carries with it an implied covenant of quiet enjoyment, which prevents a landlord from directly or indirectly interfering with the tenant\u2019s use and enjoyment of the rental property.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Doe v. New Bedford Hous. Auth., 417 Mass. 273, 285 (1994)": {
+      "raw_text": "Doe v. New Bedford Hous. Auth., 417 Mass. 273, 285 (1994)",
+      "citation_type": "case",
+      "proposition": "A landlord\u2019s failure to repair conditions that constitute the \"serious interference\" with a tenant\u2019s tenancy may constitute a breach of the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "2069029",
+      "case_name": "Doe v. New Bedford Housing Authority",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The court expressly holds that a landlord\u2019s omission\u2014its failure to take measures to remove unlawful actors from common areas under its control\u2014can amount to a breach of the covenant of quiet enjoyment where that omission causes a serious interference with the tenancy. The opinion states that if the landlord \u201cfailed to take any action\u201d to remove such persons and their presence \u201cseriously interferes with the tenancy,\u201d it \u201cmay be liable for a breach of the covenant,\u201d directly tying failure to remedy conditions causing serious interference to a quiet enjoyment breach.",
+      "relevant_excerpt": "\u201cThe covenant of quiet enjoyment protects a tenant\u2019s right to freedom from serious interference with his tenancy \u2014 acts or omissions that impair the character and value of the leasehold. \u2026 We do believe, however, that if the defendant has failed to take any measures, especially those measures which can be undertaken relatively easily, to remove unwelcome persons from the property that it owns and controls, and the presence of those persons seriously interferes with the tenancy, then the defendant may be liable for a breach of the covenant of quiet enjoyment.\u201d"
+    },
+    "Al-Ziab v. Mourgis, 424 Mass. 847, 850 (1997)": {
+      "raw_text": "Al-Ziab v. Mourgis, 424 Mass. 847, 850 (1997)",
+      "citation_type": "case",
+      "proposition": "A landlord\u2019s failure to repair conditions that constitute the \"serious interference\" with a tenant\u2019s tenancy may constitute a breach of the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "6577320",
+      "case_name": "Al-Ziab v. Mourgis",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The court reaffirms that negligent failure to repair known defects can violate G.L. c. 186, \u00a7 14, and expressly cites prior cases where a landlord\u2019s failure to repair conditions interfering with habitability constituted a breach of quiet enjoyment. While this opinion\u2019s main holding is that a bare statutory lead paint violation is not automatically a \u00a7 14 violation, its reasoning makes clear that a landlord\u2019s failure to repair serious conditions, after notice, may amount to a breach of the statutory covenant of quiet enjoyment.",
+      "relevant_excerpt": "We noted that a landlord\u2019s failure \u201cto repair defects of which he has notice in leased premises is an omission which frequently has been deemed to violate \u00a7 14.\u201d See Cruz, supra at 789, citing Simon v. Solomon, supra at 103 (failure to control floods in tenant\u2019s apartment); Darmetko v. Boston Hous. Auth., 378 Mass. 758, 761 (1979) (failure to repair leaky roof); Dorgan v. Loukas, 19 Mass. App. Ct. 959, 960 (1985) (failure to bring apartment into habitable condition and keep it so). Today we make clear what was implicit in those rulings: to support the imposition of liability under the quiet enjoyment statute, there must be a showing of at least negligent conduct by a landlord\u2026"
+    },
+    "Simon v. Solomon, 385 Mass. 91, 102 (1982)": {
+      "raw_text": "Simon v. Solomon, 385 Mass. 91, 102 (1982)",
+      "citation_type": "case",
+      "proposition": "A landlord\u2019s failure to repair conditions that constitute the \"serious interference\" with a tenant\u2019s tenancy may constitute a breach of the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "2038443",
+      "case_name": "Simon v. Solomon",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The court explicitly explains the meaning of the covenant of quiet enjoyment and ties it to landlord acts or omissions that seriously interfere with the tenancy, citing common-law quiet enjoyment doctrine. It then applies that concept to the landlord\u2019s failure to prevent repeated flooding, holding that such preventable unsanitary conditions that interfere with the tenant\u2019s quiet enjoyment give rise to liability under the quiet enjoyment statute. This directly supports the idea that failure to repair serious interfering conditions can constitute breach of quiet enjoyment.",
+      "relevant_excerpt": "\u201cThe phrase \u2018quiet enjoyment\u2019 is a familiar term in landlord-tenant law, signifying the tenant\u2019s right to freedom from serious interferences with his tenancy \u2014 acts or omissions that \u2018impair the character and value of the leased premises.\u2019 \u2026 Every tenancy is deemed to entail an implied covenant that the landlord will not disturb this right during the tenancy\u2026. When the Legislature chose the words \u2018quiet enjoyment\u2019 \u2026 it must have intended to incorporate these cases into the statute.\u201d"
+    }
+  }
+}

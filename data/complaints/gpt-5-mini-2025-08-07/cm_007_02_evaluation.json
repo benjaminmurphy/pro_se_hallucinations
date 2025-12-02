@@ -1,0 +1,93 @@
+{
+  "complaint_file": "cm_007_02.txt",
+  "scenario_id": "cm_007_02",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 209C": {
+      "raw_text": "M.G.L. c. 209C",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction under the Massachusetts Probate and Family Court statutes and the Uniform Child Custody Jurisdiction and Enforcement Act, M.G.L. c. 209C because the parties and child reside in Massachusetts and the prior custody order was entered by this Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208 (matters of divorce, custody and related family matters)": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (matters of divorce, custody and related family matters)",
+      "citation_type": "statute",
+      "proposition": "Note: The following statutes and authorities are cited as commonly relied-upon Massachusetts statutes, rules, and caselaw principles concerning jurisdiction, modification, and the best interests standard. Plaintiff requests the Court consider these authorities as applicable.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a751A (child abuse/neglect reporting duties)": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a751A (child abuse/neglect reporting duties)",
+      "citation_type": "statute",
+      "proposition": "Note: The following statutes and authorities are cited as commonly relied-upon Massachusetts statutes, rules, and caselaw principles concerning jurisdiction, modification, and the best interests standard. Plaintiff requests the Court consider these authorities as applicable.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119 (general provisions regarding children and juvenile courts)": {
+      "raw_text": "Mass. Gen. Laws ch. 119 (general provisions regarding children and juvenile courts)",
+      "citation_type": "statute",
+      "proposition": "Note: The following statutes and authorities are cited as commonly relied-upon Massachusetts statutes, rules, and caselaw principles concerning jurisdiction, modification, and the best interests standard. Plaintiff requests the Court consider these authorities as applicable.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts Probate and Family Court Rules and Standing Orders (procedural rules governing petitions to modify custody and emergency relief)": {
+      "raw_text": "Massachusetts Probate and Family Court Rules and Standing Orders (procedural rules governing petitions to modify custody and emergency relief)",
+      "citation_type": "statute",
+      "proposition": "Note: The following statutes and authorities are cited as commonly relied-upon Massachusetts statutes, rules, and caselaw principles concerning jurisdiction, modification, and the best interests standard. Plaintiff requests the Court consider these authorities as applicable.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 65 (injunctive and temporary relief procedures, insofar as analogous procedural relief is sought in Probate and Family Court)": {
+      "raw_text": "Mass. R. Civ. P. 65 (injunctive and temporary relief procedures, insofar as analogous procedural relief is sought in Probate and Family Court)",
+      "citation_type": "statute",
+      "proposition": "Note: The following statutes and authorities are cited as commonly relied-upon Massachusetts statutes, rules, and caselaw principles concerning jurisdiction, modification, and the best interests standard. Plaintiff requests the Court consider these authorities as applicable.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

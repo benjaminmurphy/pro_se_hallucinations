@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_008_08.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads an Existing Order entered May 15, 2022 establishing joint legal custody, naming Rachel as primary residential parent, and specifying parenting time (including Sunday overnights) and cooperation on school matters (\u00b63.1\u20133.2)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifies concrete relief: award Plaintiff final decision\u2011making authority over educational matters (or require written agreement/expedited court resolution), curtail Sunday-night overnights on school nights, require advance notice/documentation for absences, compel cooperation on evaluations/tutoring, and seeks interim orders (\u00b67.2\u20137.4, \u00b67.6, \u00b68.2\u20138.4)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a change since May 2022: beginning in 2024\u20132025 Defendant has frequently kept Samantha home on Mondays after his parenting time (characterized as 'mental health days') without notice or documentation, has refused tutoring transport, school issued truancy warnings, and Samantha\u2019s grades/test scores have declined\u2014facts pleaded as adversely affecting welfare (\u00b65.1\u20135.9; \u00b67.2\u20137.3)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the requested modifications are needed to protect Samantha\u2019s attendance, academic progress, and welfare (truancy warnings, declining grades, missed tutoring) and seeks narrowly tailored interim measures to prevent further harm; these allegations connect the requested relief to Samantha\u2019s best interests (\u00b65.6\u20135.9; \u00b67.3; \u00b68.2\u20138.4)."
+    }
+  }
+}

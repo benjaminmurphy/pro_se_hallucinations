@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_008_01.txt",
+  "scenario_id": "cm_008_01",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts Uniform Child Custody Jurisdiction and Enforcement Act, Mass. Gen. Laws ch. 209C": {
+      "raw_text": "Massachusetts Uniform Child Custody Jurisdiction and Enforcement Act, Mass. Gen. Laws ch. 209C",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to the Massachusetts Uniform Child Custody Jurisdiction and Enforcement Act, Mass. Gen. Laws ch. 209C, and other applicable Massachusetts statutes and practice because the child\u2019s primary residence and the subject custody order are within the territorial jurisdiction of the Bristol County Probate and Family Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208": {
+      "raw_text": "Mass. Gen. Laws ch. 208",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon the statutory and case law governing custody modification, jurisdiction, best interests determinations, the duty of parents to cooperate in the child\u2019s education, and the Court\u2019s broad equitable powers to fashion appropriate relief to protect the welfare of children.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a751A": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a751A",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon the statutory and case law governing custody modification, jurisdiction, best interests determinations, the duty of parents to cooperate in the child\u2019s education, and the Court\u2019s broad equitable powers to fashion appropriate relief to protect the welfare of children.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 71": {
+      "raw_text": "Mass. Gen. Laws ch. 71",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon the statutory and case law governing custody modification, jurisdiction, best interests determinations, the duty of parents to cooperate in the child\u2019s education, and the Court\u2019s broad equitable powers to fashion appropriate relief to protect the welfare of children.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

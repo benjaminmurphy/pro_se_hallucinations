@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_007_05",
+  "category": "landlord_tenant",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jessica Lin",
+  "defendant": "Michael Thompson"
+}

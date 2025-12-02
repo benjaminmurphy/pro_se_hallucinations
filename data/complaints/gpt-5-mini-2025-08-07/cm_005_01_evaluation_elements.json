@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_005_01.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an Existing Order entered April 12, 2022, describing joint legal custody with primary physical custody to Petitioner and scheduled visitation for Respondent, and it indicates an exhibit (copy of the order) will be attached."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies concrete relief: award primary physical custody to Petitioner; clarify decision\u2011making for extracurricular activities (advance written notice, priority to custodial parent, dispute procedure); prohibit disparagement and impose communication protocols; make\u2011up parenting time; and temporary relief pending hearing."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges repeated unilateral interference with Petitioner's custodial time (scheduling activities during Petitioner's time without adequate notice or consent), direct disparaging statements to the children in violation of the Existing Order, and resulting adverse effects on at least one child (recurrent stomach aches, transition anxiety), which together are pleaded as having a material and substantial effect on the children\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint connects the pleaded conduct and its effects (disruption of routine, emotional distress, interference with parent\u2011child relationship) to the need for modification to protect the children\u2019s stability, health, and relationships and expressly alleges the requested changes are in the children\u2019s best interests."
+    }
+  }
+}

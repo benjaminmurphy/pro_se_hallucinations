@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_008_02",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "plaintiff": "Emily Johnson",
+  "defendant": "Caf\u00e9 Delight"
+}

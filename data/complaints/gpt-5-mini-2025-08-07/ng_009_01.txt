@@ -1,0 +1,133 @@
+COMMONWEALTH OF MASSACHUSETTS
+LYNN DISTRICT COURT
+
+Jane Doe,                                   )
+    Plaintiff                              )
+                                           )
+v.                                         )    Civil Action No. __________
+                                           )
+ABC Realty Management,                     )
+    Defendant                              )
+
+COMPLAINT — NEGLIGENCE
+
+NOW COMES the Plaintiff, Jane Doe, and for her Complaint against Defendant ABC Realty Management (“Defendant” or “Landlord”), alleges as follows:
+
+PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Jane Doe is an individual and a resident of Lynn, Massachusetts. Plaintiff is a tenant at 123 Maple St., Lynn, Massachusetts, Unit 3 (the “Premises”).
+
+2. Defendant ABC Realty Management is a property management company doing business in Massachusetts and is the landlord/manager of the apartment building located at 123 Maple St., Lynn, Massachusetts (the “Building”).
+
+3. The incident giving rise to this Complaint occurred on or about September 15, 2023 at the Building, within the territorial jurisdiction of the Lynn District Court. Venue is proper in this Court.
+
+4. The amount of damages claimed (medical expenses, lost wages, property damage, pain and suffering, and other damages) is within the jurisdictional limits of this Court.
+
+FACTUAL ALLEGATIONS
+
+5. At all times relevant hereto, Defendant owned, managed, leased, controlled, and/or had responsibility for maintenance of the common areas of the Building, including the common hallway outside Plaintiff’s unit.
+
+6. Defendant owed a duty to Plaintiff, as a tenant and lawful occupant of the Building, to maintain the common areas (including smoke detection and alarm equipment) in a reasonably safe condition and to warn of hazards about which Defendant knew or reasonably should have known.
+
+7. For months prior to September 15, 2023, the smoke detector in the common hallway immediately outside Plaintiff’s apartment repeatedly emitted a chirping sound consistent with a low battery. The chirping was audible to tenants, including Plaintiff.
+
+8. On multiple occasions (at least three), Plaintiff notified Defendant (by phone, text, email or in-person) of the chirping low-battery condition and requested that the smoke detector be repaired, have its battery replaced, or otherwise be returned to service. Each time, Defendant represented to Plaintiff that the smoke detector issue would be “taken care of.”
+
+9. At some point before the fire, a battery was removed from the hallway smoke detector and left on the windowsill in the common area; the detector was thus rendered inoperative and provided no alarm.
+
+10. On the night of September 15, 2023, a fire started in a first-floor apartment at the Building, originating from the occupant’s kitchen (the “Fire”).
+
+11. Because the hallway smoke detector directly outside Plaintiff’s unit was inoperative due to its missing battery, no alarm sounded in the hallway or for upstairs tenants when the first-floor fire began.
+
+12. As a result, Plaintiff received no timely warning of the Fire. Plaintiff first became aware of the Fire when she smelled smoke and observed smoke entering the hallway; by that time the hallway was already thick with smoke.
+
+13. Plaintiff attempted to evacuate but experienced acute breathing difficulty and other symptoms from smoke inhalation in the course of evacuating.
+
+14. Plaintiff was transported from the scene and spent the night in the hospital receiving treatment for smoke inhalation. Plaintiff’s medical bills to date are approximately $7,500.
+
+15. Plaintiff also lost wages as a result of the Fire and her hospitalization, in the approximate amount of $2,000.
+
+16. In addition to personal injury, Plaintiff suffered damage to personal property from smoke and water.
+
+17. Defendant had actual or constructive notice of the inoperative smoke detector condition (through Plaintiff’s repeated complaints and the audible chirping) and failed to take reasonable steps to remedy the condition, replace the battery, or otherwise ensure the detector was operational.
+
+18. Defendant’s failure to take reasonable action proximately caused or substantially contributed to Plaintiff’s injuries, damages, and losses.
+
+CLAIM FOR RELIEF — NEGLIGENCE
+
+19. Plaintiff hereby realleges and incorporates by reference paragraphs 1 through 18 as if fully set forth herein.
+
+20. Defendant owed Plaintiff a duty of reasonable care to maintain the Building’s common areas and safety devices (including smoke detectors) in a safe condition and to warn tenants of known dangerous conditions.
+
+21. Defendant breached that duty by, among other things:
+   a. failing to replace the smoke detector battery or otherwise ensure the hallway smoke detector was operational after repeated complaints;
+   b. permitting a known, audible, ongoing malfunction (the chirping low-battery condition) to persist without timely remediation;
+   c. failing to inspect, test, repair, or replace smoke detection equipment as needed to ensure functioning life safety systems; and
+   d. failing to warn Plaintiff adequately of the hazard or to provide reasonable alternative means to ensure tenant safety.
+
+22. As a direct and proximate result of Defendant’s negligent acts and omissions, Plaintiff suffered:
+   a. bodily injury, including smoke inhalation and breathing difficulty;
+   b. medical expenses in the approximate amount of $7,500 to date;
+   c. lost wages in the approximate amount of $2,000;
+   d. physical pain and emotional distress;
+   e. damage to personal property; and
+   f. other damages in an amount to be proven at trial.
+
+23. Plaintiff seeks recovery for all compensatory damages permitted by law, including economic and non-economic damages.
+
+APPLICABLE LAW
+
+24. The duties and standards applied to a landlord’s maintenance obligations and to premises liability claims in Massachusetts are well-established in statute, regulation, and case law. Relevant authorities include, without limitation:
+   - Massachusetts General Laws, Chapter 260, Section 2A (statute of limitations for actions on account of negligence; three-year limitation applicable to personal injury).
+   - Massachusetts General Laws, Chapter 148 (statutes and regulations concerning building and safety standards, including smoke detector requirements for residential premises).
+   - 105 C.M.R. 410.000 et seq. (Massachusetts State Sanitary Code — Minimum Standards of Fitness for Human Habitation), which includes requirements for smoke detectors and tenant safety in residential dwellings.
+   - Restatement (Second) of Torts §314A (duty of possessor of land to protect entrants against unreasonable risk of harm).
+   - Restatement (Second) of Torts §343 (duty to exercise reasonable care to maintain premises in reasonably safe condition and to give warning of latent dangers).
+   - Restatement (Second) of Torts §282–§289 (proximate cause and causation principles).
+   - Massachusetts decisions and doctrines recognizing a landlord’s duty to maintain common areas and safety equipment and to exercise reasonable care to prevent foreseeable harm to tenants and invitees (see, e.g., Massachusetts cases addressing landlord negligence and premises liability).
+   - Restatement (Second) of Torts §324A (negligent performance of undertakings to render services and the duty to perform with care).
+   - Prosser & Keeton on Torts (general treatise summarizing standards of care and premises liability principles).
+   - Other applicable state and local building codes and fire-safety regulations requiring functioning smoke detection equipment in multi-unit residential dwellings.
+
+(Notes on authorities: Plaintiff relies on the statutes, State Sanitary Code, Restatement provisions, and applicable Massachusetts precedent establishing the duty of care described above. Plaintiff will supplement and identify specific Massachusetts cases and statutory/regulatory citations with pinpoint references as required in discovery and pretrial filings.)
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Jane Doe respectfully requests that this Court enter judgment against Defendant ABC Realty Management as follows:
+
+A. Awarding compensatory damages for past and future medical expenses, lost wages, property damage, pain and suffering, emotional distress, and other damages in an amount to be determined at trial but believed to exceed the jurisdictional minimum for the Lynn District Court;
+
+B. Awarding costs, interest, and such pre-judgment and post-judgment interest as allowed by law;
+
+C. Awarding such other relief as the Court deems just and proper.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+DATED: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jane Doe
+Jane Doe
+Plaintiff, pro se
+123 Maple St., Apt. 3
+Lynn, MA 01901
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that a true copy of the foregoing Complaint was served upon Defendant ABC Realty Management by [personal service/first-class mail/other method] on [date to be filled in upon service].
+
+/s/ Jane Doe
+Jane Doe
+
+---
+
+Practical notes and recommended next steps (non-legal advice):
+- Before filing, verify local court filing procedures and any required civil cover sheet or filing fee waivers; the Lynn District Court clerk can provide forms and guidance.
+- Consider having a licensed Massachusetts attorney review this complaint before filing, to confirm citations, fine-tune legal argument and ensure compliance with local rules (including precise statutory/regulatory citations and specific case authorities).
+- Preserve all evidence: copies of your notices to the landlord, photos of the inoperative detector or battery on the windowsill, hospital records, wage loss documentation, witness contact information, and any communications from the landlord.
+- If you would like, I can convert this draft into a court-pleading format tailored to Lynn District Court filing requirements (adding a civil action cover sheet, proposed summons, and a finalized Certificate of Service), and I can prepare a more detailed list of Massachusetts case law with full citations for use in filings.

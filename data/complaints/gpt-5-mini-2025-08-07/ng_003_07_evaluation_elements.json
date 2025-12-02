@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_003_07.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant owned/controlled the premises (\u00b62), that Plaintiff was a business invitee (\u00b65), and expressly alleges the duty to exercise reasonable care to maintain safe premises and protect invitees (\u00b613). These factual allegations are sufficient to plead duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific facts showing negligent conduct: heavy boxed appliances stacked five to six high without straps/barriers or other restraints (\u00b66), failure to inspect or correct the dangerous condition (\u00b614), and affirmative allegations that Defendant negligently stacked/stored the merchandise (\u00b614). Those factual allegations adequately plead breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that another customer bumped a lower shelf and, as a direct consequence of the unsecured, excessively high stacking, a boxed toaster-oven fell and struck Plaintiff (\u00b67\u20138). Those allegations support a but-for link (but for the unsecured/high stacking, the box would not have fallen and struck Plaintiff)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges that the injury was a foreseeable result of the unsecured, excessively high stacking and lack of safeguards (\u00b67, \u00b615) and links the fall to Defendant\u2019s negligence as a direct and proximate cause (\u00b615\u201316). Those allegations adequately plead proximate causation/foreseeability."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete injuries and losses: immediate symptoms and emergency diagnosis of mild concussion and shoulder strain (\u00b68, \u00b610), past medical expenses (~$1,800) and lost wages (~$600) (\u00b611, \u00b620), and non-economic harms (pain and suffering, loss of enjoyment, etc.) (\u00b611, \u00b620). These facts adequately plead actual damages."
+    }
+  }
+}

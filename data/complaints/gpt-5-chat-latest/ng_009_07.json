@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_009_07",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Emily Johnson",
+  "defendant": "Lynn Apartments, LLC"
+}

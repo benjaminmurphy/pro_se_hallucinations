@@ -1,0 +1,7 @@
+{
+  "scenario_id": "cm_010_03",
+  "category": "custody_modification",
+  "model": "gpt-5-chat-latest",
+  "petitioner": "Jennifer Smith",
+  "respondent": "Michael Smith"
+}

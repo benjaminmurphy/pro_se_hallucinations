@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_006_01.txt",
+  "scenario_id": "qe_006_01",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant statutes)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant statutes)",
+      "citation_type": "statute",
+      "proposition": "The covenant of quiet enjoyment is an implied covenant in Massachusetts landlord-tenant law guaranteeing a tenant the right to use and enjoy leased premises without substantial interference by the landlord.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 et seq. (Massachusetts State Sanitary Code: Minimum Standards of Fitness for Human Habitation)": {
+      "raw_text": "105 CMR 410.000 et seq. (Massachusetts State Sanitary Code: Minimum Standards of Fitness for Human Habitation)",
+      "citation_type": "statute",
+      "proposition": "The covenant of quiet enjoyment is an implied covenant in Massachusetts landlord-tenant law guaranteeing a tenant the right to use and enjoy leased premises without substantial interference by the landlord.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary Process)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary Process)",
+      "citation_type": "statute",
+      "proposition": "See, e.g., cases addressing landlord obligations and tenant remedies under Massachusetts common law and statutory schemes; see also summary process and tenant protection statutes, Mass. Gen. Laws ch. 239, and sanitary code enforcement provisions in Mass. Gen. Laws ch. 111 and 111 statutes giving local boards of health authority to enforce housing standards.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 (Public Health; enforcement of sanitary conditions)": {
+      "raw_text": "Mass. Gen. Laws ch. 111 (Public Health; enforcement of sanitary conditions)",
+      "citation_type": "statute",
+      "proposition": "See, e.g., cases addressing landlord obligations and tenant remedies under Massachusetts common law and statutory schemes; see also summary process and tenant protection statutes, Mass. Gen. Laws ch. 239, and sanitary code enforcement provisions in Mass. Gen. Laws ch. 111 and 111 statutes giving local boards of health authority to enforce housing standards.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

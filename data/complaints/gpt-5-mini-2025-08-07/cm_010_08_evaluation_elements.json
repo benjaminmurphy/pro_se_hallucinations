@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_010_08.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges a prior Probate and Family Court custody/parenting-time order entered May 15, 2016 and attaches Exhibit A (\u00b6\u00b62.1, 3.1, 7.1), establishing an existing order subject to modification."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies the relief sought with specificity: substantially increased parenting time including at least one weekday overnight, every-other-weekend (or equivalent) increased overnights, holiday/vacation allocation, and alternatively joint physical custody with an apportioned overnight schedule (\u00b66.1\u20136.3, 6.2(a)\u2013(d); Ex. B)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads concrete facts supporting changed circumstances since 2016: Plaintiff completed graduate school, obtained stable full\u2011time employment with regular hours, moved from a studio to a two\u2011bedroom with a child\u2019s bedroom, and the child is now older and closer to the Plaintiff (\u00b6\u00b63.2\u20133.4, 5.1\u20135.2, 7.5 citing lease and employment verification). These factual allegations sufficiently plead a material and substantial change for pleading purposes."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges facts tying the requested modification to the child\u2019s best interests: the child\u2019s expressed preference and written letter requesting more overnights, the therapist\u2019s communication that the child experiences guilt/stress and recommends greater stability and more time with Mother, the strengthened parent\u2011child relationship, and the Father\u2019s refusal to cooperate (\u00b6\u00b63.4\u20133.5, 5.3\u20135.4). These allegations adequately plead that increased parenting time would serve the child\u2019s best interests."
+    }
+  }
+}

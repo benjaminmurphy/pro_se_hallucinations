@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_003_01.txt",
+  "scenario_id": "qe_003_01",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 1,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186": {
+      "raw_text": "Mass. Gen. Laws ch. 186",
+      "citation_type": "statute",
+      "proposition": "This Court has subject matter jurisdiction over this action pursuant to the Boston Housing Court\u2019s jurisdiction over housing matters and actions for possession or related landlord-tenant disputes (see generally Mass. Gen. Laws ch. 186; Mass. Gen. Laws ch. 239; rules and statutes governing the Housing Court).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239": {
+      "raw_text": "Mass. Gen. Laws ch. 239",
+      "citation_type": "statute",
+      "proposition": "This Court has subject matter jurisdiction over this action pursuant to the Boston Housing Court\u2019s jurisdiction over housing matters and actions for possession or related landlord-tenant disputes (see generally Mass. Gen. Laws ch. 186; Mass. Gen. Laws ch. 239; rules and statutes governing the Housing Court).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)": {
+      "raw_text": "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)",
+      "citation_type": "case",
+      "proposition": "This covenant may be breached by affirmative acts or by the landlord\u2019s failure to remedy conditions that substantially interfere with habitability and the tenant\u2019s peaceful enjoyment.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Not found",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 et seq.": {
+      "raw_text": "105 CMR 410.000 et seq.",
+      "citation_type": "statute",
+      "proposition": "The duty of a landlord to provide and maintain premises in a condition fit for their intended use is supported by Massachusetts statutes and regulations addressing landlord-tenant responsibilities and housing standards, including (but not limited to) Mass. Gen. Laws ch. 186 (Landlord and Tenant), Mass. Gen. Laws ch. 111 (Public Health), and the State Sanitary Code (105 CMR 410.000), which establish minimum standards for habitable dwelling units and public health standards.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111": {
+      "raw_text": "Mass. Gen. Laws ch. 111",
+      "citation_type": "statute",
+      "proposition": "The duty of a landlord to provide and maintain premises in a condition fit for their intended use is supported by Massachusetts statutes and regulations addressing landlord-tenant responsibilities and housing standards, including (but not limited to) Mass. Gen. Laws ch. 186 (Landlord and Tenant), Mass. Gen. Laws ch. 111 (Public Health), and the State Sanitary Code (105 CMR 410.000), which establish minimum standards for habitable dwelling units and public health standards.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

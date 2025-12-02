@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_009_08",
+  "category": "landlord_tenant",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Emily Carter",
+  "defendant": "John Thompson"
+}

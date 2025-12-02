@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_003_06.txt",
+  "scenario_id": "ng_003_06",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 260, \u00a72A": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a72A",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 260, \u00a72A (statute of limitations for personal injury actions).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 231, \u00a785": {
+      "raw_text": "Mass. Gen. Laws ch. 231, \u00a785",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 231, \u00a785 (doctrine of comparative negligence and apportionment of damages) and related provisions governing negligence actions and damages under Massachusetts law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 8": {
+      "raw_text": "Mass. R. Civ. P. 8",
+      "citation_type": "statute",
+      "proposition": "- Mass. R. Civ. P. 8 (general rules governing pleadings).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

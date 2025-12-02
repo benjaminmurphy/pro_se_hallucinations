@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_009_10.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a prior custody and parenting-time order entered October 15, 2019, awarding primary physical custody to Petitioner and specifying Respondent\u2019s midweek overnight and every-other-weekend visits, which establishes the existence of an earlier order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The pleading specifically requests elimination of the midweek Wednesday overnight and proposes concrete alternatives (non-overnight midweek visits in Barnstable, adjusted weekend time to avoid school-night travel, specified exchange locations, and temporary suspension), which clearly identifies the modification sought."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a post-order relocation of Respondent approximately 90 miles from the child\u2019s school and details how continuing the Wednesday overnight now requires multi-hour round trips and pre-dawn returns that have produced chronic fatigue and reduced school participation\u2014facts that constitute a material and substantial change in circumstances adverse to the child."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint ties the changed circumstances to specific harms to Sophie\u2019s physical well\u2011being and educational functioning (parental observations, teacher reports of decreased attention/participation, chronic exhaustion) and requests modifications aimed at protecting those interests, which adequately alleges that the requested modification is in the child\u2019s best interests."
+    }
+  }
+}

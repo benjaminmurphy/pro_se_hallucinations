@@ -1,0 +1,91 @@
+```plaintext
+Jordan Thompson,  
+Plaintiff,  
+
+v.  
+
+Mark Williams,  
+Defendant.  
+
+)  
+)  
+)  
+)  
+)  
+)  
+)  
+)  
+)  
+)  
+)  
+)  
+
+CIVIL ACTION NO. _________________  
+
+COMPLAINT AND JURY DEMAND  
+_________________________________________________________  
+
+Plaintiff Jordan Thompson ("Plaintiff"), by and for this Complaint against Defendant Mark Williams ("Defendant"), states and alleges as follows:
+
+### INTRODUCTION
+1. This is an action for damages arising from the Defendant’s negligence in unlawfully opening his car door into the Plaintiff’s pathway in a marked bicycle lane, in violation of Massachusetts state law and causing personal injuries, economic losses, and property damage to the Plaintiff.
+
+### PARTIES
+2. Plaintiff Jordan Thompson is an individual who resides in Boston, Suffolk County, Massachusetts.  
+3. Defendant Mark Williams is an individual residing in Massachusetts, whose exact address is currently unknown but upon information and belief resides or conducts business within Suffolk County, Massachusetts.
+
+### JURISDICTION AND VENUE
+4. This Court has jurisdiction over this matter pursuant to G.L. c. 212, § 3, as the amount in controversy exceeds $25,000.  
+5. Venue is proper in Suffolk County under G.L. c. 223, § 1, as the incident giving rise to this action occurred in Suffolk County, Massachusetts.
+
+### STATEMENT OF FACTS
+6. On or about August 12, 2023, at approximately 8:00 a.m., Plaintiff was bicycling to work along 17th Street in Boston, Massachusetts, in a properly marked and designated bike lane.  
+7. Plaintiff was riding lawfully, wearing a helmet, and adhering to all applicable traffic laws governing bicyclists under Massachusetts law (G.L. c. 85, § 11B).  
+8. Defendant, a rideshare driver, had parked his vehicle in a designated loading zone adjacent to the bike lane.  
+9. Without warning or care, Defendant negligently opened his car door into the bike lane where Plaintiff was traveling, causing Plaintiff to crash into the door and fall to the ground.  
+10. Defendant admitted at the scene that he "did not see" Plaintiff because he was distracted by checking his mobile phone.  
+11. As a direct and proximate result of Defendant’s actions, Plaintiff sustained injuries, including road rash to Plaintiff’s arms and legs and a chipped front tooth, as well as damage to Plaintiff’s bicycle.  
+12. Defendant's distraction and failure to check for approaching bicyclists prior to opening his car door violated his legal duty of care and constituted negligence under Massachusetts law.  
+13. Defendant's insurance company has since denied liability based on incorrect and defamatory statements by Defendant, creating further emotional and financial stress for Plaintiff.  
+14. Plaintiff incurred medical bills in the approximate amount of $1,500, lost approximately $800 in wages from missed work, and sustained additional property damages.  
+
+### COUNT I: NEGLIGENCE
+15. Plaintiff incorporates by reference the allegations in paragraphs 1 through 14 as though fully set forth herein.  
+16. Defendant owed Plaintiff a duty of care to act as a reasonably prudent individual under the same or similar circumstances, including but not limited to, carefully ensuring that no bicyclists or other traffic would be endangered before opening the vehicle door.  
+17. Under Massachusetts General Laws Chapter 90, § 14, a driver must exercise caution to avoid endangering bicyclists when opening doors adjacent to roadways. Defendant violated this statutory duty.  
+18. Defendant additionally violated G.L. c. 85, § 11B, which protects bicyclists and provides specific guidance for safe operation on Massachusetts roadways.  
+19. Defendant breached this duty by failing to check for approaching bicyclists, carelessly and negligently opening his vehicle door into the bike lane, and admitting to being distracted by his cellphone.  
+20. As a direct and proximate result of Defendant's negligence, Plaintiff suffered physical injuries, including but not limited to road rash and a chipped tooth, as well as economic damages, including medical expenses, lost wages, and the cost of replacing the damaged bicycle.  
+21. Massachusetts law—common and statutory—establishes that Defendant’s actions constitute actionable negligence. See G.L. c. 231, § 85; *Barry v. Beverly Enterprises-Massachusetts, Inc.*, 418 Mass. 590 (1994); *Leibovich v. Antonellis*, 410 Mass. 568 (1991).  
+22. Defendant’s failure to exercise due care in this situation creates civil liability for the resulting injuries and damages inflicted on Plaintiff. See *Moylan v. Dykes*, 181 Mass. 68 (1902); *Fiore v. Hernandez*, 59 Mass. App. Ct. 11 (2003).  
+
+### DAMAGES
+23. As a result of Defendant’s actions, Plaintiff sustained damages including but not limited to:  
+   a. Physical and emotional pain and suffering;  
+   b. Permanent dental damage requiring repair and future monitoring;  
+   c. Economic losses, including medical bills totaling approximately $1,500 and lost wages of approximately $800;  
+   d. Property damage, including the cost of replacing Plaintiff’s damaged bicycle; and  
+   e. Other costs and damages to be determined at trial.  
+
+### PRAYER FOR RELIEF
+WHEREFORE, Plaintiff respectfully requests the following relief:  
+A. That this Court enter judgment in favor of Plaintiff and against Defendant;  
+B. That this Court award Plaintiff compensatory damages in an amount to be determined at trial, including but not limited to medical expenses, lost wages, and bicycle replacement costs;  
+C. That this Court award Plaintiff damages for pain and suffering in an amount to be determined at trial;  
+D. That Plaintiff be awarded pre-judgment interest, costs, and attorney’s fees as allowed by law; and  
+E. Such other and further relief as the Court deems just and proper.  
+
+### JURY DEMAND
+Plaintiff hereby demands a trial by jury on all issues so triable.  
+
+Respectfully submitted,  
+
+DATED: December 1, 2025  
+
+/s/ Jordan Thompson  
+Jordan Thompson  
+Pro Se Plaintiff  
+17th Street, Boston, MA 02116  
+(617) 555-0123  
+psm1443@gmail.com  
+```

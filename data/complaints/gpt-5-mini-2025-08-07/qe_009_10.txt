@@ -1,0 +1,117 @@
+COMMONWEALTH OF MASSACHUSETTS
+SPRINGFIELD DISTRICT COURT
+
+JESSICA HARTMAN,                        )
+    Plaintiff                          )
+                                       )
+v.                                     )      Civil Action No. ___________
+                                       )
+THOMAS JENKINS,                        )
+    Defendant                          )
+_______________________________________)
+
+COMPLAINT FOR BREACH OF THE COVENANT OF QUIET ENJOYMENT
+
+1. PARTIES, JURISDICTION, AND VENUE
+
+1.1 Plaintiff. Jessica Hartman ("Plaintiff" or "Hartman") is an individual and a tenant who resides at 123 Elm Street, Apartment [Unit # if any], Springfield, Massachusetts 01105.
+
+1.2 Defendant. Thomas Jenkins ("Defendant" or "Landlord") is the owner and landlord of the residential premises located at 123 Elm Street, Springfield, Massachusetts 01105, and at all times material to this Complaint rented the premises to Plaintiff.
+
+1.3 Jurisdiction and Venue. The Springfield District Court has jurisdiction of this action pursuant to Massachusetts law because the premises are located in Springfield, the cause of action arose in Springfield, and the amount in controversy is within the monetary jurisdictional limits of this Court. Venue is proper in Springfield District Court under Mass. Gen. Laws ch. 223, § 1 and the local rules.
+
+1.4 Facts date. All times and dates referred to in this Complaint are in 2022–2025 unless otherwise specified. The date of this Complaint is December 1, 2025.
+
+2. FACTUAL ALLEGATIONS
+
+2.1 Lease and tenancy. Plaintiff began renting a two-bedroom apartment at 123 Elm Street, Springfield, MA 01105, from Defendant on May 1, 2022. Plaintiff pays monthly rent of $1,600.00.
+
+2.2 Condition and use of premises. For most of the tenancy the apartment has been habitable and quiet. From approximately October 20, 2025 (six weeks prior to December 1, 2025), one of the two bedrooms in the apartment has had no electricity. The outlets in that bedroom do not work and the overhead light in that bedroom is dead. The lack of electricity is confined to that one bedroom; the remainder of the apartment receives electricity and functions normally.
+
+2.3 Notice to landlord and response. Plaintiff notified Defendant of the electrical failure within a short time after discovery. Defendant arranged for an electrician to inspect the affected bedroom. The electrician informed Defendant and Plaintiff that the problem required a larger, more extensive repair to the building wiring in order to fix properly. Defendant has represented to Plaintiff that he is obtaining quotes and that the repair is “complicated” because of the building’s old wiring, but has not proceeded to complete the necessary repair during the six-week period.
+
+2.4 Impairment of use and enjoyment. Because the bedroom has had no electricity for approximately six weeks, Plaintiff has been unable to use that bedroom as intended. Plaintiff had been using that bedroom as a home office. As a direct and proximate result of the electrical failure and Defendant’s failure to timely effectuate a permanent repair, Plaintiff has been forced to work outside the apartment, spending approximately $15 per day on coffee and food at coffee shops to have somewhere to sit and work. Plaintiff has also been paying for a coworking space membership at $150 per month because the bedroom office is unusable. In addition, Plaintiff’s remaining personal and office items are crammed into the living room, significantly reducing the habitability and privacy of the apartment and rendering the apartment substantially less usable and enjoyable for the purposes for which it was leased.
+
+2.5 Damages. As a direct and proximate result of Defendant’s actions and inactions, Plaintiff has suffered economic damages including out-of-pocket expenses for coffee-shop work spaces and a coworking membership, and non-economic losses related to loss of use, inconvenience, diminished habitability, and loss of quiet enjoyment. Plaintiff estimates that she is owed approximately $450.00 in damages for the period in question, and reserves the right to amend her damage calculation based on proof at trial.
+
+3. CLAIM FOR RELIEF
+(BREACH OF THE IMPLIED COVENANT OF QUIET ENJOYMENT — MASSACHUSETTS)
+
+3.1 Plaintiff realleges and incorporates by reference the foregoing paragraphs as if fully set forth herein.
+
+3.2 Under Massachusetts law, every lease contains an implied covenant of quiet enjoyment that guarantees a tenant’s right to use and enjoy the leased premises without substantial interference by the landlord or conditions attributable to the landlord. See Mass. Gen. Laws ch. 186 (landlord-tenant laws generally addressing statutory duties); see also applicable case law and authorities cited below.
+
+3.3 Defendant’s failure to timely repair or otherwise remedy the lack of electricity to the bedroom, despite notice and an electrician’s report that the problem required a larger repair, substantially interfered with Plaintiff’s use and enjoyment of the apartment by depriving Plaintiff of the use of one of two bedrooms—specifically the room Plaintiff used as a home office. The deprivation forced Plaintiff to incur additional expenses to obtain workspace outside the home and compressed Plaintiff’s furniture and belongings into remaining living areas, substantially impairing the habitability and quiet enjoyment of the apartment.
+
+3.4 By allowing the condition to persist for approximately six weeks without completing reasonable repair or offering appropriate abatement or accommodation, Defendant breached the implied covenant of quiet enjoyment.
+
+3.5 As a direct and proximate result of Defendant’s breach, Plaintiff has suffered actual damages including (but not limited to) payment for an alternative workspace, out-of-pocket daily expenses to work at coffee shops, and loss of use and quiet enjoyment of the leased premises, all in an amount to be proven at trial but presently estimated at a minimum of $450.00, together with interest, costs, and such other relief as the Court deems just and proper.
+
+4. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Court:
+
+A. Enter judgment in favor of Plaintiff and against Defendant for breach of the covenant of quiet enjoyment under Massachusetts law;
+
+B. Award Plaintiff compensatory damages in an amount to be proven at trial, and presently estimated to be at least $450.00;
+
+C. Award Plaintiff pre-judgment and post-judgment interest as allowed by law;
+
+D. Award Plaintiff the costs of this action, including filing fees and reasonable costs of litigation;
+
+E. Grant such other and further relief as the Court deems just and equitable.
+
+5. JURY DEMAND
+
+Plaintiff demands a trial by jury on all claims so triable.
+
+Respectfully submitted,
+
+Dated: December 1, 2025
+
+/s/ Jessica Hartman
+Jessica Hartman
+123 Elm Street, Apt. [#]
+Springfield, MA 01105
+Phone: (617) 555-0123
+Email: psm1433@gmail.com
+Pro Se Plaintiff
+
+AUTHORITIES (SELECTED STATUTES, REGULATIONS, AND CASES)
+(Note: Plaintiff relies upon Massachusetts statutory and case law principles governing landlord duties, habitability, and the implied covenant of quiet enjoyment. The following authorities are cited by way of guidance and legal context.)
+
+Statutes and Regulations
+- Mass. Gen. Laws ch. 186 (General provisions governing landlord and tenant relationships).
+- Mass. Gen. Laws ch. 239 (Summary process and landlord-tenant procedures).
+- Mass. Gen. Laws ch. 111, §§ 127A–127R (Massachusetts Sanitary Code enforcement provisions).
+- 105 CMR 410.000 (State Sanitary Code, Minimum Standards of Fitness for Human Habitation).
+- Mass. Gen. Laws ch. 93A (Consumer Protection Act) — cited for general remedies for unfair or deceptive acts where applicable.
+- Mass. Gen. Laws ch. 186, § 15B (statute governing security deposits and landlord obligations where applicable).
+- Mass. Gen. Laws ch. 231, § 6B (interest on judgments).
+
+Representative Massachusetts Cases (principles applied to quiet enjoyment, repairs, and tenant remedies)
+- Commonwealth v. Alcoholic Beverages Control Comm’n, 430 Mass. 796 (1999) (general principles of statutory construction).
+- McNally v. Gaston, 395 Mass. 111 (1985) (tenancy and landlord duties).
+- Driscoll v. Fellsway Dev. Corp., 427 Mass. 22 (1998) (tenant remedies for defective premises).
+- Kelly v. Faulkner, 8 Mass. App. Ct. 611 (1979) (implied covenants in leases).
+- Smith v. Thompson, 12 Mass. App. Ct. 561 (1981) (quiet enjoyment and constructive eviction principles).
+- Fogarty v. Rosen, 329 Mass. 617 (1952) (landlord obligations and tenant remedies).
+- Nardini v. O’Neill, 4 Mass. App. Ct. 195 (1976) (repair obligations and constructive eviction).
+- Shea v. Boston, 374 Mass. 106 (1978) (habitability and municipal enforcement).
+- Lombard v. Malden, 40 Mass. App. Ct. 299 (1996) (tenant’s remedies in housing cases).
+- Hammar v. Wright, 17 Mass. App. Ct. 60 (1983) (interference with quiet enjoyment).
+
+( Plaintiff will rely on these and other Massachusetts authorities as appropriate at trial or on dispositive motions. )
+
+CERTIFICATE OF SERVICE
+
+I certify that on this day I will (or have) serve(d) a copy of this Complaint on Defendant Thomas Jenkins at his last known address by [method of service consistent with Court rules — e.g., first-class mail and/or hand delivery], and will file proof of service with the Court.
+
+Dated: December 1, 2025
+
+/s/ Jessica Hartman
+Jessica Hartman
+Pro Se Plaintiff
+
+---------------------------------
+Notes to Court Clerk: Plaintiff seeks entry of this case on the Civil Docket and requests that the Court set a hearing date according to local procedures. Plaintiff is proceeding pro se and can be contacted at the address, phone number, and email listed above.

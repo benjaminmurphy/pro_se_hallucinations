@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_006_06",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jordan Thompson",
+  "defendant": "Mark Williams"
+}

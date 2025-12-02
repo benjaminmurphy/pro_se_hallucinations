@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_003_05.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges he was a lawful invitee in Defendant\u2019s store and pleads the retailer\u2019s duty to exercise reasonable care to inspect, maintain, and make the premises safe (citing Restatement and Massachusetts authority). Those factual allegations (invitee status, retail setting) adequately plead the existence of a duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific facts showing how Defendant failed to meet that duty: heavy boxed merchandise stacked five to six high on open shelving without restraints, failure to secure or use reasonable safeguards, and failure to inspect/correct the hazardous condition. Those factual allegations sufficiently plead a breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a routine bump to a lower shelf dislodged a top box which then fell and struck Plaintiff. Those facts create a but\u2011for causal link (but for the unsafe stacking/storage, the ordinary bump would not have caused the box to fall and injure Plaintiff)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Plaintiff pleads that the harm (a falling heavy boxed appliance) was a foreseeable consequence of placing heavy items high on open shelving without restraints and that the fall directly produced the concussion and shoulder strain. These allegations adequately plead proximate causation/foreseeability."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete injuries (diagnosed mild concussion and shoulder strain), emergency treatment, itemized past medical expenses (~$1,200), lost wages (~$600), pain and suffering, lost recreational activity, and ongoing damages\u2014sufficient to plead actual damages."
+    }
+  }
+}

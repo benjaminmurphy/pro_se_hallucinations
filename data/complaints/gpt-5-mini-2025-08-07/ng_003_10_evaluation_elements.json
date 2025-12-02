@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_003_10.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Plaintiff was a lawful invitee on Defendant\u2019s premises (\u00b66) and expressly pleads the store\u2019s duty to keep the premises reasonably safe and to warn invitees (\u00b613), plus facts that Defendant owned/operated the Store (\u00b63). Those allegations establish the requisite duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads specific facts that heavy boxed appliances were stacked five to six boxes high without restraints (\u00b67) and lists concrete conduct constituting breach (\u00b614(a)\u2013(e)), including failure to secure, inspect, and warn. Those factual allegations adequately plead a breach of the asserted duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that an ordinary bump to a lower shelf caused an unrestrained, high-stacked box to dislodge and fall onto Plaintiff (\u00b68) and expressly pleads that but for Defendant\u2019s failure to secure merchandise the boxed appliance would not have fallen (\u00b615). Those allegations state a but-for causal connection."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a foreseeable risk from unstable, high-stacked heavy merchandise and directly links Defendant\u2019s failure to secure/inspect to the box falling and injuring Plaintiff (\u00b67\u20139, \u00b615). These allegations sufficiently plead that Plaintiff\u2019s injuries were a foreseeable/proximate result of Defendant\u2019s conduct."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges immediate symptoms (dizziness, severe headache), an emergency department diagnosis of a mild concussion and shoulder strain, quantifies past medical expenses (~$1,500) and lost wages (~$800), and alleges non-economic harms (\u00b69\u201311, \u00b616). Those factual allegations sufficiently plead actual damages."
+    }
+  }
+}

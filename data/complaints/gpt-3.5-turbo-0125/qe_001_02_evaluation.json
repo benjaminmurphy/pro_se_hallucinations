@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_001_02.txt",
+  "scenario_id": "qe_001_02",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 1,
+  "statute_citations": 1,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Massachusetts General Laws, Chapter 186, \u00a7 14": {
+      "raw_text": "Massachusetts General Laws, Chapter 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws, Chapter 186, \u00a7 14 provides that landlords must maintain premises in a fit and habitable condition, including providing adequate heating facilities.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mendonca v. Clark, 2006 Mass. App. Div. 89": {
+      "raw_text": "Mendonca v. Clark, 2006 Mass. App. Div. 89",
+      "citation_type": "case",
+      "proposition": "Mendonca v. Clark, 2006 Mass. App. Div. 89, held that inadequate heating that affects the tenant's health constitutes a breach of the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "9300724",
+      "case_name": "Wood Mill, LLC v. Psychological Center, Inc.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion is a commercial summary process case about nonpayment of rent, oral modification of lease terms, juror discharge, and adequacy of default/termination notices. It does not address residential conditions, heating, tenant health, or the covenant of quiet enjoyment at all. Therefore it cannot be cited as authority for the proposition that inadequate heating affecting a tenant\u2019s health constitutes a breach of the covenant of quiet enjoyment.",
+      "relevant_excerpt": "Whatever arguments can be made regarding the November 8, 2004, letter, there can be no doubt that the Center received notice of default in the form of the February 10, 2005 letter from Wood Mill\u2019s counsel. Once this written notice was tendered as required by the lease, the Center had ten days to cure its default. Nothing in the lease required Wood Mill to inform the Center of its right to cure. The right to cure was stated clearly in the lease and, presumably, the Center was aware of the lease provision."
+    }
+  }
+}

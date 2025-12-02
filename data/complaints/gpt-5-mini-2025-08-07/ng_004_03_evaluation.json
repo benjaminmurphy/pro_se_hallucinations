@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_004_03.txt",
+  "scenario_id": "ng_004_03",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. R. Civ. P. 3": {
+      "raw_text": "Mass. R. Civ. P. 3",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Worcester Superior Court because the events giving rise to this Complaint occurred in Worcester County and the Premises are located in Worcester.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 223, \u00a7 1": {
+      "raw_text": "Mass. Gen. Laws ch. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Worcester Superior Court because the events giving rise to this Complaint occurred in Worcester County and the Premises are located in Worcester.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 260, \u00a7 2A": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A",
+      "citation_type": "statute",
+      "proposition": "Plaintiff alleges this action is timely under the applicable statute of limitations for personal injury actions in Massachusetts (Mass. Gen. Laws ch. 260, \u00a7 2A), and in any event all conditions precedent to this action have been performed or have occurred.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 223 et seq.": {
+      "raw_text": "Mass. Gen. Laws ch. 223 et seq.",
+      "citation_type": "statute",
+      "proposition": "For purposes of legal context and to support the Complaint\u2019s allegations concerning duty, breach, causation, and damages, Plaintiff cites the following authorities (non-exhaustive):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts Rules of Civil Procedure 8(a), 10(a), and 11": {
+      "raw_text": "Massachusetts Rules of Civil Procedure 8(a), 10(a), and 11",
+      "citation_type": "statute",
+      "proposition": "For purposes of legal context and to support the Complaint\u2019s allegations concerning duty, breach, causation, and damages, Plaintiff cites the following authorities (non-exhaustive):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. R. Civ. P. 12(b)(6)": {
+      "raw_text": "Mass. R. Civ. P. 12(b)(6)",
+      "citation_type": "statute",
+      "proposition": "For purposes of legal context and to support the Complaint\u2019s allegations concerning duty, breach, causation, and damages, Plaintiff cites the following authorities (non-exhaustive):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

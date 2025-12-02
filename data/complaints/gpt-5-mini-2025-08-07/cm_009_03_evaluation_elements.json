@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_009_03.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an existing 2019 custody/visitation order entered May 15, 2019 that names Plaintiff as primary custodian and grants Defendant specific visitation (every other weekend and a Wednesday overnight)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint requests concrete relief: elimination of the midweek Wednesday overnight or, alternatively, conversion to a daytime or phone/video visit, plus adjustment of weekend time so Defendant retains meaningful parenting time \u2014 a specific modification is plainly identified."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges Defendant relocated ~90 miles since the 2019 order and continues the Wednesday overnight practice that now requires long round trips and 4:30 a.m. returns, causing chronic fatigue and a measurable drop in school participation (teacher report). Those factual allegations sufficiently plead a material and substantial change in circumstances affecting the child\u2019s welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint connects the relocation and resulting sleep disruption to harms to the child\u2019s health, school functioning, and need for stability and proposes less-disruptive alternatives; it expressly alleges the requested modification is necessary to protect the child\u2019s best interests and supports that allegation with teacher observations and health/education impacts."
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_003_03.txt",
+  "scenario_id": "qe_003_03",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Massachusetts law, specifically G.L. c. 186, \u00a7 14, provides that a landlord who interferes with a tenant\u2019s quiet enjoyment of leased premises shall be liable for damages.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 218, \u00a7 19": {
+      "raw_text": "G.L. c. 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to G.L. c. 218, \u00a7 19 because the damages sought are within the jurisdictional limit of the Boston Municipal Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7\u00a7 2 and 8": {
+      "raw_text": "G.L. c. 223, \u00a7\u00a7 2 and 8",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in the Jamaica Plain Division of the Boston Municipal Court pursuant to G.L. c. 223, \u00a7\u00a7 2 and 8 because the leased premises giving rise to this claim are located in Jamaica Plain.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

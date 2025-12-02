@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_005_06.txt",
+  "scenario_id": "ng_005_06",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 3,
+  "statute_citations": 3,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "M.G.L. c. 212, \u00a7 4": {
+      "raw_text": "M.G.L. c. 212, \u00a7 4",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to M.G.L. c. 212, \u00a7 4 because this is a civil action seeking money damages exceeding the jurisdictional minimum of $50,000 for the Superior Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 223, \u00a7 1": {
+      "raw_text": "M.G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Hampden County under M.G.L. c. 223, \u00a7 1 because the incident giving rise to this complaint occurred at the Plaintiff\u2019s residence, located at 123 Elm Street, Springfield, MA, which is within Hampden County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mounsey v. Ellard, 363 Mass. 693 (1973)": {
+      "raw_text": "Mounsey v. Ellard, 363 Mass. 693 (1973)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, Defendant owed Plaintiff a duty of reasonable care as Plaintiff\u2019s neighbor and co-tenant at the same property (see Mounsey v. Ellard, 363 Mass. 693 (1973)).",
+      "is_valid": true,
+      "courtlistener_id": "2031209",
+      "case_name": "Mounsey v. Ellard",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Mounsey v. Ellard is an occupiers\u2019-liability case about duties owed by possessors of land to persons entering the premises, and the excerpt is a concurrence focused on abolishing the invitee/licensee distinction and discussing trespassers. It does not address duties owed between neighbors or co-tenants as such, nor does it establish that a defendant owes a duty of reasonable care specifically by virtue of being a neighbor or co-tenant. Thus, citing Mounsey for that particular proposition misstates the case\u2019s scope.",
+      "relevant_excerpt": "\"The court holds that the measure of responsibility of an occupier should no longer depend on whether the injured person is characterized as a \u2018licensee\u2019 rather than an \u2018invitee,\u2019 or vice versa; the question is to turn on other, more vital factors... Thus it is awkward to leave the suggestion that the basic reasoning of the court\u2019s opinion may stop short of so called trespassers.\""
+    },
+    "Cimino v. Milford Keg, Inc., 385 Mass. 323, 330 (1982)": {
+      "raw_text": "Cimino v. Milford Keg, Inc., 385 Mass. 323, 330 (1982)",
+      "citation_type": "case",
+      "proposition": "Defendant knew or reasonably should have known that failing to secure the ladder created a substantial risk that it might fall and cause injury or property damage (see Cimino v. Milford Keg, Inc., 385 Mass. 323, 330 (1982)).",
+      "is_valid": true,
+      "courtlistener_id": "2038751",
+      "case_name": "Cimino v. Milford Keg, Inc.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The Cimino opinion concerns a tavern\u2019s duty and liability for serving alcohol to an intoxicated patron who later injures a third party while driving. It does not involve ladders, securing ladders, or any premises-liability theory about falling objects or property damage. The cited page (385 Mass. at 330) discusses foreseeability and proximate cause in the context of drunk driving, so using this case to support a proposition about knowledge of the risks of an unsecured ladder is a misapplication.",
+      "relevant_excerpt": "\u201cIt is only necessary for the plaintiff to prove that the defendant took a risk with respect to the plaintiff\u2019s safety that a person of ordinary prudence would not have taken, and that the plaintiff suffered a resulting injury that was within the foreseeable risk. \u2026 Therefore, evidence that a tavern keeper served intoxicating liquor to a patron the tavern keeper knew, or reasonably should have known, was intoxicated is sufficient to warrant a jury finding that the tavern keeper took such a risk\u2026\u201d (385 Mass. at 330-31)."
+    },
+    "Polak v. Whitney, 21 Mass. App. Ct. 349, 350-51 (1985)": {
+      "raw_text": "Polak v. Whitney, 21 Mass. App. Ct. 349, 350-51 (1985)",
+      "citation_type": "case",
+      "proposition": "The harm suffered by Plaintiff, including damage to her car and associated expenses, was a foreseeable consequence of Defendant\u2019s negligence (see Polak v. Whitney, 21 Mass. App. Ct. 349, 350-51 (1985)).",
+      "is_valid": true,
+      "courtlistener_id": "2017447",
+      "case_name": "Polak v. Whitney",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion does not discuss or decide whether the type of harm suffered (damage to a car and associated expenses) was a foreseeable consequence of the defendant\u2019s negligence. Instead, the court holds that the social host (McDonald) owed no duty to warn about the obvious risk of parking along the highway and that it would be \u201cunduly stretching negligence concepts\u201d to say she should have anticipated such injuries. The case thus limits foreseeability/duty rather than recognizing the claimed harm as a foreseeable consequence of her negligence.",
+      "relevant_excerpt": "\u201cIt would be unduly stretching negligence concepts to say that McDonald, as owner of the property, ought to have anticipated that anyone would suffer personal injuries if she did not give an effective warning not to park along the road. Although issues of negligence are ordinarily for the jury\u2026 in these circumstances no reasonable jury could find that McDonald had a duty which she failed to fulfill.\u201d"
+    },
+    "M.G.L. c. 231, \u00a7 60J": {
+      "raw_text": "M.G.L. c. 231, \u00a7 60J",
+      "citation_type": "statute",
+      "proposition": "I, Jennifer Lee, hereby certify that I have complied with the provisions of M.G.L. c. 231, \u00a7 60J, and that I believe in good faith that there is reasonable cause for filing this action.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

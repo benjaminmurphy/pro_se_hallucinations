@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_007_04.txt",
+  "scenario_id": "cm_007_04",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 2,
+  "statute_citations": 3,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 208": {
+      "raw_text": "Mass. Gen. Laws ch. 208",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 208 (statutory provisions governing custody and visitation/modification);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a7 51A": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a7 51A",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 119, \u00a7 51A (duties to report child abuse/neglect where applicable);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209C": {
+      "raw_text": "Mass. Gen. Laws ch. 209C",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 209C (paternity, where relevant to parental status and custody);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Troxel v. Granville, 530 U.S. 57 (2000)": {
+      "raw_text": "Troxel v. Granville, 530 U.S. 57 (2000)",
+      "citation_type": "case",
+      "proposition": "Troxel v. Granville, 530 U.S. 57 (2000) (parental rights/constitutional framework for parental decisionmaking);",
+      "is_valid": true,
+      "courtlistener_id": "1087668",
+      "case_name": "Troxel v. Granville",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "Troxel squarely addresses and articulates the constitutional framework for parental decisionmaking, recognizing under the Fourteenth Amendment a fundamental liberty interest of parents in the care, custody, and control of their children and invalidating a state statute that allowed broad third\u2011party visitation based only on a judge\u2019s view of the child\u2019s best interests. The plurality, concurrence, and Thomas\u2019s opinion all root the decision in substantive due process protection for parental rights, making the case a leading authority on constitutional parental rights and limits on state interference with parental decisions.",
+      "relevant_excerpt": "\u201cThe liberty interest at issue in this case\u2014the interest of parents in the care, custody, and control of their children\u2014is perhaps the oldest of the fundamental liberty interests recognized by this Court\u2026 In light of this extensive precedent, it cannot now be doubted that the Due Process Clause of the Fourteenth Amendment protects the fundamental right of parents to make decisions concerning the care, custody, and control of their children.\u201d (530 U.S. at 65\u201366)"
+    },
+    "Santosky v. Kramer, 455 U.S. 745 (1982)": {
+      "raw_text": "Santosky v. Kramer, 455 U.S. 745 (1982)",
+      "citation_type": "case",
+      "proposition": "Santosky v. Kramer, 455 U.S. 745 (1982) (parental liberty interest principles);",
+      "is_valid": true,
+      "courtlistener_id": "110676",
+      "case_name": "Santosky v. Kramer",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion squarely recognizes and articulates the fundamental liberty interest of natural parents in the care, custody, and management of their children as protected by the Fourteenth Amendment, and explains that this interest does not disappear even when parents have been neglectful or have temporarily lost custody. The Court then uses that parental liberty interest to hold that heightened procedural protections (a clear and convincing evidence standard) are required before the State may permanently terminate parental rights. That directly supports citing Santosky for \u201cparental liberty interest principles.\u201d",
+      "relevant_excerpt": "\u201cThe absence of dispute reflected this Court\u2019s historical recognition that freedom of personal choice in matters of family life is a fundamental liberty interest protected by the Fourteenth Amendment. \u2026 The fundamental liberty interest of natural parents in the care, custody, and management of their child does not evaporate simply because they have not been model parents or have lost temporary custody of their child to the State. \u2026 When the State moves to destroy weakened familial bonds, it must provide the parents with fundamentally fair procedures.\u201d"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_007_08.txt",
+  "scenario_id": "qe_007_08",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (landlord-tenant law)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (landlord-tenant law)",
+      "citation_type": "statute",
+      "proposition": "See generally Mass. Gen. Laws ch. 186 (landlord-tenant law) and Massachusetts common law recognizing the covenant of quiet enjoyment (common-law sources and treatises such as the Restatement (Second) of Property describe the covenant and its elements).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (summary process statute; jurisdictional context for landlord-tenant disputes in Massachusetts courts).": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (summary process statute; jurisdictional context for landlord-tenant disputes in Massachusetts courts).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff intends to rely on the following authorities and related Massachusetts common law recognizing the covenant of quiet enjoyment and landlord obligations to tenants (this list is representative and not exclusive):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111, \u00a7127 (state sanitary code enforcement authority).": {
+      "raw_text": "Mass. Gen. Laws ch. 111, \u00a7127 (state sanitary code enforcement authority).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff intends to rely on the following authorities and related Massachusetts common law recognizing the covenant of quiet enjoyment and landlord obligations to tenants (this list is representative and not exclusive):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 C.M.R. 410.000 et seq. (State Sanitary Code, including Minimum Standards of Fitness for Human Habitation).": {
+      "raw_text": "105 C.M.R. 410.000 et seq. (State Sanitary Code, including Minimum Standards of Fitness for Human Habitation).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff intends to rely on the following authorities and related Massachusetts common law recognizing the covenant of quiet enjoyment and landlord obligations to tenants (this list is representative and not exclusive):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

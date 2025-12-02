@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_006_09.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The Complaint expressly identifies an Existing Order entered June 15, 2021 and recites its terms (primary physical custody to Petitioner; Respondent has alternate weekends and one midweek visit) (see \u00b6\u00b63.1\u20133.2)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The Complaint specifies concrete relief: prohibit Respondent\u2019s live\u2011in partner from unsupervised parenting time; require all Respondent visits to be supervised by a third party or court\u2011approved provider; and alternative adjustments to visitation/exchange procedures to protect the children (see \u00b64.2, \u00b68.2)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The Complaint alleges facts showing a change since the prior order: Respondent began cohabiting with an adult who has assault/battery convictions and a prior restraining order and who has acted alarmingly in the children\u2019s presence (yelling, door\u2011slamming, a forceful grab leaving a mark, police called for violent arguments) (see \u00b65.1\u20135.4). Those allegations are specific and recent and, if proven, support a finding of a material and substantial change in circumstances."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The Complaint links the alleged conduct to risk to the children\u2019s physical safety and emotional welfare and expressly frames the requested restrictions as necessary to protect the children\u2019s safety, health and welfare (see \u00b64.1, \u00b65.3\u20135.5, \u00b66.1\u20136.2, \u00b67.1\u20137.3). Those factual allegations, together with the requested protective remedies, adequately plead that the modification is in the children\u2019s best interests (subject to evidentiary proof at hearing)."
+    }
+  }
+}

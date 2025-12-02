@@ -1,0 +1,7 @@
+{
+  "scenario_id": "cm_003_01",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "petitioner": "Emily Carter",
+  "respondent": "Michael Carter"
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_009_08.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owns/controls the building and had responsibility for maintenance of common areas and safety devices, expressly pleads the landlord duty to maintain smoke detectors and cites statutory/regulatory authorities imposing that duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the hallway detector chirped for months, someone removed the battery leaving the detector inoperable, Plaintiff notified Defendant on at least three occasions, Defendant acknowledged the problem but failed to replace the battery or repair the detector \u2014 facts that adequately plead a failure to perform the maintenance obligation. (Potential factual dispute who removed the battery is pleaded but does not negate the landlord\u2019s alleged failure to restore the alarm.)"
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that because the hallway detector was inoperable no alarm sounded when a first-floor fire occurred, Plaintiff encountered heavy smoke, and was hospitalized for smoke inhalation; it further alleges that but for Defendant\u2019s failure to maintain the detector Plaintiff would have received timely warning and could have evacuated sooner, which sufficiently pleads but-for causation at the pleading stage."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the harm (smoke inhalation, property damage) was a foreseeable consequence of failing to maintain a required smoke detector and expressly pleads that Defendant\u2019s failure was a proximate cause; these allegations adequately plead foreseeability and proximate cause."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific, concrete damages including approximately $12,000 in medical bills, $2,500 in lost wages, and smoke/water damage to personal property, and seeks additional general and special damages \u2014 sufficient to plead actual damages."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_005_01.txt",
+  "scenario_id": "ng_005_01",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 5,
+  "statute_citations": 1,
+  "valid_citations": 3,
+  "invalid_citations": 2,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction and venue pursuant to G.L. c. 223, \u00a7 1, as the damages to Plaintiff\u2019s property occurred at 123 Maple Street, Springfield, Massachusetts, located within Hampden County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "MacCormack v. Boston Edison Co., 423 Mass. 652, 661 (1996)": {
+      "raw_text": "MacCormack v. Boston Edison Co., 423 Mass. 652, 661 (1996)",
+      "citation_type": "case",
+      "proposition": "Defendant had a duty under Massachusetts law to exercise reasonable care to maintain his property and prevent dangerous conditions from harming others.",
+      "is_valid": true,
+      "courtlistener_id": "6577184",
+      "case_name": "MacCormack v. Boston Edison Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case concerns age discrimination and retaliation under Massachusetts employment discrimination law and the right to a jury trial; it does not address premises liability, property maintenance, or a landowner\u2019s duty to prevent dangerous conditions from harming others. The cited page discusses adverse employment action and retaliation standards, not a general duty of reasonable care regarding property. Therefore, this opinion does not support the stated proposition about a defendant\u2019s duty to maintain property safely.",
+      "relevant_excerpt": "\"The fatal defect in MacCormack\u2019s claim is that he failed to prove that Boston Edison took any action against him at all which was substantial enough to count as the kind of material disadvantage that is a predicate for a finding of unlawful retaliation.... What was never established is that MacCormack, as a result, suffered an \u2018adverse employment action\u2019 which materially disadvantaged him.\""
+    },
+    "Whitman v. Reed, 93 Mass. App. Ct. 592, 595 (2018)": {
+      "raw_text": "Whitman v. Reed, 93 Mass. App. Ct. 592, 595 (2018)",
+      "citation_type": "case",
+      "proposition": "Massachusetts negligence law requires individuals to take reasonable precautions to ensure their actions or omissions do not create foreseeable harm to others.",
+      "is_valid": true,
+      "courtlistener_id": "7175485",
+      "case_name": "Brown v. Sav. Bank Life Ins. Co. of Mass.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion is focused on insurance contract limitations periods, the separateness of tort and contract claims, and whether misrepresentations and omissions by an insurer\u2019s employee can support deceit, negligence, and Chapter 93A claims. It does not articulate or analyze the general duty element of Massachusetts negligence law as a broad requirement that individuals take reasonable precautions to avoid creating foreseeable harm. Any discussion of negligence here is case-specific (negligent supervision/misrepresentation) and not a general statement of Massachusetts negligence duty law.",
+      "relevant_excerpt": "Summary judgment should not have been granted on the remaining aspects of counts II and III. The judge's ruling was based, in part, on a misapprehension of what evidence could properly be considered. Viewed in the light most favorable to the plaintiff, and taking into account all properly considered record evidence, a fact finder would be permitted to find that Wood told Michelle to choose between continuing the old policy at a higher premium or applying for a new policy at a lower rate...."
+    },
+    "See Gagnon v. Amaral, 14 Mass. App. Ct. 780, 782 (1982) (landowners have a duty to prevent harm from known dangers on their property)": {
+      "raw_text": "See Gagnon v. Amaral, 14 Mass. App. Ct. 780, 782 (1982) (landowners have a duty to prevent harm from known dangers on their property)",
+      "citation_type": "case",
+      "proposition": "Defendant breached his duty of care by failing to secure or remove the aluminum ladder despite actual and specific notice of the risk it posed to Plaintiff and her vehicle.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "See Dos Santos v. Coleta, 465 Mass. 148, 154 (2013) (duty arises where harm is foreseeable)": {
+      "raw_text": "See Dos Santos v. Coleta, 465 Mass. 148, 154 (2013) (duty arises where harm is foreseeable)",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s failure to reasonably secure the ladder created an unreasonably dangerous condition that foreseeably led to the harm Plaintiff suffered.",
+      "is_valid": true,
+      "courtlistener_id": "6580656",
+      "case_name": "Dos Santos v. Coleta",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case does discuss duty arising from foreseeability and a landowner\u2019s obligation to remedy dangerous conditions he creates and maintains. However, it has nothing to do with a defendant\u2019s duty to secure a ladder or the specific concept that failing to reasonably secure a ladder created an unreasonably dangerous condition. The accurate use of this case would be for the broader foreseeability/duty-to-remedy principle, not the ladder-specific proposition stated.",
+      "relevant_excerpt": "\u201cAn owner or possessor of land owes a common-law duty of reasonable care to all persons lawfully on the premises. \u2026 It also includes an obligation \u2018to warn visitors of any unreasonable dangers of which the landowner is aware or reasonably should be aware.\u2019 \u2026 A landowner, though, \u2018is not relieved from remedying an open and obvious danger where [the landowner] \u201ccan and should anticipate that the dangerous condition will cause physical harm to the [lawful visitor] notwithstanding its known or obvious danger.\u201d\u2019 Papadopoulos, supra, quoting Soederberg\u2026.\u201d"
+    },
+    "See Cypress v. Newport Partners, 71 Mass. App. Ct. 82, 86 (2008) (defendant liable for harms caused by their failure to mitigate known risks)": {
+      "raw_text": "See Cypress v. Newport Partners, 71 Mass. App. Ct. 82, 86 (2008) (defendant liable for harms caused by their failure to mitigate known risks)",
+      "citation_type": "case",
+      "proposition": "As a direct and proximate result of Defendant\u2019s negligence, Plaintiff suffered damages to her vehicle and related financial losses.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

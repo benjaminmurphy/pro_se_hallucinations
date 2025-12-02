@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_007_08.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that Defendant operates an after\u2011school program, advertised that children would be supervised, and owed a duty to supervise and maintain a safe environment (see \u00b6\u00b65\u20136, 15). Those factual allegations sufficiently place Defendant in a position owing a duty of reasonable care to program participants."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete failures to supervise and protect: inadequate staffing (one staff for ~20 children), a supervisor distracted by a phone, ignored complaints, and failed to intervene or enforce rules (see \u00b6\u00b67\u20139, 16(a)\u2013(d)). Those facts adequately plead a breach of the asserted duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint links the breach to the injury: because supervision was inadequate and staff failed to intervene, an older child was able to tackle Plaintiff\u2019s son, causing him to strike his head and suffer a concussion (see \u00b6\u00b68, 10\u201311, 17). Those allegations sufficiently plead that the injury would not have occurred but for the negligent supervision."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint specifically alleges the injury was a foreseeable consequence of permitting unsupervised, rough tackle play with a distracted lone supervisor and pleads that such conduct could result in serious bodily injury including head injuries (see \u00b6\u00b618, 16(c)\u2013(d)). Those allegations adequately plead proximate causation/foreseeability."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete damages: loss of consciousness, diagnosis of a concussion, emergency room care and follow\u2011up, missed school, and approximately $4,500 in medical expenses, plus pain and suffering (see \u00b6\u00b610\u201312, 19(a)\u2013(b)). Those allegations sufficiently plead actual damages."
+    }
+  }
+}

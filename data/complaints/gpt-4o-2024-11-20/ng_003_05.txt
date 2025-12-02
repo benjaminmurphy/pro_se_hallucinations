@@ -1,0 +1,95 @@
+```plaintext
+David Thompson,                              )  
+      Plaintiff,                             )  
+                                             )  
+v.                                           )           Civil Action No. ___________  
+                                             )  
+HomeGoods Discount Store,                    )  
+      Defendant.                             )  
+
+______________________________________
+
+                      COMPLAINT AND JURY DEMAND
+______________________________________
+
+NOW COMES the Plaintiff, David Thompson, by and through himself, and hereby files this Complaint against Defendant, HomeGoods Discount Store, and alleges as follows:
+
+                                 INTRODUCTION
+
+1. This is a personal injury action arising from Defendant’s negligence in maintaining its premises in an unreasonably dangerous condition, which caused serious bodily injury to Plaintiff on August 15, 2023, at Defendant’s store located at 123 Market Street, Lowell, MA.
+
+2. Plaintiff seeks damages for personal injuries, including a mild concussion, shoulder strain, medical expenses, lost wages, and associated pain and suffering.
+
+                                     PARTIES
+
+3. Plaintiff, David Thompson, is an individual residing in the Commonwealth of Massachusetts and is over the age of eighteen.
+
+4. Defendant, HomeGoods Discount Store, upon information and belief, is a corporation or business entity doing business in the Commonwealth of Massachusetts and maintaining a retail store at 123 Market Street, Lowell, MA.
+
+                             JURISDICTION AND VENUE
+
+5. The Middlesex Superior Court has jurisdiction over this matter pursuant to G.L. c. 212, § 4 because the amount in controversy exceeds $50,000, and the injuries occurred in Middlesex County, Massachusetts.
+
+6. Venue is proper pursuant to G.L. c. 223, § 1, as the Defendant conducts business and the events giving rise to this complaint occurred in Middlesex County.
+
+                                STATEMENT OF FACTS
+
+7. On August 15, 2023, Plaintiff visited Defendant's discount home-goods store located at 123 Market Street, Lowell, MA to shop for kitchen appliances and other goods.
+
+8. While Plaintiff was in an aisle browsing merchandise, a large box containing a toaster oven fell from the top shelf of the shelving unit and struck Plaintiff on his left shoulder and head.
+
+9. The box fell after another customer made light contact with the lower part of the shelving unit while pushing a shopping cart, causing the shelves to destabilize.
+
+10. The boxes on the shelves were stacked to an unsafe height without any proper securing mechanisms such as straps, barriers, or netting to prevent their fall, in violation of basic safety practices for retail establishments.
+
+11. Plaintiff immediately became dizzy and developed a headache from the impact. Despite these injuries, Defendant's manager, who came to the scene, merely offered Plaintiff a store coupon and completed an internal incident report.
+
+12. Later that evening, Plaintiff sought medical care at a local emergency room due to worsening symptoms, where he was diagnosed with a mild concussion and a left shoulder strain.
+
+13. Plaintiff’s injuries required him to miss work for several days as a delivery driver, resulting in approximately $600 in lost wages, and he incurred $1,200 in medical expenses for the evaluation and treatment of his injuries.
+
+14. In addition to financial losses, Plaintiff experienced physical pain, mental anguish, and was unable to enjoy his regular activities, including weekly soccer games, for several weeks.
+
+                                COUNT ONE - NEGLIGENCE
+
+15. Plaintiff repeats and realleges the allegations in paragraphs 1 through 14 as if fully set forth herein.
+
+16. Under Massachusetts law, Defendant owed a duty of reasonable care to maintain its premises in a condition that was safe for invitees such as Plaintiff. See Dubuque v. Target Corp., 606 F.3d 33, 37 (1st Cir. 2010); Harper v. Rootes Motors, Inc., 340 Mass. 675, 677 (1960).
+
+17. Defendant breached its duty of care by failing to properly secure or stabilize heavy boxes stored at elevated heights and by failing to install safety barriers or straps to prevent their fall, creating an unreasonably dangerous condition. See Doherty v. Belmont, 396 Mass. 271, 275 (1985); Oliveri v. MBTA, 363 Mass. 165, 167 (1973).
+
+18. Defendant’s negligence was the proximate cause of Plaintiff’s injuries and resulting damages. See Cimino v. Milford Keg, Inc., 385 Mass. 323, 333 (1982).
+
+19. Defendant knew or reasonably should have known that stacking heavy items on high shelves without securing them created a foreseeable risk of harm to customers. See Kane v. Fields Corner Grille, Inc., 341 Mass. 640, 644 (1961); Sheehan v. Roche Bros. Supermarkets, Inc., 448 Mass. 780, 785 (2007).
+
+20. Defendant failed to take reasonable steps to address this hazardous condition, such as limiting the height of stacked items or implementing additional safeguards. See Young v. Atlantic Richfield Co., 400 Mass. 837, 842 (1987); Papadopoulos v. Target Corp., 457 Mass. 368, 382 (2010).
+
+21. As a direct and proximate result of Defendant’s negligence, Plaintiff sustained physical injuries, incurred substantial medical bills, lost wages, and endured pain and suffering. See Goodman v. Smith, 340 Mass. 336, 341 (1960); Mounsey v. Ellard, 363 Mass. 693, 708 (1973).
+
+                               PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff David Thompson respectfully requests that this Honorable Court:
+
+A. Enter judgment in favor of Plaintiff and against Defendant on the count of negligence;
+
+B. Award Plaintiff compensatory damages, including, but not limited to, medical expenses in the approximate amount of $1,200, lost wages in the approximate amount of $600, and such further damages as the Court deems just for pain, suffering, and emotional distress;
+
+C. Award Plaintiff prejudgment and post-judgment interest as permitted by law; and
+
+D. Award Plaintiff such further relief as this Court deems just and proper.
+
+                               JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+Respectfully submitted,  
+This 1st day of December, 2025.  
+
+/s/ David Thompson  
+David Thompson  
+Pro Se  
+123 Main Street  
+Lowell, MA 01852  
+(617) 555-0123  
+psm1443@gmail.com  
+```

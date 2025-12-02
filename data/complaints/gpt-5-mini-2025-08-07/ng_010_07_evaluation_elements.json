@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_010_07.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/controlled the Property and had responsibility to maintain trees adjacent to the public sidewalk (\u00b65, \u00b614) and cites the landowner duty to persons lawfully on adjacent public ways\u2014facts that adequately plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific acts/omissions: a visibly cracked/decayed branch observed for an extended period, neighbor notice, Defendant's acknowledgment but failure to inspect, trim, remove, or hire an arborist (\u00b66\u20137, \u00b615(a)\u2013(c)), which sufficiently alleges breach of the asserted duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the Cracked Branch fractured and fell during ordinary weather and struck Plaintiff while she was lawfully walking (\u00b68\u20139) and that Defendant's failures were a cause of the branch falling (\u00b616), which sufficiently alleges that but for Defendant's failure to inspect/abate, the injury would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the branch was visibly cracked and neighbors warned Defendant, making it foreseeable that the defective branch could fall and injure a passerby on the adjacent sidewalk (\u00b66\u20137, \u00b613\u201314), sufficiently pleading proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages including shoulder strain and bruises, medical treatment with approximately $1,200 in medical expenses, about $500 in lost wages, and pain and suffering (\u00b610\u201311, \u00b617), which adequately pleads actual damages."
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_010_03.txt",
+  "scenario_id": "ng_010_03",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 4,
+  "statute_citations": 1,
+  "valid_citations": 1,
+  "invalid_citations": 3,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 260, \u00a7 2A.": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A.",
+      "citation_type": "statute",
+      "proposition": "This Complaint is timely filed within the applicable statute of limitations. See Mass. Gen. Laws ch. 260, \u00a7 2A.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Robichaud v. United States Gypsum Co., Conn. & Mass. negligence principles applied;": {
+      "raw_text": "Robichaud v. United States Gypsum Co., Conn. & Mass. negligence principles applied;",
+      "citation_type": "case",
+      "proposition": "See, e.g., (representative authorities) Robichaud v. United States Gypsum Co., Conn. & Mass. negligence principles applied; Byrne v. City of Boston (premises liability principles); and other Massachusetts Supreme Judicial Court decisions discussing landowner duties, foreseeability, and proximate causation in negligence claims \u2014 see e.g., SJC decisions on negligence and premises liability addressing duty and foreseeability as elements of liability.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Byrne v. City of Boston (premises liability principles);": {
+      "raw_text": "Byrne v. City of Boston (premises liability principles);",
+      "citation_type": "case",
+      "proposition": "See, e.g., (representative authorities) Robichaud v. United States Gypsum Co., Conn. & Mass. negligence principles applied; Byrne v. City of Boston (premises liability principles); and other Massachusetts Supreme Judicial Court decisions discussing landowner duties, foreseeability, and proximate causation in negligence claims \u2014 see e.g., SJC decisions on negligence and premises liability addressing duty and foreseeability as elements of liability.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Donoghue v. Stevenson, [1932] A.C. 562;": {
+      "raw_text": "Donoghue v. Stevenson, [1932] A.C. 562;",
+      "citation_type": "case",
+      "proposition": "Plaintiff also relies upon general tort principles enunciated in leading cases such as Donoghue v. Stevenson, [1932] A.C. 562; Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928); and pertinent Restatement authorities for the propositions of duty, breach, causation and foreseeable harm.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928);": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928);",
+      "citation_type": "case",
+      "proposition": "Plaintiff also relies upon general tort principles enunciated in leading cases such as Donoghue v. Stevenson, [1932] A.C. 562; Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928); and pertinent Restatement authorities for the propositions of duty, breach, causation and foreseeable harm.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "Palsgraf is a leading tort case articulating core negligence concepts of duty, breach, causation, and foreseeability. Cardozo\u2019s opinion focuses on the relational nature of duty and negligence, the requirement of a legally protected interest, and the role of foreseeability in defining the scope of duty and risk. While it does not systematically lay out all elements as a Restatement would, it is properly cited as a foundational authority for those general tort propositions, especially duty and foreseeable harm.",
+      "relevant_excerpt": "\u201cNegligence is not actionable unless it involves the invasion of a legally protected interest, the violation of a right. \u2018Proof of negligence in the air, so to speak, will not do\u2019\u2026 \u2018In every instance, before negligence can be predicated of a given act, back of the act must be sought and found a duty to the individual complaining, the observance of which would have averted or avoided the injury\u2019\u2026 The risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension.\u201d"
+    }
+  }
+}

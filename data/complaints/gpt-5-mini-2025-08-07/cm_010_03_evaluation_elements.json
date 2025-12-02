@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_010_03.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a specific prior custody/parenting order entered May 15, 2017 establishing the child's primary residence with Respondent and states a certified copy of the 2017 Order will be filed/attached; jurisdiction/venue paragraphs also reference the prior order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint requests increased parenting time/overnights and proposes concrete examples (e.g., two weeknights overnight plus alternating extended weekends), adjustment of school-day/school-year schedules, and other specific relief (transportation, holiday allocation), which sufficiently identifies the modification sought."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads multiple specific factual changes since 2017 that bear on the child's welfare: petitioner completed graduate school, obtained stable full\u2011time daytime employment with predictable leave, moved to a two\u2011bedroom apartment providing the child a private bedroom, the child is older and has closer relationship with petitioner, a therapist has recommended increased overnight time, and respondent's conduct has caused the child emotional stress\u2014facts that, if proven, constitute a material and substantial change affecting the child."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges facts showing the requested modification serves the child's health, safety, and welfare: petitioner's stable work schedule and housing enable routine care and school support; the child's therapist recommends more time with petitioner; the child has expressed a clear preference; and the current schedule causes the child distress\u2014allegations directly tied to best\u2011interests considerations."
+    }
+  }
+}

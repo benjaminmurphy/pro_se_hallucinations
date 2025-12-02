@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_008_02.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges she was an invitee on Defendant\u2019s premises and that Defendant owned/operated the restaurant (\u00b6\u00b61.2, 2.1). The complaint expressly pleads Defendant\u2019s obligation to keep the premises safe and to discover and remedy or warn of hazards (\u00b6\u00b63.1, 4.2)."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific conduct constituting a breach: a server dropped a tray and left water/ice on the tile floor, promised to mop but did not, and no warning or barrier was provided; the condition persisted for at least ten minutes and staff were observed avoiding the puddle (\u00b6\u00b62.2\u20132.4, 3.2)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges she slipped after stepping onto the wet area and injured her knee (\u00b62.5). The complaint connects that injury to the unremediated spill, alleging the injury would not have occurred but for the hazardous wet condition left on the floor (\u00b6\u00b62.2\u20132.5, 4.3\u20134.4)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the harm was a foreseeable result of leaving a wet, unmarked floor in a narrow hallway (\u00b6\u00b62.3\u20132.5, 3.2, 4.4). Slipping on a puddle is a reasonably foreseeable consequence of failing to clean or warn about a spill, and the complaint pleads proximate cause."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Plaintiff pleads concrete damages: urgent-care treatment and a diagnosed sprained knee requiring brace and physical therapy, approximately $2,500 in medical expenses, approximately $1,200 in lost wages, and pain, impairment, and emotional distress (\u00b6\u00b62.6, 5.1)."
+    }
+  }
+}

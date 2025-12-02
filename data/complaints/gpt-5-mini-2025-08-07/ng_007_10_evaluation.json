@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_007_10.txt",
+  "scenario_id": "ng_007_10",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Restatement (Second) of Torts \u00a7 314A (duty to protect others from the conduct of third persons where there is a special relationship or custody/supervision).": {
+      "raw_text": "Restatement (Second) of Torts \u00a7 314A (duty to protect others from the conduct of third persons where there is a special relationship or custody/supervision).",
+      "citation_type": "statute",
+      "proposition": "Restatement (Second) of Torts \u00a7 314A (duty to protect others from the conduct of third persons where there is a special relationship or custody/supervision).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Restatement (Second) of Torts \u00a7 282-285 (duty of possessor of land and duty to lawful entrants, including to keep premises safe and to warn of dangers).": {
+      "raw_text": "Restatement (Second) of Torts \u00a7 282-285 (duty of possessor of land and duty to lawful entrants, including to keep premises safe and to warn of dangers).",
+      "citation_type": "statute",
+      "proposition": "Restatement (Second) of Torts \u00a7 282-285 (duty of possessor of land and duty to lawful entrants, including to keep premises safe and to warn of dangers).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Brown v. Kendall, 60 Mass. 292 (a foundational Massachusetts case recognizing the concept of negligence as failure to exercise reasonable care).": {
+      "raw_text": "Brown v. Kendall, 60 Mass. 292 (a foundational Massachusetts case recognizing the concept of negligence as failure to exercise reasonable care).",
+      "citation_type": "case",
+      "proposition": "Brown v. Kendall, 60 Mass. 292 (a foundational Massachusetts case recognizing the concept of negligence as failure to exercise reasonable care).",
+      "is_valid": true,
+      "courtlistener_id": "6535730",
+      "case_name": "Brown v. Kendall",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion squarely frames the issue as whether a person is liable for unintentionally causing harm and resolves it by adopting a fault-based standard requiring lack of \u201cordinary care.\u201d Shaw, C.J. explains that if the defendant, in doing a lawful act, unintentionally causes harm but uses due/ordinary care, there is no liability, thereby articulating negligence as failure to exercise such reasonable/ordinary care. This makes the case a foundational statement of negligence as lack of reasonable care.",
+      "relevant_excerpt": "\u201cWe think, as the result of all the authorities, the rule is correctly stated by Mr. Greenleaf, that the plaintiff must come prepared with evidence to show either that the intention was unlawful, or that the defendant was in fault; for if the injury was unavoidable, and the conduct of the defendant was free from blame, he will not be liable. \u2026 If the act of hitting the plaintiff was unintentional, on the part of the defendant, and done in the doing of a lawful act, then the defendant was not liable, unless it was done in the want of exercise of due care, adapted to the exigency of the case\u2026.\u201d"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "complaint_file": "ng_006_03.txt",
+  "scenario_id": "ng_006_03",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 90 (statutory duties of drivers)": {
+      "raw_text": "Mass. Gen. Laws ch. 90 (statutory duties of drivers)",
+      "citation_type": "statute",
+      "proposition": "Under the common law and statutes of the Commonwealth of Massachusetts, including but not limited to principles governing the operation of motor vehicles and the duty of care owed to nonmotorists and cyclists, a motor vehicle operator and occupant have a duty to take reasonable care to avoid creating hazards for other users of the roadway, including bicyclists.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

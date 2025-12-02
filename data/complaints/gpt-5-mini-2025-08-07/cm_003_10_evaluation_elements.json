@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_003_10.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an existing custody order entered September 15, 2021 awarding shared legal custody with Ethan primarily residing with Plaintiff and weekend visitation for Defendant (\u00b6\u00b63.1\u20133.2)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Plaintiff clearly identifies the relief sought: supervised or suspended overnight visits, alternative conditions on unsupervised visitation (no alcohol/intoxicants, daytime-only visits, testing/monitoring), temporary emergency orders, and related discovery (\u00b64.1(a)\u2013(d); \u00b612.2)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges new, specific facts occurring since the Existing Order that bear on child safety: Ethan\u2019s reports about \"special drinks\" and Defendant being unable to \"walk straight,\" a neighbor\u2019s video showing Defendant stumbling while handling Ethan during a transfer, and school reports that Ethan is exhausted after weekend visits (\u00b6\u00b65.2(a)\u2013(c), 5.2(d), 5.3). These allegations, which the complaint alleges were not before the court in 2021, sufficiently plead a material and substantial change in circumstances. "
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges the requested modifications are necessary to protect Ethan\u2019s physical health, safety, and emotional well\u2011being, ties those allegations to the best\u2011interests standard, and requests temporary protective measures pending a hearing (\u00b6\u00b66.1\u20136.3, 7.1\u20137.3, 9.3, 12.1\u201312.3). Those factual allegations sufficiently state that the modification is sought in Ethan\u2019s best interests."
+    }
+  }
+}

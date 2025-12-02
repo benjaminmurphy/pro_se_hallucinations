@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_007_03.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges a prior custody order entered May 10, 2018 and describes its terms (equal physical custody on an alternating-week schedule). The plaintiff also states a copy of the 2018 order is filed with the Court."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifies precise relief: transfer primary physical custody to the plaintiff; reduce/modify defendant\u2019s unsupervised overnight and high\u2011risk time; require supervised or assisted visits and safety\u2011tailored scheduling; neutral exchange protocols; medical documentation; and temporary emergency relief pending hearing."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads concrete factual changes since the 2018 order: the defendant\u2019s diagnosis of a progressive neurological condition, deterioration with multiple falls, physician advice limiting being alone with the child in hazardous situations, continued residence with stairs, and the defendant\u2019s reliance on the child to perform age\u2011inappropriate caregiving tasks. Those allegations, tied to the prior alternating\u2011week arrangement, adequately plead a material and substantial change affecting the child\u2019s safety."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges how the requested modification serves the child\u2019s best interests: protecting the child from unsafe caregiving tasks and fall risks, providing greater stability and routine with the plaintiff, preserving the parent\u2011child relationship through safe structured contact, and enabling medical oversight to tailor parenting time. These factual allegations connect the requested relief to the child\u2019s welfare."
+    }
+  }
+}

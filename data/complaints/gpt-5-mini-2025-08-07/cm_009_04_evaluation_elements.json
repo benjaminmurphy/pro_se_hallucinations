@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_009_04.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 3.1 expressly alleges a prior June 15, 2019 custody and parenting-time order awarding Petitioner primary physical custody and Respondent specific parenting time (every other weekend and a Wednesday overnight)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 7.1\u20137.4 and especially 7.2\u20137.3 identify specific relief: elimination of the Wednesday-to-Thursday overnight or conversion to specified alternatives (same-day in-town visit, virtual/telephone contact, non-overnight exchange), and adjustment of weekend parenting time/pick-up arrangements to avoid long school-night travel."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 4.1\u20134.4 allege concrete facts constituting a material change: Respondent moved approximately 90 miles from the child\u2019s school and Petitioner, continues to exercise the midweek overnight by driving the child long distances on school nights, and the resulting travel/schedule was not anticipated and has substantially altered the circumstances underlying the 2019 weekday parenting-time arrangement."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 5.1\u20135.3 show alleged harm to the child\u2019s health and school functioning (repeated tiredness on Thursdays, reduced classroom participation, teacher reports of decline) and assert that modifying the weekday arrangement is necessary to protect the child\u2019s physical well-being, school performance, and overall best interests."
+    }
+  }
+}

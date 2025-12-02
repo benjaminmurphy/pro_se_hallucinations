@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_009_09.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Adequately alleged. Complaint pleads a residential tenancy beginning January 15, 2022, rent amount, Plaintiff\u2019s residence at 125 Maple Street, and that Defendant is owner/landlord of the premises (see \u00b6\u00b61\u20135 and \u00b63)."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Adequately alleged. Complaint alleges Defendant inspected the problem, arranged for an electrician, is 'getting quotes,' has delayed and not completed or substantially commenced the necessary repair (see \u00b69\u201310, \u00b617). These factual allegations describe a landlord omission/delay in repairing essential wiring."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Adequately alleged. Complaint alleges an ongoing (\u22486-week) loss of electricity to one bedroom rendering it unusable as Plaintiff\u2019s primary home office, loss of use of that portion of the premises, relocation of work into common areas causing significant interference with daily living, and forced out\u2011of\u2011home work\u2014facts that plausibly amount to a substantial interference with use and enjoyment (see \u00b66\u20138, \u00b611\u201312)."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Adequately alleged. Complaint alleges Plaintiff notified Defendant, Defendant undertook but delayed repairs, had the ability to cause repairs, and that Defendant\u2019s failure to timely repair directly caused the deprivation and expenses\u2014linking the landlord\u2019s conduct/omission to the interference (see \u00b69\u201311, \u00b617)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Adequately alleged. Complaint specifies out\u2011of\u2011pocket economic damages (coffee/food $15/day; coworking $150/month), estimates total damages (~$900), and alleges diminution in rental value, inconvenience and other consequential harms (see \u00b611, \u00b613, \u00b618)."
+    }
+  }
+}

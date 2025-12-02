@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_010_04.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges Defendant is the owner/landlord of 123 Maple Street and that Plaintiff and Defendant entered into a residential tenancy beginning June 1, 2021 with monthly rent of $1,200 \u2014 facts establishing a landlord\u2013tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant inspected the unit, blamed Plaintiff for the mold, offered only to clean visible mold, and refused to repair, replace, or otherwise correct inadequate bathroom ventilation \u2014 i.e., affirmative conduct (inspection/communications) and omissions (refusal to remediate or fix ventilation)."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges recurring and spreading mold in the bathroom, creation of an unsafe/unhealthy living environment, new and worsening respiratory symptoms attributed to mold, loss of quiet use and enjoyment, and deprivation of beneficial use \u2014 facts alleging more than a trivial annoyance and thus substantial interference. "
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant had actual notice, refused to remediate or correct ventilation (allowing ongoing mold), and a medical provider linked Plaintiff\u2019s new respiratory problems to mold exposure \u2014 alleging a direct causal link between the landlord\u2019s failure to correct conditions and the interference. "
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages: approximately $60 in out\u2011of\u2011pocket replacement costs, an estimated $250 total damages for loss of use, damaged personal property, medical\u2011related aggravation, plus non\u2011economic harms (loss of quiet enjoyment) \u2014 sufficient pleading of damages."
+    }
+  }
+}

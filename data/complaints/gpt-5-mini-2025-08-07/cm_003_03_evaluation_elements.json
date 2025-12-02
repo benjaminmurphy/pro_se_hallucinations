@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_003_03.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies a prior May 15, 2021 court order awarding shared legal custody and primary physical custody to Petitioner with weekend visitation for Respondent (the \u201cMay 15, 2021 Order\u201d), which is sufficient to establish an existing custody order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint requests concrete changes: immediate suspension/conditioning of Respondent\u2019s unsupervised overnight parenting time, supervised overnight visitation or other conditions, and related investigative/ protective measures (enumerated in \u00b64.2, \u00b67.1 and the prayer), which adequately specifies the relief sought."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads factual changes since the 2021 order\u2014child statements about Respondent\u2019s use/provision of \u201cspecial drinks\u201d and impairment, a neighbor\u2019s video of Respondent stumbling while handling the child, and repeated school reports of the child being exhausted after weekends with Respondent\u2014which together are pleaded as affecting the child\u2019s safety, health, and welfare and thus constitute a material and substantial change."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint links the alleged changed circumstances to a present risk of physical harm and impaired welfare for the child, and requests protective measures (suspension of overnights, supervised visits, testing, assessments) aimed at safeguarding the child\u2019s safety and welfare, thereby alleging that the modification is necessary in the child\u2019s best interests."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_002_04.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges defendant frequented a public park with posted leash signs and explicitly pleads that defendant owed lawful users a duty to exercise reasonable care (para.16). Facts that defendant regularly brought a large dog, ignored posted leash rules, and was in a public path context sufficiently alleges a duty to control the animal."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific facts showing failure to meet that duty: defendant allowed the dog off\u2011leash, had the leash slung over his shoulder, was 30 feet away and not controlling the dog, and made no effective effort to secure it (paras.7\u20139, 17). Those factual allegations adequately plead breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the dog suddenly charged toward plaintiff, causing her to swerve off the path and trip over a raised root, fracturing her wrist (paras.9\u201311). Those allegations sufficiently plead that but for the dog\u2019s approach (attributable to defendant\u2019s failure to control it) the fall and injury would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the harm was a foreseeable result of the defendant\u2019s conduct: an unleashed, large dog charging a park user could reasonably cause the user to take evasive action and fall (paras.16, 18). Those allegations adequately plead proximate causation/foreseeability."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies concrete damages: fractured wrist, emergency and follow\u2011up treatment, ~ $4,500 in medical expenses, ~ $1,200 lost wages, and non\u2011economic harms including pain and suffering (paras.11, 14). These allegations adequately plead actual damages."
+    }
+  }
+}

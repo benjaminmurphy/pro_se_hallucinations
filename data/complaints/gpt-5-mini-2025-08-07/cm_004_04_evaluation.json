@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_004_04.txt",
+  "scenario_id": "cm_004_04",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "the UCCJEA as codified in Massachusetts.": {
+      "raw_text": "the UCCJEA as codified in Massachusetts.",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action under the Massachusetts statutes governing custody, visitation and child-related orders, and under the UCCJEA as codified in Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208 (statutes governing divorce, custody, and related domestic relations matters), including the provisions authorizing modification of custody/parenting orders where circumstances materially change.": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (statutes governing divorce, custody, and related domestic relations matters), including the provisions authorizing modification of custody/parenting orders where circumstances materially change.",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 208 (statutes governing divorce, custody, and related domestic relations matters), including the provisions authorizing modification of custody/parenting orders where circumstances materially change.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act).": {
+      "raw_text": "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act).",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_009_06.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 3 plainly alleges a prior court custody order dated April 15, 2019 granting Plaintiff primary physical custody and Defendant alternating weekends plus a midweek Wednesday overnight (the \u201c2019 Order\u201d)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Paragraph 6 requests elimination of the Defendant\u2019s midweek Wednesday overnight and adjustment/consolidation of weekend parenting time or alternative pick-up/return arrangements to avoid school-night travel (see 6(a)\u2013(b))."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 4(b)\u2013(f) allege that since the 2019 Order the Defendant relocated ~90 miles to Cape Cod, continues to exercise the midweek overnight requiring lengthy round trips that wake the child at ~4:30 a.m., and that this change has caused the child consistent exhaustion and a measurable drop in school participation\u2014facts alleged as not present or foreseeable at the time of the original order. Those factual allegations adequately plead a material and substantial change in circumstances. "
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 4(d)\u2013(f), 5(a) and the requested relief in 6 tie the alleged change (sleep deprivation, reduced classroom participation) to the child\u2019s health, education and welfare and seek relief to stop the harmful midweek travel. Those allegations sufficiently plead that the proposed modification is necessary in the child\u2019s best interests."
+    }
+  }
+}

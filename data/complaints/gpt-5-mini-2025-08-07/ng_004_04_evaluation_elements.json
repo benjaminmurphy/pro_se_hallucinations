@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_004_04.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned and controlled the three-unit building and the exterior sidewalk adjacent to it, and expressly pleads a duty to maintain safe conditions for lawful visitors (see paras. 6, 7, 15, 17). Those factual allegations are sufficient to plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific acts/omissions constituting breach: Defendant (or her agent) shoveled only a narrow path and did not apply salt/sand/ice-melt, allowed the path to refreeze into a sheet of ice, failed to warn, and failed to act after tenant texts/photographs (see paras. 8\u201310, 18). These factual allegations adequately plead a breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff was lawfully walking, stepped on the icy patch created/maintained by Defendant\u2019s conduct, slipped and fell, and would not have fallen but for the hazardous icy condition and Defendant\u2019s failure to remedy it (see paras. 11, 13). These allegations sufficiently plead but\u2011for causation."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the hazardous icy condition was a foreseeable result of Defendant\u2019s failure to treat the sidewalk, that Defendant had actual/constructive notice, and that the fall and injuries were direct and foreseeable consequences of that negligence (see paras. 9\u201311, 13\u201314, 19). Those facts adequately plead proximate causation/foreseeability."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete economic and non\u2011economic damages: medical treatment for a lower back injury (\u2248$2,500), lost wages (\u2248$1,000), ongoing pain and suffering, and other harms (see paras. 12, 20). Those allegations sufficiently plead actual damages."
+    }
+  }
+}

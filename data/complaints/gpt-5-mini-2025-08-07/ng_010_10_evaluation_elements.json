@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_010_10.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant is owner/occupant of the property with a tree whose branch extended over the public sidewalk and explicitly pleads the landowner\u2019s duty to exercise reasonable care toward lawful users of the adjacent sidewalk (\u00b6\u00b63,6\u20139,15,22). Those factual allegations adequately plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the branch showed obvious decay, neighbors informed Defendant, Defendant said he would \"deal with it in the spring,\" and he failed to inspect, remove, or warn (\u00b6\u00b68\u20139,16\u201317,23). Those facts sufficiently allege a breach of the duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that because Defendant failed to remediate or warn about the decayed branch, the branch fractured and fell during a routine storm and struck Plaintiff, and asserts that but for Defendant\u2019s failure the branch would not have fallen on Plaintiff (\u00b6\u00b610,18). Those allegations sufficiently plead but\u2011for causation."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the branch extended over the sidewalk, its dangerous condition was obvious and known to Defendant, and a falling branch striking a pedestrian is a foreseeable consequence; it expressly alleges the injuries were a direct and proximate result of Defendant\u2019s failure to act (\u00b6\u00b67\u201311,16,19,18). These facts adequately plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific physical injuries (shoulder strain, bruises), medical treatment and approximately $2,500 in medical expenses, approximately $600 in lost wages, and pain and suffering and other non\u2011economic losses (\u00b6\u00b611\u201313,20,25). Those allegations sufficiently plead damages."
+    }
+  }
+}

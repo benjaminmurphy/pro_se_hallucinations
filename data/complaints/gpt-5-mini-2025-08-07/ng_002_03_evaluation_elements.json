@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_002_03.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads that the park had posted leash signage (\u00b62.2) and expressly alleges Defendant, as owner/controller of the dog, owed a duty to persons lawfully using the park to exercise reasonable care, keep the dog under control, and comply with leash rules (\u00b63.2). These factual allegations are sufficient to establish a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete facts showing breach: Defendant regularly permits the dog to run loose despite the leash requirement (\u00b62.3), on the day in question had the leash over his shoulder but not attached and the dog off-leash (\u00b62.4), the dog charged at Plaintiff (\u00b62.5), and Defendant failed to secure or call the dog back until after Plaintiff fell (\u00b62.8). These allegations adequately describe conduct that breached the duty alleged (\u00b63.3)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the dog charged Plaintiff and, to avoid being bitten, Plaintiff swerved off the path, tripped over a tree root, and fell, sustaining a broken wrist (\u00b62.5\u20132.7). Those allegations state that but for Defendant\u2019s allowing the dog to run loose/charge, Plaintiff would not have taken evasive action and would not have fallen and been injured."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads proximate causation and foreseeability: it alleges it was foreseeable that permitting a large dog to run loose and charge park users would create a substantial risk that a jogger would take evasive action and suffer injury (\u00b63.4), and it describes the charged sequence of events leading to the injury (\u00b62.4\u20132.7). Those allegations are sufficient to plead proximate cause."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete damages: a broken wrist (\u00b62.7), emergency treatment and medical expenses (~$2,500), lost wages (~$1,200), pain and suffering, and other economic and non-economic losses (\u00b62.10, \u00b63.5). These allegations adequately plead actual damages."
+    }
+  }
+}

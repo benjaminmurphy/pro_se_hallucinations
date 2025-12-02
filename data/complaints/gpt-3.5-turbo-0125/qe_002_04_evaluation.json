@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_002_04.txt",
+  "scenario_id": "qe_002_04",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 6,
+  "case_citations": 3,
+  "statute_citations": 3,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "Massachusetts General Laws Chapter 218, Section 19": {
+      "raw_text": "Massachusetts General Laws Chapter 218, Section 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 218, Section 19 and Massachusetts General Laws Chapter 185C, Section 3.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 185C, Section 3": {
+      "raw_text": "Massachusetts General Laws Chapter 185C, Section 3",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 218, Section 19 and Massachusetts General Laws Chapter 185C, Section 3.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 223A, Section 3": {
+      "raw_text": "Massachusetts General Laws Chapter 223A, Section 3",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in this district pursuant to Massachusetts General Laws Chapter 223A, Section 3.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973)": {
+      "raw_text": "Boston Housing Authority v. Hemingway, 363 Mass. 184 (1973)",
+      "citation_type": "case",
+      "proposition": "A breach occurs when a landlord substantially interferes with a tenant's use and enjoyment of the leased premises.",
+      "is_valid": true,
+      "courtlistener_id": "2000597",
+      "case_name": "Boston Housing Authority v. Hemingway",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "medium",
+      "support_reasoning": "This concurring/dissenting opinion discusses implied warranty of habitability, code violations, and interdependence of rent and repair obligations, but it does not articulate the general contract rule that a breach occurs when a landlord substantially interferes with the tenant\u2019s use and enjoyment. The focus is on statutory and code-based minimum standards and rent abatement, not on defining breach in terms of substantial interference with use and enjoyment. Any connection to that proposition would be inferential rather than directly stated or held.",
+      "relevant_excerpt": "\"The second step required for the removal of the roadblock is the reversal of the present common law rule that the obligation of the tenant to pay rent and the obligation, if any, of the landlord to repair or maintain the rented premises are independent, and the substitution therefor of a new rule that such obligations are substantially mutually interdependent. The opinion of the court accomplishes this.\""
+    },
+    "Darmetko v. Boston Housing Authority, 378 Mass. 758 (1979)": {
+      "raw_text": "Darmetko v. Boston Housing Authority, 378 Mass. 758 (1979)",
+      "citation_type": "case",
+      "proposition": "A breach occurs when a landlord substantially interferes with a tenant's use and enjoyment of the leased premises.",
+      "is_valid": true,
+      "courtlistener_id": "2083013",
+      "case_name": "Darmetko v. Boston Housing Authority",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "medium",
+      "support_reasoning": "The case discusses that the leaky roof \"interfered with the plaintiff\u2019s quiet enjoyment\" and treats that as a violation of G.L. c. 186, \u00a7 14, but it does not articulate a general rule that a \"breach occurs when a landlord substantially interferes\" with use and enjoyment. The opinion assumes, rather than analyzes, that the interference constitutes a breach, and focuses instead on the proper measure of damages, overlapping remedies, and attorney\u2019s fees. Thus it is weak authority for the specific, generalized proposition stated.",
+      "relevant_excerpt": "The judge further ruled that the leaks in the roof (but not the defective floors) interfered with the plaintiff\u2019s quiet enjoyment of the leased premises. Because of this interference, and based on his reading of G. L. c. 186, \u00a7 14, the judge ruled that the plaintiff was entitled to an additional $5,358... The BHA does not challenge the judge\u2019s conclusion that its failures to repair the leaky roof and the defective floors were breaches of its implied warranty of habitability or his determination that the leaky roof interfered with the plaintiff\u2019s quiet enjoyment of the leased premises."
+    },
+    "Gnerre v. Massachusetts Port Authority, 404 Mass. 512 (1989)": {
+      "raw_text": "Gnerre v. Massachusetts Port Authority, 404 Mass. 512 (1989)",
+      "citation_type": "case",
+      "proposition": "A breach occurs when a landlord substantially interferes with a tenant's use and enjoyment of the leased premises.",
+      "is_valid": true,
+      "courtlistener_id": "2008864",
+      "case_name": "Frontier Enterprises, Inc. v. Anchor Co. of Marblehead",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion is about attorney liability for conversion of funds subject to a security interest and the definitions of escrow agents and account debtors under the UCC. It does not involve a landlord-tenant relationship, nor does it address what constitutes a breach by a landlord or interference with a tenant\u2019s use and enjoyment of leased premises. Therefore it provides no authority for the stated landlord-tenant proposition.",
+      "relevant_excerpt": "We first consider Mr. Levin\u2019s arguments that the judge erred in finding that he acted as an escrow agent or an account debtor under the sales agreement. We conclude that Mr. Levin received the $45,000, not as an escrow agent or an account debtor, but merely in his capacity as attorney for the sellers, Anchor-Marblehead and the Davekoses."
+    }
+  }
+}

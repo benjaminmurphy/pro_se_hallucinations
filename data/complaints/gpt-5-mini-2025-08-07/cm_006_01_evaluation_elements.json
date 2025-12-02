@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_006_01.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 3.1\u20133.2 expressly allege an Existing Order entered May 15, 2021, identifying Plaintiff as primary physical custodian and Defendant\u2019s alternating-weekend and one midweek visitation schedule."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The prayer for relief (A\u2013G) specifies concrete modifications: prohibiting the cohabitant\u2019s presence during parenting time, requiring supervised visitation (or converting existing visits to supervised only), supervised exchanges, counseling, evaluations, and temporary protective measures."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 4.1\u20134.6 and 6.2 set forth factual allegations of changed circumstances since the Existing Order: Defendant\u2019s new cohabitation with a person alleged to have an assault conviction and prior restraining order; repeated loud, threatening arguments witnessed by the children; a reported incident leaving a visible mark on a child; and a police response to a disturbance. Those allegations plausibly allege a material and substantial change affecting the children\u2019s welfare and safety."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 4.6, 5.2 and 6.3 explicitly allege that the changes pose present and continuing risks to the children\u2019s physical and emotional safety and that modification (including supervised visitation or exclusion of the cohabitant) is necessary to protect the children and serve their best interests, with specific factual support (children\u2019s fear, physical injury, police involvement, cohabitant\u2019s history)."
+    }
+  }
+}

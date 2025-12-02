@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_010_01.txt",
+  "scenario_id": "ng_010_01",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 260, \u00a7 2A (statute of limitations for actions of tort for personal injuries).": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A (statute of limitations for actions of tort for personal injuries).",
+      "citation_type": "statute",
+      "proposition": "To establish the foregoing claim of negligence, Plaintiff relies upon the Massachusetts statutory and common law principles governing negligence and premises maintenance/duty of care, including but not limited to the following authorities and authorities of general application in Massachusetts and elsewhere recognizing the duty of landowners to exercise reasonable care to prevent foreseeable harm to persons legally on or adjacent to their property:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 84 (statutes concerning highways and sidewalks generally; see especially provisions relating to responsibilities and liabilities arising from sidewalks abutting private property).": {
+      "raw_text": "Mass. Gen. Laws ch. 84 (statutes concerning highways and sidewalks generally; see especially provisions relating to responsibilities and liabilities arising from sidewalks abutting private property).",
+      "citation_type": "statute",
+      "proposition": "To establish the foregoing claim of negligence, Plaintiff relies upon the Massachusetts statutory and common law principles governing negligence and premises maintenance/duty of care, including but not limited to the following authorities and authorities of general application in Massachusetts and elsewhere recognizing the duty of landowners to exercise reasonable care to prevent foreseeable harm to persons legally on or adjacent to their property:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 231, general provisions governing civil actions and procedure.": {
+      "raw_text": "Mass. Gen. Laws ch. 231, general provisions governing civil actions and procedure.",
+      "citation_type": "statute",
+      "proposition": "To establish the foregoing claim of negligence, Plaintiff relies upon the Massachusetts statutory and common law principles governing negligence and premises maintenance/duty of care, including but not limited to the following authorities and authorities of general application in Massachusetts and elsewhere recognizing the duty of landowners to exercise reasonable care to prevent foreseeable harm to persons legally on or adjacent to their property:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

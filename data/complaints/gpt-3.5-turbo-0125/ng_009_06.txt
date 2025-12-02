@@ -1,0 +1,73 @@
+[Your Name]
+[Your Address]
+[City, State, Zip Code]
+[Phone Number]
+[Email Address]
+
+IN THE DISTRICT COURT OF LYNN
+[Judicial District]
+[Your Name],    
+Plaintiff
+
+v.
+
+FRANKLIN PROPERTIES, LLC,
+Defendant.
+
+COMPLAINT
+
+Now comes the Plaintiff, [Your Name], and for her Complaint against Defendant, Franklin Properties, LLC, alleges as follows:
+
+PARTIES
+
+1. Plaintiff, [Your Name], is an individual residing at [Your Address], Lynn, Massachusetts.
+
+2. Defendant, Franklin Properties, LLC, is a limited liability company doing business in Massachusetts and is the owner of the residential apartment building located at 23 Maple Street, Lynn, MA.
+
+FACTUAL ALLEGATIONS
+
+3. On September 1, 2023, at 23 Maple Street, Lynn, MA, Defendant had a duty to maintain smoke detectors in the common hallways of the apartment building in compliance with Massachusetts Fire Code [M.G.L. c. 148, § 26F]. 
+
+4. Despite Plaintiff's repeated notifications to Defendant that the smoke detector outside her unit was non-functional due to a low battery, Defendant failed to promptly address the issue and allowed the smoke detector to remain inoperable for an extended period.
+
+5. On the night of September 1, 2023, a fire broke out in a first-floor apartment at the building, triggering a smoke-filled environment in the common hallway due to the non-functional smoke detector.
+
+6. As a result of the lack of warning from the non-functional smoke detector, Plaintiff was exposed to smoke inhalation and respiratory distress, requiring her to seek medical treatment at the hospital, incurring approximately $4,200 in medical expenses, and losing $1,500 in wages.
+
+7. The failure of Defendant to maintain and repair the smoke detector in the common hallway directly resulted in the harm suffered by Plaintiff.
+
+CAUSE OF ACTION - NEGLIGENCE
+
+8. Defendant owed Plaintiff a duty to maintain a reasonable standard of care in providing a safe and habitable living environment, including functioning smoke detectors in common areas, which duty was breached by Defendant.
+
+9. Defendant's breach of duty through its negligent failure to repair and maintain the smoke detector directly caused the injuries and damages sustained by Plaintiff.
+
+10. The actions of Defendant constitute negligence under Massachusetts common law and statutory law, including M.G.L. c. 186, § 15B.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in her favor against Defendant, Franklin Properties, LLC, as follows:
+
+a. Compensatory damages in the amount of $5,700 for medical expenses and lost wages;
+b. Any additional compensatory damages as deemed just by the Court;
+c. Prejudgment and post-judgment interest as allowed by law;
+d. Costs and fees incurred in prosecuting this action; and
+e. Any further relief as the Court may deem just and proper.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff demands a trial by jury on all triable issues.
+
+Respectfully submitted,
+
+[Your Signature]
+
+[Your Name]
+Plaintiff, Pro Se
+[Date]
+
+CERTIFICATE OF SERVICE
+
+I certify that a true and correct copy of this Complaint was served on Defendant by [method of service] on [date].
+
+[Your Name]

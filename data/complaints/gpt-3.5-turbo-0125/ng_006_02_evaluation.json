@@ -1,0 +1,41 @@
+{
+  "complaint_file": "ng_006_02.txt",
+  "scenario_id": "ng_006_02",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 2,
+  "statute_citations": 0,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Garrity v. Daly, 389 Mass. 21 (1983)": {
+      "raw_text": "Garrity v. Daly, 389 Mass. 21 (1983)",
+      "citation_type": "case",
+      "proposition": "Plaintiff alleges that Defendant's actions constitute negligence under Massachusetts law by failing to exercise reasonable care in opening the car door in a manner that endangered passing bicyclists.",
+      "is_valid": true,
+      "courtlistener_id": "2080231",
+      "case_name": "Moore v. Moore",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Garrity v. Daly (actually Moore v. Moore based on the text) concerns the enforceability and survival of a separation agreement in relation to a probate divorce decree. It does not address tort law, the duty of care in opening car doors, or negligence toward bicyclists. Therefore, it does not provide any authority for the proposition that a defendant was negligent under Massachusetts law for failing to exercise reasonable care when opening a car door near passing bicyclists.",
+      "relevant_excerpt": "\u201cThe primary issue before us is whether the language in the decree that the separation agreement shall not survive the decree operated to dissolve the agreement; or whether the expressed intent of the parties that the agreement survive the decree should control.\u201d"
+    },
+    "Green v. Boston and Worcester St. Ry. Co., 201 Mass. 241 (1909)": {
+      "raw_text": "Green v. Boston and Worcester St. Ry. Co., 201 Mass. 241 (1909)",
+      "citation_type": "case",
+      "proposition": "Plaintiff alleges that Defendant's actions constitute negligence under Massachusetts law by failing to exercise reasonable care in opening the car door in a manner that endangered passing bicyclists.",
+      "is_valid": true,
+      "courtlistener_id": "6556821",
+      "case_name": "Hulbert v. National Dock & Warehouse Co.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion does not address negligence in the operation of a streetcar or the duty of reasonable care in opening a car door toward passing bicyclists. Instead, the case concerns the validity of a release signed by a plaintiff injured by a falling bale of wool and focuses on fraud and misrepresentation in procuring that release. There is no discussion of the standard of care for opening doors or of endangering bicyclists, so the citation does not support the stated negligence proposition.",
+      "relevant_excerpt": "This is an action for personal injuries received by the fall of a bale of wool upon the plaintiff while he was at work loading his team at the defendant\u2019s warehouse. \u2026 The main question is as to the validity of the release produced by the defendant. If the plaintiff is bound by that release then he has no case. \u2026 But the case does not rest here. The plaintiff made one other claim, and that was that the release was obtained by the fraudulent representations and deceit of the defendant, its servant or servants."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_006_06.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owed a duty of reasonable care to other roadway users, including bicyclists, and specifies the duty not to open a vehicle door into moving traffic/bike lanes. These factual allegations are sufficient to plead duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific conduct\u2014Defendant stopped adjacent to the bike lane and opened the driver\u2019s door suddenly without looking and while distracted by his phone\u2014adequately describing a breach of the alleged duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that as Plaintiff lawfully rode in the bike lane he struck the edge of the door Defendant opened, was thrown from his bicycle, and would not have been injured but for Defendant opening the door into the bike lane, which adequately pleads but-for causation."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the injuries were a direct and proximate result of Defendant\u2019s conduct (opening the door into the bike lane) and such harm is a foreseeable consequence of that conduct; these facts adequately plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages: road rash, a chipped tooth, medical expenses (~$1,500), lost wages (~$800), and bicycle damage/replacement costs, satisfying the damages element."
+    }
+  }
+}

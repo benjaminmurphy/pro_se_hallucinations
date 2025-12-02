@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_008_05.txt",
+  "scenario_id": "qe_008_05",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 1,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 239": {
+      "raw_text": "Mass. Gen. Laws ch. 239",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction and venue are proper in this Court because the Premises are located in Chelsea, Massachusetts and the events giving rise to this Complaint occurred in Chelsea.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186": {
+      "raw_text": "Mass. Gen. Laws ch. 186",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction and venue are proper in this Court because the Premises are located in Chelsea, Massachusetts and the events giving rise to this Complaint occurred in Chelsea.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071, 1076\u201377 (D.C. Cir. 1970)": {
+      "raw_text": "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071, 1076\u201377 (D.C. Cir. 1970)",
+      "citation_type": "case",
+      "proposition": "The covenant of quiet enjoyment is implied in every tenancy and protects tenants from landlord conduct that substantially interferes with or deprives the tenant of the beneficial use and enjoyment of the leased premises.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 et seq.": {
+      "raw_text": "105 CMR 410.000 et seq.",
+      "citation_type": "statute",
+      "proposition": "The covenant of quiet enjoyment is implied in every tenancy and protects tenants from landlord conduct that substantially interferes with or deprives the tenant of the beneficial use and enjoyment of the leased premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A, \u00a7 2": {
+      "raw_text": "Mass. Gen. Laws ch. 93A, \u00a7 2",
+      "citation_type": "statute",
+      "proposition": "The covenant of quiet enjoyment and landlord duties are grounded in Massachusetts law, state regulations, and persuasive authority recognizing landlords\u2019 obligations to maintain safe and usable premises and to remedy conditions that materially interfere with tenants\u2019 enjoyment.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

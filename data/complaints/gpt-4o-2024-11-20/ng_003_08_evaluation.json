@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_003_08.txt",
+  "scenario_id": "ng_003_08",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 3,
+  "statute_citations": 2,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "G.L. c. 212, \u00a7 4": {
+      "raw_text": "G.L. c. 212, \u00a7 4",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction under G.L. c. 212, \u00a7 4 because this matter involves a civil action where the damages exceed $25,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in this Court pursuant to G.L. c. 223, \u00a7 1, because the events giving rise to this action occurred in Lowell, Massachusetts, within Middlesex County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mounsey v. Ellard, 363 Mass. 693, 707 (1973)": {
+      "raw_text": "Mounsey v. Ellard, 363 Mass. 693, 707 (1973)",
+      "citation_type": "case",
+      "proposition": "Defendant owed a duty of care to invitees, including Plaintiff, to maintain its premises in a reasonably safe condition, to implement reasonable safety measures, and to protect customers from foreseeable risks of injury.",
+      "is_valid": true,
+      "courtlistener_id": "2031209",
+      "case_name": "Mounsey v. Ellard",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "low",
+      "support_reasoning": "The provided excerpt is a concurring opinion focused on criticizing the continued use of trespasser/licensee/invitee classifications. It does not state or discuss a specific duty of care owed to invitees or customers, nor does it address maintaining premises in a reasonably safe condition or implementing safety measures. While the main Mounsey opinion is well-known for expanding occupiers\u2019 duties, this particular quoted passage does not itself support the detailed proposition given.",
+      "relevant_excerpt": "\"The court holds that the measure of responsibility of an occupier should no longer depend on whether the injured person is characterized as a 'licensee' rather than an 'invitee,' or vice versa; the question is to turn on other, more vital factors. But footnote 7 seems to say that 'trespassers' stand apart, that that characterization is to remain decisive or highly influential.\""
+    },
+    "Sheehan v. Roche Bros. Supermarkets, Inc., 448 Mass. 780, 785 (2007)": {
+      "raw_text": "Sheehan v. Roche Bros. Supermarkets, Inc., 448 Mass. 780, 785 (2007)",
+      "citation_type": "case",
+      "proposition": "Defendant had constructive, if not actual, knowledge of the hazardous stacking practices within its store and failed to take action to mitigate the risk, which constitutes negligence.",
+      "is_valid": true,
+      "courtlistener_id": "6579512",
+      "case_name": "Sheehan v. Roche Bros. Supermarkets, Inc.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion does not find that the defendant had constructive or actual knowledge of a specific hazardous stacking practice in its store. Instead, the court adopts the mode-of-operation doctrine and holds that the defendant had notice of the inherent risks associated with its self-service operation generally, which satisfies the notice element without proof of actual or constructive knowledge of the particular grape or display. The proposition mischaracterizes the holding as a traditional constructive-knowledge finding about stacking practices, which this case expressly moves away from.",
+      "relevant_excerpt": "\u201cIn sum, the adoption of the mode of operation approach will not modify the general rule governing premises liability requiring a plaintiff to prove that an owner had either actual or constructive notice of an unsafe condition on the premises. However, if a plaintiff proves that an unsafe condition on an owner\u2019s premises exists that was reasonably foreseeable, resulting from an owner\u2019s self-service business or mode of operation, and the plaintiff slips as a result of the unsafe condition, the plaintiff will satisfy the notice requirement.\u201d"
+    },
+    "Papadopoulos v. Target Corp., 457 Mass. 368, 383 (2010)": {
+      "raw_text": "Papadopoulos v. Target Corp., 457 Mass. 368, 383 (2010)",
+      "citation_type": "case",
+      "proposition": "It was reasonably foreseeable that improperly stacked merchandise could fall and injure customers, such as the Plaintiff.",
+      "is_valid": true,
+      "courtlistener_id": "2483064",
+      "case_name": "Papadopoulos v. Target Corporation",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion concerns premises liability for slip-and-fall injuries on snow and ice in a parking lot, and whether to abolish the natural/unnatural accumulation distinction. It does not address falling or improperly stacked merchandise, nor does it discuss foreseeability of merchandise falling on customers. Using this case to support a proposition about foreseeability of injuries from falling merchandise is therefore inaccurate and out of context.",
+      "relevant_excerpt": "\u201cWe now will apply to hazards arising from snow and ice the same obligation that a property owner owes to lawful visitors as to all other hazards: a duty to \u2018act as a reasonable person under all of the circumstances including the likelihood of injury to others, the probable seriousness of such injuries, and the burden of reducing or avoiding the risk.\u2019\u201d"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**SPRINGFIELD DIVISION**  
+**DISTRICT COURT DEPARTMENT**
+
+---
+
+**Jessica Li,**  
+Plaintiff,  
+v.                                                  Civil Action No. _______
+
+**Thomas Reed,**  
+Defendant.
+
+---
+
+### COMPLAINT  
+(Breach of Covenant of Quiet Enjoyment — G.L. c. 186, §14)
+
+---
+
+### I. PARTIES
+
+1.  Plaintiff **Jessica Li** (“Plaintiff”) is an individual residing at 123 Maple Street, Apartment 2, Springfield, Hampden County, Massachusetts.  
+2.  Defendant **Thomas Reed** (“Defendant”) is an individual residing in or doing business in Massachusetts as the owner and landlord of the premises located at 123 Maple Street, Springfield, Massachusetts (the “Premises”).
+
+---
+
+### II. JURISDICTION AND VENUE
+
+3.  This Court has jurisdiction under **G.L. c. 218, § 19** and **G.L. c. 185C, § 3**, because the amount in controversy is less than $25,000 and the property that is the subject of this action is located within this judicial district.  
+4.  Venue is proper in the **Springfield District Court** pursuant to **Mass. R. Civ. P. 3(c)** and **G.L. c. 223, §§ 1–2**, as the cause of action arose in Springfield.
+
+---
+
+### III. FACTUAL ALLEGATIONS
+
+5.  On or about **January 15, 2022**, Plaintiff and Defendant entered into a residential lease for a two‑bedroom apartment located at **123 Maple Street, Springfield, MA 01103**.  
+6.  Plaintiff has paid rent of **$1,200 per month** consistently through the present and has fully complied with all obligations under the lease.  
+7.  Beginning approximately **six weeks prior to December 1, 2025**, one bedroom in the Premises lost all electrical power. The outlets and overhead lighting fixture in that bedroom ceased to function.  
+8.  Plaintiff promptly notified Defendant of the defect. Defendant arranged for an electrician to inspect the wiring, who determined that the defect required a more extensive repair involving the building’s electrical system.  
+9.  Defendant has repeatedly informed Plaintiff that he is “seeking quotes” but has failed to undertake the necessary repair, leaving one portion of the apartment uninhabitable for nearly a month and a half.  
+10.  As a direct result, Plaintiff has been unable to use that bedroom, which had served as her home office.  
+11.  Plaintiff has incurred **out‑of‑pocket expenses** of approximately **$15 per day** in coffee and food while working from coffee shops and has purchased a **coworking membership costing $150 per month**.  
+12.  Plaintiff’s living space is severely disrupted and overcrowded due to the relocation of office equipment into the living room, materially impairing the use and enjoyment of the Premises.  
+13.  Despite multiple notices and reasonable opportunities, Defendant has failed to restore electrical service to the affected bedroom.  
+14.  The condition of the Premises violates **Massachusetts law** requiring landlords to maintain residential dwellings in habitable condition. See **G.L. c. 186, § 14**, and **G.L. c. 239, § 8A**.  
+15.  Defendant’s inaction has substantially interfered with Plaintiff’s quiet enjoyment of the Premises.
+
+---
+
+### IV. CAUSE OF ACTION  
+**Breach of Covenant of Quiet Enjoyment**  
+(*G.L. c. 186, § 14*)
+
+16.  Plaintiff realleges and incorporates by reference Paragraphs 1 through 15.  
+17.  Under **G.L. c. 186, § 14**, a landlord shall not “directly or indirectly interfere with the tenant’s quiet enjoyment of the premises.”  
+18.  Massachusetts recognizes both an **implied covenant of quiet enjoyment** in every residential lease and a **statutory remedy** for its violation. *See* **Doe v. New Bedford Hous. Auth., 417 Mass. 273 (1994)**; **Simon v. Solomon, 385 Mass. 91 (1982)**.  
+19.  A substantial interference with the tenant’s use of the leased premises can constitute a breach of the covenant of quiet enjoyment, even absent intentional misconduct. *See* **Al-Ziab v. Mourgis, 424 Mass. 847 (1997)**; **Blackett v. Olanoff, 371 Mass. 714 (1977)**.  
+20.  Defendant’s failure to restore electricity constitutes a “serious interference” with Plaintiff’s right to a habitable and functional dwelling. *See* **Berman v. Sitrin, 67 Mass. App. Ct. 240 (2006)** (landlord’s failure to repair conditions interfering with use of apartment violated covenant of quiet enjoyment).  
+21.  Electrical service is an essential facility required for habitability. *See* **Boston Hous. Auth. v. Hemingway, 363 Mass. 184 (1973)** (defining habitability to include heat, water, light, and freedom from serious defects).  
+22.  A landlord may not delay necessary repairs so as to effectively deprive a tenant of use of a portion of the dwelling. *See* **Fiorillo v. Winiker, 356 Mass. 96 (1969)**.  
+23.  The Defendant’s conduct constitutes a constructive interruption of use and enjoyment prohibited by the statute. *See* **Young v. Patukonis, 24 Mass. App. Ct. 907 (1987)**.  
+24.  Plaintiff has suffered damages as a foreseeable and direct result of Defendant’s breach, including out‑of‑pocket costs, inconvenience, and loss of use of one bedroom.  
+25.  Pursuant to **G.L. c. 186, § 14**, Plaintiff is entitled to recover actual and consequential damages, reasonable attorney’s fees and costs (even though self‑represented), and not less than three months’ rent as statutory damages if the interference is found to be willful or knowing.  
+26.  Defendant’s prolonged delay after notice constitutes a knowing and willful interference within the meaning of § 14. *See* **Cruz Mgmt. Co. v. Thomas, 417 Mass. 782 (1994)**; **Guzman v. Pring-Wilson, 81 Mass. App. Ct. 430 (2012)** (landlords responsible for maintaining essential services).
+
+---
+
+### V. DAMAGES
+
+27.  Plaintiff has suffered approximately **$450** in documented costs for alternative workspace and related expenses.  
+28.  Plaintiff also seeks the statutory minimum damages authorized under **G.L. c. 186, § 14** should the Court find Defendant’s conduct to be willful or reckless.
+
+---
+
+### VI. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff **Jessica Li** respectfully requests that this Honorable Court enter judgment in her favor and grant the following relief:
+
+A.  An award of **compensatory damages** in the amount of not less than **$450** for expenses and loss of use;  
+B.  If appropriate, **statutory damages** of three months’ rent pursuant to **G.L. c. 186, § 14**;  
+C.  Reasonable **costs** of this action and such attorney’s fees as may be allowable to a pro se litigant under Massachusetts law;  
+D.  **Injunctive relief** ordering Defendant to promptly restore electrical service to the affected bedroom; and  
+E.  Any other relief that the Court deems just and proper.
+
+---
+
+### VII. JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+---
+
+### Respectfully submitted,
+
+**Jessica Li**  
+Plaintiff, pro se  
+123 Maple Street, Apt. 2  
+Springfield, MA 01103  
+Tel: (617) 555‑0123  
+Email: psm1433@gmail.com  
+
+Date: **December 1, 2025**
+
+---
+
+### Authorities Cited
+- G.L. c. 186, § 14  
+- G.L. c. 239, § 8A  
+- G.L. c. 218, § 19  
+- G.L. c. 185C, § 3  
+- *Boston Hous. Auth. v. Hemingway*, 363 Mass. 184 (1973)  
+- *Blackett v. Olanoff*, 371 Mass. 714 (1977)  
+- *Simon v. Solomon*, 385 Mass. 91 (1982)  
+- *Al‑Ziab v. Mourgis*, 424 Mass. 847 (1997)  
+- *Doe v. New Bedford Hous. Auth.*, 417 Mass. 273 (1994)  
+- *Berman v. Sitrin*, 67 Mass. App. Ct. 240 (2006)  
+- *Cruz Mgmt. Co. v. Thomas*, 417 Mass. 782 (1994)  
+- *Young v. Patukonis*, 24 Mass. App. Ct. 907 (1987)  
+- *Fiorillo v. Winiker*, 356 Mass. 96 (1969)  
+- *Guzman v. Pring‑Wilson*, 81 Mass. App. Ct. 430 (2012)*  
+
+---
+
+*(End of Complaint)*

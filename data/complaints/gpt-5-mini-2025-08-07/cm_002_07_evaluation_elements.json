@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_002_07.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges a final custody/visitation order entered May 15, 2021 (the \"Existing Order\") under which Plaintiff has primary physical custody and Defendant has Wednesday overnights and every-other-weekend parenting time (\u00b63.1)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies concrete changes requested: elimination of Wednesday overnights, revised weekend exchanges (Option A or B), telephonic/video contact/makeup time provisions, and a relocation/notice requirement (\u00b67.1(a)\u2013(d), Prayer \u00b6B\u2013D)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a clear material and substantial change: Defendant intends to relocate to New Hampshire causing roughly 90\u2011minute one\u2011way travel for midweek visits, resulting in lengthy midweek travel, early morning returns, disruption of school/after\u2011school activities, and increased anxiety for the child\u2014facts pled as not contemplated by the Existing Order (\u00b65.2\u20135.4, \u00b68.1\u20138.3)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint ties the alleged change to the child's best interests by alleging specific harmful impacts (school attendance and performance risk, loss of extracurricular participation, sleep disruption, anxiety) and proposes tailored modifications to preserve the parent\u2013child relationship while minimizing educational and emotional harm (\u00b65.3, \u00b67.1, \u00b68.2\u20138.4, Prayer \u00b6A\u2013B)."
+    }
+  }
+}

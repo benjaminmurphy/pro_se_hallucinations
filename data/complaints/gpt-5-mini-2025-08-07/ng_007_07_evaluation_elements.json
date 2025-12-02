@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_007_07.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that Defendant operates the after-school program and was responsible for staffing, supervision, safety policies, and the condition of the gym (\u00b62, \u00b66). Paragraph 14 expressly pleads a duty to exercise reasonable care in supervision and to protect children from foreseeable harm. Those factual allegations adequately plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific breaches: reducing two assigned staff to one and leaving the gym under\u2011supervised (\u00b67, \u00b615(a)); the remaining staff was inattentive and on her cell phone (\u00b68); staff dismissed reports of dangerous rough play and took no effective steps to stop it (\u00b69, \u00b615(b)\u2013(d)). These factual allegations sufficiently plead a breach of the alleged duties."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint links the alleged breaches to the injury: because the gym was under\u2011supervised and staff failed to stop rough play, an older child deliberately tackled the plaintiff\u2019s child, causing him to hit his head and sustain a concussion (\u00b69\u201311, \u00b616). Those allegations, taken as true for pleading purposes, sufficiently allege that the injury would not have occurred but for Defendant\u2019s failure to provide adequate supervision."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the injury was a foreseeable result of permitting older, rougher children to play with younger, smaller children without adequate supervision and failing to stop known dangerous conduct (\u00b66, \u00b69, \u00b615(e), \u00b616). Those facts adequately plead proximate causation/foreseeability."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete damages: medical treatment and a concussion requiring ER care and follow\u2011up (\u00b611); approximately $5,000 in medical expenses and $1,200 in lost wages (\u00b612, \u00b617(a)\u2013(b)); and pain and suffering and other non\u2011economic harms (\u00b612, \u00b617(c)). These allegations adequately plead actual damages."
+    }
+  }
+}

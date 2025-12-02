@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_005_10.txt",
+  "scenario_id": "qe_005_10",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws, Chapter 186 (Landlord and Tenant)": {
+      "raw_text": "Massachusetts General Laws, Chapter 186 (Landlord and Tenant)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on and gives notice of the following legal authorities relevant to the covenant of quiet enjoyment and landlord responsibilities in Massachusetts (this list is illustrative and not exhaustive; Plaintiff reserves the right to rely on additional authorities discovered in litigation):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 239 (Summary Process)": {
+      "raw_text": "Massachusetts General Laws, Chapter 239 (Summary Process)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on and gives notice of the following legal authorities relevant to the covenant of quiet enjoyment and landlord responsibilities in Massachusetts (this list is illustrative and not exhaustive; Plaintiff reserves the right to rely on additional authorities discovered in litigation):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 93A (Consumer Protection \u2014 where applicable facts support unfair or deceptive acts)": {
+      "raw_text": "Massachusetts General Laws, Chapter 93A (Consumer Protection \u2014 where applicable facts support unfair or deceptive acts)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on and gives notice of the following legal authorities relevant to the covenant of quiet enjoyment and landlord responsibilities in Massachusetts (this list is illustrative and not exhaustive; Plaintiff reserves the right to rely on additional authorities discovered in litigation):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws, Chapter 111 (Public Health and Sanitation)": {
+      "raw_text": "Massachusetts General Laws, Chapter 111 (Public Health and Sanitation)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on and gives notice of the following legal authorities relevant to the covenant of quiet enjoyment and landlord responsibilities in Massachusetts (this list is illustrative and not exhaustive; Plaintiff reserves the right to rely on additional authorities discovered in litigation):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000, State Sanitary Code, Minimum Standards of Fitness for Human Habitation (applicable sanitary standards and tenant habitability issues)": {
+      "raw_text": "105 CMR 410.000, State Sanitary Code, Minimum Standards of Fitness for Human Habitation (applicable sanitary standards and tenant habitability issues)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on and gives notice of the following legal authorities relevant to the covenant of quiet enjoyment and landlord responsibilities in Massachusetts (this list is illustrative and not exhaustive; Plaintiff reserves the right to rely on additional authorities discovered in litigation):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Local ordinances and municipal codes addressing noise and nuisance as adopted by the City of Somerville (local enforcement mechanisms and standards)": {
+      "raw_text": "Local ordinances and municipal codes addressing noise and nuisance as adopted by the City of Somerville (local enforcement mechanisms and standards)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on and gives notice of the following legal authorities relevant to the covenant of quiet enjoyment and landlord responsibilities in Massachusetts (this list is illustrative and not exhaustive; Plaintiff reserves the right to rely on additional authorities discovered in litigation):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

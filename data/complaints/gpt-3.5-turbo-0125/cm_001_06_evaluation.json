@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_001_06.txt",
+  "scenario_id": "cm_001_06",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 3,
+  "statute_citations": 1,
+  "valid_citations": 1,
+  "invalid_citations": 2,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "M.G.L. c. 208, \u00a7 28": {
+      "raw_text": "M.G.L. c. 208, \u00a7 28",
+      "citation_type": "statute",
+      "proposition": "Pursuant to M.G.L. c. 208, \u00a7 28, the Court may modify custody orders upon a showing of a substantial and material change in circumstances.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Bower v. Bournay-Bower, 532 Mass. 322 (2017)": {
+      "raw_text": "Bower v. Bournay-Bower, 532 Mass. 322 (2017)",
+      "citation_type": "case",
+      "proposition": "Additionally, relevant case law such as Bower v. Bournay-Bower, 532 Mass. 322 (2017), emphasizes the importance of the child's best interests in custody modification proceedings.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Greenwood v. Greenwood, 426 Mass. 336 (1998)": {
+      "raw_text": "Greenwood v. Greenwood, 426 Mass. 336 (1998)",
+      "citation_type": "case",
+      "proposition": "Other pertinent legal authorities include Greenwood v. Greenwood, 426 Mass. 336 (1998), and Baker v. Baker, 725 N.E.2d 84 (Mass. App. Ct. 2023), which support the modification of custody orders to ensure the children's well-being and safety.",
+      "is_valid": true,
+      "courtlistener_id": "6577497",
+      "case_name": "Lavelle v. Massachusetts Commission Against Discrimination",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The provided excerpt from Greenwood v. Greenwood does not address child custody, modification of custody orders, or standards relating to children\u2019s well-being and safety. Instead, it concerns the right to a jury trial under Article 15 and the distinction between legal and equitable actions, including administrative and workers\u2019 compensation contexts. Thus, this citation does not support the proposition about modification of custody orders.",
+      "relevant_excerpt": "I depart from the court\u2019s suggestion that, if G. L. c. 151B were amended to deprive both complainants and respondents of their jury trial rights, art. 15 would not be offended. I do not read the Commonwealth precedents as supportive of the court\u2019s position. The deprivation of art. 15 rights for both parties in those cases was predicated, at least in part, on the fact that the causes of action at issue were not analogous to those traditionally treated as actions at law. Dalis v. Buyer Advertising, Inc., 418 Mass. 220, 226 (1994). Rather, they were equitable in nature and thus, exempt from art. 15 requirements."
+    },
+    "Baker v. Baker, 725 N.E.2d 84 (Mass. App. Ct. 2023)": {
+      "raw_text": "Baker v. Baker, 725 N.E.2d 84 (Mass. App. Ct. 2023)",
+      "citation_type": "case",
+      "proposition": "Other pertinent legal authorities include Greenwood v. Greenwood, 426 Mass. 336 (1998), and Baker v. Baker, 725 N.E.2d 84 (Mass. App. Ct. 2023), which support the modification of custody orders to ensure the children's well-being and safety.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

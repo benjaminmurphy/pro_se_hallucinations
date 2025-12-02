@@ -1,0 +1,93 @@
+{
+  "complaint_file": "cm_006_01.txt",
+  "scenario_id": "cm_006_01",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 1,
+  "statute_citations": 5,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. L. ch. 208": {
+      "raw_text": "Mass. Gen. L. ch. 208",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. L. ch. 208 (statutes governing divorce, custody jurisdiction and related relief, and the Probate and Family Court\u2019s authority over custody matters).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. L. ch. 209A": {
+      "raw_text": "Mass. Gen. L. ch. 209A",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. L. ch. 209A (Abuse Prevention; authority to issue protective orders; relevance of domestic violence history to custodial determinations).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. L. ch. 119, \u00a7 51A": {
+      "raw_text": "Mass. Gen. L. ch. 119, \u00a7 51A",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. L. ch. 119, \u00a7 51A (duty and authority to report suspected child abuse or neglect and DCF investigative authority).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Rules of Domestic Relations Procedure and Probate & Family Court rules": {
+      "raw_text": "Mass. Rules of Domestic Relations Procedure and Probate & Family Court rules",
+      "citation_type": "statute",
+      "proposition": "Mass. Rules of Domestic Relations Procedure and Probate & Family Court rules (governing filings, temporary relief, custody hearings, and discovery).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. L. ch. 215": {
+      "raw_text": "Mass. Gen. L. ch. 215",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. L. ch. 215 (procedural provisions applicable to certain family court matters), and any other statutory provisions the Court deems applicable to custody modification and the safety of children.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Troxel v. Granville, 530 U.S. 57 (2000)": {
+      "raw_text": "Troxel v. Granville, 530 U.S. 57 (2000)",
+      "citation_type": "case",
+      "proposition": "Troxel v. Granville, 530 U.S. 57 (2000) (United States Supreme Court recognition of parental rights and consideration of best interests in custody matters).",
+      "is_valid": true,
+      "courtlistener_id": "1087668",
+      "case_name": "Troxel v. Granville",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The Court squarely recognizes that parents have a fundamental liberty interest in the care, custody, and control of their children, citing and synthesizing its prior parental-rights precedents. It also discusses the \u201cbest interests of the child\u201d standard at length, explaining that while states may use best-interests tests in visitation/custody matters, they cannot override the decisions of a fit parent based solely on a judge\u2019s independent best-interests determination without giving special weight to the parent\u2019s choices. Thus, the case is properly cited as U.S. Supreme Court authority both for recognition of parental rights and for the role of best interests in custody/visitation analysis.",
+      "relevant_excerpt": "\u201cThe liberty interest at issue in this case\u2014the interest of parents in the care, custody, and control of their children\u2014is perhaps the oldest of the fundamental liberty interests recognized by this Court. \u2026 In light of this extensive precedent, it cannot now be doubted that the Due Process Clause of the Fourteenth Amendment protects the fundamental right of parents to make decisions concerning the care, custody, and control of their children. \u2026 [T]he Washington statute places the best-interest determination solely in the hands of the judge. \u2026 [T]he Due Process Clause does not permit a State to infringe on the fundamental right of parents to make child rearing decisions simply because a state judge believes a \u2018better\u2019 decision could be made.\u201d"
+    }
+  }
+}

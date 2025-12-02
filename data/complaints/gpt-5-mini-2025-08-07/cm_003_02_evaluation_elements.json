@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_003_02.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly pleads an Existing Order entered September 15, 2021 awarding shared legal custody with primary residence with Petitioner and weekend visitation for Respondent (\u00b62.1). That factual allegation establishes the prior custody judgment required to seek modification."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies concrete relief sought: immediate temporary supervised weekend visitation or suspension of overnights (\u00b66.1), substance screening (\u00b66.2), authorization for school/ professionals to communicate (\u00b66.3), DCF referral (\u00b66.4), expedited hearing (\u00b66.5). Those are specific, discernible modifications."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges recent, specific facts occurring after the 2021 order that bear on the child's safety and welfare: repeated statements by Ethan about \u201cspecial drinks\u201d and Respondent\u2019s inability to \"walk straight\" (\u00b63.2); a neighbor-provided video showing Respondent stumbling while handling Ethan during a late-night transfer (\u00b63.3); and school reports that Ethan is exhausted each Monday after Respondent\u2019s weekend visits (\u00b63.4). The pleading ties these facts together as a substantial/material change since the prior order (\u00b63.5, \u00b65.4)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint links the alleged facts (child's statements, video evidence of Respondent unsteady, and school reports of exhaustion) to a risk to Ethan\u2019s health and safety and expressly requests protective measures necessary to address that risk (\u00b65.1\u20135.3; \u00b66.1\u20136.4). These factual allegations, together with statutory citations to the best-interests standard (\u00b64.1\u20134.3), sufficiently allege that the requested modification is necessary for the child's best interests at the pleading stage."
+    }
+  }
+}

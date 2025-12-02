@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_007_09.txt",
+  "scenario_id": "cm_007_09",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G. L. c. 208, \u00a7 31": {
+      "raw_text": "G. L. c. 208, \u00a7 31",
+      "citation_type": "statute",
+      "proposition": "This Court has authority to hear this Complaint under Massachusetts law governing allocation and modification of custody and care of minor children, including G. L. c. 208, \u00a7 31 and related statutes and rules.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208, \u00a7 31": {
+      "raw_text": "Mass. Gen. Laws ch. 208, \u00a7 31",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 208, \u00a7 31 (allocation of custody and care of minor children; Court authority to enter and modify custody orders).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209C": {
+      "raw_text": "Mass. Gen. Laws ch. 209C",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 209C (interstate family support matters; see for support-related jurisdictional rules).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a7 51A": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a7 51A",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 119, \u00a7 51A (child abuse reporting obligations).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, ch. 119 statutes generally": {
+      "raw_text": "Mass. Gen. Laws ch. 119, ch. 119 statutes generally",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 119, ch. 119 statutes generally (child welfare and protection provisions).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

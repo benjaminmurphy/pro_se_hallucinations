@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_005_05.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a written lease starting Jan 1, 2022, monthly rent payments of $1,800, the Plaintiff's residence address, and that Defendant is landlord/record owner/manager of the property (\u00b62\u20135, \u00b66). These facts adequately establish a landlord\u2013tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges multiple complaints to Defendant (\u22485\u20136), that Defendant spoke with the upstairs tenants at least once and told Plaintiff he \"can\u2019t control how people live,\" and that Defendant failed to take adequate remedial action despite authority or control over tenancy (\u00b611\u201312, \u00b619\u201320). Those allegations sufficiently plead an omission/failure to act by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges continuous, excessive and unreasonable noise (heavy stomping, loud late-night music, moving furniture at midnight), recurrent and severe enough to routinely wake Plaintiff and reduce sleep to about four\u2013five hours per night (\u00b67\u20139). These factual allegations adequately plead a \"substantial interference\" with quiet enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint links the upstairs tenants' noise to Plaintiff's sleep loss and other harms and alleges that Defendant had notice and failed to abate the interference, causing the disturbance to continue (\u00b68\u201313, \u00b619\u201320). Those allegations adequately plead proximate causation between the landlord's failure to act and the continued interference."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint details specific harms and losses (severe sleep deprivation, written workplace warning, medical treatment and prescription costs of $40/month, out-of-pocket costs for earplugs and a white-noise machine, emotional distress, and other incidental/consequential damages) and seeks compensatory damages (\u00b613, \u00b621\u201323). These allegations adequately plead damages."
+    }
+  }
+}

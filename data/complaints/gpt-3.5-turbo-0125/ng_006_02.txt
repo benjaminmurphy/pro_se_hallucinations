@@ -1,0 +1,85 @@
+[Your Name]
+[Your Address]
+[City, State, Zip]
+[Phone Number]
+[Email Address]
+
+[Today’s Date]
+
+Suffolk County Superior Court
+[Courthouse Address]
+Boston, MA
+
+Alex Rivera,
+Plaintiff
+
+v.
+
+Jordan Smith,
+Defendant
+
+Case No.:
+
+COMPLAINT
+
+COMES NOW, Plaintiff Alex Rivera, by and through counsel, and files this Complaint against Defendant Jordan Smith and alleges as follows:
+
+1. PARTIES
+
+1.1 Plaintiff Alex Rivera is an individual residing at [Your Address], [City, State, Zip].
+
+1.2 Defendant Jordan Smith is an individual upon whom process may be served at 1234 Commonwealth Avenue, Boston, MA 02215.
+
+2. JURISDICTION AND VENUE
+
+2.1 This action arises under the laws of the Commonwealth of Massachusetts.
+
+2.2 This Court has jurisdiction over this matter as the events giving rise to this action occurred within Suffolk County.
+
+3. FACTUAL ALLEGATIONS
+
+3.1 On September 15, 2023, at 1234 Commonwealth Avenue, Boston, MA 02215, Plaintiff was lawfully riding a bicycle in a marked bike lane in accordance with traffic rules.
+
+3.2 Defendant, a rideshare driver, negligently opened his car door into the marked bike lane without checking for oncoming bicyclists, causing Plaintiff to crash into the door and suffer injuries.
+
+3.3 Plaintiff sustained road rash on arms and legs, a chipped front tooth, and damage to the bicycle frame as a direct result of the Defendant's negligence.
+
+3.4 Defendant admitted at the scene that he did not see Plaintiff due to checking his phone, subsequently providing false information to his insurance company to deny liability.
+
+4. CAUSES OF ACTION
+
+4.1 Plaintiff alleges that Defendant's actions constitute negligence under Massachusetts law by failing to exercise reasonable care in opening the car door in a manner that endangered passing bicyclists. (See Garrity v. Daly, 389 Mass. 21 (1983); Green v. Boston and Worcester St. Ry. Co., 201 Mass. 241 (1909)).
+
+4.2 Defendant's negligence directly caused Plaintiff's injuries and resulting damages, including medical expenses and lost wages.
+
+5. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in their favor against Defendant, and award the following relief:
+
+5.1 Compensatory damages in the amount of $2,500 for medical expenses and $800 for lost wages;
+
+5.2 Punitive damages as deemed just and proper by the Court;
+
+5.3 Prejudgment and postjudgment interest as allowed by law;
+
+5.4 Court costs and attorney fees; and
+
+5.5 Such other relief as the Court deems just and proper.
+
+6. JURY DEMAND
+
+Plaintiff requests a trial by jury on all triable issues.
+
+Respectfully submitted,
+
+_________________________
+[Your Name]
+[Your Bar Number]
+[Your Address]
+[City, State, Zip]
+[Phone Number]
+[Email Address]
+
+[Certificate of Service: I hereby certify that on this [date], a copy of the foregoing Complaint was served on Defendant's attorney by [method of service].]
+
+DATED: [Today’s Date]

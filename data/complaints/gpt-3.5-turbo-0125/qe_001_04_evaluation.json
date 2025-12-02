@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_001_04.txt",
+  "scenario_id": "qe_001_04",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 239, Section 2A": {
+      "raw_text": "Massachusetts General Laws Chapter 239, Section 2A",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 239, Section 2A, which provides jurisdiction over actions involving the breach of the covenant of quiet enjoyment.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 186, Section 14": {
+      "raw_text": "Massachusetts General Laws Chapter 186, Section 14",
+      "citation_type": "statute",
+      "proposition": "Plaintiff alleges a single cause of action for the breach of the covenant of quiet enjoyment, as articulated in Massachusetts General Laws Chapter 186, Section 14, which guarantees tenants the right to a habitable living environment including adequate heat.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

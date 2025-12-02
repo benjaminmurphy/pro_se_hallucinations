@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_006_04.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint identifies a June 15, 2021 custody/visitation order awarding Plaintiff primary physical custody and granting Defendant alternate weekends and one midweek visit (\u00b63, \u00b64)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint requests specific changes to visitation: suspension of unsupervised visitation, supervised visitation at Defendant's expense, parenting time only at neutral/public locations or exclusion of the Partner, and temporary orders pending hearing (\u00b68(a)\u2013(d))."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges post\u2011order, ongoing cohabitation by Defendant with a new Partner who has an assault conviction and prior restraining order; allegations of repeated yelling, aggressive conduct, a reported grab leaving a visible mark, and a police response while children were present; and Plaintiff's lack of knowledge of the Partner at time of the June 15 Order (\u00b65, \u00b67). These facts plausibly allege a material and substantial change since the prior judgment."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the Partner\u2019s criminal history, incidents of aggression and an instance of physical contact leaving a mark, police involvement, and resulting credible risk of physical harm, emotional trauma, and instability to the children \u2014 and requests modifications justified as necessary to protect the children\u2019s safety and welfare, including 51A referral and temporary protective orders (\u00b65, \u00b67, \u00b68, \u00b69)."
+    }
+  }
+}

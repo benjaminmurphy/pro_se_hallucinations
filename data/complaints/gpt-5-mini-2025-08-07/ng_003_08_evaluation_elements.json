@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_003_08.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges she was a business invitee on Defendant's premises (\u00b65) and that Defendant owned/operated/controlled the store (\u00b66). The complaint pleads the storekeeper's duty to keep premises reasonably safe and warn of known/foreseeable hazards (\u00b615), which sufficiently pleads duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific unsafe conditions and omissions: heavy appliance boxes stacked ~5\u20136 high without restraints or safety measures (\u00b67) and failures to secure, inspect, warn, or follow safety protocols (\u00b616(a)\u2013(e)), which adequately pleads breach of the alleged duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges that, when another customer bumped a lower shelf (\u00b68), an unsecured top box was dislodged and fell, striking Plaintiff (\u00b69); this factual chain alleges that but for the unstable/improperly secured stacking, the box would not have fallen and injured her."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the falling of heavy unsecured merchandise was a direct and foreseeable consequence of the unsafe stacking (\u00b69, \u00b617) and relies on standard premises-liability foreseeability principles (\u00b615, authorities), which sufficiently pleads proximate cause."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges diagnosable injuries (mild concussion, shoulder strain) (\u00b611), itemized medical expenses (~$1,200) and lost wages (~$600) (\u00b612), and non-economic harm (pain and suffering, emotional distress, loss of enjoyment) (\u00b612, \u00b618), which sufficiently pleads actual damages."
+    }
+  }
+}

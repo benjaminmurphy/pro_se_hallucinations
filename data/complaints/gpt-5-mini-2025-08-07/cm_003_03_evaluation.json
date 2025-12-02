@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_003_03.txt",
+  "scenario_id": "cm_003_03",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 209C": {
+      "raw_text": "Mass. Gen. Laws ch. 209C",
+      "citation_type": "statute",
+      "proposition": "This Court has continuing jurisdiction over custody and visitation matters involving Ethan pursuant to the Massachusetts Probate and Family Court statutes and rules, including the Uniform Child Custody Jurisdiction and Enforcement Act (Mass. Gen. Laws ch. 209C).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a7 51A": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a7 51A",
+      "citation_type": "statute",
+      "proposition": "Petitioner respectfully requests that the Court apply the material-change-and-best-interests framework set forth in controlling Massachusetts authority and statutes, including but not limited to: Mass. Gen. Laws ch. 209C (UCCJEA); Mass. Gen. Laws ch. 119, \u00a7 51A (obligations and procedures regarding reports of child abuse or neglect); the Probate and Family Court\u2019s authority to modify custody orders to protect the welfare of children; and relevant Massachusetts case law recognizing that where a parent\u2019s substance use or impairment poses a risk to the child, imposition of supervised visitation or restrictions on overnights is an appropriate remedial measure to protect the child\u2019s safety. (See Legal Authorities section below.)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208": {
+      "raw_text": "Mass. Gen. Laws ch. 208",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 208 (statutes governing divorce and the Court\u2019s authority to adjudicate custody and related matters).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 215, \u00a7 18": {
+      "raw_text": "Mass. Gen. Laws ch. 215, \u00a7 18",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 215, \u00a7 18 (protective orders and related remedies \u2013 for analogous emergency relief authority exercised by courts).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

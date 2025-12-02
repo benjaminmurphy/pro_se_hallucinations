@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_001_06.txt",
+  "scenario_id": "ng_001_06",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 1,
+  "citations": {
+    "G.L. c. 212, \u00a74": {
+      "raw_text": "G.L. c. 212, \u00a74",
+      "citation_type": "statute",
+      "proposition": "This Court has subject-matter jurisdiction over this action pursuant to G.L. c. 212, \u00a74, as this is a civil action in which the damages claimed exceed $25,000.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a71": {
+      "raw_text": "G.L. c. 223, \u00a71",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Middlesex County pursuant to G.L. c. 223, \u00a71, because the events giving rise to this action occurred in Middlesex County, and the Defendant is located and conducts business in the county.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Sheehan v. Roche Bros. Supermarkets, Inc.*, 448 Mass. 780 (2007)": {
+      "raw_text": "*Sheehan v. Roche Bros. Supermarkets, Inc.*, 448 Mass. 780 (2007)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts case law, including *Sheehan v. Roche Bros. Supermarkets, Inc.*, 448 Mass. 780 (2007), and *Oliveri v. Massachusetts Bay Transportation Authority*, 363 Mass. 165 (1973), a property owner is liable when it has actual or constructive notice of a dangerous condition and fails to remedy it.",
+      "is_valid": true,
+      "courtlistener_id": "6579512",
+      "case_name": "Sheehan v. Roche Bros. Supermarkets, Inc.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion describes the traditional Massachusetts rule that liability attaches when the owner has actual or constructive notice and fails to remedy a dangerous condition, but its holding is to *modify* that rule by adopting the mode-of-operation approach. Under this new approach, the plaintiff can satisfy the notice requirement without proving actual or constructive notice of the specific condition, by showing a foreseeable risk from the defendant\u2019s mode of operation. Thus, Sheehan is not authority for the bare proposition that an owner is liable only when it has actual or constructive notice and fails to remedy the condition; it partially relaxes that requirement in self-service settings.",
+      "relevant_excerpt": "\u201cThis court has thus held that premises liability attaches only if a store owner has actual or constructive notice of the existence of the dangerous condition, sufficient to allow time for the owner to remedy the condition. Gallagher v. Stop & Shop, Inc., 332 Mass. 560, 563 (1955). \u2026 Of the two modern approaches\u2026 the mode of operation approach is in our view the more preferable, and we now adopt it. \u2026 Under the mode of operation approach, a plaintiff\u2019s proof of a particular mode-of-operation simply substitutes for the traditional elements of a prima facie case \u2014 the existence of a dangerous condition and notice of a dangerous condition.\u201d}"
+    },
+    "*Oliveri v. Massachusetts Bay Transportation Authority*, 363 Mass. 165 (1973)": {
+      "raw_text": "*Oliveri v. Massachusetts Bay Transportation Authority*, 363 Mass. 165 (1973)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts case law, including *Sheehan v. Roche Bros. Supermarkets, Inc.*, 448 Mass. 780 (2007), and *Oliveri v. Massachusetts Bay Transportation Authority*, 363 Mass. 165 (1973), a property owner is liable when it has actual or constructive notice of a dangerous condition and fails to remedy it.",
+      "is_valid": true,
+      "courtlistener_id": "2036736",
+      "case_name": "Oliveri v. Massachusetts Bay Transportation Authority",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion squarely states the duty of a party in control of business premises: to use due care to keep them reasonably safe or warn of dangers of which the defendant knows or ought to know. It then explains that a plaintiff can prove negligence either by showing the defendant caused the condition, had actual knowledge of it, or that the condition existed long enough that the defendant should have discovered and removed it\u2014i.e., constructive notice. Although the plaintiff ultimately loses on the time/notice facts, the case clearly affirms the actual/constructive notice liability standard described in the proposition.",
+      "relevant_excerpt": "\u201cThe obligation of one who controls business premises is to use due care to keep the premises provided for the use of its patrons in a reasonably safe condition, or at least to warn them of any dangers that might arise from such use, which are not likely to be known to them, and of which the defendant knows or ought to know\u2026 In the more usual case, however, the plaintiff attempts to establish the defendant\u2019s negligence by showing that the foreign substance was present on the defendant\u2019s premises for such a length of time that the defendant should have known about it.\u201d"
+    }
+  }
+}

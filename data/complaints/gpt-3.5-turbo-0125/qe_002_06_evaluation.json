@@ -1,0 +1,28 @@
+{
+  "complaint_file": "qe_002_06.txt",
+  "scenario_id": "qe_002_06",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "MGL c. 186, \u00a714": {
+      "raw_text": "MGL c. 186, \u00a714",
+      "citation_type": "statute",
+      "proposition": "This action arises under Massachusetts landlord-tenant law, specifically regarding the breach of the covenant of quiet enjoyment as provided for in MGL c. 186, \u00a714 and relevant case law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

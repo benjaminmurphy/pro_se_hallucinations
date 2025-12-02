@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_001_04.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/operated/controlled the premises (\u00b62) and expressly pleads the store owed customers a duty to maintain premises in a reasonably safe condition and warn of dangerous conditions (\u00b614). Those factual allegations are sufficient to establish duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific factual breaches: a puddle of milk in an aisle (\u00b66) with visible cart tracks, absence of warnings (\u00b67), an employee nearby who observed the spill and delayed cleanup (\u00b68, \u00b616), and an enumerated list of failures to clean/warn/train (\u00b615). These facts adequately allege a breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges she stepped into the spilled milk, slipped and fell onto her hip (\u00b66), and that her subsequent hip injury and treatment resulted from that fall (\u00b69\u201312, \u00b617). Those allegations, taken as true, reasonably support that but for the spill/Defendant\u2019s failure to remedy it, the fall and injury would not have occurred."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the hazard (spilled milk) was present in a customer aisle, that an employee knew of it and did not timely remediate (\u00b66\u20138, \u00b616), and expressly pleads the fall and injuries were proximately caused by Defendant\u2019s breaches (\u00b617, \u00b618, \u00b612). A slip-and-fall from a liquid spill is a foreseeable result of failing to clean or warn, so proximate causation is adequately alleged."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages: diagnosed hip sprain requiring physical therapy (\u00b610, \u00b618(a)), approximately $1,200 in medical expenses and $800 in lost wages (\u00b611, \u00b618(b)\u2013(c)), and claims for pain and suffering (\u00b618(d)). These allegations sufficiently plead actual damages."
+    }
+  }
+}

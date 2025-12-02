@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_007_09.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/operated the community center and ran the after-school program (\u00b65), advertised that children would be supervised (\u00b66), and expressly pleads a duty to supervise and keep conditions safe (\u00b616). Those factual allegations sufficiently plead a duty of care to program participants."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific factual conduct showing a failure to supervise: one staff left leaving only one (\u00b68), the remaining staff was on a cell phone and not actively supervising (\u00b69), ignored warnings (\u00b610\u201311), and the pleading lists specific breaches (\u00b617(a)\u2013(e))."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges that as a direct result of inadequate supervision and Defendant\u2019s failure to intervene, an older boy tackled the child causing the head injury (\u00b612) and that Defendant\u2019s breaches were a direct cause of the injuries (\u00b618). Those allegations are sufficient at the pleading stage to allege but\u2011for causation."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the harms were foreseeable and arise from the very risk that inadequate supervision creates (\u00b616, \u00b611, \u00b617(d)\u2013(e)), and that Defendant\u2019s breaches were the proximate cause of the injury (\u00b618). The concussion and head trauma are a foreseeable result of rough tackle play on a hardwood floor."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete injuries and losses: the child was rendered unconscious, diagnosed with a concussion and treated in the ER, continues to experience effects (\u00b612\u201313), and plaintiff alleges medical expenses (~$5,800) and lost wages (~$1,200) (\u00b613, \u00b619). These allegations adequately plead actual damages."
+    }
+  }
+}

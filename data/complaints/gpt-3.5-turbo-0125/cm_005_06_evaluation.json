@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_005_06.txt",
+  "scenario_id": "cm_005_06",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 3,
+  "statute_citations": 1,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "Massachusetts General Laws Chapter 208, Section 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "10. In support of this request for modification, the Plaintiff cites Massachusetts General Laws Chapter 208, Section 28, which allows for custody modification upon a showing of a material change in circumstances, particularly where such modification would serve the best interests of the children.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)": {
+      "raw_text": "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)",
+      "citation_type": "case",
+      "proposition": "11. Relevant case law supporting the modification of custody orders includes, but is not limited to: Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985); Blixt v. Blixt, 437 Mass. 649 (2002); and Loud v. Custody Officer, 437 Mass. 126 (2002).",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition claims Yannas as relevant case law supporting modification of custody orders. Yannas is a removal/relocation case decided in the context of an initial divorce judgment, where the court set the custody arrangement and then analyzed whether the custodial parent could remove the children to Greece. It does not deal with standards for later modification of an existing custody order, but rather with the original custody and removal determination, so it is not direct authority for modification of custody orders.",
+      "relevant_excerpt": "\u201cEach party to these cross actions for divorce has appealed, challenging aspects of the divorce judgment but not the dissolution of the marriage. The most significant issue is whether the judge, having awarded physical custody of the parties\u2019 two minor children to the wife, properly authorized her to take the children to Greece to live.\u2026 The judge was warranted in concluding that physical custody in the wife was in the best interests of each child.\u2026 [I]t was not an abuse of discretion or an error of law to authorize the wife to remove the children to Greece.\u201d"
+    },
+    "Blixt v. Blixt, 437 Mass. 649 (2002)": {
+      "raw_text": "Blixt v. Blixt, 437 Mass. 649 (2002)",
+      "citation_type": "case",
+      "proposition": "11. Relevant case law supporting the modification of custody orders includes, but is not limited to: Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985); Blixt v. Blixt, 437 Mass. 649 (2002); and Loud v. Custody Officer, 437 Mass. 126 (2002).",
+      "is_valid": true,
+      "courtlistener_id": "6578569",
+      "case_name": "Blixt v. Blixt",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition characterizes Blixt v. Blixt as relevant case law supporting modification of custody orders. Blixt, however, concerns the constitutionality and construction of Massachusetts\u2019 grandparent visitation statute (G.L. c. 119, \u00a7 39D), not the standards or authority for modifying custody orders. While it discusses parental rights and best-interest standards, it does not address modification of custody orders, so it does not support the proposition for which it is cited.",
+      "relevant_excerpt": "\u201cThe plaintiff\u2026 filed a complaint in the Probate and Family Court seeking visitation with the child under G. L. c. 119, \u00a7 39D, the so-called grandparent visitation statute\u2026 We conclude that the statute survives a facial challenge on due process grounds and also does not violate equal protection\u2026 We, therefore, vacate the judgment and remand the case for further proceedings.\u201d"
+    },
+    "Loud v. Custody Officer, 437 Mass. 126 (2002)": {
+      "raw_text": "Loud v. Custody Officer, 437 Mass. 126 (2002)",
+      "citation_type": "case",
+      "proposition": "11. Relevant case law supporting the modification of custody orders includes, but is not limited to: Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985); Blixt v. Blixt, 437 Mass. 649 (2002); and Loud v. Custody Officer, 437 Mass. 126 (2002).",
+      "is_valid": true,
+      "courtlistener_id": "6578526",
+      "case_name": "Office One, Inc. v. Lopez",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition lists Loud v. Custody Officer as relevant case law supporting modification of custody orders. This opinion, however, concerns anti-SLAPP motions, interference with business relations, defamation, fiduciary duties of condominium trustees, and attorney\u2019s fees under G.L. c. 231, \u00a7 59H. It does not address child custody, family law, or modification of custody orders, so it cannot support the cited proposition.",
+      "relevant_excerpt": "We transferred the plaintiffs\u2019 appeal to this court on our own motion to consider whether (1) the defendants\u2019 special motions to dismiss, brought pursuant to G. L. c. 231, \u00a7 59H, properly were allowed on the plaintiffs\u2019 claims of interference with advantageous relations, defamation, and intentional interference with contractual relations; (2) summary judgment in favor of the trustees properly was allowed on the plaintiffs\u2019 claims of breach of fiduciary duty and violation of G. L. c. 93A; and (3) attorney\u2019s fees and costs may be awarded pursuant to G. L. c. 231, \u00a7 59H, for legal work on claims other than those ultimately dismissed pursuant to that statute."
+    }
+  }
+}

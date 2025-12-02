@@ -1,0 +1,90 @@
+I can’t invent or fabricate case names or statutory citations. I can, however, draft a fully formatted negligence complaint using the facts you provided and include accurate, widely-recognized authorities (statutes and leading tort authorities) where appropriate. Below is a formal complaint you can file in Berkshire Superior Court. It contains the required sections (caption, factual allegations, single count of negligence, prayer for relief, and signature block). I have cited the Massachusetts statute of limitations (Mass. Gen. Laws ch. 260, § 2A) and well-known foundational authorities (e.g., Donoghue v. Stevenson, Palsgraf) and Restatement provisions commonly relied upon in negligence actions. If you intend to file this pleading, consider asking a lawyer or court clerk to confirm local filing requirements and to check whether you want additional case citations specific to Massachusetts law; I have avoided inventing any Massachusetts case citations I could not verify.
+
+COMMONWEALTH OF MASSACHUSETTS
+BERKSHIRE COUNTY
+BERKSHIRE SUPERIOR COURT
+
+Emily Johnson,                               )
+     Plaintiff,                              )
+                                             )
+v.                                           )       Civil Action No. ____________
+                                             )
+Robert Smith,                                )
+     Defendant.                              )
+                                             )
+
+COMPLAINT — NEGLIGENCE
+
+1. Parties, Jurisdiction, and Venue
+1.1 Plaintiff Emily Johnson is an individual and resident of Pittsfield, Berkshire County, Massachusetts. Plaintiff’s contact information is: phone (617) 555-0123; email psm1443@gmail.com.
+
+1.2 Defendant Robert Smith is an individual who, upon information and belief, resides in or owns real property in Pittsfield, Massachusetts. Defendant owned, occupied, controlled, and/or maintained the real property located at 123 Maple Street, Pittsfield, Massachusetts (the “Premises”) at all times relevant to this Complaint.
+
+1.3 This Court has subject-matter jurisdiction over this action because the claim arises out of torts committed in Massachusetts and the damage claimed exceeds the jurisdictional minimum of the District Court. Venue is proper in Berkshire Superior Court because the events giving rise to this claim occurred in Pittsfield, Berkshire County.
+
+1.4 This action is timely under the Massachusetts statute of limitations applicable to personal-injury torts. See Mass. Gen. Laws ch. 260, § 2A (three-year limitation for actions of tort for personal injury).
+
+2. Statement of Facts
+2.1 On or about July 15, 2023, at approximately [time not required for pleading] during an ordinary summer thunderstorm, Plaintiff was lawfully walking on the sidewalk on the north side of Maple Street adjacent to 123 Maple Street in Pittsfield, Massachusetts, carrying grocery bags.
+
+2.2 At that location and time, a major branch of a large maple tree located in front of Defendant’s property — a branch that had been visibly cracked, droopy, and deteriorating for a long period prior to July 15, 2023 — suddenly separated from the tree and fell onto Plaintiff. The falling branch landed on Plaintiff’s shoulder and back and knocked Plaintiff to the ground.
+
+2.3 The cracked and drooping condition of the major branch had been visible and observable for an extended period prior to the incident. Plaintiff and several neighbors had observed the crack and droop in the branch. Neighbors informed Defendant of their observations and recommended that Defendant have the tree examined by a certified arborist or otherwise inspected and repaired. Defendant told neighbors he would “deal with it in the spring” but did not cause the branch to be inspected, pruned, or otherwise remedied.
+
+2.4 The storm at the time was an ordinary summer thunderstorm and not an extraordinary weather event. The snapping and falling of the cracked branch was a foreseeable consequence of Defendant’s failure to inspect and remedy the visibly dangerous condition.
+
+2.5 As a direct and proximate result of the falling branch and Defendant’s negligence, Plaintiff suffered physical injury, including a shoulder strain and extensive bruising; incurred medical expenses of approximately $2,500; sustained lost wages of approximately $600 due to missing work for approximately one week at Plaintiff’s retail job; experienced pain, suffering, mental anguish, and inconvenience; and suffered other economic and non-economic losses.
+
+3. Count I — Negligence
+3.1 Plaintiff repeats and realleges each and every allegation contained in Paragraphs 1.1 through 2.5 as if set forth fully herein.
+
+3.2 At all times relevant to this action, Defendant owed a duty to persons lawfully using the public sidewalk adjacent to Defendant’s property, including the duty to exercise reasonable care to maintain trees and branches on the property so as not to create an unreasonable risk of harm to pedestrians. This duty included inspecting for obviously dangerous conditions and taking reasonable steps to remediate or warn of known hazards that the property owner knew, or in the exercise of reasonable care should have known, existed.
+
+3.3 Defendant breached the duty of care by failing to inspect, maintain, prune, or otherwise remediate or warn of the known, visible dangerous condition of the cracked and drooping branch, despite notice from neighbors and the visible condition of the branch, and by failing to take reasonable steps to prevent the branch from falling.
+
+3.4 Defendant’s breach was a proximate cause of Plaintiff’s injuries and damages. The falling of the cracked branch was a foreseeable consequence of Defendant’s failure to act, and it directly caused Plaintiff’s shoulder strain, bruising, medical expenses, lost wages, pain and suffering, and other damages as described above.
+
+3.5 As a direct and proximate result of Defendant’s negligence, Plaintiff has suffered (and will continue to suffer) damages, including medical expenses of approximately $2,500, lost wages of approximately $600, and non-economic damages for pain and suffering and mental anguish in an amount to be determined at trial.
+
+4. Damages
+4.1 As a direct and proximate result of Defendant’s negligence, Plaintiff seeks recovery for the following damages:
+   a. Past and future medical expenses, including but not limited to the approximately $2,500 already incurred;
+   b. Past and future lost wages and loss of earning capacity, including approximately $600 already lost;
+   c. Past and future pain and suffering, mental anguish, inconvenience, and loss of enjoyment of life;
+   d. Interest, costs, and such other and further relief as the Court deems just and proper.
+
+5. Prayer for Relief
+WHEREFORE, Plaintiff Emily Johnson respectfully requests that this Court enter judgment in her favor and against Defendant Robert Smith as follows:
+   a. Award compensatory damages in an amount to be proven at trial, including but not limited to medical expenses (approximately $2,500), lost wages (approximately $600), and non-economic damages for pain and suffering and mental anguish;
+   b. Award pre-judgment and post-judgment interest to the fullest extent permitted by law;
+   c. Award costs, disbursements, and reasonable attorneys’ fees if permitted by law; and
+   d. Grant such other and further relief as the Court deems just and equitable.
+
+6. Jury Demand
+Plaintiff demands a trial by jury on all issues so triable.
+
+Respectfully submitted,
+
+Date: December 1, 2025
+
+____________________________________
+Emily Johnson
+Plaintiff, pro se
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+Address for Service: [If the Court requires, you may add your mailing address here]
+
+Authorities
+(Representative authorities commonly relied upon in negligence matters; these are included for reference and to show governing principles. Specific Massachusetts case law and additional statutory or local authority can be supplied by counsel or verified at the courthouse/library prior to filing if you want more jurisdiction-specific citations.)
+
+- Mass. Gen. Laws ch. 260, § 2A (statute of limitations for personal injury actions)
+- Restatement (Second) of Torts §§ 282, 283, 285, 323, 343 (duties relating to negligent conduct and maintenance of land; foreseeability and proximate cause)
+- Donoghue v. Stevenson, [1932] A.C. 562 (House of Lords) (establishing modern duty concept)
+- Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (foreseeability and proximate cause principles)
+
+Notes and Filing Suggestions
+- Massachusetts courts often permit pro se plaintiffs to file civil complaints; check Berkshire County Superior Court filing procedures and fees. The clerk’s office can advise regarding required filing forms, service of process, and whether you must include a street or mailing address for service. If you have no mailing address you may ask the clerk about alternatives.
+- If you intend to represent yourself, consider at least a brief consultation with a Massachusetts personal-injury attorney or the court’s self-help resources to ensure compliance with local rules and practice, especially regarding discovery, exhibits (medical bills), and trial procedure.
+- If you wish, I can revise this complaint to: (a) add a short allegation concerning aggravation or permanency of the shoulder injury, (b) add or refine factual details for clarity, (c) prepare a summons form, or (d) prepare a more detailed list of legal authorities limited to Massachusetts SJC decisions (I will need to verify exact citations to avoid errors).
+
+If you would like me to add your mailing address for service, prepare a summons, or adapt the complaint further for filing (showing specific requested damages amounts in a demand section), tell me which option you prefer and I will prepare the revision.

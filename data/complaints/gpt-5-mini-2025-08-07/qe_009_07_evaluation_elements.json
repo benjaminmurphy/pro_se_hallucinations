@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_009_07.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff is a tenant who took possession on 1/15/2022, pays $1,200/month, and that Defendant leased the premises to Plaintiff (month-to-month tenancy/lease referenced)."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant arranged an inspection but has not authorized or completed necessary electrical repairs, has not provided a schedule or a safe alternative, and has failed to restore service despite notice\u2014an omission/failure to act."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Factual allegations show a complete loss of electricity in one bedroom rendering it unusable as a home office, relocation of equipment, impaired living conditions, and loss of use of roughly 50% of the sleeping/office space \u2014 pleaded as a material/substantial interference."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Plaintiff pleads that an electrician identified defective wiring and that Defendant's failure to authorize/complete repairs after notice proximately caused the continued loss of electricity and resulting loss of use."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads out-of-pocket expenses (coworking fees, daily expenses), loss of use/diminished enjoyment, an estimated $900 to date, and seeks compensatory damages and rent abatement."
+    }
+  }
+}

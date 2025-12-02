@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_010_08.txt",
+  "scenario_id": "qe_010_08",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 218, Section 4.": {
+      "raw_text": "Massachusetts General Laws Chapter 218, Section 4.",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction is proper in the Middlesex Superior Court pursuant to Massachusetts General Laws Chapter 218, Section 4.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 186, Section 14.": {
+      "raw_text": "Massachusetts General Laws Chapter 186, Section 14.",
+      "citation_type": "statute",
+      "proposition": "Defendant's conduct constitutes a breach of the implied covenant of quiet enjoyment, as set forth in Massachusetts common law and codified in Massachusetts General Laws Chapter 186, Section 14.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

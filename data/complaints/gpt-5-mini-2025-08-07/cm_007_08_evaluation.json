@@ -1,0 +1,93 @@
+{
+  "complaint_file": "cm_007_08.txt",
+  "scenario_id": "cm_007_08",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 1,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts law governing custody modifications and the court's general continuing jurisdiction over custody determinations.": {
+      "raw_text": "Massachusetts law governing custody modifications and the court's general continuing jurisdiction over custody determinations.",
+      "citation_type": "statute",
+      "proposition": "2.2 This Court has jurisdiction to modify custody and parenting time established by prior court order under Massachusetts law governing custody modifications and the court's general continuing jurisdiction over custody determinations.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts family law": {
+      "raw_text": "Massachusetts family law",
+      "citation_type": "statute",
+      "proposition": "8.1 Under Massachusetts family law, a court may modify an existing custody order upon showing a material and substantial change in circumstances since the entry of the prior order and a demonstration that the requested modification is in the best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "applicable provisions of the Massachusetts General Laws regarding custody and modification": {
+      "raw_text": "applicable provisions of the Massachusetts General Laws regarding custody and modification",
+      "citation_type": "statute",
+      "proposition": "(Place for counsel/filing party to insert specific statutory and case citations that support the above legal standard and application \u2014 e.g., Massachusetts statutes and Supreme Judicial Court and Appeals Court decisions articulating the material-change requirement and the \"best interests of the child\" standard. Recommend that the following authorities be added and verified by counsel: applicable provisions of the Massachusetts General Laws regarding custody and modification, rules of the Probate and Family Court, and leading SJC/Appeals Court decisions on custody modification and best-interests analysis.)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Supreme Judicial Court and Appeals Court decisions": {
+      "raw_text": "Supreme Judicial Court and Appeals Court decisions",
+      "citation_type": "case",
+      "proposition": "(Place for counsel/filing party to insert specific statutory and case citations that support the above legal standard and application \u2014 e.g., Massachusetts statutes and Supreme Judicial Court and Appeals Court decisions articulating the material-change requirement and the \"best interests of the child\" standard. Recommend that the following authorities be added and verified by counsel: applicable provisions of the Massachusetts General Laws regarding custody and modification, rules of the Probate and Family Court, and leading SJC/Appeals Court decisions on custody modification and best-interests analysis.)",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "rules of the Probate and Family Court": {
+      "raw_text": "rules of the Probate and Family Court",
+      "citation_type": "statute",
+      "proposition": "(Place for counsel/filing party to insert specific statutory and case citations that support the above legal standard and application \u2014 e.g., Massachusetts statutes and Supreme Judicial Court and Appeals Court decisions articulating the material-change requirement and the \"best interests of the child\" standard. Recommend that the following authorities be added and verified by counsel: applicable provisions of the Massachusetts General Laws regarding custody and modification, rules of the Probate and Family Court, and leading SJC/Appeals Court decisions on custody modification and best-interests analysis.)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts law": {
+      "raw_text": "Massachusetts law",
+      "citation_type": "statute",
+      "proposition": "Massachusetts law requires proof of a material change in circumstances and a best-interests showing to modify custody; please have an attorney or trusted legal resource supplement this Complaint with the precise statutory and case citations you wish to rely upon.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

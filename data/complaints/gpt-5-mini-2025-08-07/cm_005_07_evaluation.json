@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_005_07.txt",
+  "scenario_id": "cm_005_07",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 209C": {
+      "raw_text": "Mass. Gen. Laws ch. 209C",
+      "citation_type": "statute",
+      "proposition": "This Court has subject matter jurisdiction over this action under Massachusetts law and the Uniform Child Custody Jurisdiction and Enforcement Act, Mass. Gen. Laws ch. 209C, and personal jurisdiction over the parties because the children and the parties reside in this Commonwealth and because the parties are already before this Court on the existing custody order entered in this Court on May 14, 2021.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208 (provisions related to divorce, custody and related orders) (see, e.g., provisions granting the court authority over custody and modification).": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (provisions related to divorce, custody and related orders) (see, e.g., provisions granting the court authority over custody and modification).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff bases this Complaint on the statutes and case law governing modification of custody and the best interests of the child in Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119 (Children, Youth and Families) (applicable provisions re: child welfare and protective services where relevant).": {
+      "raw_text": "Mass. Gen. Laws ch. 119 (Children, Youth and Families) (applicable provisions re: child welfare and protective services where relevant).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff bases this Complaint on the statutes and case law governing modification of custody and the best interests of the child in Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

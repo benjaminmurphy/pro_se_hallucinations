@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_006_02.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 1.4 expressly pleads a prior custody/parenting order entered May 15, 2020 in Bristol County granting Plaintiff primary physical custody and Defendant alternate weekends and one midweek visit, satisfying the existence-of-order element."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Paragraph 2.2 and the prayer clearly identify the relief sought: conditioning Defendant\u2019s parenting time to exclude the live\u2011in Partner, alternatively requiring supervised visitation, temporary suspension or supervised parenting time pending hearing, and related protective measures."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 3.1\u20133.6 allege concrete, post\u2011judgment changes and events: Defendant began cohabiting with a new Partner not contemplated by the 2020 order; the Partner has a criminal conviction and prior restraining order; the Partner allegedly yelled, slammed doors, grabbed a child leaving a visible mark, and prompted a neighbor police call. Those factual allegations sufficiently plead a material and substantial change in circumstances since entry of the prior order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 3.6\u20133.7, 4.1, and the requested emergency relief allege that the Partner\u2019s presence and conduct create an immediate risk to the children\u2019s physical and emotional safety and that limiting or supervising parenting time is necessary to protect their welfare. The complaint ties the factual allegations (visible injury, police call, disruptive conduct) to the conclusion that modification is in the children\u2019s best interests."
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_007_09.txt",
+  "scenario_id": "ng_007_09",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 4,
+  "statute_citations": 1,
+  "valid_citations": 3,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "G.L. c. 223, \u00a7 2.": {
+      "raw_text": "G.L. c. 223, \u00a7 2.",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction is proper in the Commonwealth of Massachusetts pursuant to G.L. c. 223, \u00a7 2.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Leonzio v. Palmer*, 70 Mass. App. Ct. 151, 155 (2007)": {
+      "raw_text": "*Leonzio v. Palmer*, 70 Mass. App. Ct. 151, 155 (2007)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, a childcare provider owes a duty of reasonable care to children in its custody and care. (See *Leonzio v. Palmer*, 70 Mass. App. Ct. 151, 155 (2007); *Alioto v. Marnell*, 402 Mass. 36, 40 (1988)).",
+      "is_valid": true,
+      "courtlistener_id": "6588702",
+      "case_name": "John Marini Management Co. v. Butler",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion concerns mechanic\u2019s liens and related bankruptcy/stay issues between a contractor and subcontractor; it does not involve childcare, children, or duties of care by childcare providers. Nowhere does the court discuss tort duties, negligence standards, or custodial obligations to children. Therefore, it does not provide authority for the proposition that a childcare provider owes a duty of reasonable care to children in its custody and care.",
+      "relevant_excerpt": null
+    },
+    "*Alioto v. Marnell*, 402 Mass. 36, 40 (1988)": {
+      "raw_text": "*Alioto v. Marnell*, 402 Mass. 36, 40 (1988)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, a childcare provider owes a duty of reasonable care to children in its custody and care. (See *Leonzio v. Palmer*, 70 Mass. App. Ct. 151, 155 (2007); *Alioto v. Marnell*, 402 Mass. 36, 40 (1988)).",
+      "is_valid": true,
+      "courtlistener_id": "2076877",
+      "case_name": "Alioto v. Marnell",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion (a dissent in Alioto v. Marnell) concerns parental duty to supervise an underage child in the context of alcohol use and driving, not the duty of a childcare provider to children in its custody. It does not discuss childcare providers, custodial care relationships, or a general duty of reasonable care owed by such providers. Therefore, it does not provide authority for the proposition regarding childcare providers\u2019 duties under Massachusetts law.",
+      "relevant_excerpt": "The first question is whether the parents knew or should have known \u201cof the child\u2019s propensity for the type of harmful conduct complained of, and ha[d] an opportunity to take reasonable corrective measures.\u201d Caldwell v. Zaher, 344 Mass. 590, 592 (1962). ... The second factual question is whether the parents exercised reasonable care to prevent Michael from driving while under the influence of intoxicating liquor."
+    },
+    "*Fisher v. Emerson College*, 89 Mass. App. Ct. 451, 455 (2016)": {
+      "raw_text": "*Fisher v. Emerson College*, 89 Mass. App. Ct. 451, 455 (2016)",
+      "citation_type": "case",
+      "proposition": "The injuries suffered by J.J. were a foreseeable consequence of Defendant's failure to provide reasonable supervision, as Massachusetts courts recognize that injury to children is likely when supervision duties are neglected. (See *Fisher v. Emerson College*, 89 Mass. App. Ct. 451, 455 (2016)).",
+      "is_valid": true,
+      "courtlistener_id": "3208422",
+      "case_name": "Commonwealth v. Meneide",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Fisher v. Emerson College (actually a criminal procedure case concerning an automobile stop and search) does not address negligence, supervision of children, or foreseeability of injuries to children. Its analysis is limited to Fourth Amendment/Article 14 issues about exit orders, patfrisks, and the permissible scope of protective searches during traffic stops. It therefore cannot be cited as authority for the proposition that injuries to children are a foreseeable consequence of a failure to provide reasonable supervision.",
+      "relevant_excerpt": "\u201cThe question, though, is whether, notwithstanding the justification for the search at its inception, it became excessive in its scope once no weapon was found during the patfrisk or in the immediate area where the defendant had been seated. \u2018\u201cIt is settled in law that, in appropriate circumstances, a Terry type of search may extend into the interior of an automobile so long as it is limited in scope to a protective end.\u201d\u2019 \u2026 What these cases demonstrate is that the scope of a protective search within the interior of an automobile must be limited by, and rationally connected to, a safety concern about the particular area to be searched.\u201d"
+    },
+    "*Santana v. Rainbow Cleaners, Inc.*, 969 Mass. 265, 268 (1988)": {
+      "raw_text": "*Santana v. Rainbow Cleaners, Inc.*, 969 Mass. 265, 268 (1988)",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s negligence was the proximate cause of J.J.\u2019s injuries, resulting in economic and non-economic damages to Plaintiff, including medical costs, lost wages, emotional distress, and pain and suffering. (See *Santana v. Rainbow Cleaners, Inc.*, 969 Mass. 265, 268 (1988)).",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

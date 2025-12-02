@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_006_10.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a residential tenancy beginning Jan 1, 2022, with monthly rent, and identifies Defendant as the landlord of the Premises\u2014facts that establish a landlord\u2011tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant failed to provide/restore hot water, ordered a replacement part but did not complete repair, and repeatedly responded without restoring service\u2014an alleged omission/failure to act by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges inability to bathe herself and her infant for weeks, repeated out\u2011of\u2011pocket expenses, transportation costs, and other inconveniences\u2014facts supporting a claim of substantial interference with use and enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint ties the lack of hot water and resulting hardships directly to Defendant\u2019s alleged failure to repair/restore service despite notice and requests, thereby alleging that the landlord's conduct caused the interference."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Plaintiff itemizes out\u2011of\u2011pocket expenses (gym/showers, gas, alternate bathing), estimates damages (~$400), and alleges inconvenience and emotional distress\u2014sufficient allegations of damages."
+    }
+  }
+}

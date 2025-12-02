@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_004_07.txt",
+  "scenario_id": "cm_004_07",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 1,
+  "statute_citations": 3,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 208 (statutory provisions concerning custody and support and the authority of the Probate and Family Court regarding family matters).": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (statutory provisions concerning custody and support and the authority of the Probate and Family Court regarding family matters).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the governing statutory scheme and case law that govern custody modification and best interests determinations in the Commonwealth of Massachusetts, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209C (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 jurisdictional rules for custody matters).": {
+      "raw_text": "Mass. Gen. Laws ch. 209C (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 jurisdictional rules for custody matters).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the governing statutory scheme and case law that govern custody modification and best interests determinations in the Commonwealth of Massachusetts, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119 (provisions regarding the care and protection of children where relevant).": {
+      "raw_text": "Mass. Gen. Laws ch. 119 (provisions regarding the care and protection of children where relevant).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the governing statutory scheme and case law that govern custody modification and best interests determinations in the Commonwealth of Massachusetts, including but not limited to:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Troxel v. Granville, 530 U.S. 57 (2000) (recognizing parental rights and that parental decisionmaking is to be accorded weight in custody/visitation matters).": {
+      "raw_text": "Troxel v. Granville, 530 U.S. 57 (2000) (recognizing parental rights and that parental decisionmaking is to be accorded weight in custody/visitation matters).",
+      "citation_type": "case",
+      "proposition": "Troxel v. Granville, 530 U.S. 57 (2000) (recognizing parental rights and that parental decisionmaking is to be accorded weight in custody/visitation matters).",
+      "is_valid": true,
+      "courtlistener_id": "1087668",
+      "case_name": "Troxel v. Granville",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion squarely recognizes a fundamental constitutional right of parents to make decisions concerning the care, custody, and control of their children and holds that courts must give \u201cspecial weight\u201d to a fit parent\u2019s determinations in visitation disputes. It invalidates Washington\u2019s nonparental visitation order in part because the trial court failed to accord any deference to the mother\u2019s decision about grandparent visitation. This directly supports the proposition that Troxel recognizes parental rights and that parental decisionmaking must be accorded weight in custody/visitation matters.",
+      "relevant_excerpt": "\u201cIn light of this extensive precedent, it cannot now be doubted that the Due Process Clause of the Fourteenth Amendment protects the fundamental right of parents to make decisions concerning the care, custody, and control of their children. \u2026 The problem here is not that the Washington Superior Court intervened, but that when it did so, it gave no special weight at all to Granville's determination of her daughters' best interests. \u2026 [I]f a fit parent's decision of the kind at issue here becomes subject to judicial review, the court must accord at least some special weight to the parent's own determination.\u201d"
+    }
+  }
+}

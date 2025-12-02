@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_001_05.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 4 expressly alleges an existing custody/parenting-time order entered April 15, 2021 awarding primary physical custody to Plaintiff and alternate weekends plus one weekday overnight to Defendant, which establishes the prior judgment/order requirement."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The Complaint identifies concrete relief: restrict Defendant\u2019s overnight parenting time to nights he is off work (Requested Relief B/Prayer \u00b62), convert overnights on work nights to daytime or makeup time, require 72-hour notice and identification/approval of alternate caregivers (C/E), interim proof-of-work documentation (D), and related remedial measures \u2014 i.e., specific, practicable modifications are pleaded."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The Complaint alleges facts showing a change since the Existing Order: Defendant accepted a regular overnight work schedule (\u00b67); has been asleep/unavailable during court-ordered overnights (\u00b68); has left the children with an unfamiliar roommate or returned them to Plaintiff with little notice (\u00b69); and these events have disrupted routines and affected the children (\u00b610). Paragraph 12 expressly alleges these constitute a material and substantial change. These factual allegations sufficiently plead a changed circumstance affecting custody implementation."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The Complaint links the alleged change to child welfare: it alleges increased stress and anxiety for the children, interruptions to routines, instances of being left with an unknown caregiver, and uncertainty about evening/overnight supervision (\u00b68\u201310, \u00b615). Paragraph 14 argues the requested modifications are necessary to protect the children\u2019s safety, welfare, stability, and best interests; the requested remedies are tailored to address the specific risks alleged. Those factual allegations adequately plead that the modification is in the children\u2019s best interests."
+    }
+  }
+}

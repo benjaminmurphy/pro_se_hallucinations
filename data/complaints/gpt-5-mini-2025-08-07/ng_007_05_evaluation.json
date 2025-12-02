@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_007_05.txt",
+  "scenario_id": "ng_007_05",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 260, \u00a72A (statute of limitations for actions for injury to the person \u2014 generally three years from the date of injury);": {
+      "raw_text": "M.G.L. c. 260, \u00a72A (statute of limitations for actions for injury to the person \u2014 generally three years from the date of injury);",
+      "citation_type": "statute",
+      "proposition": "To support the legal theories pleaded in this Complaint, Plaintiff relies upon established principles of negligence and premises liability under Massachusetts law, including but not limited to: M.G.L. c. 260, \u00a72A (statute of limitations for actions for injury to the person \u2014 generally three years from the date of injury);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 258 (Massachusetts Tort Claims Act \u2014 applicable to claims against municipalities and public employees; notice requirements where applicable);": {
+      "raw_text": "M.G.L. c. 258 (Massachusetts Tort Claims Act \u2014 applicable to claims against municipalities and public employees; notice requirements where applicable);",
+      "citation_type": "statute",
+      "proposition": "To support the legal theories pleaded in this Complaint, Plaintiff relies upon established principles of negligence and premises liability under Massachusetts law, including but not limited to: M.G.L. c. 258 (Massachusetts Tort Claims Act \u2014 applicable to claims against municipalities and public employees; notice requirements where applicable);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 231 and other applicable statutes governing civil actions and remedies in Massachusetts;": {
+      "raw_text": "M.G.L. c. 231 and other applicable statutes governing civil actions and remedies in Massachusetts;",
+      "citation_type": "statute",
+      "proposition": "To support the legal theories pleaded in this Complaint, Plaintiff relies upon established principles of negligence and premises liability under Massachusetts law, including but not limited to: M.G.L. c. 231 and other applicable statutes governing civil actions and remedies in Massachusetts;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 231 \u00a759 and related provisions concerning trial and remedies (as applicable);": {
+      "raw_text": "M.G.L. c. 231 \u00a759 and related provisions concerning trial and remedies (as applicable);",
+      "citation_type": "statute",
+      "proposition": "To support the legal theories pleaded in this Complaint, Plaintiff relies upon established principles of negligence and premises liability under Massachusetts law, including but not limited to: M.G.L. c. 231 \u00a759 and related provisions concerning trial and remedies (as applicable);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

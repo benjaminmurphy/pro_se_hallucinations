@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_008_09.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff rents the apartment (\u00b64, rent amount) and Defendant is the owner/landlord of the building and Plaintiff\u2019s landlord (\u00b62), which sufficiently pleads a landlord\u2013tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant had control/responsibility for common areas and the main entry lock (\u00b65), was notified of the broken lock (\u00b67), promised to repair but failed to do so despite follow-up requests (\u00b67\u20138), establishing an omission by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges concrete harms from the insecure entry: unauthorized access, mail/package theft (\u00b69), evidence of someone sleeping in the basement (\u00b610), increased risk to person/property, loss of use/enjoyment and emotional distress (\u00b611, \u00b614). These allegations support a claim of substantial interference with quiet enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint links the defective/unrepaired main entry lock and Defendant\u2019s failure to secure or warn (\u00b66\u20138, \u00b613, \u00b617\u201318) to unauthorized access and theft (\u00b69, \u00b619), alleging the landlord\u2019s omission was the proximate cause of the interference and losses."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint quantifies out\u2011of\u2011pocket losses ($120 stolen package, $200 security expenditures) and also alleges consequential damages for emotional distress, inconvenience, and loss of use/enjoyment (\u00b612, \u00b614, \u00b620), satisfying the damages element."
+    }
+  }
+}

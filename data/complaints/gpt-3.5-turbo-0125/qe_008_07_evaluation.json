@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_008_07.txt",
+  "scenario_id": "qe_008_07",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Mass. Gen. Laws Ch. 186, \u00a7 14": {
+      "raw_text": "Mass. Gen. Laws Ch. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Plaintiff alleges a cause of action against the Defendant for breach of the covenant of quiet enjoyment, as recognized under Massachusetts law, Mass. Gen. Laws Ch. 186, \u00a7 14, and relevant case law in Massachusetts including Erickson v. Whistler, 390 Mass. 546 (1983) and Puccio v. Marx, 410 Mass. 438 (1991).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Erickson v. Whistler, 390 Mass. 546 (1983)": {
+      "raw_text": "Erickson v. Whistler, 390 Mass. 546 (1983)",
+      "citation_type": "case",
+      "proposition": "Plaintiff alleges a cause of action against the Defendant for breach of the covenant of quiet enjoyment, as recognized under Massachusetts law, Mass. Gen. Laws Ch. 186, \u00a7 14, and relevant case law in Massachusetts including Erickson v. Whistler, 390 Mass. 546 (1983) and Puccio v. Marx, 410 Mass. 438 (1991).",
+      "is_valid": true,
+      "courtlistener_id": "2241201",
+      "case_name": "Halley v. Birbiglia",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion concerns medical malpractice and the doctrine of informed consent under Mass. Gen. Laws c. 231, \u00a7 60B. It does not involve landlord-tenant law, covenants of quiet enjoyment, Mass. Gen. Laws c. 186, \u00a7 14, or any related housing issues. Therefore, it does not provide authority for a cause of action for breach of the covenant of quiet enjoyment and is mis-cited for that proposition.",
+      "relevant_excerpt": "\"In Harnish v. Children\u2019s Hosp. Medical Center, 387 Mass. 152 (1982), which was decided after the tribunal\u2019s ruling, we explicitly endorsed the doctrine for the first time, holding that 'a physician\u2019s failure to divulge in a reasonable manner to a competent adult patient sufficient information to enable the patient to make an informed judgment whether to give or withhold consent to a medical or surgical procedure constitutes professional misconduct and comes within the ambit of G. L. c. 231, \u00a7 60B.'\""
+    },
+    "Puccio v. Marx, 410 Mass. 438 (1991)": {
+      "raw_text": "Puccio v. Marx, 410 Mass. 438 (1991)",
+      "citation_type": "case",
+      "proposition": "Plaintiff alleges a cause of action against the Defendant for breach of the covenant of quiet enjoyment, as recognized under Massachusetts law, Mass. Gen. Laws Ch. 186, \u00a7 14, and relevant case law in Massachusetts including Erickson v. Whistler, 390 Mass. 546 (1983) and Puccio v. Marx, 410 Mass. 438 (1991).",
+      "is_valid": true,
+      "courtlistener_id": "2068323",
+      "case_name": "Kaplan v. Boudreaux",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Puccio v. Marx is a condominium/common-area allocation case under Mass. Gen. Laws c. 183A; it concerns whether a by-law amendment granting exclusive use of common property altered percentage interests without unanimous consent. The opinion does not address landlord\u2013tenant law, residential tenancies, or the statutory covenant of quiet enjoyment under G.L. c. 186, \u00a7 14, nor does it mention Erickson v. Whistler or analyze quiet enjoyment as a cause of action. Therefore it does not support the proposition about a breach of the covenant of quiet enjoyment under Massachusetts landlord\u2013tenant law.",
+      "relevant_excerpt": "\u201cThe master deed, the condominium trust instrument, and G. L. c. 183A, \u00a7 5, all require the unanimous consent of the unit owners for any change in the owners\u2019 percentage interest in the common areas. \u2026 The amendment therefore violated G. L. c. 183A, \u00a7 5 (b), and the terms of the master deed and the condominium trust instrument. Under the master deed and the trust instrument, the amendment is invalid and has no effect.\u201d"
+    }
+  }
+}

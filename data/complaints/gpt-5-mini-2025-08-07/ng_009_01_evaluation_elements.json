@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_009_01.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned, managed, controlled, and had responsibility for maintenance of the Building and common areas including smoke detection (\u00b6\u00b65\u20136, 20), establishing the landlord\u2019s duty to maintain safety devices and warn tenants."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges prolonged chirping low-battery condition, at least three tenant complaints to Defendant, Defendant\u2019s promises to \u2018take care of\u2019 it, a removed battery leaving the detector inoperative, and explicit allegations of failures to replace, inspect, repair, or warn (\u00b6\u00b67\u20139, 17, 21)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a first-floor fire occurred but no alarm sounded because the hallway detector was inoperative (\u00b6\u00b610\u201312); as a result Plaintiff received no timely warning and suffered smoke inhalation (\u00b6\u00b612\u201313, 14). These facts sufficiently plead that the injuries would not have occurred but for the detector\u2019s inoperative condition caused by Defendant\u2019s alleged failures."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges Defendant had notice and that its failure to remedy the inoperative detector proximately caused or substantially contributed to Plaintiff\u2019s injuries (\u00b6\u00b617\u201318, 21\u201322); the harm (smoke inhalation from an un-signaled fire) is a foreseeable consequence of failing to maintain smoke detection."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages including hospitalization and medical bills (~$7,500), lost wages (~$2,000), bodily injury (smoke inhalation), property damage, pain and emotional distress (\u00b6\u00b613\u201316, 22)."
+    }
+  }
+}

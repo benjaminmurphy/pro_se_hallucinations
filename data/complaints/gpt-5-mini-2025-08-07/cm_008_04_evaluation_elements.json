@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_008_04.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint affirmatively pleads a prior custody judgment entered March 15, 2022 in this Court, describes its terms (shared legal custody with Plaintiff as primary residential parent; Defendant\u2019s substantial weekend time and Sunday overnights; cooperation on school matters), and attaches a copy of the order as an exhibit."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint specifies concrete relief: (a) grant Plaintiff final decision\u2011making authority for school attendance/educational issues (primary); (b) alternatively, reduce/reconfigure Defendant\u2019s parenting time to eliminate/restrict Sunday overnights on school nights; and additional requested orders (written medical documentation for absences, requiring transportation/attendance at tutoring, parent coordination/guardian ad litem, temporary relief)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a defined factual pattern over the past 12 months: Defendant routinely keeps the child home Monday after his weekend time without medical documentation, school truancy warnings, decline in grades/test scores, missed tutoring due to Defendant\u2019s refusal to transport. Those facts, tied to a time period after entry of the March 2022 order, are pled as materially and substantially affecting the child\u2019s educational welfare."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint links the alleged conduct (unexcused absences, missed tutoring, academic decline, truancy warnings) directly to harm to the child\u2019s education and daily routine and frames the requested remedies as necessary to protect the child\u2019s educational welfare \u2014 allegations that, if proven, support that the modification is in the child\u2019s best interests."
+    }
+  }
+}

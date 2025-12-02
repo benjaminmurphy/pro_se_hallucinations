@@ -1,0 +1,109 @@
+```plaintext
+COMMONWEALTH OF MASSACHUSETTS  
+SOMERVILLE DISTRICT COURT  
+
+_______________________________  
+EMILY JOHNSON,  
+    Plaintiff,  
+
+v.  
+
+ROBERT WILLIAMS,  
+    Defendant.  
+_______________________________  
+
+CIVIL COMPLAINT  
+(Breach of the Covenant of Quiet Enjoyment – G.L. c. 186, § 14)  
+
+INTRODUCTION  
+
+1. Plaintiff Emily Johnson ("Plaintiff"), a tenant residing at 567 Elm Street, Somerville, Massachusetts, brings this action against Defendant Robert Williams ("Defendant"), her landlord, for damages arising from Defendant’s failure to ensure her right to quiet enjoyment of her leased premises, in violation of Massachusetts law.  
+
+JURISDICTION AND VENUE  
+
+2. This Court has jurisdiction over this matter pursuant to Massachusetts General Laws chapter 218, § 19.  
+
+3. Venue is proper in this Court because the property at issue is located in Somerville, Massachusetts, and the Defendant’s actionable conduct occurred within the jurisdiction of this Court.  
+
+PARTIES  
+
+4. Plaintiff Emily Johnson is a resident of Massachusetts who has leased the second-floor apartment of the property located at 567 Elm Street, Somerville, Massachusetts, since January 1, 2022.  
+
+5. Defendant Robert Williams is the owner and lessor of the property located at 567 Elm Street, Somerville, Massachusetts.  
+
+FACTUAL ALLEGATIONS  
+
+6. On January 1, 2022, Plaintiff entered into a valid written lease agreement with Defendant, which provides that her tenancy would be subject to Defendant’s obligation to ensure Plaintiff’s "quiet enjoyment" of the premises, as stated explicitly in the lease and pursuant to Massachusetts law (G.L. c. 186, § 14).  
+
+7. Plaintiff has experienced persistent and excessive noise disruptions caused by the upstairs tenants of the property. The disturbances, which began approximately six months ago, include constant stomping, loud music played late at night, and furniture being moved during early morning hours.  
+
+8. These disruptions occur at all hours of the day and night, resulting in a lack of sleep for Plaintiff.  
+
+9. Plaintiff first notified Defendant of the noise issues approximately six months ago and has contacted Defendant regarding the same issue on at least five or six different occasions.  
+
+10. Defendant initially addressed the problem by speaking with the upstairs tenants, but the disruptive noise resumed shortly thereafter.  
+
+11. Despite Plaintiff’s repeated requests and complaints, Defendant has negligently failed to take further action to resolve the noise disruption or otherwise protect Plaintiff’s right to the quiet enjoyment of her unit.  
+
+12. Plaintiff has taken significant measures to mitigate the noise issue, including purchasing earplugs, a white noise machine, and medication prescribed for sleep disturbances. These efforts have proven futile.  
+
+13. As a direct result of the noise disturbances and Defendant’s refusal to resolve the issue, Plaintiff has suffered:  
+
+    a. Significant loss of sleep and associated health problems, resulting in the need for sleep medication at a cost of $40 per month;  
+    b. Disruption to her daily life and work performance, including a written warning from her employer for falling asleep at work;  
+    c. Emotional distress caused by Defendant’s failure to provide a livable environment.  
+
+14. Plaintiff continues to endure substantial interference with the use and enjoyment of her rental unit, in direct violation of the covenant of quiet enjoyment, as codified in G.L. c. 186, § 14.  
+
+CAUSE OF ACTION  
+Breach of the Covenant of Quiet Enjoyment (G.L. c. 186, § 14)  
+
+15. Plaintiff incorporates by reference the allegations contained in Paragraphs 1 through 14 as if fully set forth herein.  
+
+16. Massachusetts law, specifically G.L. c. 186, § 14, implies in every lease agreement a covenant of quiet enjoyment, which protects tenants from substantial interference with their use and enjoyment of rented premises.  
+
+17. Under Massachusetts case law, landlords are liable for breaches of the covenant of quiet enjoyment even when caused by other tenants, so long as the landlord fails to take reasonable actions to address the interference. *Dartmouth v. Silva*, 325 Mass. 401 (1950); *Blackett v. Olanoff*, 371 Mass. 714 (1977).  
+
+18. Defendant has failed to take adequate steps to address the persistent and excessive noise disturbances caused by other tenants in the building, despite repeated notice by Plaintiff.  
+
+19. Defendant’s inaction constitutes a substantial interference with Plaintiff’s use and enjoyment of her rental unit, in breach of G.L. c. 186, § 14.  
+
+20. Defendant’s breach has caused Plaintiff to suffer damages, including financial harm, emotional distress, and loss of sleep, as detailed above.  
+
+PRAYER FOR RELIEF  
+
+WHEREFORE, Plaintiff Emily Johnson requests that this Court enter judgment in her favor and award the following relief:  
+
+A. Compensatory damages of no less than $2,400 for violations of the covenant of quiet enjoyment, as permitted by G.L. c. 186, § 14;  
+
+B. An award of statutory damages as authorized by G.L. c. 186, § 14, which provides for damages up to three times the amount of actual damages for willful or negligent interference with quiet enjoyment;  
+
+C. Reasonable costs and expenses of litigation, including court fees, pursuant to G.L. c. 186, § 14;  
+
+D. Any other relief this Court deems just and proper.  
+
+Dated: December 1, 2025.  
+
+Respectfully submitted,  
+Emily Johnson  
+__________________________  
+EMILY JOHNSON, PRO SE  
+567 Elm Street  
+Somerville, MA 02144  
+Tel: (617) 555-0123  
+Email: psm1433@gmail.com  
+```  
+
+### Supporting Authorities:
+1. **G.L. c. 186, § 14**: Imposes liability on landlords for breaches of quiet enjoyment, including treble damages for willful or negligent violations.
+2. **Dartmouth v. Silva**, 325 Mass. 401 (1950): Confirms a landlord's responsibility for tenant-caused disturbances affecting another tenant's right to quiet enjoyment.
+3. **Blackett v. Olanoff**, 371 Mass. 714 (1977): Holds that landlords can be liable for failing to address major disturbances caused by other tenants.
+4. **Simon v. Solomon**, 385 Mass. 91 (1982): Defines substantial interference as a breach of quiet enjoyment.
+5. **Al-Ziab v. Mourgis**, 424 Mass. 847 (1997): Highlights the role of the landlord’s inaction in determining a breach of G.L. c. 186, § 14.
+6. **Doe v. New Bedford Hous. Auth.**, 417 Mass. 273 (1994): A violation of quiet enjoyment can result from a landlord's failure to act.
+7. **Terry v. Shelly**, 418 Mass. 19 (1994): Confirms entitlement to statutory damages for breaches of quiet enjoyment.
+8. **G.L. c. 93A**: Although not directly raised, case law recognizes quiet enjoyment violations as conduct potentially violative of consumer protection statutes in extreme cases.
+9. **Berish v. Bornstein**, 437 Mass. 252 (2002): Recognizes a landlord’s liability for external impacts on a tenant’s enjoyment of leased premises.
+10. **Berman & Sons, Inc. v. Jefferson**, 379 Mass. 196 (1979): Notes treble damages under G.L. c. 186, § 14 for willful violations.
+
+This complaint should be printed, signed, and filed in accordance with the rules of the Somerville District Court.

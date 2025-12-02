@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_007_02.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly identifies a prior Probate and Family Court custody order dated May 14, 2019, describing joint legal custody and equal physical custody (one-week-on/one-week-off). It alleges the order remains in effect and that this Court entered the 2019 Order, which adequately pleads the existence of an existing custody judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint clearly specifies the requested change: award primary physical custody to the mother and restructure defendant\u2019s parenting time (e.g., day visits, supervised/assisted visits, visits only when a responsible adult is present, neutral locations), require medical clearances, and request temporary emergency relief and evaluations. The proposed parenting plan and concrete restrictions make the requested modification specific."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a material and substantial change: the defendant\u2019s diagnosis of a progressive neurological condition, a history of multiple falls, treating-physician restrictions against unsupervised care in situations requiring quick physical response or stairs, reliance on the child to assist with transfers and safety-sensitive tasks, and a progressive prognosis. Those factual allegations tie the changed circumstances to the parents\u2019 ability to implement the prior custody arrangement."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the defendant\u2019s condition exposes the 12\u2011year\u2011old to safety risks and inappropriate caregiving responsibilities, that the child benefits from stable routines and supervision, and that awarding primary custody to the mother with structured, safety\u2011focused parenting time serves the child\u2019s welfare. It also requests evaluations and supervised visits to protect the child\u2014facts sufficient to plead that the modification is in the child\u2019s best interests."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+Here is your legally formatted complaint:
+
+---
+
+**COMMONWEALTH OF MASSACHUSETTS**  
+**WORCESTER DISTRICT COURT**  
+
+**Jessica Miller,**  
+**Plaintiff,**  
+v.  
+**Emily Johnson,**  
+**Defendant.**  
+
+CIVIL ACTION NO. __________  
+
+**COMPLAINT**  
+
+### **INTRODUCTION**  
+This is a negligence action arising out of a slip-and-fall incident that occurred on February 10, 2023, on an unreasonably dangerous, ice-covered sidewalk in front of the premises located at 123 Maple Street, Worcester, Massachusetts, which the Defendant, Emily Johnson, was responsible for maintaining. As a result of the Defendant’s negligence, Plaintiff Jessica Miller sustained bodily injuries, incurred medical expenses, and suffered lost wages.  
+
+### **PARTIES**  
+1. The Plaintiff, Jessica Miller, resides in Worcester, Massachusetts.  
+2. The Defendant, Emily Johnson, upon information and belief, resides and conducts business in Massachusetts as the owner and landlord of the apartment building at 123 Maple Street, Worcester, Massachusetts, a three-unit residential property.  
+
+### **JURISDICTION AND VENUE**  
+3. This Court has jurisdiction over this matter pursuant to General Laws of Massachusetts, Chapter 218, § 19.  
+4. Venue is proper in the Worcester District Court under G.L. c. 223, § 1 because the incident giving rise to this action occurred in Worcester County and the Defendant resides and conducts business there.  
+
+### **FACTUAL ALLEGATIONS**  
+5. On or about February 10, 2023, Plaintiff Jessica Miller was lawfully on the sidewalk in front of 123 Maple Street, Worcester, Massachusetts, in the course of delivering groceries to one of Defendant Emily Johnson’s tenants.  
+6. As the owner and landlord of 123 Maple Street, Defendant was obligated under G.L. c. 84, § 21 and Massachusetts common law to maintain the sidewalk abutting her property in a reasonably safe condition and to remove or remedy any snow, ice, or other hazards.  
+7. On or before February 10, 2023, a winter storm had deposited snow on the sidewalk adjacent to the property owned by Defendant.  
+8. Defendant negligently shoveled a narrow pathway down the center of the sidewalk but failed to apply any ice melt, sand, or other measures to prevent ice formation or to render the sidewalk reasonably safe for pedestrians.  
+9. Over the subsequent days, sunlight melted portions of the snow during the daytime, which refroze into a hazardous sheet of ice at night.  
+10. Previous tenants of Defendant’s property notified her of the ice condition by text message and provided photographic evidence of the hazard. Defendant, however, chose not to take reasonable steps to remedy the condition, instead responding that “the sun will take care of it.”  
+11. On February 10, 2023, Plaintiff, while walking on the sidewalk in front of 123 Maple Street, encountered the ice-covered surface, lost her footing, and fell directly onto her lower back.  
+12. As a direct and proximate result of Defendant’s negligence, Plaintiff sustained a lower back sprain, incurred medical expenses in the approximate amount of $1,200, and suffered lost wages totaling approximately $800.  
+
+### **CAUSE OF ACTION: NEGLIGENCE**  
+13. Plaintiff incorporates by reference each of the foregoing paragraphs as if fully stated herein.  
+14. Defendant had a duty under Massachusetts General Laws and common law to exercise reasonable care in maintaining the sidewalk abutting her property at 123 Maple Street in a condition safe for public use, including preventing or remedying the accumulation of snow and ice that would pose a hazard to pedestrians.  
+15. Defendant breached her duty of care by:  
+    a) Failing to adequately remove the accumulation of snow and ice on the sidewalk after the February snowstorm;  
+    b) Shoveling in a manner that created a narrow and ultimately more hazardous pathway of ice;  
+    c) Failing to apply any ice melt, sand, or comparable reasonable measures to prevent ice formation; and  
+    d) Failing to take reasonable action after being informed by tenants of the hazardous ice on the sidewalk.  
+16. Defendant’s actions and omissions constitute a violation of the duty of care owed to Plaintiff and others lawfully present on the sidewalk in front of 123 Maple Street.  
+17. As a direct and proximate result of Defendant’s negligence, Plaintiff sustained serious injuries, incurred financial damages including medical expenses and lost wages, and endured physical pain and suffering.  
+
+### **PRAYER FOR RELIEF**  
+WHEREFORE, Plaintiff Jessica Miller respectfully requests that this Court grant the following relief:  
+1. Award Plaintiff compensatory damages for medical expenses, lost wages, and pain and suffering in an amount to be determined at trial, but in no event less than $2,000;  
+2. Award Plaintiff costs associated with this action;  
+3. Award any and all other relief that this Court deems just and equitable.  
+
+### **DEMAND FOR JURY TRIAL**  
+Plaintiff hereby demands a trial by jury on all issues so triable.  
+
+### **SIGNATURE BLOCK**  
+
+Respectfully submitted,  
+
+**Jessica Miller**  
+Pro Se Plaintiff  
+617-555-0123  
+psm1443@gmail.com  
+
+Dated: December 1, 2025  
+
+### **CERTIFICATE OF SERVICE**  
+I, Jessica Miller, certify that on this 1st day of December, 2025, a true and correct copy of the foregoing Complaint was served upon the Defendant at her last known address via certified mail, return receipt requested.  
+
+**Jessica Miller**  
+(Signature)  
+
+---
+
+### **Authorities Cited**  
+1. G.L. c. 84, § 21 (liability of property owners for snow and ice on abutting sidewalks).  
+2. *Papadopoulos v. Target Corp.*, 457 Mass. 368 (2010) (abolishing the natural accumulation rule and requiring property owners to remedy unnatural accumulation of snow and ice).  
+3. *Sweeney v. Ragged Mountain Ski Area*, 76 Mass. App. Ct. 29 (2009) (property owners owe a duty of reasonable care to visitors).  
+4. *Mukome v. Junkins*, 59 Mass. App. Ct. 1115 (2003) (duty to act reasonably when engaging in snow removal).  
+5. *Dos Santos v. Coleta*, 465 Mass. 148 (2013) (landlord liability for injuries stemming from defects or hazards on property they control).  
+6. *Toubiana v. Priestly*, 402 Mass. 84 (1988) (reasonable foreseeability as a standard for negligence).  
+7. *Leavitt v. Brockton Hosp.*, 454 Mass. 37 (2009) (describing causation and damages requirements for a negligence claim).  
+8. *Whittaker v. Saraceno*, 418 Mass. 196 (1994) (reasonableness standard in negligence cases).  
+9. *Barry v. Beverly Enterprises, Inc.*, 418 Mass. 590 (1994) (evidence of landlord’s knowledge of a hazard contributes to liability).  
+10. *Puleio v. Milford Housing Authority*, 368 Mass. 283 (1975) (landlord’s duty to maintain premises in a reasonably safe condition).  
+
+---
+
+This document should assist you in filing your complaint. Remember to consult with the court clerk to make sure you have all necessary filing fees and additional procedural requirements.

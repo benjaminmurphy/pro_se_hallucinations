@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_004_06.txt",
+  "scenario_id": "cm_004_06",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "- Mass. Gen. Laws ch. 208 (statutory authority for custody determinations and modifications);": {
+      "raw_text": "- Mass. Gen. Laws ch. 208 (statutory authority for custody determinations and modifications);",
+      "citation_type": "statute",
+      "proposition": " - Mass. Gen. Laws ch. 208 (statutory authority for custody determinations and modifications);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Mass. Gen. Laws ch. 209C (Uniform Child Custody Jurisdiction and Enforcement Act) (jurisdictional matters, if relevant);": {
+      "raw_text": "- Mass. Gen. Laws ch. 209C (Uniform Child Custody Jurisdiction and Enforcement Act) (jurisdictional matters, if relevant);",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 209C (Uniform Child Custody Jurisdiction and Enforcement Act) (jurisdictional matters, if relevant);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Mass. Gen. Laws ch. 119 and other statutes as applicable regarding child welfare and best interests considerations;": {
+      "raw_text": "- Mass. Gen. Laws ch. 119 and other statutes as applicable regarding child welfare and best interests considerations;",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 119 and other statutes as applicable regarding child welfare and best interests considerations;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

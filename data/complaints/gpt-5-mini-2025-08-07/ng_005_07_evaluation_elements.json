@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_005_07.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges facts establishing a duty of reasonable care: Plaintiff and Defendant are neighbors who share a driveway (\u00b65) and the pleading expressly alleges Defendant owed Plaintiff a duty to use reasonable care to prevent foreseeable harm (\u00b613)."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete acts and omissions showing breach: Defendant repeatedly left a tall aluminum ladder unsecured against the fence adjacent to Plaintiff\u2019s parking space (\u00b66), was warned by Plaintiff and promised to secure or move it but failed to do so (\u00b67), and the pleading specifically alleges failure to secure/tie down/move the ladder (\u00b614)."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that a gust of wind caused the unsecured ladder to fall onto Plaintiff\u2019s car (\u00b68) and that the fall directly caused the vehicle damage (\u00b69). Those facts support the inference that but for Defendant\u2019s leaving the ladder unsecured (and failing to secure it after warning), the ladder would not have fallen onto Plaintiff\u2019s vehicle."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that Defendant had actual notice of the hazard and was warned that the ladder might fall in windy conditions (\u00b67), and that Defendant\u2019s negligence was a proximate cause of the ladder\u2019s dislodgement and resulting property damage (\u00b615). Those allegations support foreseeability and proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges actual property damage to Plaintiff\u2019s automobile (dented hood, cracked windshield) and out-of-pocket expenses including insurance deductible and rental car costs (\u00b69\u201311, \u00b616(a)\u2013(b)), with damages to be proven at trial."
+    }
+  }
+}

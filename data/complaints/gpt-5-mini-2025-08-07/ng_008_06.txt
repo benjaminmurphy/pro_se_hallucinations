@@ -1,0 +1,123 @@
+COMMONWEALTH OF MASSACHUSETTS
+NORFOLK SUPERIOR COURT
+
+MARK JOHNSON,                                  )
+    Plaintiff,                                 )
+                                               )
+v.                                             )   Civil Action No. __________
+                                               )
+SUNNY BISTRO LLC,                              )
+    Defendant.                                 )
+
+COMPLAINT — NEGLIGENCE
+
+1. Parties
+
+1.1 Plaintiff Mark Johnson (“Plaintiff” or “Mr. Johnson”) is an individual and resident of Massachusetts. Plaintiff’s contact information is: phone (617) 555-0123; email psm1443@gmail.com.
+
+1.2 Defendant Sunny Bistro LLC (“Defendant” or “Sunny Bistro”) is a Massachusetts limited liability company that operates a restaurant at 123 Main St., Quincy, Norfolk County, Massachusetts 02169. At all times relevant to this Complaint, Sunny Bistro owned, operated, managed, maintained, and controlled the restaurant premises at 123 Main St., Quincy.
+
+2. Jurisdiction and Venue
+
+2.1 This Court has subject matter jurisdiction over this action because the amount in controversy exceeds the jurisdictional minimum of the Superior Court and this is an ordinary civil action for personal injury.
+
+2.2 Venue is proper in Norfolk County Superior Court because the negligence alleged occurred at property located in Quincy, Norfolk County, Massachusetts (123 Main St., Quincy, MA 02169), and Defendant conducts business in Norfolk County.
+
+2.3 This Complaint is timely filed within any applicable statutory period. Plaintiff’s cause of action arose on September 15, 2023. Massachusetts law generally provides a three-year statute of limitations for personal injury claims. See M.G.L. c. 260, § 2A. (Plaintiff files this Complaint on December 1, 2025.)
+
+3. Statement of Facts
+
+3.1 On or about September 15, 2023, at approximately dinner hours, Plaintiff was a business invitee at Sunny Bistro’s restaurant located at 123 Main St., Quincy, MA.
+
+3.2 While Plaintiff was dining, a server in Sunny Bistro’s restaurant dropped a tray in the narrow hallway between the kitchen and the dining room. Several glasses broke on the tile floor. The server picked up the broken glass quickly but left water and ice on the tile floor and announced she would “be right back with a mop.” The server did not place any wet-floor sign, cone, barrier, or other warning to alert patrons or staff of the wet condition.
+
+3.3 Approximately ten minutes later, Plaintiff rose from his table to use the bathroom. The hallway between the dining room and the kitchen remained wet. The water on the tile glistened in the light and was visible on the tile surface, but Plaintiff reasonably believed the shine was a function of the tile and did not appreciate there was a hazardous accumulation of water and ice on the floor until he stepped onto it.
+
+3.4 Plaintiff slipped on the unmarked wet area in the hallway, twisting his knee severely. Plaintiff suffered a severe knee sprain and required immobilization in a brace, medical treatment at urgent care, and several weeks of physical therapy.
+
+3.5 After the incident, Plaintiff heard restaurant staff say they had been “dodging that puddle” for a while, indicating the condition was present and known (or at least observable) prior to Plaintiff’s fall.
+
+3.6 As a proximate result of Defendant’s negligence, Plaintiff incurred medical expenses of approximately $1,800 and lost wages of approximately $500, and suffered pain, disability, loss of enjoyment of life, and other damages in an amount to be proven at trial.
+
+4. Duty, Breach, Causation, and Damages — General Allegations
+
+4.1 Plaintiff repeats and realleges all preceding paragraphs as if fully set forth herein.
+
+4.2 As the owner and operator of the business premises where Plaintiff was injured, Defendant owed Plaintiff, as an invitee, a duty to exercise reasonable care to keep the premises in a reasonably safe condition, to warn invitees of dangerous conditions of which it had actual or constructive knowledge, and to take reasonable steps to discover and eliminate hazards. See Restatement (Second) of Torts § 343; see also Brown v. Kendall, 60 Mass. (1 Cush.) 292 (1850) (general principles of negligence); Prosser & Keeton on Torts § 56 (elements of duty and breach).
+
+4.3 Defendant breached that duty by, among other things:
+    a. failing to exercise reasonable care to discover and remedy the dangerous accumulation of water and ice on the hallway tile floor;
+    b. failing to warn patrons and invitees of the hazardous wet condition by placing a conspicuous warning sign, cone, barrier, or otherwise restricting access to the affected area;
+    c. failing to implement and follow reasonable procedures and safeguards for cleanup of spilled liquids and broken glass in a timely manner; and
+    d. permitting and allowing an unreasonably dangerous condition to exist in an area used by patrons when Defendant knew or should have known of the condition.
+
+4.4 The hazardous condition described above was the direct and proximate cause of Plaintiff’s injuries. Defendant’s breach was a substantial factor in bringing about Plaintiff’s harm and the harm was a foreseeable consequence of leaving water and ice on a tiled pedestrian walkway without warning. See Restatement (Second) of Torts §§ 343, 430; see also Byrne v. Boadle, (English Court of Exchequer, 1863) (rise of res ipsa loquitur principles); Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (foreseeability considerations).
+
+4.5 As a direct and proximate result of Defendant’s negligence, Plaintiff suffered physical injury, incurred medical expenses, lost earnings, experienced pain and suffering, emotional distress, and loss of enjoyment of life in amounts to be proven at trial.
+
+5. Cause of Action — Negligence (Single Claim)
+
+5.1 Plaintiff repeats and realleges the allegations in Paragraphs 1 through 4 as if fully set forth herein.
+
+5.2 Defendant owed a duty to Plaintiff to maintain reasonably safe premises and to warn of dangerous conditions of which Defendant had actual or constructive knowledge. See Restatement (Second) of Torts § 343; see also Massachusetts common-law authority recognizing proprietor duties to invitees.
+
+5.3 Defendant breached that duty by permitting water and ice to remain on the tile floor in a walkway used by patrons and by failing to warn invitees of the dangerous condition despite actual and/or constructive knowledge of the hazard.
+
+5.4 Defendant’s breach was the proximate cause of Plaintiff’s injuries. The hazard was discoverable by reasonable inspection and correction in the exercise of ordinary care, or was known by Defendant or its employees. See, e.g., Byrne v. Boadle, supra; see also analogous Massachusetts authority on notice, constructive notice, and proprietor responsibility.
+
+5.5 As a direct and proximate result of Defendant’s negligence, Plaintiff sustained damages, including but not limited to:
+    a. past and future medical expenses (past medical expenses to date approximately $1,800);
+    b. past and future lost earnings (past wages approximately $500);
+    c. past and future pain and suffering and emotional distress;
+    d. loss of enjoyment of life; and
+    e. all other damages recoverable at law.
+
+6. Statutory and Case Authorities Plaintiff Intends to Rely On
+
+6.1 Plaintiff intends to rely upon Massachusetts statutory and common law principles of negligence and comparative fault, including without limitation:
+    - M.G.L. c. 260, § 2A (statute of limitations for personal injury actions);
+    - M.G.L. c. 231, § 85 (comparative negligence and apportionment of fault);
+    - Restatement (Second) of Torts § 343 (duty to keep premises safe);
+    - Restatement (Second) of Torts § 343A (liability for failure to warn);
+    - Restatement (Second) of Torts § 281 (duty of possessor of land to invitees);
+    - Brown v. Kendall, 60 Mass. (1 Cush.) 292 (1850) (early common-law negligence principles);
+    - Byrne v. Boadle (1863) 159 Eng. Rep. 299 (useful for res ipsa loquitur principles where applicable);
+    - Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (foreseeability in proximate cause analyses);
+    - Cases and authorities interpreting premises liability and notice principles under Massachusetts law and analogous authority on constructive and actual notice to proprietors (to be cited and argued with specificity at the time of motion practice or trial, including Massachusetts SJC and Appeals Court decisions defining duties of proprietors to invitees and establishing standards for notice, inspection, and timely remediation of hazards).
+
+6.2 Plaintiff reserves the right to supplement and refine the legal authorities and factual allegations after further investigation, discovery, and legal research.
+
+7. Prayer for Relief
+
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in his favor and against Defendant Sunny Bistro LLC as follows:
+
+A. For compensatory damages in an amount to be proven at trial, including past and future medical expenses (past medical expenses to date approximately $1,800), past and future lost wages (past lost wages approximately $500), pain and suffering, emotional distress, loss of enjoyment of life, and other damages recoverable at law;
+
+B. For costs of suit and interest allowed by law;
+
+C. For such other and further relief as the Court deems just and proper.
+
+8. Jury Demand
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+Dated: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Mark Johnson
+Mark Johnson
+Plaintiff, pro se
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+Address: [Plaintiff’s address omitted from filing copy if filing preferences require; available upon request]
+
+Certificate of Service
+
+I hereby certify that on December 1, 2025, a true copy of the foregoing Complaint was served in accordance with applicable court rules on Defendant Sunny Bistro LLC by leaving a copy with a person in charge at the business address 123 Main St., Quincy, MA 02169 and by first-class mail to the same address. /s/ Mark Johnson
+
+Notes and Important Guidance (for Plaintiff)
+
+- Plaintiff files this pleading pro se and is responsible for ensuring compliance with all Superior Court rules, local rules, and filing procedures, including payment of filing fees or submission of fee-waiver paperwork if eligible.
+- Plaintiff should consult or retain counsel if possible; this Complaint states a single cause of action for negligence and identifies the basic factual allegations and legal elements required to proceed. Counsel can assist in tailoring and supplementing authority, conducting discovery, and presenting damages and legal theories (including applicable Massachusetts SJC and Appeals Court authorities) in appropriate detail.
+- Plaintiff may later amend the Complaint to add further factual detail, citations to controlling Massachusetts caselaw on premises liability and notice (actual and constructive), and any additional damages or claims discovered through investigation and discovery.

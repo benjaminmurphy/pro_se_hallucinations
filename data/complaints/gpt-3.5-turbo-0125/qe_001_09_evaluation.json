@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_001_09.txt",
+  "scenario_id": "qe_001_09",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws \u00a7 218": {
+      "raw_text": "Massachusetts General Laws \u00a7 218",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws \u00a7 218, granting authority to the Boston Municipal Court to hear landlord-tenant disputes.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 186, \u00a7 14": {
+      "raw_text": "Massachusetts General Laws Chapter 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Plaintiff alleges a violation of the covenant of quiet enjoyment, as recognized under Massachusetts law, including but not limited to Massachusetts General Laws Chapter 186, \u00a7 14.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

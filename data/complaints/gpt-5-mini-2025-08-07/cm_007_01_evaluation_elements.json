@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_007_01.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads a prior court order entered May 15, 2018 granting joint legal custody and alternating-week equal physical parenting time (the \u201c2018 Order\u201d), and states the order was entered by this Court in Norfolk County. Those facts establish an existing custody/parenting-time judgment."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly seeks modification: primary physical custody to Plaintiff with Defendant to have reasonable, medically\u2011limited parenting time. It also identifies specific proposed terms (daytime/supervised/assisted visits, prohibition on being alone with the child in stairs/transfers, temporary supervised visitation, virtual contact) and asks for pendente lite relief \u2014 sufficiently specific in nature and scope."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a concrete, post\u2011judgment change: Defendant\u2019s progressive neurological diagnosis, significant balance/mobility impairment, multiple recent falls, reliance on a wheelchair and assistance for transfers, treating\u2011physician restrictions about leaving Defendant alone with the child in stair/rapid\u2011response situations, and instances where the 12\u2011year\u2011old was required to assist. Those allegations, if proven, plausibly constitute a material and substantial change affecting the child\u2019s safety since the 2018 Order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint ties the alleged change to the child\u2019s safety and welfare and alleges that awarding primary residence to Plaintiff with tailored, supervised or limited parenting time for Defendant (and other accommodations) is necessary to protect the child\u2019s safety, maintain routines/schooling/emotional well\u2011being, and preserve the parent\u2011child relationship. Those factual allegations adequately plead that the requested modification is in the child\u2019s best interests."
+    }
+  }
+}

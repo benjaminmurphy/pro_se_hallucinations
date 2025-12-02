@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_001_10.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly identifies an Existing Order entered May 15, 2020 describing primary physical custody to Petitioner and Mr. Johnson's alternate weekends plus one weekday overnight (\u00b62.1). The pleadings also state the Existing Order was entered in this Court and recommend attaching a copy as an exhibit."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The petition specifies concrete modifications: limit weekday overnights to nights when Respondent is actually off work (4.1(a)), require advance written/electronic notice of work schedule (4.1(b)), provide rescheduling or conversion to daytime parenting time if Respondent cannot personally care for the children (4.1(c)), and seeks temporary pendente lite relief (4.2, \u00b68)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a clear change since the prior order: Respondent took a night-shift job (approximately 7:00 p.m.\u20137:00 a.m.) that routinely overlaps his scheduled parenting time (\u00b63.2), and alleges resulting problems \u2014 fatigue, leaving the children with third parties, unsupervised early returns, and children falling asleep while with Respondent \u2014 that materially affect the viability and safety of the weekday overnight (\u00b63.3\u20133.4). These factual allegations adequately plead a material and substantial change for pleading purposes."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The petition alleges the requested modifications are narrowly tailored to ensure overnights occur only when Respondent can be awake and personally responsible for the children and to reduce last-minute disruptions (\u00b65.2, \u00b64.1). It ties the proposed changes directly to the children's safety, emotional stability, routine, and well\u2011being (\u00b63.4, \u00b65.2) and identifies evidence it will offer (\u00b66). Those allegations sufficiently plead that the modification is in the children\u2019s best interests at the pleading stage."
+    }
+  }
+}

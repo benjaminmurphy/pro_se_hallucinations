@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_001_01.txt",
+  "scenario_id": "qe_001_01",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant)",
+      "citation_type": "statute",
+      "proposition": "This Court has subject matter jurisdiction under Mass. Gen. Laws ch. 186 (Landlord and Tenant) and general jurisdictional statutes for contract and tort matters heard in the Boston Municipal Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 et seq. (Minimum Standards of Fitness for Human Habitation; heating and maintenance requirements)": {
+      "raw_text": "105 CMR 410.000 et seq. (Minimum Standards of Fitness for Human Habitation; heating and maintenance requirements)",
+      "citation_type": "statute",
+      "proposition": "The State Sanitary Code and related Massachusetts law establish minimum standards for habitability, including adequate heat and safe living conditions.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 (public health enforcement)": {
+      "raw_text": "Mass. Gen. Laws ch. 111 (public health enforcement)",
+      "citation_type": "statute",
+      "proposition": "The State Sanitary Code and related Massachusetts law establish minimum standards for habitability, including adequate heat and safe living conditions.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary Process jurisdiction and related landlord\u2013tenant procedures).": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary Process jurisdiction and related landlord\u2013tenant procedures).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on and gives notice of the relevance of the following authorities (this is a non-exhaustive list of representative authorities relied upon in support of Plaintiff\u2019s claim and legal theory):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A (consumer protection statute) \u2014 as background authority regarding unfair practices where relevant (reserved for informational purposes; not asserted as an independent count in this complaint).": {
+      "raw_text": "Mass. Gen. Laws ch. 93A (consumer protection statute) \u2014 as background authority regarding unfair practices where relevant (reserved for informational purposes; not asserted as an independent count in this complaint).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on and gives notice of the relevance of the following authorities (this is a non-exhaustive list of representative authorities relied upon in support of Plaintiff\u2019s claim and legal theory):",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

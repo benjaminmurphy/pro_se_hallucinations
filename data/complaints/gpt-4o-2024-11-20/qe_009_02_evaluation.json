@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_009_02.txt",
+  "scenario_id": "qe_009_02",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 4,
+  "case_citations": 1,
+  "statute_citations": 3,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "M.G.L. c. 212, \u00a7 4": {
+      "raw_text": "M.G.L. c. 212, \u00a7 4",
+      "citation_type": "statute",
+      "proposition": "This Court has subject matter jurisdiction over this action pursuant to M.G.L. c. 212, \u00a7 4, which provides the Superior Court with original jurisdiction over civil actions for damages greater than $50,000 or equitable relief.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 223, \u00a7 1": {
+      "raw_text": "M.G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in this Court pursuant to M.G.L. c. 223, \u00a7 1, as the Property is located in Hampden County, and the acts or omissions giving rise to this complaint occurred within this jurisdiction.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws c. 186, \u00a7 14": {
+      "raw_text": "Massachusetts General Laws c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts General Laws c. 186, \u00a7 14, a landlord\u2019s deliberate or negligent failure to remedy conditions that substantially interfere with a tenant\u2019s quiet enjoyment of leased premises constitutes a breach of the covenant of quiet enjoyment, entitling the tenant to recover compensatory damages.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Dartmouth v. Silva, 325 Mass. 401 (1950)": {
+      "raw_text": "Dartmouth v. Silva, 325 Mass. 401 (1950)",
+      "citation_type": "case",
+      "proposition": "Plaintiff is entitled to recover damages for Defendant\u2019s violation of her right to quiet enjoyment pursuant to M.G.L. c. 186, \u00a7 14 and related case law, including\u202fDartmouth v. Silva,\u202f325 Mass. 401 (1950), which holds that tenants are entitled to the uninterrupted enjoyment of their premises.",
+      "is_valid": true,
+      "courtlistener_id": "2131247",
+      "case_name": "Town of Dartmouth v. Silva",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion has nothing to do with landlord\u2011tenant relations, quiet enjoyment, or G.L. c. 186, \u00a7 14. It addresses a town\u2019s right to enjoin landowners from obstructing a natural watercourse that causes flooding of public ways, framed as a public nuisance issue. It therefore cannot be cited as authority that residential tenants are entitled to uninterrupted enjoyment of leased premises or for statutory quiet enjoyment damages.",
+      "relevant_excerpt": "\"The plaintiff grounds its right to relief on the existence of a nuisance. We construe the findings of the master as establishing that the brook which ran through the land of the defendants was a natural watercourse\u2026 The obstruction of a watercourse so as to cause the water to flow over a highway is a public nuisance\u2026 A town is under a duty to keep its ways in repair and is liable to travellers injured by reason of a breach of that duty.\""
+    }
+  }
+}

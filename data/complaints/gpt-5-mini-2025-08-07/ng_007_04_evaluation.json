@@ -1,0 +1,41 @@
+{
+  "complaint_file": "ng_007_04.txt",
+  "scenario_id": "ng_007_04",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 1,
+  "statute_citations": 1,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause principles);": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause principles);",
+      "citation_type": "case",
+      "proposition": "See Restatement (Second) of Torts \u00a7\u00a7 282, 283; Restatement (Second) of Torts \u00a7 314A (duty to invitees and entrants); see generally Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause principles); Massachusetts General Laws and applicable Massachusetts decisions recognize and apply these principles to premises liability and supervision claims.",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "Palsgraf does not deal with the Restatement provisions or Massachusetts premises liability directly, but it is accurately cited here only for its general discussion of proximate cause principles. Cardozo\u2019s opinion is a foundational torts case on the relational nature of duty and the scope of foreseeable risk, which underlies modern proximate cause analysis applied in premises and supervision cases. Thus, using Palsgraf as a \u201csee generally\u201d citation for proximate cause principles is appropriate and supported by the opinion\u2019s reasoning.",
+      "relevant_excerpt": "\u201cThe risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension\u2026 Negligence, like risk, is thus a term of relation. Negligence is not a tort unless it results in the commission of a wrong, and the commission of a wrong imports the violation of a right\u2026 The law of causation, remote or proximate, is thus foreign to the case before us.\u201d"
+    },
+    "Mass. Gen. Laws ch. 260, \u00a7 2A.": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a7 2A.",
+      "citation_type": "statute",
+      "proposition": "The Massachusetts statute of limitations for personal injury actions is three (3) years from the date of injury.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

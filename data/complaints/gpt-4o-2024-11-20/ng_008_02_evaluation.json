@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_008_02.txt",
+  "scenario_id": "ng_008_02",
+  "category": "negligence",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 6,
+  "case_citations": 4,
+  "statute_citations": 2,
+  "valid_citations": 4,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 4,
+  "citations": {
+    "G.L. c. 212, \u00a7 4": {
+      "raw_text": "G.L. c. 212, \u00a7 4",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to G.L. c. 212, \u00a7 4, as the amount in controversy exceeds twenty-five thousand dollars ($25,000.00).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7 1": {
+      "raw_text": "G.L. c. 223, \u00a7 1",
+      "citation_type": "statute",
+      "proposition": "Venue is appropriate in Norfolk County under G.L. c. 223, \u00a7 1, as the Defendant\u2019s principal place of business and the location of the incident giving rise to this action are both in Quincy, Massachusetts, which is within Norfolk County.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Doherty v. Spano, 54 Mass. App. Ct. 278, 281 (2002)": {
+      "raw_text": "Doherty v. Spano, 54 Mass. App. Ct. 278, 281 (2002)",
+      "citation_type": "case",
+      "proposition": "The Defendant owed a duty of reasonable care to all invited patrons, including the Plaintiff, to maintain the premises in safe condition and to warn patrons of any known or reasonably discoverable dangers. See Doherty v. Spano, 54 Mass. App. Ct. 278, 281 (2002).",
+      "is_valid": true,
+      "courtlistener_id": "6587018",
+      "case_name": "Commonwealth v. Mock",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Doherty v. Spano is a criminal procedure case dealing with whether police conduct constituted a seizure supported by reasonable suspicion under the Massachusetts Constitution. It does not involve premises liability, duties of care owed by a property owner or occupier to invitees, or any obligation to maintain premises or warn of dangers. Accordingly, it does not support the stated proposition about a defendant\u2019s duty of reasonable care to invited patrons.",
+      "relevant_excerpt": null
+    },
+    "Sheehan v. Roche Bros. Supermarkets, Inc., 448 Mass. 780, 784-85 (2007)": {
+      "raw_text": "Sheehan v. Roche Bros. Supermarkets, Inc., 448 Mass. 780, 784-85 (2007)",
+      "citation_type": "case",
+      "proposition": "Defective or dangerous conditions such as unmarked wet floors could and should have been timely remedied by Defendant\u2019s employees with the exercise of ordinary care. See Sheehan v. Roche Bros. Supermarkets, Inc., 448 Mass. 780, 784-85 (2007).",
+      "is_valid": true,
+      "courtlistener_id": "6579512",
+      "case_name": "Sheehan v. Roche Bros. Supermarkets, Inc.",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case does concern a slip-and-fall on produce in a supermarket, but its holding is about adopting the \u201cmode of operation\u201d approach to notice, not about a general duty that specific transitory hazards like unmarked wet floors \u201ccould and should have been timely remedied\u201d through ordinary care. The opinion focuses on when notice is inferred from the nature of self-service operations and on the plaintiff\u2019s burden of proof, rather than stating that such conditions must or could have been timely remedied in the ordinary-care sense asserted in the proposition. The cited pages do not articulate the specific principle claimed.",
+      "relevant_excerpt": "\u201cIn particular, as is the case here, fruit and vegetable debris presents an obvious risk of injury to a customer, and a reasonably prudent person would not place these items in an aisle or allow them to remain there. Thus, because the determination of reasonableness is a question of fact, the trier of fact must determine whether the owner could reasonably foresee or anticipate that a foreseeable risk stemming from the owner\u2019s mode of operation could occur and whether the owner exercised reasonable care in maintaining the premise in a safe condition commensurate with these foreseeable risks.\u201d"
+    },
+    "Oliveri v. Stop & Shop Supermarket Co., LLC, 72 Mass. App. Ct. 375, 377-79 (2008)": {
+      "raw_text": "Oliveri v. Stop & Shop Supermarket Co., LLC, 72 Mass. App. Ct. 375, 377-79 (2008)",
+      "citation_type": "case",
+      "proposition": "Defendant had actual knowledge of the dangerous condition, as evidenced by its employees\u2019 statements and actions, and/or constructive knowledge, as the condition existed for a length of time sufficient for a reasonably prudent employee to address the issue. See Oliveri v. Stop & Shop Supermarket Co., LLC, 72 Mass. App. Ct. 375, 377-79 (2008).",
+      "is_valid": true,
+      "courtlistener_id": "6588919",
+      "case_name": "Muldoon v. Planning Board",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The provided opinion is a Massachusetts zoning and site-plan review case concerning setback and design conditions imposed by a planning board. It does not involve premises liability, dangerous conditions, or any discussion of a defendant\u2019s actual or constructive knowledge of such a condition, nor employee statements or duration of a hazard. The citation is therefore inapposite to the stated proposition about knowledge of a dangerous condition in a tort context.",
+      "relevant_excerpt": "\u201cThe Marblehead zoning by-laws (by-laws) require site plan review by the planning board (board) of certain construction in the town\u2019s shoreline districts. As part of its site plan review of Susan Muldoon\u2019s proposed reconstruction of her single family home, the board conditioned approval of Muldoon\u2019s plan on her (1) using wood clapboard or shingle, rather than brick, on the building exterior (the siding condition) and (2) positioning the house thirty feet from the southwestern boundary of the property rather than the 8.3 feet proposed\u2026.\u201d"
+    },
+    "Mounsey v. Ellard, 363 Mass. 693, 706 (1973)": {
+      "raw_text": "Mounsey v. Ellard, 363 Mass. 693, 706 (1973)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, business owners owe a heightened duty of care to invitees because of the foreseeability of harm posed by dangerous conditions on their premises. See Mounsey v. Ellard, 363 Mass. 693, 706 (1973).",
+      "is_valid": true,
+      "courtlistener_id": "2031209",
+      "case_name": "Mounsey v. Ellard",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "medium",
+      "support_reasoning": "The provided text is a concurrence focused on abolishing the invitee/licensee distinction and criticizing the continued separate treatment of trespassers. It does not articulate or endorse a special, heightened duty owed to business invitees based on foreseeability of harm; rather, it argues against status-based distinctions generally. While the full Mounsey decision does revise Massachusetts premises liability law, this excerpt does not support the specific proposition about a heightened duty to invitees.",
+      "relevant_excerpt": "\"The court holds that the measure of responsibility of an occupier should no longer depend on whether the injured person is characterized as a \u2018licensee\u2019 rather than an \u2018invitee,\u2019 or vice versa; the question is to turn on other, more vital factors.\""
+    }
+  }
+}

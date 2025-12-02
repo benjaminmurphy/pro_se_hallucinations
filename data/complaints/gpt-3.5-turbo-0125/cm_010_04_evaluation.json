@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_010_04.txt",
+  "scenario_id": "cm_010_04",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Massachusetts General Laws Chapter 208, Section 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "Pursuant to Massachusetts General Laws Chapter 208, Section 28, the Court has the authority to modify a custody judgment upon a showing of a substantial change in circumstances and when such modification is in the best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Custody of Kali, 439 Mass. 834 (2003)": {
+      "raw_text": "Custody of Kali, 439 Mass. 834 (2003)",
+      "citation_type": "case",
+      "proposition": "In the case of Custody of Kali, 439 Mass. 834 (2003), the Massachusetts Supreme Judicial Court held that a modification of a custody order is appropriate when there has been a material change in circumstances affecting the welfare of the child.",
+      "is_valid": true,
+      "courtlistener_id": "6578759",
+      "case_name": "Custody of Kali",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case does not involve or decide a modification of an existing custody order based on a material change in circumstances. Instead, the SJC explicitly declines to apply the \u2018substantial change in circumstances\u2019 standard of G.L. c. 209C, \u00a7 20, holds that the case was tried as an initial custody determination under \u00a7 10(a), and applies a pure \u2018best interests of the child\u2019 analysis. Thus, it neither states nor adopts the rule that a modification of a custody order is appropriate upon a material change in circumstances affecting the child\u2019s welfare.",
+      "relevant_excerpt": "\u201cWe also decline to consider the father\u2019s claim that the probate judge should have applied the \u2018substantial change in the circumstances\u2019 standard applicable to modification actions brought under G. L. c. 209C, \u00a7 20, rather than the \u2018best interests of the child\u2019 standard applicable to custody determinations under G. L. c. 209C, \u00a7 10 (a). \u2026 It is clear from the record that the case in the Probate Court was tried under G. L. c. 209C, \u00a7 10 (a), not G. L. c. 209C, \u00a7 20\u2026.\u201d}"
+    },
+    "Bower v. Bournay-Bower, 68 Mass. App. Ct. 276 (2007)": {
+      "raw_text": "Bower v. Bournay-Bower, 68 Mass. App. Ct. 276 (2007)",
+      "citation_type": "case",
+      "proposition": "Additionally, in Bower v. Bournay-Bower, 68 Mass. App. Ct. 276 (2007), the Appeals Court emphasized the importance of considering the child's best interests when determining custody modifications.",
+      "is_valid": true,
+      "courtlistener_id": "6588517",
+      "case_name": "Trenz v. Town of Norwell",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The provided opinion is not Bower v. Bournay-Bower and does not concern custody or the best interests of a child; it is a property dispute about storm water drainage, nuisance, and prescriptive easements. Nothing in the text addresses custody modifications or the child\u2019s best interests standard. Therefore, this opinion cannot support the proposition claimed for Bower v. Bournay-Bower.",
+      "relevant_excerpt": "This appeal concerns the flow of storm water through four town culverts onto the property of the plaintiffs, James and Christine Trenz. Claiming that significant amounts of water discharge onto their land causing damage, the plaintiffs brought this action against the town and a neighbor, Barbara Meacham."
+    }
+  }
+}

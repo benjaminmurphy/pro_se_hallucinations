@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_006_05.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads an Existing Order entered June 15, 2021 granting Petitioner primary physical custody and Respondent alternate weekends and one midweek visit (\u00b62.1 and \u00b61.3)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint requests specific relief: (a) exclude Respondent\u2019s cohabitant from being present during Respondent\u2019s parenting time, or alternatively (b) require supervised visitation until further order, and additional protective measures (restrictions on overnights, schedule adjustments, referrals) (\u00b62.2, \u00b65.B\u2013D)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges facts showing changed circumstances since the order: Respondent began cohabiting with a new partner (\u00b63.2) who has an assault conviction and a prior protective order (\u00b63.3); children report yelling, door\u2011slamming, and one occasion of being grabbed leaving a visible mark (\u00b63.4); and police were called to the home while children were present (\u00b63.5). These allegations plausibly assert a material and substantial change affecting the children\u2019s welfare (\u00b63.6, \u00b64.2)."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the requested modifications are necessary to protect the children\u2019s physical safety and emotional welfare (children\u2019s reports of injury and distress, police involvement), asserts continued unsupervised visits pose risk, and seeks supervised visits or exclusion of the cohabitant pending investigation\u2014allegations framed as protecting the children\u2019s best interests (\u00b63.4\u20133.6, \u00b64.4, \u00b65.A\u2013C)."
+    }
+  }
+}

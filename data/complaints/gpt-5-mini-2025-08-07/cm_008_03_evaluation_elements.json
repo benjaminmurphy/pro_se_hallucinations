@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_008_03.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies a final Probate and Family Court custody order entered May 15, 2022 and describes its terms (shared legal custody, Mother as primary residential parent, Father\u2019s substantial weekend parenting time including Sunday overnights) (see \u00b6\u00b61.4, 2.1)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifies particular relief: sole or final decision-making authority over school attendance, tutoring and related educational services; alteration or limitation of weekend/overnight parenting time to avoid missed school days (e.g., return Sunday evening); requirements for documentation/notice of absences; and other monitoring measures (see \u00b64.1\u20134.5)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads concrete facts since the prior order: recurring, apparently unexcused Monday absences attributed to Father after his parenting time, lack of medical documentation, resulting decline in grades and test scores, truancy warnings from the school, and Father\u2019s refusal to facilitate or transport to tutoring/school-based remedial services \u2014 conduct alleged to affect the child's health, safety, welfare and educational stability (see \u00b63.2(a)\u2013(d))."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The allegations link the described change in circumstances to harm to Sofia\u2019s educational progress and emotional stability (truancy warnings, academic decline, lost remedial services) and explain that the requested modifications are intended to secure consistent school attendance and access to supports while preserving meaningful parenting time \u2014 establishing that the relief is alleged to be in the child\u2019s best interests (see \u00b63.3 and \u00b64)."
+    }
+  }
+}

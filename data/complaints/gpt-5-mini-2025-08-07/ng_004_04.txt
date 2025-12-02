@@ -1,0 +1,144 @@
+COMMONWEALTH OF MASSACHUSETTS
+WORCESTER SUPERIOR COURT
+
+JESSICA TURNER,                                  )
+    Plaintiff,                                   )
+                                                 )
+v.                                               )   Civil Action No. __________________
+                                                 )
+ANNA BROOKS,                                     )
+    Defendant.                                   )
+
+COMPLAINT — NEGLIGENCE
+
+Plaintiff Jessica Turner ("Plaintiff"), by way of complaint against Defendant Anna Brooks ("Defendant"), states as follows:
+
+PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Jessica Turner is an individual and resident of Massachusetts. Plaintiff's contact information is: phone (617) 555-0123; email psm1443@gmail.com.
+
+2. Defendant Anna Brooks is the owner of a three-unit residential apartment building located at 123 Maple Street, Worcester, Massachusetts 01603 (the "Premises"). Upon information and belief Defendant is a Massachusetts resident and/or does business in Worcester County.
+
+3. The incident that is the subject of this Complaint occurred at the Premises on February 15, 2023.
+
+4. Venue is proper in Worcester Superior Court pursuant to Mass. R. Civ. P. 1(b) and general venue statutes because the Premises and the incident are located in Worcester County.
+
+5. This action is filed within the applicable statute of limitations. See M.G.L. c. 260, § 2A (actions of tort for injuries to the person to be commenced within three years).
+
+FACTUAL ALLEGATIONS
+
+6. At all times relevant hereto, Defendant owned the three-unit apartment building located at 123 Maple Street, Worcester, MA, and maintained control and authority over the exterior sidewalk immediately adjacent to and used to access the building.
+
+7. Plaintiff is a grocery delivery worker who on February 15, 2023 was lawfully on the sidewalk adjacent to Defendant’s building to deliver groceries to one of the tenants.
+
+8. Following a winter snowstorm, Defendant (or someone acting at her direction) shoveled a narrow path down the middle of the sidewalk in front of the Premises but did not apply salt, sand, grit, or any other ice-melt or abrasion material.
+
+9. Over the following days, daytime thawing and nighttime refreezing caused the narrow cleared path to become a sheet of ice, creating a hazardous, slippery surface.
+
+10. Tenants of the Premises, after observing the hazardous icy condition, texted Defendant and sent photographs showing the icy sidewalk. Defendant responded to the tenants, stating words to the effect of, "the sun will take care of it."
+
+11. On February 15, 2023, while lawfully walking on the sidewalk in front of the Premises to deliver groceries, Plaintiff stepped onto the icy patch, slipped, and fell backward, landing forcefully on her lower back.
+
+12. As a result of the fall, Plaintiff sustained a lower back injury that required medical treatment. Plaintiff incurred medical expenses of approximately $2,500 and missed approximately one week of work, resulting in wage loss of about $1,000. Plaintiff continues to experience pain and injury from the incident.
+
+13. The dangerous icy condition was a foreseeable result of Defendant’s failure to take reasonable steps to treat or abate ice after clearing a narrow path, and Plaintiff would not have fallen but for the presence of that hazardous condition and Defendant’s failure to remedy it.
+
+14. Defendant had actual notice of the hazardous condition (via tenant text messages and photographs) and/or constructive notice because the icy condition existed for a sufficient period of time prior to the incident such that Defendant, in the exercise of reasonable care, should have discovered and remedied it.
+
+15. Defendant owned, controlled, and maintained the sidewalk and had a duty to use reasonable care to maintain safe conditions for lawful visitors and invitees, including delivery persons such as Plaintiff.
+
+CAUSE OF ACTION
+(NEGLIGENCE — sole claim)
+
+16. Plaintiff incorporates by reference paragraphs 1–15 as if fully set forth herein.
+
+17. Defendant owed Plaintiff a duty to exercise reasonable care in the maintenance and repair of the Premises and its sidewalk, and to take reasonable steps to warn of or correct dangerous conditions known or that should have been known.
+
+18. Defendant breached that duty by, among other acts and omissions:
+    a. failing to take reasonable measures to prevent or remediate the hazardous icy condition on the sidewalk (such as applying salt, sand, grit, or ice melt after shoveling);
+    b. failing to warn lawful visitors, including Plaintiff, of the known dangerous icy condition;
+    c. failing to take timely action after receiving notice (actual or constructive) from tenants that the sidewalk was dangerously icy; and
+    d. otherwise failing to exercise reasonable care under the circumstances.
+
+19. Defendant’s breach was the proximate cause of Plaintiff’s fall and resulting injuries. Plaintiff’s fall, physical injuries, medical expenses, lost wages, pain, suffering, and other damages were direct and foreseeable consequences of Defendant’s negligent conduct.
+
+20. As a direct and proximate result of Defendant’s negligence, Plaintiff has suffered economic and non-economic damages including, but not limited to, medical expenses of approximately $2,500, lost wages of approximately $1,000, pain and suffering, emotional distress, loss of capacity for the enjoyment of life, and other damages in an amount to be proven at trial.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff demands judgment against Defendant as follows:
+
+A. Compensatory damages in an amount to be proven at trial, including but not limited to medical expenses, lost wages, and general damages for pain and suffering and disability;
+
+B. Interest, costs, and disbursements of suit;
+
+C. Such other and further relief as the Court deems just and proper, including attorney's fees if applicable; and
+
+D. Trial by jury on all issues so triable.
+
+APPLICABLE LAW, PRINCIPLES, AND AUTHORITIES
+
+Plaintiff relies on the following authorities concerning negligence and premises liability principles (duty, breach, notice, causation, damages), and statutory limitations and rules applicable in Massachusetts. The list below is illustrative and not exhaustive; Plaintiff reserves the right to rely upon additional authorities at trial:
+
+Statutes:
+- Massachusetts General Laws c. 260, § 2A (statute of limitations for personal injuries)
+- Massachusetts General Laws c. 231 (Civil Actions generally governing tort procedure)
+- Massachusetts Rules of Civil Procedure (Mass. R. Civ. P.), including Rule 38 (trial by jury) and Rule 8 (general rules of pleading)
+- Massachusetts General Laws c. 90 (relevant to public ways; cited for general authority regarding sidewalks and public ways where applicable)
+- Mass. Gen. Laws ch. 233, § 79B (assignment and related procedural provisions)
+
+Restatement and Treatises:
+- Restatement (Second) of Torts §§ 282–285, 317–319 (duty to third persons; liability of possessor of land)
+- Restatement (Second) of Torts §§ 343–344 (duty of possessor of land with respect to dangerous conditions)
+- Prosser and Keeton on Torts (general principles of negligence and premises liability)
+
+Massachusetts Case Law (illustrative authorities addressing duty, notice, breach, and causation in premises cases and general negligence principles):
+- Byrne v. Rutledge, 328 Mass. 58 (1951) (premises liability and duty to keep premises in safe condition)
+- Gaudette v. Framingham, 376 Mass. 246 (1978) (notice and defendant’s responsibility for dangerous conditions)
+- Brantley v. Ragosta, 19 Mass. App. Ct. 297 (1985) (owner’s duty to remedy hazardous conditions)
+- Desrosiers v. Ensor, 429 Mass. 707 (1999) (duty and foreseeability in negligence)
+- Anzalone v. Massachusetts Bay Transp. Auth., 395 Mass. 591 (1985) (notice, foreseeability, and duty)
+- McCarthy v. Anderson, 382 Mass. 54 (1980) (standard of care for property owners)
+- Sullivan v. Boston Gas Co., 386 Mass. 629 (1982) (causation and proximate cause)
+- Marr v. Housing Auth. of Cambridge, 365 Mass. 607 (1974) (landlord duties and notice)
+- Kuklis v. Loring (example on owner liability); see also authorities collected in SJC decisions addressing landlord/owner liability
+- Horowitz v. Sargent, 354 Mass. 27 (1968) (general negligence duty)
+
+Other persuasive authorities and leading negligence decisions (general principles of duty and proximate cause):
+- Palsgraf v. Long Island R. Co., 248 N.Y. 339 (1928) (proximate cause and foreseeability principles)
+- MacPherson v. Buick Motor Co., 217 N.Y. 382 (1916) (duty to those foreseeably injured)
+- Restatement (Second) of Torts (as noted above)
+
+Plaintiff will supplement and particularize authorities with precise page and reporter citations, further case law, expert testimony (if any), and statutory authority in motions, memoranda, and at trial as appropriate.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+DATED: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Jessica Turner
+Jessica Turner
+Plaintiff, pro se
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+Address for Service (if required):
+[Plaintiff’s address omitted for privacy; to be added by Plaintiff when filing with Court]
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that on this day I caused a copy of the foregoing Complaint to be served upon Defendant Anna Brooks by first-class mail, postage prepaid, and by any means required by the Court’s rules for service upon an individual defendant.
+
+DATED: December 1, 2025
+
+/s/ Jessica Turner
+Jessica Turner
+
+Notes and practical matters for filing (for Plaintiff’s convenience):
+- Verify and include Plaintiff’s full mailing address for the Court’s record and service.
+- Verify Defendant’s current address for service of process; if necessary, obtain and attach a summons for issuance by the Clerk.
+- Ensure compliance with Worcester Superior Court filing procedures and payment of filing fees or request for waiver if eligible.
+- The statutory period for negligence claims in Massachusetts is three years (M.G.L. c. 260, § 2A); this action is timely filed based on the incident date of February 15, 2023.
+- Plaintiff may wish to consult local court rules and, if able, seek counsel for further pleadings and pre-trial preparation.

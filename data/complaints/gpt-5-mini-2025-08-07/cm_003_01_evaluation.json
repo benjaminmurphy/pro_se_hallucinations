@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_003_01.txt",
+  "scenario_id": "cm_003_01",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "G. L. c. 208": {
+      "raw_text": "G. L. c. 208",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, a prior custody order may be modified when there has been a material and substantial change in circumstances affecting the child\u2019s welfare since entry of the prior order and when modification is in the child\u2019s best interests (see, e.g., G. L. c. 208 and the body of Massachusetts custody jurisprudence recognizing the \u201cmaterial change\u201d standard).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208": {
+      "raw_text": "Mass. Gen. Laws ch. 208",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the statutory and case law principles governing custody modification and the best interests standard under Massachusetts law, including statutes and cases that govern jurisdiction, modification, appointment of guardians ad litem, and temporary emergency relief in custody matters.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209A": {
+      "raw_text": "Mass. Gen. Laws ch. 209A",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the statutory and case law principles governing custody modification and the best interests standard under Massachusetts law, including statutes and cases that govern jurisdiction, modification, appointment of guardians ad litem, and temporary emergency relief in custody matters.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119": {
+      "raw_text": "Mass. Gen. Laws ch. 119",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the statutory and case law principles governing custody modification and the best interests standard under Massachusetts law, including statutes and cases that govern jurisdiction, modification, appointment of guardians ad litem, and temporary emergency relief in custody matters.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 215": {
+      "raw_text": "Mass. Gen. Laws ch. 215",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on the statutory and case law principles governing custody modification and the best interests standard under Massachusetts law, including statutes and cases that govern jurisdiction, modification, appointment of guardians ad litem, and temporary emergency relief in custody matters.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

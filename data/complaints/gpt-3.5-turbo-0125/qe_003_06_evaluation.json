@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_003_06.txt",
+  "scenario_id": "qe_003_06",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws": {
+      "raw_text": "Massachusetts General Laws",
+      "citation_type": "statute",
+      "proposition": "This action arises under the laws of the Commonwealth of Massachusetts, including but not limited to the Massachusetts General Laws governing landlord-tenant relationships.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts law": {
+      "raw_text": "Massachusetts law",
+      "citation_type": "statute",
+      "proposition": "Plaintiff asserts a cause of action for breach of the covenant of quiet enjoyment under Massachusetts law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

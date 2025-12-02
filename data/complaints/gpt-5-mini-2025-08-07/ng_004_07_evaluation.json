@@ -1,0 +1,41 @@
+{
+  "complaint_file": "ng_004_07.txt",
+  "scenario_id": "ng_004_07",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 1,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 260, \u00a7 2A": {
+      "raw_text": "M.G.L. c. 260, \u00a7 2A",
+      "citation_type": "statute",
+      "proposition": "The incident giving rise to this action occurred on February 15, 2023; today\u2019s date is December 1, 2025, and the applicable statute of limitations for personal injury actions is complied with.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Donoghue v. Stevenson, [1932] A.C. 562 (House of Lords)": {
+      "raw_text": "Donoghue v. Stevenson, [1932] A.C. 562 (House of Lords)",
+      "citation_type": "case",
+      "proposition": "The elements of a negligence claim under Massachusetts law are duty, breach, causation and damages.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Not found",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

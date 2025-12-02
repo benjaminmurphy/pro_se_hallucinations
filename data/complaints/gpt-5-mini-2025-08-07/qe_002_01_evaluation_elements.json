@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_002_01.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a lease/tenancy beginning March 1, 2022, monthly rent of $1,200, and that Defendant is the owner/landlord of 123 Maple Street\u2014facts that establish a landlord\u2011tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant was notified of recurring water intrusion, promised to \"look into it\" but failed to effect repairs, and later threatened non\u2011renewal\u2014allegations of omissions and retaliatory acts by the landlord."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges recurrent water infiltration that substantially interfered with Plaintiff\u2019s use of the basement unit, damaged personal property, required continuous use of a dehumidifier, and diminished habitability; it also alleges retaliatory threatened non\u2011renewal that further interfered with enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint links the interference and harm to Defendant\u2019s conduct: Plaintiff notified Defendant, municipal inspectors documented the condition, Defendant failed to repair, and the ongoing water intrusion (and Defendant\u2019s alleged retaliatory threatened non\u2011renewal) are alleged to have caused the damage and loss."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific economic losses (approx. $400 property damage, increased electricity, estimated total damages of at least $800) and non\u2011economic harms (inconvenience, emotional distress, diminution of habitability), satisfying pleading of damages."
+    }
+  }
+}

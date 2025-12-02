@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_010_07.txt",
+  "scenario_id": "cm_010_07",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 2,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 215, Section 6.": {
+      "raw_text": "Massachusetts General Laws Chapter 215, Section 6.",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 215, Section 6.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 208, Section 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "Massachusetts General Laws Chapter 208, Section 28 provides that the Court maintains jurisdiction to modify custody orders upon a showing of a substantial and material change in circumstances.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Bower v. Bournay-Bower, 484 Mass. 19 (2019)": {
+      "raw_text": "Bower v. Bournay-Bower, 484 Mass. 19 (2019)",
+      "citation_type": "case",
+      "proposition": "Recent case law in Massachusetts, including decisions such as Bower v. Bournay-Bower, 484 Mass. 19 (2019), and Harrison v. Thompson, 991 N.E.2d 1045 (Mass. 2013), emphasize the importance of considering the child's best interests and the need to adapt custody arrangements to reflect the evolving needs of the child.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Harrison v. Thompson, 991 N.E.2d 1045 (Mass. 2013)": {
+      "raw_text": "Harrison v. Thompson, 991 N.E.2d 1045 (Mass. 2013)",
+      "citation_type": "case",
+      "proposition": "Recent case law in Massachusetts, including decisions such as Bower v. Bournay-Bower, 484 Mass. 19 (2019), and Harrison v. Thompson, 991 N.E.2d 1045 (Mass. 2013), emphasize the importance of considering the child's best interests and the need to adapt custody arrangements to reflect the evolving needs of the child.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

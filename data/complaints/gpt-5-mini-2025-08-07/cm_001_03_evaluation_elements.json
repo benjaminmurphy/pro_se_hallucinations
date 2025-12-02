@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_001_03.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges an existing custody/parenting-time order entered by this Court on May 15, 2020 establishing Plaintiff as primary custodian and Defendant having alternate weekend and one weekday overnight (\u00b6\u00b62.2, 3.1)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint identifies concrete requested changes to the parenting schedule (\u00b67.2(a)\u2013(e)), including limiting overnights to times when Defendant is off work, notice and replacement-arrangement requirements, suspension/conversion of the weekday overnight, caregiver disclosure and verification, and interim supervised/time-limited relief (\u00b67.1\u20137.3)."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint pleads that Defendant accepted a regular night-shift schedule (\u22487 PM\u20137 AM) and that this has materially altered his ability to provide awake supervision: children returned to Plaintiff at short notice or left with an unauthorized roommate, children observed Defendant napping, and the parties\u2019 prior schedule has been disrupted (\u00b6\u00b64.2\u20134.5). These factual allegations adequately plead a material and substantial change from the circumstances at the 2020 order. "
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that the requested modifications are necessary to protect the children\u2019s safety, routine, and stability (\u00b65.2) and links the alleged risks (fatigue, unsupervised/unauthorized caregivers, interrupted parenting time) to relief designed to ensure active supervision and predictability (\u00b67). Those factual allegations sufficiently assert that the modifications are in the children\u2019s best interests for pleading purposes."
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_005_08",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "plaintiff": "Jessica Parker",
+  "defendant": "Michael Thompson"
+}

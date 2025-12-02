@@ -1,0 +1,14 @@
+{
+  "complaint_file": "ng_007_01.txt",
+  "scenario_id": "ng_007_01",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 0,
+  "case_citations": 0,
+  "statute_citations": 0,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {}
+}

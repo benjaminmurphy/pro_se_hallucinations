@@ -1,0 +1,41 @@
+{
+  "complaint_file": "ng_009_06.txt",
+  "scenario_id": "ng_009_06",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 148, \u00a7 26F": {
+      "raw_text": "M.G.L. c. 148, \u00a7 26F",
+      "citation_type": "statute",
+      "proposition": "On September 1, 2023, at 23 Maple Street, Lynn, MA, Defendant had a duty to maintain smoke detectors in the common hallways of the apartment building in compliance with Massachusetts Fire Code [M.G.L. c. 148, \u00a7 26F].",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 186, \u00a7 15B": {
+      "raw_text": "M.G.L. c. 186, \u00a7 15B",
+      "citation_type": "statute",
+      "proposition": "The actions of Defendant constitute negligence under Massachusetts common law and statutory law, including M.G.L. c. 186, \u00a7 15B.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

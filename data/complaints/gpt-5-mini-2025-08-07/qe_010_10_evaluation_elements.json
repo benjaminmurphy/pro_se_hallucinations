@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_010_10.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a written lease, that Plaintiff has occupied the Premises since January 15, 2022, pays monthly rent of $1,200, and that Defendant is the owner/landlord of the Premises \u2014 facts that establish a landlord\u2011tenant relationship."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant inspected and acknowledged mold, refused to perform adequate remediation or to address ventilation, and instead offered only to \"clean\" visible mold and blamed Plaintiff \u2014 facts alleging a landlord omission/failure to act (and related affirmative statements)."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads persistent/spreading mold in the bathroom (ceiling), lack of operable window/insufficient ventilation, resulting respiratory symptoms (coughing, congestion, wheezing), loss of use of the bathroom, and property loss \u2014 facts sufficient to allege a substantial interference with habitability and quiet enjoyment."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges temporal sequence (symptoms began after mold appeared), Defendant\u2019s inspection and refusal to remediate or correct ventilation, and a treating physician\u2019s opinion linking symptoms to mold \u2014 together alleging a plausible causal chain between the landlord\u2019s conduct/omission and the interference. (The complaint also pleads facts disputing the landlord\u2019s blame that the tenant\u2019s showering caused the problem.)"
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges out\u2011of\u2011pocket property loss (~$60), physical injury/medical symptoms, loss of full use and enjoyment of the Premises, and estimates total compensable loss of $300, and seeks monetary and injunctive relief \u2014 facts sufficient to plead damages."
+    }
+  }
+}

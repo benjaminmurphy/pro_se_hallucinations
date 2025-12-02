@@ -1,0 +1,41 @@
+{
+  "complaint_file": "cm_002_10.txt",
+  "scenario_id": "cm_002_10",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 1,
+  "statute_citations": 1,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Massachusetts General Laws Chapter 208 \u00a7 28": {
+      "raw_text": "Massachusetts General Laws Chapter 208 \u00a7 28",
+      "citation_type": "statute",
+      "proposition": "Pursuant to Massachusetts General Laws Chapter 208 \u00a7 28, this Court may modify a custody order upon a showing of a substantial and material change in circumstances warranting the modification in the best interest of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mason v. Coleman, 447 Mass. 177 (2006)": {
+      "raw_text": "Mason v. Coleman, 447 Mass. 177 (2006)",
+      "citation_type": "case",
+      "proposition": "In the case of Mason v. Coleman, 447 Mass. 177 (2006), the Supreme Judicial Court held that the relocation of a parent can constitute a substantial change in circumstances justifying a modification of a custody arrangement.",
+      "is_valid": true,
+      "courtlistener_id": "6579384",
+      "case_name": "Mason v. Coleman",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The SJC in Mason v. Coleman addressed the standard for removal under G.L. c. 208, \u00a7 30 when parents share joint physical and legal custody, holding that \u2018cause shown\u2019 means a best-interests analysis in that context. The opinion does not frame relocation as a \u2018substantial change in circumstances\u2019 for purposes of modifying custody, nor does it adopt the ALI\u2019s \u2018substantial change\u2019 language as Massachusetts law; that text appears only in a block quote describing the ALI Principles, not as the court\u2019s own holding. Thus, the case does not stand for the proposition that relocation itself constitutes a substantial change justifying modification of custody.",
+      "relevant_excerpt": "The Principles of the Law of Family Dissolution \u00a7 2.17 (2002), as adopted and promulgated by the American Law Institute, state in pertinent part:\n\u201c(1) The relocation of a parent constitutes a substantial change in circumstances . . . only when the relocation significantly impairs either parent\u2019s ability to exercise responsibilities the parent has been exercising or attempting to exercise [under the judgement of divorce]\u2026\u201d\n\u2026 ALI Principles of the Law of Family Dissolution, supra at \u00a7 2.17 (1), (4) (c) \u2026 support the view that where \u201cneither parent has been exercising a clear majority of custodial responsibility,\u201d the effect of the relocation on the child is a \u201crelevant factor[]\u201d in determining the child\u2019s best interests."
+    }
+  }
+}

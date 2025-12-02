@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_005_10.txt",
+  "scenario_id": "qe_005_10",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Massachusetts General Laws Chapter 218, Section 19.": {
+      "raw_text": "Massachusetts General Laws Chapter 218, Section 19.",
+      "citation_type": "statute",
+      "proposition": "3. This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 218, Section 19.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186, \u00a7 14": {
+      "raw_text": "Mass. Gen. Laws ch. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "6. The lease agreement explicitly grants Plaintiff the right to quiet enjoyment of the premises, as mandated by Massachusetts landlord-tenant law (Mass. Gen. Laws ch. 186, \u00a7 14).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Kuzmeskus v. Pickup, 790 N.E.2d 1021, 1026 (Mass. 2003)": {
+      "raw_text": "Kuzmeskus v. Pickup, 790 N.E.2d 1021, 1026 (Mass. 2003)",
+      "citation_type": "case",
+      "proposition": "10. Plaintiff alleges that Defendant's failure to address the ongoing noise disturbances constitutes a breach of the covenant of quiet enjoyment implied in every residential lease in Massachusetts (Kuzmeskus v. Pickup, 790 N.E.2d 1021, 1026 (Mass. 2003)).",
+      "is_valid": true,
+      "courtlistener_id": "2241628",
+      "case_name": "Mays v. State",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The provided opinion is Mays v. State from the Indiana Court of Appeals, concerning ineffective assistance of counsel and double jeopardy in a criminal case. It does not involve landlord-tenant law, residential leases, or the covenant of quiet enjoyment, nor is it a Massachusetts case. Therefore, it cannot support the proposition about a Massachusetts implied covenant of quiet enjoyment for noise disturbances, and the citation is clearly inaccurate or mismatched.",
+      "relevant_excerpt": "This opinion contains no discussion of landlord-tenant law, residential leases, or the covenant of quiet enjoyment; it addresses only criminal law issues (ineffective assistance of counsel, double jeopardy, and plea advisements) in Indiana."
+    }
+  }
+}

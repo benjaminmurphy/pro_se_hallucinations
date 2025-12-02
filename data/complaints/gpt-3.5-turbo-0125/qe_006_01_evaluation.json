@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_006_01.txt",
+  "scenario_id": "qe_006_01",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 218, Section 21.": {
+      "raw_text": "Massachusetts General Laws Chapter 218, Section 21.",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 218, Section 21.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 186, Section 14,": {
+      "raw_text": "Massachusetts General Laws Chapter 186, Section 14,",
+      "citation_type": "statute",
+      "proposition": "The above Complaint is based on the Massachusetts General Laws Chapter 186, Section 14, which provides for the warranty of habitability, and the case law of Boston Hous. Auth. v. Hemingway, 363 Mass. 184 (1973), which establishes the implied warranty of habitability under Massachusetts law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Boston Hous. Auth. v. Hemingway, 363 Mass. 184 (1973),": {
+      "raw_text": "Boston Hous. Auth. v. Hemingway, 363 Mass. 184 (1973),",
+      "citation_type": "case",
+      "proposition": "The above Complaint is based on the Massachusetts General Laws Chapter 186, Section 14, which provides for the warranty of habitability, and the case law of Boston Hous. Auth. v. Hemingway, 363 Mass. 184 (1973), which establishes the implied warranty of habitability under Massachusetts law.",
+      "is_valid": true,
+      "courtlistener_id": "2000597",
+      "case_name": "Boston Housing Authority v. Hemingway",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "This opinion (a separate opinion in Hemingway) expressly agrees that the traditional no\u2011warranty rule for residential leases should be abandoned and that a landlord\u2019s obligations and the tenant\u2019s rent obligation should be mutually interdependent, grounded in statutory habitability standards. Although the author dissents from the *formulation* of the majority\u2019s implied warranty (preferring a code\u2011based implied covenant), he concurs in the result that recognizes an implied obligation of habitability enforceable by tenants. Thus, the case as a whole clearly establishes the implied warranty of habitability under Massachusetts law, even if this opinion critiques its scope.",
+      "relevant_excerpt": "\u201cI agree with the majority of the court that, at least as to dwelling units, the time has come to reconsider the rule so long imbedded in our law of landlord and tenant that \u2018[t]here is no implied agreement, apart from fraud, that the demised premises are or will continue to be fit for occupancy or safe and in good repair\u2026.\u2019 \u2026 The opinion of the court accomplishes [making the landlord\u2019s repair obligation and the tenant\u2019s rent obligation mutually interdependent].\u201d"
+    }
+  }
+}

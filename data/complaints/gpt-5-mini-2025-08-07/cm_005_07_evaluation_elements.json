@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_005_07.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an existing Probate & Family Court custody order entered May 14, 2021 (the \u201c2021 Order\u201d) and recites key terms of that order (shared legal custody, children primarily reside with Plaintiff, non\u2011disparagement requirement)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Section 5.1 and the Prayer identify concrete relief: award primary residential custody to Plaintiff, retain/modify legal custody terms, specific procedures for extracurricular scheduling (14\u2011day notice, make\u2011up arrangements, dispute procedure), prohibition on disparagement with remedial measures, counseling/assessments, and related relief."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges factual developments since the 2021 Order: repeated unilateral enrollment of children in activities during Plaintiff\u2019s parenting time, Defendant\u2019s blaming and disparaging statements to the children (including calling Plaintiff \u201cselfish\u201d and saying she \u201cdoesn\u2019t really love them\u201d), increased parental conflict and interference with parenting time, and resulting emotional harm (Liam\u2019s recurrent transition\u2011day stomach aches). These allegations assert a material and substantial change from the circumstances when the prior order was entered. "
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint links the requested modifications to the children\u2019s best interests: reducing parental conflict and inconsistent messaging, providing predictability/continuity for school/extracurriculars and healthcare, protecting children from alienating conduct and stress\u2011related symptoms, and enabling stability and consistent routines, and cites relevant statutory/common\u2011law factors the court should consider."
+    }
+  }
+}

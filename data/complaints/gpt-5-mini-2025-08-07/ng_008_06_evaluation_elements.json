@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_008_06.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owned/operated the restaurant, that Plaintiff was an invitee on the premises, and pleads the proprietor\u2019s duty to keep premises reasonably safe and to warn of known or discoverable hazards\u2014facts that adequately plead duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint recounts specific facts showing a server dropped a tray, left water and ice on a tiled hallway, made no warning or barrier, staff comments about \"dodging that puddle,\" and affirmative allegations of failure to inspect/clean\u2014sufficiently alleging a breach of the proprietor\u2019s duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the unmarked wet area caused Plaintiff to slip and twist his knee after stepping onto the water/ice; the injury is pleaded as occurring when and because he stepped on the hazardous accumulation left by Defendant\u2019s employee, which adequately alleges but-for causation."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the hazard (water/ice on a pedestrian tiled walkway) was foreseeable and that leaving it unmarked was a substantial factor causing the slip and injury; those factual allegations adequately plead proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete damages including medical expenses (~$1,800), lost wages (~$500), physical injury (severe knee sprain), need for brace and therapy, pain and suffering, and other losses\u2014sufficiently alleging actual damages."
+    }
+  }
+}

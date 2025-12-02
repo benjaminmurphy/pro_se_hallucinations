@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_009_05.txt",
+  "scenario_id": "qe_009_05",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 2,
+  "statute_citations": 4,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "M.P.M. Builders, L.P. v. Dwyer, 442 Mass. 87 (2004)": {
+      "raw_text": "M.P.M. Builders, L.P. v. Dwyer, 442 Mass. 87 (2004)",
+      "citation_type": "case",
+      "proposition": "See generally M.P.M. Builders, L.P. v. Dwyer, 442 Mass. 87 (2004) (discussing landlord obligations and tenants\u2019 remedies); Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970) (recognizing tenants\u2019 remedies for failures to provide habitable conditions); Restatement (Second) of Property: Landlord & Tenant \u00a7\u00a7 5.1, 17.4 (1977).",
+      "is_valid": true,
+      "courtlistener_id": "6578971",
+      "case_name": "M.P.M. Builders, LLC v. Dwyer",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in M.P.M. Builders v. Dwyer deals exclusively with property law governing easements (dominant and servient estates, and unilateral relocation of easements by the servient owner). It does not concern landlord-tenant relationships, habitability, landlord obligations, or tenants\u2019 remedies. Citing this case as discussing landlord obligations and tenants\u2019 remedies is therefore inaccurate and not supported by the holding or reasoning.",
+      "relevant_excerpt": "\u201cWe are asked to decide whether the owner of a servient estate may change the location of an easement without the consent of the easement holder. We conclude that, subject to certain limitations, described below, the servient estate owner may do so.\u2026 The owner of the servient estate is in possession of the estate burdened by the easement. An easement is created to serve a particular objective, not to grant the easement holder the power to veto other uses of the servient estate that do not interfere with that purpose.\u201d"
+    },
+    "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)": {
+      "raw_text": "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)",
+      "citation_type": "case",
+      "proposition": "See generally M.P.M. Builders, L.P. v. Dwyer, 442 Mass. 87 (2004) (discussing landlord obligations and tenants\u2019 remedies); Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970) (recognizing tenants\u2019 remedies for failures to provide habitable conditions); Restatement (Second) of Property: Landlord & Tenant \u00a7\u00a7 5.1, 17.4 (1977).",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Not found",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant law generally)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant law generally)",
+      "citation_type": "statute",
+      "proposition": "The Massachusetts sanitary code and landlord\u2011tenant statutory framework establish minimum conditions for habitability and the landlord\u2019s obligations to maintain rental premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 C.M.R. 410.000 et seq. (Massachusetts Sanitary Code \u2014 minimum standards of fitness for human habitation)": {
+      "raw_text": "105 C.M.R. 410.000 et seq. (Massachusetts Sanitary Code \u2014 minimum standards of fitness for human habitation)",
+      "citation_type": "statute",
+      "proposition": "The Massachusetts sanitary code and landlord\u2011tenant statutory framework establish minimum conditions for habitability and the landlord\u2019s obligations to maintain rental premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 (public health statutory provisions)": {
+      "raw_text": "Mass. Gen. Laws ch. 111 (public health statutory provisions)",
+      "citation_type": "statute",
+      "proposition": "The Massachusetts sanitary code and landlord\u2011tenant statutory framework establish minimum conditions for habitability and the landlord\u2019s obligations to maintain rental premises.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary process \u2014 context for landlord\u2011tenant proceedings)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary process \u2014 context for landlord\u2011tenant proceedings)",
+      "citation_type": "statute",
+      "proposition": "Authorities cited above are representative of the legal framework governing landlord obligations and tenant remedies in Massachusetts landlord\u2011tenant law, including the common\u2011law covenant of quiet enjoyment, Massachusetts statutes and regulations addressing habitability and public health, and leading authorities on landlord\u2011tenant remedies.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

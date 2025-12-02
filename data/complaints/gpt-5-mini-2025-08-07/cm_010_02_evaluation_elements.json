@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_010_02.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an existing Probate and Family Court custody/parenting-time order entered May 15, 2016 and states that the 2016 order awarded primary residence to Defendant; venue and jurisdiction are also alleged."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifies the relief sought: increased residential/overnight time and substantially increased weekend and weeknight parenting time with Plaintiff, revision of the parenting schedule, and consideration of joint legal custody or decision-making changes."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges multiple post\u2011order factual changes not present at the 2016 hearing: Plaintiff completed graduate school and obtained stable daytime employment; Plaintiff moved to a two\u2011bedroom apartment appropriate for overnights; the child is now older (age 10); the child\u2019s therapist and a written statement from the child express a desire for more time; and Defendant\u2019s refusal to negotiate and anger create conflict affecting the child\u2014facts that, if proven, support a material and substantial change in circumstances."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint ties the alleged changes to the child\u2019s welfare, asserting that increased time with Plaintiff will promote Sophie\u2019s stability and emotional well\u2011being and citing improved parental capacity, a suitable home, the child\u2019s expressed preference, and harmful parental conflict as factors favoring modification under Massachusetts best\u2011interest standards."
+    }
+  }
+}

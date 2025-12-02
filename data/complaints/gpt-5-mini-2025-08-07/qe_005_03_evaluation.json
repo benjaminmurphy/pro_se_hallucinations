@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_005_03.txt",
+  "scenario_id": "qe_005_03",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 186 (Landlord & Tenant statutes)": {
+      "raw_text": "M.G.L. c. 186 (Landlord & Tenant statutes)",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts common law, every tenancy includes an implied and/or express covenant of quiet enjoyment whereby the landlord is obligated to ensure that the tenant\u2019s possession and enjoyment of the premises will not be substantially and unreasonably disturbed by the landlord or persons for whom the landlord is legally responsible.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary Process) (procedures for possession and other landlord-tenant remedies)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary Process) (procedures for possession and other landlord-tenant remedies)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 239 (Summary Process) (procedures for possession and other landlord-tenant remedies)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A (Consumer Protection) (relevant to landlord conduct in some contexts; applicable authority respecting landlord duties in certain circumstances)": {
+      "raw_text": "Mass. Gen. Laws ch. 93A (Consumer Protection) (relevant to landlord conduct in some contexts; applicable authority respecting landlord duties in certain circumstances)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 93A (Consumer Protection) (relevant to landlord conduct in some contexts; applicable authority respecting landlord duties in certain circumstances)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 140 (regulation of nuisances and noise in certain local contexts)": {
+      "raw_text": "Mass. Gen. Laws ch. 140 (regulation of nuisances and noise in certain local contexts)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 140 (regulation of nuisances and noise in certain local contexts)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 (health and sanitary regulations applicable to housing conditions)": {
+      "raw_text": "Mass. Gen. Laws ch. 111 (health and sanitary regulations applicable to housing conditions)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 111 (health and sanitary regulations applicable to housing conditions)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Rules of Civil Procedure (governing pleadings, discovery, and relief)": {
+      "raw_text": "Mass. Rules of Civil Procedure (governing pleadings, discovery, and relief)",
+      "citation_type": "statute",
+      "proposition": "Mass. Rules of Civil Procedure (governing pleadings, discovery, and relief)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

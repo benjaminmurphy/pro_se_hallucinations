@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_005_02.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly alleges an existing court order (May 15, 2022) providing joint legal custody with the children primarily residing with Plaintiff and a specified every-other-weekend visitation schedule (\u00b63.1). This fact is pleaded with date and terms of the prior order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Plaintiff sets out concrete modifications requested (\u00b66.1 and Prayer \u00b6b\u2013g), including awarding primary physical custody to Plaintiff, detailed limits and processes for extracurricular scheduling, a no-disparagement provision, makeup parenting time, and counseling/parenting-coordination relief. The relief sought is specific and particularized."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a pattern of post-judgment conduct (\u00b64.2) plausibly amounting to a material and substantial change: Defendant unilaterally schedules activities during Plaintiff\u2019s custodial time (\u00b64.2(a)), makes repeated disparaging statements to the children (\u00b64.2(b)), the children report emotional distress and exhibit somatic symptoms (stomach aches) on transition days (\u00b64.2(c)\u2013(d)), and Plaintiff alleges these actions have materially impaired the children\u2019s stability and the co-parenting relationship the prior order sought to preserve (\u00b64.2(e), \u00b64.3). These factual allegations connect the conduct to the children\u2019s welfare and thus sufficiently plead a material change at the pleading stage."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges that the requested modifications are necessary to protect the children\u2019s physical and emotional well\u2011being and to restore stability and continuity of care (\u00b64.3, \u00b65.2, \u00b66.1, Prayer \u00b6b\u2013f). The complaint links the alleged parental conduct to demonstrable harms (emotional distress, somatic symptoms, disrupted custodial time) and requests remedies (custody change, scheduling rules, counseling) aimed at addressing those harms, which adequately alleges that modification would serve the children\u2019s best interests for purposes of a complaint."
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "scenario_id": "qe_001_07",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "plaintiff": "Jasmine Carter",
+  "defendant": "Michael Thompson"
+}

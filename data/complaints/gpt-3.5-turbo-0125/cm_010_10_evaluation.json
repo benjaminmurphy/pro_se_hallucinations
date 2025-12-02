@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_010_10.txt",
+  "scenario_id": "cm_010_10",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Massachusetts General Laws Chapter 208, Sections 28 and 39.": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Sections 28 and 39.",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 208, Sections 28 and 39.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 208, Section 28.": {
+      "raw_text": "Massachusetts General Laws Chapter 208, Section 28.",
+      "citation_type": "statute",
+      "proposition": "The modification of a custody order is governed by Massachusetts General Laws Chapter 208, Section 28.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Blixt v. Blixt, 437 Mass. 649 (2002)": {
+      "raw_text": "Blixt v. Blixt, 437 Mass. 649 (2002)",
+      "citation_type": "case",
+      "proposition": "The case law supports modification where a substantial change in circumstances has occurred and the modification serves the child's best interests.",
+      "is_valid": true,
+      "courtlistener_id": "6578569",
+      "case_name": "Blixt v. Blixt",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "This decision concerns the constitutionality and construction of Massachusetts\u2019 grandparent visitation statute, not modification of existing visitation or custody orders. While the opinion discusses best interests and harm standards, it does not involve or articulate the familiar rule that a prior order may be modified upon a substantial change in circumstances serving the child\u2019s best interests. Therefore it does not provide authority for the specific modification proposition stated.",
+      "relevant_excerpt": "\u201cThe statute adopts the \u2018best interests of the child\u2019 standard as the test for determining visitation. This standard has long been used in Massachusetts to decide issues of custody and visitation and other issues relating to child welfare\u2026 We conclude, in rejection of the facial due process challenge made by the mother, that the statute satisfies strict scrutiny because our construction narrowly tailors it to further the compelling State interest in protecting the welfare of a child who has experienced a disruption in the family unit from harm.\u201d"
+    },
+    "Mason v. Coleman, 447 Mass. 177 (2006)": {
+      "raw_text": "Mason v. Coleman, 447 Mass. 177 (2006)",
+      "citation_type": "case",
+      "proposition": "The case law supports modification where a substantial change in circumstances has occurred and the modification serves the child's best interests.",
+      "is_valid": true,
+      "courtlistener_id": "6579384",
+      "case_name": "Mason v. Coleman",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case is a removal/relocation decision under G.L. c. 208, \u00a7 30, in the context of joint physical custody; it is not a general modification case discussing when a substantial change in circumstances warrants modification. The opinion applies a \u2018best interests of the children\u2019 standard to decide whether to permit relocation, and affirmatively denies the requested modification/removal; it does not frame its analysis around, or adopt, a \u2018substantial change in circumstances\u2019 requirement for modification. Thus it does not support the cited proposition about modification based on substantial change plus best interests.",
+      "relevant_excerpt": "\u201cThe Principles of the Law of Family Dissolution \u00a7 2.17 (2002)\u2026 state in pertinent part:\n\u2018(1) The relocation of a parent constitutes a substantial change in circumstances\u2026 only when the relocation significantly impairs either parent\u2019s ability to exercise responsibilities the parent has been exercising or attempting to exercise [under the judgement of divorce]\u2026\n(4)\u2026 the court should modify the parenting plan in accordance with the child\u2019s best interests\u2026.\u2019\n\u2026 From this the judge determined that it was not in the children\u2019s best interests to be removed to Bristol.\u201d"
+    }
+  }
+}

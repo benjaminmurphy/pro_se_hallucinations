@@ -1,0 +1,41 @@
+{
+  "complaint_file": "cm_008_08.txt",
+  "scenario_id": "cm_008_08",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 76 (compulsory school attendance and related provisions);": {
+      "raw_text": "Mass. Gen. Laws ch. 76 (compulsory school attendance and related provisions);",
+      "citation_type": "statute",
+      "proposition": "The plaintiff intends to rely upon Massachusetts law regarding modification of custody and parenting time based on a material change in circumstances and the best interests of the child, and in particular statutory and decisional law governing:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a7 51A (mandated reporting of abuse/neglect) and other provisions regarding child welfare and protection;": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a7 51A (mandated reporting of abuse/neglect) and other provisions regarding child welfare and protection;",
+      "citation_type": "statute",
+      "proposition": "The plaintiff intends to rely upon Massachusetts law regarding modification of custody and parenting time based on a material change in circumstances and the best interests of the child, and in particular statutory and decisional law governing:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

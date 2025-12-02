@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_005_06.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Adequately alleged. Complaint pleads a written lease beginning Jan. 1, 2022, that grants quiet enjoyment, that Plaintiff pays rent ($1,800/month), and that Defendant is the owner/landlord of 123 Elm Street (see \u00b6\u00b66\u20137, 3, 19)."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Adequately alleged. Complaint alleges repeated notice to Defendant of the excessive noise (\u00b611, \u00b620), that Defendant took limited action (told upstairs tenants once) and thereafter refused or failed to take reasonable steps to abate the disturbance (\u00b612, \u00b621\u201322)."
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Adequately alleged. Complaint describes persistent, recurrent nighttime noise (stomping, loud music, furniture moved at/around midnight) over six months, averaging 4\u20135 hours of sleep per night and resulting loss of use and diminished quality of life (\u00b68\u20139, \u00b613)."
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Adequately alleged. Complaint links the interference to upstairs tenants\u2019 noise and alleges Defendant had actual knowledge and failed to take reasonable measures, stating the interference continued as a proximate result of Defendant\u2019s failure to abate it (\u00b68\u201312, \u00b620\u201322, \u00b613)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Adequately alleged. Complaint alleges specific harms and monetary losses: sleep deprivation, diminished use of the premises, a written workplace warning, medical expenses (including $40/month for prescription sleep medication), out\u2011of\u2011pocket mitigation costs, and a $1,200 compensatory damages claim (\u00b613\u201314, \u00b623\u201324)."
+    }
+  }
+}

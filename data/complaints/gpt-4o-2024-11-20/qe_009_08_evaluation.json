@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_009_08.txt",
+  "scenario_id": "qe_009_08",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 3,
+  "statute_citations": 2,
+  "valid_citations": 3,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 3,
+  "citations": {
+    "G.L. c. 218, \u00a7 19": {
+      "raw_text": "G.L. c. 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction under G.L. c. 218, \u00a7 19 because the amount in controversy does not exceed $50,000 and the property at issue is located within this Court's territorial jurisdiction.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Pursuant to G.L. c. 186, \u00a7 14, every residential lease in Massachusetts includes an implied covenant of quiet enjoyment.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Simon v. Solomon*, 385 Mass. 91, 95 (1982).": {
+      "raw_text": "*Simon v. Solomon*, 385 Mass. 91, 95 (1982).",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts law, a violation of the covenant of quiet enjoyment constitutes not only a breach of the lease agreement but also an actionable tort entitling the aggrieved tenant to monetary damages.",
+      "is_valid": true,
+      "courtlistener_id": "2038443",
+      "case_name": "Simon v. Solomon",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion discusses both the common-law covenant of quiet enjoyment and the statutory remedy under G.L. c. 186, \u00a7 14, and makes clear that \u00a7 14 expanded the damages available for interference with quiet enjoyment. However, it does not characterize a violation of the covenant as an independent tort; rather, it treats it as a contract-based covenant supplemented by a statutory cause of action with tort-like damages. Nowhere does the court state that breach of the covenant itself is an actionable tort, so the case does not support the proposition as phrased.",
+      "relevant_excerpt": "\u201cSection 14 provides that tenants may recover \u2018actual and consequential\u2019 damages from landlords who have interfered with their quiet enjoyment of leased premises. We have noted that this provision was intended to expand the damages recoverable for breach of the covenant of quiet enjoyment. \u2026 The combination in \u00a7 14 of both actual and consequential damages, therefore, suggests that the Legislature intended to include all reasonably foreseeable losses \u2014 personal as well as economic \u2014 within the scope of statutory recovery.\u201d"
+    },
+    "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 285-86 (1994);": {
+      "raw_text": "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 285-86 (1994);",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts have found that substantial time without an essential feature of a rental property, such as electricity, constitutes a breach of the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "2069029",
+      "case_name": "Doe v. New Bedford Housing Authority",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case discusses breach of the covenant of quiet enjoyment under G.L. c. 186, \u00a7 14, but it does so in the context of criminal/drug activity and lack of security in common areas, not loss of essential physical features like electricity. The court\u2019s analysis of quiet enjoyment focuses on serious interference caused by the landlord\u2019s failure to act against third-party misconduct, not deprivation of utilities or other essential property features. Thus, it does not establish or affirm the specific principle that substantial time without an essential feature such as electricity constitutes a breach of the covenant of quiet enjoyment.",
+      "relevant_excerpt": "\u201cThe covenant of quiet enjoyment protects a tenant\u2019s right to freedom from serious interference with his tenancy \u2014 acts or omissions that impair the character and value of the leasehold. \u2026 In this case, we have no doubt that, if the plaintiffs truly are unable to use the common areas of the development, including sidewalks, streets, parking lots, and recreation areas within it, then the situation constitutes a serious interference with their quiet enjoyment and substantially impairs the character of the leased premises.\u201d"
+    },
+    "*Manzaro v. McCann*, 401 Mass. 880, 881 (1988).": {
+      "raw_text": "*Manzaro v. McCann*, 401 Mass. 880, 881 (1988).",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts have found that substantial time without an essential feature of a rental property, such as electricity, constitutes a breach of the covenant of quiet enjoyment.",
+      "is_valid": true,
+      "courtlistener_id": "2057989",
+      "case_name": "Manzaro v. McCann",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case discusses breach of the covenant of quiet enjoyment under G.L. c. 186, \u00a7 14, but the interference at issue is continuous noise from a smoke alarm ringing for more than a day, not loss of an essential service like electricity. The court\u2019s reasoning and holding concern whether such noise can constitute a substantial interference, and the opinion does not address substantial time without electricity or any other essential feature of a rental property. Therefore, it does not support the specific proposition claimed.",
+      "relevant_excerpt": "\u201cThe judge found that on a Sunday early in June, 1986, the landlord was notified that the smoke alarms in the apartment building were sounding\u2026 The judge found that the landlord\u2019s failure to silence the smoke alarms in a timely manner was an interference with the tenant\u2019s quiet enjoyment of the leased premises (in violation of G. L. c. 186, \u00a7 14)\u2026 We cannot say the judge\u2019s conclusion to award damages under \u00a7 14 was wrong\u2026 the noise of an alarm ringing for more than one day could\u2026 support a finding of a breach of the tenant\u2019s right to quiet enjoyment.\u201d"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_004_04.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges that this Court entered a custody and parenting-time order on May 15, 2018 (\u00b63.1) and describes the terms (primary physical custody to Plaintiff; limited short visits to Defendant), establishing an existing order."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The requested modifications are specified in the relief section (\u00b66.2): authorization for overnight/unsupervised parenting time in Defendant\u2019s home (with possible phased introduction and conditions) and adjustment of weekday parenting time to avoid school-night transfers, plus related implementation provisions."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges concrete factual changes since the 2018 order: Defendant now has his own apartment with a bedroom for the child (\u00b64.2) whereas inadequate housing was the basis for denying overnights (\u00b63.1); the child is older and in full-time school (\u00b64.3); and the current short-visit schedule disrupts homework, bedtime, and school routines (\u00b64.4). These allegations sufficiently plead a material and substantial change in circumstances."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges that modification would serve the child\u2019s health, safety, welfare, and developmental needs by reducing school-night transfers, preserving homework and sleep routines, and providing age-appropriate parenting time (\u00b64.3\u20134.5, \u00b65.1), and requests relief tailored to safeguard the child\u2019s routine and welfare (\u00b66.4\u20136.5), which sufficiently alleges that the modification is in the child\u2019s best interests."
+    }
+  }
+}

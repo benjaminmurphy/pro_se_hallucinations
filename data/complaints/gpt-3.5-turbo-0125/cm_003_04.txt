@@ -1,0 +1,85 @@
+```plaintiff_name
+JENNIFER SMITH
+123 Main Street
+Boston, MA 02101
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+
+defendant_name
+DAVID JOHNSON
+456 Elm Street
+Boston, MA 02101
+
+IN THE NORFOLK COUNTY PROBATE AND FAMILY COURT
+COMPLAINT FOR MODIFICATION OF CUSTODY ORDER
+
+The Plaintiff, JENNIFER SMITH, by and through the undersigned counsel, hereby files this Complaint for Modification of the custody order against the Defendant, DAVID JOHNSON, stating as follows:
+
+PARTIES
+
+1. The Plaintiff, JENNIFER SMITH, is a resident of Norfolk County, Massachusetts.
+2. The Defendant, DAVID JOHNSON, is a resident of Norfolk County, Massachusetts.
+
+FACTUAL ALLEGATIONS
+
+3. On May 15, 2021, the Norfolk County Probate and Family Court entered a custody order granting shared legal custody of the minor child, MICHAEL JOHNSON, to both parties.
+4. Pursuant to the custody order, MICHAEL primarily resides with the Plaintiff, JENNIFER, and visits the Defendant, DAVID, on certain weekends.
+5. Recent events have raised serious concerns about the safety and well-being of the minor child in the care of the Defendant.
+6. MICHAEL has reported to the Plaintiff that there are "special drinks" at the Defendant's residence and that the Defendant sometimes "can't walk straight."
+7. A concerned neighbor provided the Plaintiff with a video showing the Defendant stumbling while handling the minor child late at night.
+8. The school has observed signs of exhaustion in MICHAEL every Monday morning following visits with the Defendant.
+9. Based on the above circumstances, the Plaintiff believes that there has been a material change in circumstances that warrants modification of the existing custody order to ensure the safety and best interests of the minor child.
+
+REQUEST FOR RELIEF
+
+WHEREFORE, the Plaintiff respectfully requests that this Honorable Court modify the existing custody order to impose conditions, including supervised visitation or any other appropriate safeguards, to protect the well-being of the minor child, MICHAEL JOHNSON.
+
+Respectfully submitted,
+
+[signature]
+Jennifer Smith
+123 Main Street
+Boston, MA 02101
+
+DATED: December 1, 2025
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that a true copy of the foregoing Complaint for Modification of Custody Order was served upon the Defendant's attorney by mailing a copy to:
+
+David Johnson
+456 Elm Street
+Boston, MA 02101
+
+[signature]
+Jennifer Smith
+```  
+
+---
+
+**Relevant Massachusetts Family Law Statutes:**
+
+- Massachusetts General Laws, Chapter 208, section 31: Interim orders when complaint filed for divorce, legal separation or annulment; contents; temporary custody.
+- Massachusetts General Laws, Chapter 208, section 31A: Legitimacy of children; burden of proof.
+- Massachusetts General Laws, Chapter 208, section 31B: Powers of court to make judgments for maintenance, support and education of children.
+- Massachusetts General Laws, Chapter 209B, section 10: Best interest of child; custody.
+- Massachusetts General Laws, Chapter 209C, section 10: Best interests of child; custody; access.
+- Massachusetts General Laws, Chapter 209C, section 11: Findings and determinations for judgments relative to custody; care; support; education and visitation.
+- Massachusetts General Laws, Chapter 209C, section 13: Award of custody to parents.
+- Massachusetts General Laws, Chapter 209C, section 15: Temporary care and custody of children; determination of need; procedures.
+- Massachusetts General Laws, Chapter 210, section 3: Custody, care and maintenance of children; funds for joint purposes.
+- Massachusetts General Laws, Chapter 215, section 6: Depositions; notice to opposing party.
+- Massachusetts General Laws, Chapter 215, section 7: Forms for writs and process; partial default judgments.
+  
+**Relevant Massachusetts Family Law Cases:**
+  
+1. Bower v. Bournay-Bower, 469 Mass. 690 (2014).
+2. Mason v. Coleman, 434 Mass. 542 (2001).
+3. Custody of Vaughn, 422 Mass. 19 (1996).
+4. Kelsey v. Pope, 50 Mass. App. Ct. 97 (2000).
+5. Adoption of Zia, 455 Mass. 647 (2009).
+6. Custody of Kali, 439 Mass. 1010 (2003).
+7. Adoption of Lillith, 252 Mass. 202 (2015).
+8. Winterson v. Phillips, 60 Mass. App. Ct. 701 (2004).
+9. Custody of Natalia, 424 Mass. 255 (1997).
+10. Adoption of Isabella, 261 Mass. 460 (2020).

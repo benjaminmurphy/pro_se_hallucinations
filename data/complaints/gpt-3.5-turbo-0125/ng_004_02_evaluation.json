@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_004_02.txt",
+  "scenario_id": "ng_004_02",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 6,
+  "case_citations": 4,
+  "statute_citations": 2,
+  "valid_citations": 3,
+  "invalid_citations": 1,
+  "supported_propositions": 1,
+  "unsupported_propositions": 2,
+  "citations": {
+    "- M.G.L. ch. 84, \u00a7 15: Duty of care owed for residential property maintenance.": {
+      "raw_text": "- M.G.L. ch. 84, \u00a7 15: Duty of care owed for residential property maintenance.",
+      "citation_type": "statute",
+      "proposition": "13. The Defendant's actions constitute negligence under Massachusetts General Laws, including but not limited to:\n- M.G.L. ch. 84, \u00a7 15: Duty of care owed for residential property maintenance.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- M.G.L. ch. 231, \u00a7 85: Negligence actions and liability for personal injuries.": {
+      "raw_text": "- M.G.L. ch. 231, \u00a7 85: Negligence actions and liability for personal injuries.",
+      "citation_type": "statute",
+      "proposition": "13. The Defendant's actions constitute negligence under Massachusetts General Laws, including but not limited to:\n- M.G.L. ch. 231, \u00a7 85: Negligence actions and liability for personal injuries.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Sheehan v. Roche, 448 Mass. 780 (2007)": {
+      "raw_text": "- Sheehan v. Roche, 448 Mass. 780 (2007)",
+      "citation_type": "case",
+      "proposition": "14. Relevant case law supporting the Plaintiff's claims include:\n- Sheehan v. Roche, 448 Mass. 780 (2007)",
+      "is_valid": true,
+      "courtlistener_id": "6579512",
+      "case_name": "Sheehan v. Roche Bros. Supermarkets, Inc.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition is very general\u2014that Sheehan v. Roche is relevant case law supporting the plaintiff\u2019s claims (which, from context, are premises-liability slip\u2011and\u2011fall claims in a self\u2011service store). Sheehan directly addresses store-owner negligence in a slip-and-fall on produce, adopts the plaintiff-favorable mode-of-operation approach, and reverses summary judgment for the defendant. It is therefore properly cited as supporting authority for a plaintiff\u2019s premises-liability theory in similar circumstances.",
+      "relevant_excerpt": "\u201cBecause we conclude that the defendant had notice of the inherent risks associated with the operation of its self-service grocery store, we now adopt the mode of operation approach, and we reverse the judge\u2019s decision and remand the case for further proceedings\u2026 In sum, the adoption of the mode of operation approach will not modify the general rule\u2026 However, if a plaintiff proves that an unsafe condition\u2026 was reasonably foreseeable, resulting from an owner\u2019s self-service business or mode of operation, and the plaintiff slips as a result\u2026 the plaintiff will satisfy the notice requirement.\u201d"
+    },
+    "- Johnson v. Smith, 421 Mass. 785 (1999)": {
+      "raw_text": "- Johnson v. Smith, 421 Mass. 785 (1999)",
+      "citation_type": "case",
+      "proposition": "14. Relevant case law supporting the Plaintiff's claims include:\n- Johnson v. Smith, 421 Mass. 785 (1999)",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "- Smith v. Jones, 369 Mass. 885 (1980)": {
+      "raw_text": "- Smith v. Jones, 369 Mass. 885 (1980)",
+      "citation_type": "case",
+      "proposition": "14. Relevant case law supporting the Plaintiff's claims include:\n- Smith v. Jones, 369 Mass. 885 (1980)",
+      "is_valid": true,
+      "courtlistener_id": "2221058",
+      "case_name": "Martin v. Hall",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition merely lists Smith v. Jones as \u201crelevant case law supporting the Plaintiff\u2019s claims\u201d without specifying any substantive legal rule (e.g., negligence standard, false arrest, etc.). The opinion excerpt concerns only a procedural issue: waiver of appellate review of a denied directed verdict motion under Mass. R. Civ. P. 50(a) when the moving party proceeds to introduce evidence. It does not reach or decide the merits of the plaintiff\u2019s tort/negligence claims and therefore does not substantively support unspecified \u201cPlaintiff\u2019s claims.\u201d",
+      "relevant_excerpt": "\u201cWe conclude that the defendant has waived his right under Mass. R. Civ. P. 50 (a)\u2026 to assert error in the judge\u2019s refusal to grant a directed verdict and thus judgment must be affirmed.\u2026 Following the reasoning of the Federal courts, we conclude that the defendant, under Mass. R. Civ. P. 50 (a), waived his claim of error on introducing evidence of his own, and thus there is no basis for an appeal.\u201d"
+    },
+    "- Green v. Brown, 312 Mass. 567 (1942)": {
+      "raw_text": "- Green v. Brown, 312 Mass. 567 (1942)",
+      "citation_type": "case",
+      "proposition": "14. Relevant case law supporting the Plaintiff's claims include:\n- Green v. Brown, 312 Mass. 567 (1942)",
+      "is_valid": true,
+      "courtlistener_id": "6570665",
+      "case_name": "Gorman v. City of Peabody",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition merely lists Green v. Brown as \u201crelevant case law supporting the Plaintiff\u2019s claims\u201d without specifying any legal principle. Green v. Brown concerns whether a school committee\u2019s across-the-board teacher salary increase is a legislative \u2018measure\u2019 subject to municipal referendum, and ultimately holds that such a vote is subject to referendum and that the petition for a funding deficiency must be dismissed. Without a defined principle being claimed, and given that the case actually denies relief to the petitioners, this opinion cannot be said to affirmatively support unspecified plaintiff-side claims.",
+      "relevant_excerpt": "\u201cConfining ourselves to the precise question raised by the facts in the case at bar, we are of opinion that the final decree must be reversed, and that a decree must be entered dismissing the petition.\u201d"
+    }
+  }
+}

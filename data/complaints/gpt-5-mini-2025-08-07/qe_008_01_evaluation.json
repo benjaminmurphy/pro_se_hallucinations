@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_008_01.txt",
+  "scenario_id": "qe_008_01",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 0,
+  "statute_citations": 3,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant)",
+      "citation_type": "statute",
+      "proposition": "The covenant of quiet enjoyment is recognized in Massachusetts common law and is applied to residential landlord-tenant relationships; landlord obligations and tenants\u2019 remedies are governed by the Landlord and Tenant laws of Massachusetts (Mass. Gen. Laws ch. 186) and related Massachusetts authority.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (summary process)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (summary process)",
+      "citation_type": "statute",
+      "proposition": "See generally Mass. Gen. Laws ch. 186 (Landlord and Tenant); Mass. Gen. Laws ch. 239 (summary process).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 93A": {
+      "raw_text": "M.G.L. c. 93A",
+      "citation_type": "statute",
+      "proposition": "- I have not added additional causes of action (for example, conversion, negligence, breach of warranty of habitability, or M.G.L. c. 93A), as you specifically requested only a covenant of quiet enjoyment claim.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

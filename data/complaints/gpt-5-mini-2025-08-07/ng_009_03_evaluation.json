@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_009_03.txt",
+  "scenario_id": "ng_009_03",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 1,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 148": {
+      "raw_text": "Mass. Gen. Laws ch. 148",
+      "citation_type": "statute",
+      "proposition": "Defendant, as owner and manager of the Premises, owed Plaintiff obligations under Massachusetts law and common law to keep the common areas and the building's safety devices in a reasonably safe condition and to exercise reasonable care in maintaining alarm and detection devices supplied for the safety of tenants, including hallway smoke detectors (see generally Mass. Gen. Laws ch. 148; 780 CMR State Building Code; Restatement (Second) of Torts \u00a7\u00a7283, 314A).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "780 CMR State Building Code": {
+      "raw_text": "780 CMR State Building Code",
+      "citation_type": "statute",
+      "proposition": "Defendant, as owner and manager of the Premises, owed Plaintiff obligations under Massachusetts law and common law to keep the common areas and the building's safety devices in a reasonably safe condition and to exercise reasonable care in maintaining alarm and detection devices supplied for the safety of tenants, including hallway smoke detectors (see generally Mass. Gen. Laws ch. 148; 780 CMR State Building Code; Restatement (Second) of Torts \u00a7\u00a7283, 314A).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186": {
+      "raw_text": "Mass. Gen. Laws ch. 186",
+      "citation_type": "statute",
+      "proposition": "Defendant owed Plaintiff a duty to exercise reasonable care in the management and maintenance of the Premises, including maintenance of smoke detection and alarm devices in common hallways, and to repair or replace such devices after notice of malfunction.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111": {
+      "raw_text": "Mass. Gen. Laws ch. 111",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies upon the following statutes, regulations, and authorities (non-exhaustive) recognizing duties of landlords and the law of negligence and premises liability in Massachusetts:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "CR Snell v. [Mass. authority on landlord liability] (premises liability and landlord obligations)": {
+      "raw_text": "CR Snell v. [Mass. authority on landlord liability] (premises liability and landlord obligations)",
+      "citation_type": "case",
+      "proposition": "Plaintiff will rely on Massachusetts precedent applying negligent maintenance, landlord duties, and premises-liability law, including, among others:",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

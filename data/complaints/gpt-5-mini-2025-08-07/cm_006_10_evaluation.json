@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_006_10.txt",
+  "scenario_id": "cm_006_10",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 0,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 119, \u00a7 51A": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a7 51A",
+      "citation_type": "statute",
+      "proposition": "In addition to the Court\u2019s power to modify custody orders to protect children\u2019s welfare, statutory and public-safety obligations such as the child abuse and neglect reporting statute (Mass. Gen. Laws ch. 119, \u00a7 51A) and the Domestic Abuse Protection Act (Mass. Gen. Laws ch. 209A) provide context for the Court\u2019s authority and responsibility to address risks to children and caretakers.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209A": {
+      "raw_text": "Mass. Gen. Laws ch. 209A",
+      "citation_type": "statute",
+      "proposition": "In addition to the Court\u2019s power to modify custody orders to protect children\u2019s welfare, statutory and public-safety obligations such as the child abuse and neglect reporting statute (Mass. Gen. Laws ch. 119, \u00a7 51A) and the Domestic Abuse Protection Act (Mass. Gen. Laws ch. 209A) provide context for the Court\u2019s authority and responsibility to address risks to children and caretakers.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208, \u00a7 28": {
+      "raw_text": "Mass. Gen. Laws ch. 208, \u00a7 28",
+      "citation_type": "statute",
+      "proposition": "- Best interests standard and the court\u2019s authority to modify custody and visitation to protect a child\u2019s welfare: Mass. Gen. Laws ch. 208, \u00a7 28 (statutory provisions governing custody in actions for divorce and related proceedings; courts apply best-interests analysis and may modify orders upon change in circumstances).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 209C": {
+      "raw_text": "Mass. Gen. Laws ch. 209C",
+      "citation_type": "statute",
+      "proposition": "- Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA): Mass. Gen. Laws ch. 209C (jurisdictional rules for child custody determinations).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

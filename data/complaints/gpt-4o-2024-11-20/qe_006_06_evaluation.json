@@ -1,0 +1,80 @@
+{
+  "complaint_file": "qe_006_06.txt",
+  "scenario_id": "qe_006_06",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws, Chapter 186, Section 14.": {
+      "raw_text": "Massachusetts General Laws, Chapter 186, Section 14.",
+      "citation_type": "statute",
+      "proposition": "This is a civil action brought by Plaintiff Jessica Martin against Defendant Thomas Reynolds for breach of the covenant of quiet enjoyment under Massachusetts General Laws, Chapter 186, Section 14.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "This court has jurisdiction over this action pursuant to G.L. c. 186, \u00a7 14, G.L. c. 231, \u00a7 85A, and applicable laws of the Commonwealth of Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 231, \u00a7 85A": {
+      "raw_text": "G.L. c. 231, \u00a7 85A",
+      "citation_type": "statute",
+      "proposition": "This court has jurisdiction over this action pursuant to G.L. c. 186, \u00a7 14, G.L. c. 231, \u00a7 85A, and applicable laws of the Commonwealth of Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 239, \u00a7 8A": {
+      "raw_text": "G.L. c. 239, \u00a7 8A",
+      "citation_type": "statute",
+      "proposition": "Defendant\u2019s failure to restore hot water violates applicable Massachusetts laws, including but not limited to: G.L. c. 239, \u00a7 8A;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 111, \u00a7 127L": {
+      "raw_text": "G.L. c. 111, \u00a7 127L",
+      "citation_type": "statute",
+      "proposition": "Defendant\u2019s failure to restore hot water violates applicable Massachusetts laws, including but not limited to: G.L. c. 111, \u00a7 127L (sanitary conditions in rental housing).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

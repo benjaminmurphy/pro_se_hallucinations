@@ -1,0 +1,30 @@
+{
+  "complaint_file": "qe_001_01.txt",
+  "category": "landlord_tenant",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "landlord_tenant_relationship": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Plaintiff entered into a tenancy beginning January 1, 2022, pays monthly rent of $1,800, and identifies Defendant as the landlord of the premises (see \u00b6\u00b63,5). These factual allegations establish a landlord\u2013tenant relationship for pleading purposes."
+    },
+    "act_or_omission_by_landlord": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific acts/omissions by Defendant: repeated failures of the heating system, Defendant\u2019s sending of maintenance personnel only twice with temporary fixes, and Defendant\u2019s failure to repair or replace the heating system to stop recurring lapses (see \u00b6\u00b66\u20139,11,17,19). Those allegations sufficiently plead landlord conduct. "
+    },
+    "substantial_interference": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete facts showing substantial interference: indoor temperatures dropping to ~60\u00b0F for hours (\u00b66), necessity of obtaining alternative heat and purchasing two space heaters (\u00b68\u20139), increased monthly electric bills (\u00b69), and explicit allegations that the inadequate heating materially and substantially interfered with Plaintiff\u2019s use, comfort, health, and safety (\u00b612). These allegations meet the \u2018substantial interference\u2019 element. "
+    },
+    "causation": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges that Defendant\u2019s acts/omissions (permitting repeated heating failures and failing to effect lasting repairs) caused the inadequate heat (\u00b67\u20139,17,19), and that the inadequate heat in turn caused Plaintiff\u2019s increased expenses and illness (\u00b69\u201310,12,18). A treating physician is alleged to have concluded Plaintiff\u2019s bronchitis was likely aggravated by prolonged cold indoor air (\u00b610), linking the health damage to the heating condition. These factual allegations adequately plead causation at the pleading stage. "
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific damages: approximately $150/month increased electric bills, cost of two space heaters, out-of-pocket medical expenses, three days of lost wages, and general discomfort and loss of use; it also seeks compensatory damages and provides a present estimate of $500 (\u00b69\u201310,12,18,22, Prayer). These allegations sufficiently plead damages. "
+    }
+  }
+}

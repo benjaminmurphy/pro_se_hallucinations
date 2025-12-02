@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_004_02.txt",
+  "scenario_id": "qe_004_02",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 1,
+  "citations": {
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, G.L. c. 186, \u00a7 14, every residential lease includes an implied covenant of quiet enjoyment, and any substantial interference with a tenant's use and enjoyment of the premises constitutes a breach of this covenant.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 231.": {
+      "raw_text": "G.L. c. 231.",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over the claims in this matter pursuant to G.L. c. 186, \u00a7 14 and G.L. c. 231.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 281 (1994)": {
+      "raw_text": "*Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 281 (1994)",
+      "citation_type": "case",
+      "proposition": "The presence of a persistent rodent infestation constitutes a substantial interference with the Plaintiff\u2019s quiet enjoyment of the premises. See *Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 281 (1994) (holding that substantial and recurring interferences may violate the covenant of quiet enjoyment).",
+      "is_valid": true,
+      "courtlistener_id": "2069029",
+      "case_name": "Doe v. New Bedford Housing Authority",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The case does support the general principle that substantial and recurring interferences can violate the covenant of quiet enjoyment, but it does so in the context of drug-related criminal activity in common areas, not rodent infestation. The opinion does not mention rodents or pest infestations, nor does it address whether such conditions constitute substantial interference with quiet enjoyment. Thus, using this case specifically for the proposition about persistent rodent infestation is not accurate, though it is suitable authority for the broader substantial-interference concept.",
+      "relevant_excerpt": "\u201cThe covenant of quiet enjoyment protects a tenant\u2019s right to freedom from serious interference with his tenancy \u2014 acts or omissions that impair the character and value of the leasehold. \u2026 In this case, we have no doubt that, if the plaintiffs truly are unable to use the common areas of the development, including sidewalks, streets, parking lots, and recreation areas within it, then the situation constitutes a serious interference with their quiet enjoyment and substantially impairs the character of the leased premises.\u201d"
+    },
+    "*Simon v. Solomon*, 385 Mass. 91, 100 (1982)": {
+      "raw_text": "*Simon v. Solomon*, 385 Mass. 91, 100 (1982)",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s failure to resolve the infestation in good faith constitutes a willful or knowing violation of the statute, entitling Plaintiff to statutory damages and attorneys\u2019 fees. See *Simon v. Solomon*, 385 Mass. 91, 100 (1982) (noting that a willful or knowing breach of G.L. c. 186, \u00a7 14 results in liability for enhanced damages).",
+      "is_valid": true,
+      "courtlistener_id": "2038443",
+      "case_name": "Simon v. Solomon",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion directly construes G.L. c. 186, \u00a7 14, holding that a landlord who at least recklessly interferes with a tenant\u2019s quiet enjoyment is liable for the statute\u2019s enhanced remedy of \u201cactual and consequential damages or three months\u2019 rent, whichever is greater,\u201d plus attorneys\u2019 fees. The court affirms the availability of attorneys\u2019 fees and explains that \u201cactual and consequential damages\u201d under \u00a7 14 include personal injuries such as emotional distress, thereby supporting the use of \u00a7 14 for statutory damages and fees where the landlord\u2019s violation is willful, intentional, or reckless.",
+      "relevant_excerpt": "\u201cAny person who commits any act in violation of this section shall also be liable for actual and consequential damages or three months\u2019 rent, whichever is greater, and the costs of the action, including a reasonable attorney\u2019s fee\u2026\n\u2026we hold that a tenant need not seek a criminal conviction before claiming damages under G. L. c. 186, \u00a7 14. Nor must the tenant prove that the landlord intended to interfere with the tenant\u2019s rights, at least as long as the landlord\u2019s conduct was reckless\u2026 Therefore, Solomon\u2019s claim for emotional distress was within the scope of \u00a7 14, and was properly considered in the determination of attorneys\u2019 fees.\u201d"
+    }
+  }
+}

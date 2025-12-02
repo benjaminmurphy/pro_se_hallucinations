@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_009_01.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Paragraph 4.1 alleges a 2019 custody order entered May 15, 2019 by this Court, specifying Petitioner has primary physical custody and Respondent has every-other-weekend plus a Wednesday midweek overnight parenting time."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Paragraphs 7.1\u20137.2 and the Prayer (\u00b6\u00b6 9.2) expressly request elimination of the Wednesday midweek overnight and propose alternative parenting-time arrangements that avoid long-distance overnight travel on school nights."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Section 5 (particularly \u00b6\u00b6 5.2\u20135.5) alleges a post\u2011order move by Respondent to Cape Cod (~90 miles), continued long\u2011distance midweek overnights, resulting early\u2011morning returns, chronic fatigue, and measurable declines in school participation\u2014facts that identify a change since the 2019 Order and adverse effects on the child."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint links the alleged change to concrete harms (Sophie\u2019s chronic fatigue, teacher reports of reduced participation, and disruption to education) and states that eliminating the overnight is necessary to protect Sophie\u2019s health, rest, and schooling (\u00b6\u00b6 5.4\u20135.5, 6.2, 7.2), which sufficiently alleges that the requested modification is in the child\u2019s best interests."
+    }
+  }
+}

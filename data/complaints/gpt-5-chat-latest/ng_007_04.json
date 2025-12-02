@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_007_04",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Michael Johnson",
+  "defendant": "Brockton Community Center"
+}

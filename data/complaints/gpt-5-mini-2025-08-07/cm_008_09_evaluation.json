@@ -1,0 +1,28 @@
+{
+  "complaint_file": "cm_008_09.txt",
+  "scenario_id": "cm_008_09",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "the Massachusetts Uniform Child Custody Jurisdiction and Enforcement Act (M.G.L. c. 209C)": {
+      "raw_text": "the Massachusetts Uniform Child Custody Jurisdiction and Enforcement Act (M.G.L. c. 209C)",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over the subject matter and the parties under the Massachusetts Probate and Family Court statutes and rules, including the Massachusetts Uniform Child Custody Jurisdiction and Enforcement Act (M.G.L. c. 209C), and pursuant to this Court\u2019s continuing jurisdiction over custody matters arising from the judgment entered in this Court on June 15, 2021.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

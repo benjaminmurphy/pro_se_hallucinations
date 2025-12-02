@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_004_06.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant owns, occupies, controls, and was responsible for maintenance of the sidewalk at 123 Maple Street (\u00b6\u00b61.2, 2.2) and expressly pleads the landowner duty to maintain and warn under Massachusetts law (\u00b63.2\u20133.3). Those factual and legal allegations adequately plead a duty of care to lawful entrants such as the plaintiff."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific acts and omissions constituting a breach: Defendant cleared only a narrow path and failed to apply deicing (\u00b62.3), the path repeatedly refroze into slick ice (\u00b62.4), tenants notified Defendant and she declined remedial action saying \u201cthe sun will take care of it\u201d (\u00b6\u00b62.5\u20132.6), and she failed to treat, barricade, or warn (\u00b63.4). Those factual allegations sufficiently plead a breach of the duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges the untreated/refrozen icy patch on the sidewalk (caused or left by Defendant\u2019s conduct/omission) was the condition on which he stepped, slipped, and fell (\u00b6\u00b62.4, 2.7\u20132.9). Those allegations sufficiently plead a but\u2011for causal link that the injury would not have occurred but for the hazardous icy condition defendant failed to remedy."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the hazardous condition was a foreseeable result of Defendant\u2019s conduct (\u00b62.4, \u00b63.4) and expressly pleads that the icy condition was a proximate cause of Plaintiff\u2019s injuries (\u00b62.9, \u00b63.5). Those allegations adequately plead foreseeability and proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete, compensable damages including approximately $2,500 in medical expenses and $1,000 in lost wages, plus pain and suffering and other losses (\u00b62.8, \u00b64.1). Those allegations sufficiently plead actual damages."
+    }
+  }
+}

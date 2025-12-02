@@ -1,0 +1,93 @@
+{
+  "complaint_file": "ng_002_03.txt",
+  "scenario_id": "ng_002_03",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 1,
+  "statute_citations": 5,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 140, \u00a7\u00a7 155\u2013157": {
+      "raw_text": "Mass. Gen. Laws ch. 140, \u00a7\u00a7 155\u2013157",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 140, \u00a7\u00a7 155\u2013157 (statutes regulating dogs and control; leash requirements and owner responsibilities).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 231": {
+      "raw_text": "Mass. Gen. Laws ch. 231",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 231 (general civil actions statutes; see applicable provisions governing tort actions and damages).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 231, \u00a7 60": {
+      "raw_text": "Mass. Gen. Laws ch. 231, \u00a7 60",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 231, \u00a7 60 (statute of limitations and related procedural provisions \u2014 verify applicable period for personal injury).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 260": {
+      "raw_text": "Mass. Gen. Laws ch. 260",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 260 (statutes of limitation generally \u2014 Plaintiff asserts timely filing within applicable period).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Rules of Civil Procedure (Mass. R. Civ. P.)": {
+      "raw_text": "Mass. Rules of Civil Procedure (Mass. R. Civ. P.)",
+      "citation_type": "statute",
+      "proposition": "- Mass. Rules of Civil Procedure (Mass. R. Civ. P.) \u2014 governing service, pleadings, and procedure in Massachusetts courts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)",
+      "citation_type": "case",
+      "proposition": "- Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause and foreseeability principles) (widely cited for proximate cause analysis).",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion is a canonical source for using foreseeability to define the scope of duty and thus limit proximate cause in negligence. Cardozo\u2019s majority expressly frames liability in terms of whether the defendant\u2019s conduct created a reasonably foreseeable risk to the particular plaintiff, and distinguishes issues of proximate cause and remoteness of damages from the antecedent question of duty. The cited proposition\u2014that Palsgraf is widely cited for proximate cause and foreseeability analysis\u2014is accurate and well supported by this text.",
+      "relevant_excerpt": "\u201cThe risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension\u2026 These cases aside, wrong is defined in terms of the natural or probable, at least when unintentional\u2026 The law of causation, remote or proximate, is thus foreign to the case before us. The question of liability is always anterior to the question of the measure of the consequences that go with liability.\u201d"
+    }
+  }
+}

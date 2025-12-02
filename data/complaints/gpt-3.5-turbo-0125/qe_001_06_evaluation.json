@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_001_06.txt",
+  "scenario_id": "qe_001_06",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws Chapter 185C, Section 3": {
+      "raw_text": "Massachusetts General Laws Chapter 185C, Section 3",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to Massachusetts General Laws Chapter 185C, Section 3, which grants jurisdiction to the Housing Court Department over summary process cases involving disputes between landlords and tenants.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 186, Section 14": {
+      "raw_text": "Massachusetts General Laws Chapter 186, Section 14",
+      "citation_type": "statute",
+      "proposition": "Plaintiff alleges a single cause of action for breach of the covenant of quiet enjoyment against Defendant pursuant to Massachusetts General Laws Chapter 186, Section 14, which mandates that landlords must provide tenants with a premises fit for human habitation, including adequate heat during the colder months.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

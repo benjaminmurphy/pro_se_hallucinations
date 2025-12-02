@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_001_05.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges she was a business invitee on Defendant\u2019s premises (\u00b65) and alleges Defendant is the owner/operator of the grocery store with responsibility to keep the premises safe and inspect for hazards (\u00b62, \u00b613). Those factual allegations sufficiently plead the proprietor\u2019s duty of care to invitees under Massachusetts premises-liability principles."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Plaintiff pleads specific facts that the floor contained a non\u2011de minimis spilled milk with cart tracks (\u00b66), no warnings or barriers were present (\u00b67), and an employee admitted noticing the spill minutes earlier but delayed mopping (\u00b68, \u00b615). Those allegations adequately state a breach of the duty to inspect, warn, or remediate hazardous conditions."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges she stepped into the spilled milk, slipped and fell, and sustained a hip injury (\u00b66, \u00b69). Those facts plausibly allege that but for the spilled milk/hazardous condition she would not have fallen and been injured."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Plaintiff alleges the fall and resulting hip injury were a direct and proximate result of Defendant\u2019s negligence (\u00b616\u201317) and the connection\u2014slipping on a known/unwarned spill\u2014is a foreseeable consequence of failing to remediate or warn about the hazard (\u00b66\u20139, \u00b614\u201315)."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges specific economic damages (approximately $1,200 medical expenses and $800 lost wages) and non\u2011economic damages (pain and suffering, emotional distress, loss of enjoyment of life) (\u00b610, \u00b618), satisfying the pleading requirement of actual damages."
+    }
+  }
+}

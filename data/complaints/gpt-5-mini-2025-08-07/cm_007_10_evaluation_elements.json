@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_007_10.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "The complaint expressly pleads an existing custody order entered by this Court on May 15, 2019 awarding joint legal custody and equal physical custody on a one-week-on/one-week-off schedule (see \u00b6\u00b61.4, 3.1)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "The complaint specifically requests a change from the existing 50/50 alternating-week physical custody to primary physical custody with Plaintiff, a revised parenting-time schedule tailored to Defendant\u2019s medical limitations (including reduced-duration visits, supervised visits, out-of-home visits), temporary pendente lite modification to primary custody if needed, and orders requiring medical documentation and evaluations (see \u00b62.1, \u00b65.2, \u00b68(b)-(e))."
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges a concrete, post-judgment change: since mid-2024 Defendant was diagnosed with a progressive neurological condition causing mobility impairment, increased falls, need for assistance with transfers, and treating-physician recommendations limiting unsupervised contact in certain situations; it also alleges the child has been required to assist Defendant and has expressed fear (see \u00b63.3\u20133.6, \u00b64.1). Those facts are pleaded as a material and substantial change not contemplated by the 2019 order."
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges why the requested modification serves the child\u2019s best interests: increased safety risks from Defendant\u2019s falls and limitations, inappropriate caregiver role of the 12\u2011year\u2011old, preservation of stability/routine with primary placement with Plaintiff, and supporting medical recommendations\u2014tied directly to the requested custody and parenting-time changes (see \u00b65.1(a)\u2013(d), \u00b65.2, \u00b68(b)-(e))."
+    }
+  }
+}

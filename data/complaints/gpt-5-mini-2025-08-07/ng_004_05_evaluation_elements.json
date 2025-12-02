@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_004_05.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads ownership and control of the building and expressly alleges Defendant was responsible for maintaining the adjacent sidewalk and owed a duty to lawful visitors (delivery persons/invitees), citing premises-liability principles\u2014sufficient at pleading stage to establish duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific negligent acts/omissions (shoveled a narrow path but failed to apply de-icer, failed to warn, ignored tenant reports and photos) which, if proven, constitute a breach of the alleged duty."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the un-salted path became an ice sheet and that Plaintiff slipped on that ice while lawfully using the path, directly alleging that the fall and injury would not have occurred but for Defendant\u2019s failure to salt/maintain the sidewalk\u2014adequate factual pleading of but-for causation."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the icy condition was foreseeable (tenants warned Defendant, Defendant declined remedial action) and that the failure to remedy or warn was a proximate cause of the slip and injuries\u2014sufficiently alleges foreseeability and proximate cause at the pleading stage."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint specifically alleges physical injury to the lower back, approximately $3,500 in medical expenses, about $800 in lost wages, and non\u2011economic harms (pain and suffering), which adequately pleads actual damages."
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_003_06.txt",
+  "scenario_id": "cm_003_06",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "Massachusetts General Laws Chapter 209 section 48": {
+      "raw_text": "Massachusetts General Laws Chapter 209 section 48",
+      "citation_type": "statute",
+      "proposition": "2. JURISDICTION: This Honorable Court has jurisdiction over this matter under Massachusetts General Laws Chapter 209 section 48, in Worcester Probate and Family Court.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws Chapter 209 section 38": {
+      "raw_text": "Massachusetts General Laws Chapter 209 section 38",
+      "citation_type": "statute",
+      "proposition": "a. Massachusetts General Laws Chapter 209 section 38 provides that custody orders may be modified based on a substantial change in circumstances since the entry of the original order.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)": {
+      "raw_text": "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)",
+      "citation_type": "case",
+      "proposition": "b. In the case of Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985), the Massachusetts Supreme Judicial Court established the \"real advantages\" test as the standard for determining whether a modification of custody is warranted.",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Yannas does establish the \u201creal advantage\u201d (or \u201creal advantages\u201d) test, but it does so as the standard for deciding a custodial parent\u2019s request to remove children from the Commonwealth, not for determining whether a modification of custody is warranted. The opinion focuses on G.L. c. 208, \u00a7 30 and removal, not on the separate doctrinal standard governing custody modifications. Thus, citing Yannas for a general custody-modification standard is inaccurate.",
+      "relevant_excerpt": "\u201cThe judge properly applied the correct legal standard in determining that the wife could remove the children to Greece\u2026 The judge followed the principles set forth in Hale v. Hale\u2026 which adopted the less strict standard of D\u2019Onofrio v. D\u2019Onofrio, \u2026 The less strict standard, sometimes called the \u2018real advantage\u2019 standard\u2026 As most recently reformulated by the Supreme Court of New Jersey in Cooper v. Cooper, the \u2018real advantage\u2019 test is grounded on the realization that after a divorce a child\u2019s subsequent relationship with both parents can never be the same as before the divorce\u2026\u201d"
+    },
+    "Bains v. Bains, 41 Mass. App. Ct. 922 (1996)": {
+      "raw_text": "Bains v. Bains, 41 Mass. App. Ct. 922 (1996)",
+      "citation_type": "case",
+      "proposition": "c. Further, in Bains v. Bains, 41 Mass. App. Ct. 922 (1996), the Court held that any substantial change affecting the welfare of the child can be grounds for modifying a custody order.",
+      "is_valid": true,
+      "courtlistener_id": "6585552",
+      "case_name": "Dunne v. City of Boston",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The provided opinion text is not Bains v. Bains and does not concern custody, child welfare, or modification of custody orders. Instead, it addresses a municipal employee\u2019s wage-differential payments and interest under workers\u2019 compensation and a special act. Because the case neither involves family law nor discusses standards for modifying custody, it cannot support the claimed proposition about changes affecting the welfare of a child as grounds for modifying a custody order.",
+      "relevant_excerpt": "Principles of res judicata and issue preclusion did not bar Dunne from seeking clarification or correction of the judgment to make provision for an award of interest. Nor was Dunne precluded from seeking a clarification or modification of the judgment to provide that payments to him should continue beyond the date earlier ordered by the judge..."
+    }
+  }
+}

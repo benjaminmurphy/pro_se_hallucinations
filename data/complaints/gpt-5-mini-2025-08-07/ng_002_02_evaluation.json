@@ -1,0 +1,80 @@
+{
+  "complaint_file": "ng_002_02.txt",
+  "scenario_id": "ng_002_02",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 1,
+  "statute_citations": 4,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. R. Civ. P. 2": {
+      "raw_text": "Mass. R. Civ. P. 2",
+      "citation_type": "statute",
+      "proposition": "Venue is properly laid in Newton District Court pursuant to Mass. R. Civ. P. 2 and applicable venue statutes.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 260, \u00a7 2A (three-year limitation for tort actions for personal injury)": {
+      "raw_text": "M.G.L. c. 260, \u00a7 2A (three-year limitation for tort actions for personal injury)",
+      "citation_type": "statute",
+      "proposition": "This action is filed within the applicable statute of limitations for personal injury actions.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Beaulieu v. R.R. (general principles of negligence)": {
+      "raw_text": "Beaulieu v. R.R. (general principles of negligence)",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts recognize the general common-law duty of reasonable care to avoid foreseeable risks of injury to others.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Chapter 140 (Animals and Fowls) generally (statutory scheme regulating control of dogs and other animals on public ways and places).": {
+      "raw_text": "Chapter 140 (Animals and Fowls) generally (statutory scheme regulating control of dogs and other animals on public ways and places).",
+      "citation_type": "statute",
+      "proposition": "- Chapter 140 (Animals and Fowls) generally (statutory scheme regulating control of dogs and other animals on public ways and places).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 231, relevant provisions governing civil remedies and procedure.": {
+      "raw_text": "M.G.L. c. 231, relevant provisions governing civil remedies and procedure.",
+      "citation_type": "statute",
+      "proposition": "- M.G.L. c. 231, relevant provisions governing civil remedies and procedure.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "complaint_file": "cm_004_01.txt",
+  "category": "custody_modification",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 4,
+  "elements_total": 4,
+  "all_elements_satisfied": true,
+  "elements": {
+    "existing_custody_order": {
+      "satisfied": true,
+      "reasoning": "Complaint expressly alleges an existing Probate & Family Court custody/visitation order entered April 15, 2019 awarding primary physical custody to Petitioner and limited short visits to Respondent (\u00b62.1; \u00b64.1)."
+    },
+    "specific_modification_sought": {
+      "satisfied": true,
+      "reasoning": "Complaint seeks concrete changes: authorization of appropriate overnight/overnight sleepover parenting time for Father (including phased overnights leading to regular weekend overnights and selected weeknight overnights) and adjusted weekday parenting time to minimize school-night pick-ups/drop-offs and preserve homework/bedtime routines (\u00b68.2(a)\u2013(b); \u00b65.2(a)\u2013(d)). While not listing minute-by-minute times, it identifies the substantive modifications requested. "
+    },
+    "material_substantial_change": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads multiple factual changes since 2019 that bear on the child\u2019s welfare: the child is now 8 and in full\u2011time school with changed developmental and scheduling needs; the Father now has separate adequate housing with a bedroom for the child (contrasting the housing facts underlying the 2019 denial of overnights); current short visits cause school\u2011night disruption and fatigue; and the child and both parents desire adjusted parenting time (\u00b65.1\u20135.3; \u00b65.2(a)\u2013(d)). These factual allegations sufficiently plead a material and substantial change. "
+    },
+    "best_interests_of_child": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the requested modification would promote the child\u2019s best interests by reducing disruption to sleep/homework routines, promoting continuity and schooling stability, fostering a healthy parent\u2011child relationship with Father in adequate housing, and is supported by mutual agreement of the parents; it also cites the relevant best\u2011interest factors the Court must consider (\u00b66.1\u20136.3)."
+    }
+  }
+}

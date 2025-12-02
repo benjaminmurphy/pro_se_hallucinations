@@ -1,0 +1,67 @@
+{
+  "complaint_file": "qe_009_09.txt",
+  "scenario_id": "qe_009_09",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 4,
+  "case_citations": 1,
+  "statute_citations": 3,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "G.L. c. 185C, \u00a7 3": {
+      "raw_text": "G.L. c. 185C, \u00a7 3",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter pursuant to G.L. c. 185C, \u00a7 3 because this action concerns a residential tenancy within the Commonwealth of Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 223, \u00a7\u00a7 8 and 9": {
+      "raw_text": "G.L. c. 223, \u00a7\u00a7 8 and 9",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in the Springfield Division of the Housing Court Department pursuant to G.L. c. 223, \u00a7\u00a7 8 and 9, as the property and parties are located within this court\u2019s jurisdiction.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "G.L. c. 186, \u00a7 14": {
+      "raw_text": "G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "Under G.L. c. 186, \u00a7 14, if a landlord \"directly or indirectly interferes with the quiet enjoyment of any residential premises by the occupant,\" the landlord is liable to the tenant for actual damages or three months\u2019 rent, whichever is greater, plus attorney\u2019s fees and costs.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Doherty v. McCaul, 74 Mass. App. Ct. 439, 443 (2009)": {
+      "raw_text": "Doherty v. McCaul, 74 Mass. App. Ct. 439, 443 (2009)",
+      "citation_type": "case",
+      "proposition": "Massachusetts courts have consistently held that a tenant's quiet enjoyment includes the ability to fully use and enjoy their home. See Doherty v. McCaul, 74 Mass. App. Ct. 439, 443 (2009) (recognizing a landlord\u2019s failure to address maintenance issues as a breach of quiet enjoyment).",
+      "is_valid": true,
+      "courtlistener_id": "6589115",
+      "case_name": "Doherty v. Director of the Office of Medicaid",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Doherty v. McCaul concerns Medicaid eligibility and whether assets in an irrevocable trust are countable resources; it does not address landlord-tenant law, quiet enjoyment, or maintenance issues in a rental context. The pages provided (including page 443) focus entirely on trust structure and MassHealth regulations. Thus, this case does not support the proposition about a tenant\u2019s right to fully use and enjoy their home or a landlord\u2019s breach of quiet enjoyment for failure to maintain the premises.",
+      "relevant_excerpt": "\"Finally, we take this opportunity to stress that we have no doubt that self-settled, irrevocable trusts may, if so structured, so insulate trust assets that those assets will be deemed unavailable to the settlor. ... In our view, Muriel\u2019s trust, as structured, allows the trustees a degree of discretionary authority that would, if sanctioned, permit Muriel to enjoy her assets, preserve those assets for her heirs, and receive public assistance, to, in effect, \u2018have [her] cake and eat it too.\u2019\""
+    }
+  }
+}

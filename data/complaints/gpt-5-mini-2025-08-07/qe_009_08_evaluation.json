@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_009_08.txt",
+  "scenario_id": "qe_009_08",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 1,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 1,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant), including statutory provisions governing landlord/tenant relations and remedies.": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant), including statutory provisions governing landlord/tenant relations and remedies.",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 186 (Landlord and Tenant), including statutory provisions governing landlord/tenant relations and remedies.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A (Consumer Protection Act), in aid of addressing unfair or deceptive practices in housing contexts where applicable.": {
+      "raw_text": "Mass. Gen. Laws ch. 93A (Consumer Protection Act), in aid of addressing unfair or deceptive practices in housing contexts where applicable.",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 93A (Consumer Protection Act), in aid of addressing unfair or deceptive practices in housing contexts where applicable.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 and applicable local housing and sanitary codes regarding habitability (including local statutes and codes enforced by municipal boards of health).": {
+      "raw_text": "Mass. Gen. Laws ch. 111 and applicable local housing and sanitary codes regarding habitability (including local statutes and codes enforced by municipal boards of health).",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 111 and applicable local housing and sanitary codes regarding habitability (including local statutes and codes enforced by municipal boards of health).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 & ch. 239A to the extent procedural or related summary process remedies are implicated.": {
+      "raw_text": "Mass. Gen. Laws ch. 239 & ch. 239A to the extent procedural or related summary process remedies are implicated.",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 239 & ch. 239A to the extent procedural or related summary process remedies are implicated.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts sanitary codes and 105 CMR provisions that set minimum housing standards (as applied locally).": {
+      "raw_text": "Massachusetts sanitary codes and 105 CMR provisions that set minimum housing standards (as applied locally).",
+      "citation_type": "statute",
+      "proposition": "Massachusetts sanitary codes and 105 CMR provisions that set minimum housing standards (as applied locally).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mullane v. Commonwealth, relevantly as to landlord duties (see Massachusetts caselaw addressing landlord obligations).": {
+      "raw_text": "Mullane v. Commonwealth, relevantly as to landlord duties (see Massachusetts caselaw addressing landlord obligations).",
+      "citation_type": "case",
+      "proposition": "Mullane v. Commonwealth, relevantly as to landlord duties (see Massachusetts caselaw addressing landlord obligations).",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

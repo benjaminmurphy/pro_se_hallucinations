@@ -1,0 +1,54 @@
+{
+  "complaint_file": "cm_001_07.txt",
+  "scenario_id": "cm_001_07",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 3,
+  "case_citations": 2,
+  "statute_citations": 1,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 2,
+  "citations": {
+    "M.G.L. c. 208, \u00a7 28": {
+      "raw_text": "M.G.L. c. 208, \u00a7 28",
+      "citation_type": "statute",
+      "proposition": "Pursuant to M.G.L. c. 208, \u00a7 28, the Court may modify a custody order upon a showing of a substantial and material change in circumstances affecting the welfare of the children.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)": {
+      "raw_text": "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)",
+      "citation_type": "case",
+      "proposition": "Case law such as Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985) and Blixt v. Blixt, 437 Mass. 649 (2002) supports the proposition that a modification may be warranted when a parent's work schedule significantly impacts their ability to parent effectively.",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Yannas concerns removal of children from the Commonwealth and articulates the \u201creal advantage\u201d standard for relocation by a custodial parent. It does not address modification of custody or parenting plans based on a parent\u2019s work schedule or an impaired ability to parent effectively due to work demands. The decision focuses on relocation, best interests, and the interrelationship between the custodial parent\u2019s wellbeing and the child\u2019s, not on work-schedule-based modification issues.",
+      "relevant_excerpt": "\u201cCases involving removal of a child from the jurisdiction present difficult choices. \u2026 An evaluation of the best interests of the child requires attention to whether the quality of the child\u2019s life may be improved by the change (including any improvement flowing from an improvement in the quality of the custodial parent\u2019s life)\u2026 The interest of the custodial parent in moving must also be assessed. The relative advantages to the custodial parent from the move, the soundness of the reason for moving\u2026 are all likely to be relevant considerations.\u201d"
+    },
+    "Blixt v. Blixt, 437 Mass. 649 (2002)": {
+      "raw_text": "Blixt v. Blixt, 437 Mass. 649 (2002)",
+      "citation_type": "case",
+      "proposition": "Case law such as Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985) and Blixt v. Blixt, 437 Mass. 649 (2002) supports the proposition that a modification may be warranted when a parent's work schedule significantly impacts their ability to parent effectively.",
+      "is_valid": true,
+      "courtlistener_id": "6578569",
+      "case_name": "Blixt v. Blixt",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Blixt concerns the constitutionality and construction of Massachusetts\u2019 grandparent visitation statute and the due process and equal protection limits on court-ordered grandparent visitation. It does not address modification of custody or parenting plans, nor does it discuss a parent\u2019s work schedule or any impact of employment demands on parenting capacity. Using Blixt as authority for the proposition that a modification may be warranted when a parent\u2019s work schedule significantly affects parenting ability misstates the case\u2019s subject and holding.",
+      "relevant_excerpt": "\u201cWe conclude that, operating with the guidance of the Troxel case and our case law in related areas, and law from other jurisdictions, the traditional best interests considerations \u2026 can, and should, be construed to fit the statute\u2019s context and, thereby, satisfy due process.\n\nTo accord with due process, an evaluation of the best interests of the child under the statute requires that a parental decision concerning grandparent visitation be given presumptive validity.\u201d"
+    }
+  }
+}

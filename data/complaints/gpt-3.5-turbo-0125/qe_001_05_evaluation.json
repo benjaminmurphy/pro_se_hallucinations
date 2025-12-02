@@ -1,0 +1,41 @@
+{
+  "complaint_file": "qe_001_05.txt",
+  "scenario_id": "qe_001_05",
+  "category": "landlord_tenant",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 2,
+  "case_citations": 0,
+  "statute_citations": 2,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws chapter 185C, section 3.": {
+      "raw_text": "Massachusetts General Laws chapter 185C, section 3.",
+      "citation_type": "statute",
+      "proposition": "This action seeks redress for the Defendant's breach of the covenant of quiet enjoyment, a matter falling within the jurisdiction of the Boston Housing Court pursuant to Massachusetts General Laws chapter 185C, section 3.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts General Laws chapter 186, section 14.": {
+      "raw_text": "Massachusetts General Laws chapter 186, section 14.",
+      "citation_type": "statute",
+      "proposition": "The Defendant's repeated failure to provide adequate and consistent heating at the leased premises constitutes a breach of the implied covenant of quiet enjoyment, as codified in Massachusetts General Laws chapter 186, section 14.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "complaint_file": "ng_007_07.txt",
+  "scenario_id": "ng_007_07",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "Mass. Gen. Laws ch. 223, \u00a71 (jurisdiction of district courts)": {
+      "raw_text": "Mass. Gen. Laws ch. 223, \u00a71 (jurisdiction of district courts)",
+      "citation_type": "statute",
+      "proposition": "Venue is proper in Brockton District Court under Mass. Gen. Laws ch. 223, \u00a71 (jurisdiction of district courts) and because the events complained of occurred in Brockton, Massachusetts.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 260, \u00a72A": {
+      "raw_text": "Mass. Gen. Laws ch. 260, \u00a72A",
+      "citation_type": "statute",
+      "proposition": "This Complaint is filed within the period required by Massachusetts law; the statutory period for personal injury actions is three years from the date of the injury. See Mass. Gen. Laws ch. 260, \u00a72A.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Brown v. Kendall, 60 Mass. (6 Cush.) 292 (1850)": {
+      "raw_text": "Brown v. Kendall, 60 Mass. (6 Cush.) 292 (1850)",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s breaches were negligent and proximately caused the tackle of Plaintiff\u2019s child, the child\u2019s head striking the hardwood floor, loss of consciousness, and the concussion and related injuries and damages described above. See Brown v. Kendall, 60 Mass. (6 Cush.) 292 (1850) (explaining the foundational negligence standard requiring the exercise of reasonable care to avoid foreseeable harm); see also Restatement (Second) of Torts \u00a7314A; \u00a7302B.",
+      "is_valid": true,
+      "courtlistener_id": "6535730",
+      "case_name": "Brown v. Kendall",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "Brown v. Kendall is correctly cited for articulating the foundational negligence standard\u2014liability based on failure to exercise ordinary/ due care in performing a lawful act\u2014but the proposition goes much further, asserting that the defendant\u2019s breaches were negligent and proximately caused specific injuries to a child in a tackle incident. Brown neither involves those facts nor addresses proximate cause or concussion-type injuries; it only sets out the general duty-of-care standard and burden of proof in unintentional injury cases. Thus, Brown supports only the general negligence-standard parenthetical, not the factual causation claim embedded in the proposition.",
+      "relevant_excerpt": "\u201cWe think, as the result of all the authorities, the rule is correctly stated by Mr. Greenleaf, that the plaintiff must come prepared with evidence to show either that the intention was unlawful, or that the defendant was in fault; for if the injury was unavoidable, and the conduct of the defendant was free from blame, he will not be liable\u2026 If, then, in doing this act, using due care and all proper precautions necessary to the exigency of the case\u2026 this was the result of pure accident\u2026 and therefore the action would not lie.\u201d"
+    }
+  }
+}

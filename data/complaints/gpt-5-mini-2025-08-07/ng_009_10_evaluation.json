@@ -1,0 +1,67 @@
+{
+  "complaint_file": "ng_009_10.txt",
+  "scenario_id": "ng_009_10",
+  "category": "negligence",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 148 (Fire Prevention and Control)": {
+      "raw_text": "Mass. Gen. Laws ch. 148 (Fire Prevention and Control)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 148 (Fire Prevention and Control) (statutory provisions regarding fire safety and municipal authority to regulate smoke detectors and fire prevention in dwelling units and common areas);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186 (Landlord and Tenant)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (Landlord and Tenant)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 186 (Landlord and Tenant) (statutory duties and obligations of landlords to maintain leased premises and common areas in safe condition);",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Donoghue v. Stevenson, [1932] AC 562": {
+      "raw_text": "Donoghue v. Stevenson, [1932] AC 562",
+      "citation_type": "case",
+      "proposition": "General negligence authorities including Donoghue v. Stevenson, [1932] AC 562 (establishing duty concepts), Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause), and other foundational negligence authorities as applied in Massachusetts jurisprudence;",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Citation not found in CourtListener",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)": {
+      "raw_text": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928)",
+      "citation_type": "case",
+      "proposition": "General negligence authorities including Donoghue v. Stevenson, [1932] AC 562 (establishing duty concepts), Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause), and other foundational negligence authorities as applied in Massachusetts jurisprudence;",
+      "is_valid": true,
+      "courtlistener_id": "3602780",
+      "case_name": "Palsgraf v. Long Island R.R. Co.",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition cites Palsgraf as a foundational negligence authority specifically for proximate cause concepts. In this opinion, Cardozo reframes the analysis in terms of duty and the scope of risk, but he explicitly distinguishes questions of duty from questions of proximate cause and addresses the limits of liability based on foreseeability and the \u2018range of apprehension.\u2019 This case is widely recognized and used as a leading authority on proximate cause (and related duty/foreseeability limits), so citing it for proximate cause concepts in negligence is accurate, even in a Massachusetts context.",
+      "relevant_excerpt": "\u201cThe range of reasonable apprehension is at times a question for the court, and at times, if varying inferences are possible, a question for the jury\u2026 Negligence, like risk, is thus a term of relation\u2026 If the harm was not willful, he must show that the act as to him had possibilities of danger so many and apparent as to entitle him to be protected against the doing of it though the harm was unintended\u2026 The law of causation, remote or proximate, is thus foreign to the case before us.\u201d"
+    }
+  }
+}

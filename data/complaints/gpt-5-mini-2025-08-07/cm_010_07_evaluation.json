@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_010_07.txt",
+  "scenario_id": "cm_010_07",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 jurisdiction and continuing jurisdiction rules).": {
+      "raw_text": "Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 jurisdiction and continuing jurisdiction rules).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 209B (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 jurisdiction and continuing jurisdiction rules).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208 (statutory provisions relating to custody and the Probate and Family Court\u2019s authority concerning children ordered incident to divorce or other proceedings).": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (statutory provisions relating to custody and the Probate and Family Court\u2019s authority concerning children ordered incident to divorce or other proceedings).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 208 (statutory provisions relating to custody and the Probate and Family Court\u2019s authority concerning children ordered incident to divorce or other proceedings).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119, \u00a739F (statutory provisions concerning children\u2019s welfare where applicable).": {
+      "raw_text": "Mass. Gen. Laws ch. 119, \u00a739F (statutory provisions concerning children\u2019s welfare where applicable).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 119, \u00a739F (statutory provisions concerning children\u2019s welfare where applicable).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 215 (jurisdictional provisions for the Probate and Family Court).": {
+      "raw_text": "Mass. Gen. Laws ch. 215 (jurisdictional provisions for the Probate and Family Court).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 215 (jurisdictional provisions for the Probate and Family Court).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 211, \u00a73 (writs and remedies in equity where appropriate for relief).": {
+      "raw_text": "Mass. Gen. Laws ch. 211, \u00a73 (writs and remedies in equity where appropriate for relief).",
+      "citation_type": "statute",
+      "proposition": "- Mass. Gen. Laws ch. 211, \u00a73 (writs and remedies in equity where appropriate for relief).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

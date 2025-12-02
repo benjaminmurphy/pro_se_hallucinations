@@ -1,0 +1,54 @@
+{
+  "complaint_file": "qe_005_08.txt",
+  "scenario_id": "qe_005_08",
+  "category": "landlord_tenant",
+  "model": "gpt-4o-2024-11-20",
+  "total_citations": 3,
+  "case_citations": 1,
+  "statute_citations": 2,
+  "valid_citations": 1,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 1,
+  "citations": {
+    "M.G.L. c. 186, \u00a7 14": {
+      "raw_text": "M.G.L. c. 186, \u00a7 14",
+      "citation_type": "statute",
+      "proposition": "This is a civil action arising from Defendant Michael Richards' breach of the covenant of quiet enjoyment, as codified in M.G.L. c. 186, \u00a7 14, and recognized under Massachusetts common law.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 218, \u00a7 19": {
+      "raw_text": "M.G.L. c. 218, \u00a7 19",
+      "citation_type": "statute",
+      "proposition": "Jurisdiction is proper under M.G.L. c. 218, \u00a7 19, as the amount in controversy does not exceed $50,000, and the Somerville District Court has jurisdiction over civil matters arising in this county.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "*Dartmouth v. Silva*, 325 Mass. 594 (1950)": {
+      "raw_text": "*Dartmouth v. Silva*, 325 Mass. 594 (1950)",
+      "citation_type": "case",
+      "proposition": "Defendant\u2019s actions, or lack thereof, represent a clear violation of the implied duties of a landlord under Massachusetts law, as recognized in *Dartmouth v. Silva*, 325 Mass. 594 (1950) and related authorities.",
+      "is_valid": true,
+      "courtlistener_id": "2207475",
+      "case_name": "Hacker v. Beck",
+      "validation_error": null,
+      "supports_proposition": false,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion in Dartmouth v. Silva deals exclusively with the procedural doctrine of res judicata and the effect of judgments entered after sustaining demurrers; it does not address landlord-tenant law, implied duties of a landlord, or any substantive obligations of landlords under Massachusetts law. Because the case is about claim preclusion and not about landlord duties, it cannot be cited as authority for a violation of implied landlord duties.",
+      "relevant_excerpt": "\"The defence of res judicata ordinarily must rest upon the fact that a judgment upon the merits had been entered in the former litigation... The general rule in this Commonwealth is that a judgment following the sustaining of a demurrer is not a bar to a second action for the same cause of action. It has been stated that 'The reason for the rule is that such a judgment commonly is based not on the merits but upon the insufficiency of the statement of the cause of action.'\""
+    }
+  }
+}

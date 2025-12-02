@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_003_05.txt",
+  "scenario_id": "qe_003_05",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 0,
+  "statute_citations": 6,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 186 (General provisions relating to landlord and tenant law)": {
+      "raw_text": "Mass. Gen. Laws ch. 186 (General provisions relating to landlord and tenant law)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 186 (General provisions relating to landlord and tenant law)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 239 (Summary process and dispossessory actions) (venue and related procedures)": {
+      "raw_text": "Mass. Gen. Laws ch. 239 (Summary process and dispossessory actions) (venue and related procedures)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 239 (Summary process and dispossessory actions) (venue and related procedures)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 93A (Consumer Protection \u2013 statutory remedies for unfair or deceptive practices), including \u00a72 and \u00a711 (private civil remedies)": {
+      "raw_text": "Mass. Gen. Laws ch. 93A (Consumer Protection \u2013 statutory remedies for unfair or deceptive practices), including \u00a72 and \u00a711 (private civil remedies)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 93A (Consumer Protection \u2013 statutory remedies for unfair or deceptive practices), including \u00a72 and \u00a711 (private civil remedies)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 186, \u00a715B (security deposit law and landlord obligations regarding deposits) (for general landlord statutory obligations)": {
+      "raw_text": "Mass. Gen. Laws ch. 186, \u00a715B (security deposit law and landlord obligations regarding deposits) (for general landlord statutory obligations)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 186, \u00a715B (security deposit law and landlord obligations regarding deposits) (for general landlord statutory obligations)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000: State Sanitary Code, Minimum Standards of Fitness for Human Habitation (Massachusetts Department of Public Health) (standards addressing dampness, leaks, and mold conditions)": {
+      "raw_text": "105 CMR 410.000: State Sanitary Code, Minimum Standards of Fitness for Human Habitation (Massachusetts Department of Public Health) (standards addressing dampness, leaks, and mold conditions)",
+      "citation_type": "statute",
+      "proposition": "105 CMR 410.000: State Sanitary Code, Minimum Standards of Fitness for Human Habitation (Massachusetts Department of Public Health) (standards addressing dampness, leaks, and mold conditions)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 111 (Public health statutes generally enforceable by local boards of health for conditions affecting habitability)": {
+      "raw_text": "Mass. Gen. Laws ch. 111 (Public health statutes generally enforceable by local boards of health for conditions affecting habitability)",
+      "citation_type": "statute",
+      "proposition": "Mass. Gen. Laws ch. 111 (Public health statutes generally enforceable by local boards of health for conditions affecting habitability)",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

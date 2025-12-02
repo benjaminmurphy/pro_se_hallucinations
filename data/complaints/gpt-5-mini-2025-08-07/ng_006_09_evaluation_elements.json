@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_006_09.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant was the vehicle operator and expressly pleads the statutory/common-law duties owed to other roadway users (including the duty not to open a door into traffic/into a bicycle lane) and cites Mass. law and common-law authority\u2014facts sufficient to plead a duty."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint pleads specific operative facts showing breach (Defendant opened his door without checking mirrors or looking, was attending to his cell phone, opened the door into a marked bicycle lane while Plaintiff was passing) and enumerates particular failures of care\u2014sufficient at the pleading stage."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges a direct sequence: Defendant opened the door into the bike lane, Plaintiff struck the door, was thrown from his bicycle and injured. Those factual allegations, together with Plaintiff's denial of the insurer's contrary account, adequately plead but\u2011for causation at this stage."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "The complaint alleges the injuries were the foreseeable and direct result of opening a vehicle door into a bicycle lane (i.e., foreseeable 'dooring' risk) and pleads proximate cause expressly\u2014adequate for pleading proximate causation."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete injuries and losses (road rash, chipped tooth, bent bicycle frame), specific economic damages (\u2248 $2,500 medical/dental, \u2248 $800 lost wages) and non\u2011economic harms (pain and suffering), satisfying the damages element."
+    }
+  }
+}

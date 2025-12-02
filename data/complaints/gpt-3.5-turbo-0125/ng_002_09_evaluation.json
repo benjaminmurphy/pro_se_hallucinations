@@ -1,0 +1,28 @@
+{
+  "complaint_file": "ng_002_09.txt",
+  "scenario_id": "ng_002_09",
+  "category": "negligence",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 1,
+  "case_citations": 0,
+  "statute_citations": 1,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "M.G.L. c. 140, \u00a7155.": {
+      "raw_text": "M.G.L. c. 140, \u00a7155.",
+      "citation_type": "statute",
+      "proposition": "The Defendant's actions constitute negligence under Massachusetts common law and statutory law, including but not limited to M.G.L. c. 140, \u00a7155.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

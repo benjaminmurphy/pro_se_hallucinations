@@ -1,0 +1,106 @@
+COMMONWEALTH OF MASSACHUSETTS
+HAMPDEN COUNTY SUPERIOR COURT
+
+Emily Johnson,                                 )
+     Plaintiff,                                )
+                                               )
+v.                                             )   Civil Action No. ____________
+                                               )
+Mark Thompson,                                 )
+     Defendant.                                )
+
+COMPLAINT — NEGLIGENCE
+
+PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Emily Johnson ("Plaintiff" or "Johnson") is an individual residing at 123 Elm Street, Springfield, Massachusetts 01105.
+
+2. Defendant Mark Thompson ("Defendant" or "Thompson") is an individual believed to reside in Springfield, Massachusetts, and who at all relevant times owned, controlled, and/or placed an aluminum extension ladder at or adjacent to the shared driveway at 123 Elm Street, Springfield, Massachusetts 01105.
+
+3. Venue and jurisdiction are proper in the Superior Court, Hampden County, pursuant to Massachusetts law because the events giving rise to this action occurred in Hampden County and Defendant resides or conducts activity within this county.
+
+4. This action is an ordinary negligence action seeking damages for property damage to Plaintiff’s automobile and consequential losses proximately caused by Defendant’s negligent conduct.
+
+FACTUAL ALLEGATIONS
+
+5. On or about March 15, 2023, Plaintiff was backing her automobile into the shared driveway at 123 Elm Street, Springfield, Massachusetts.
+
+6. Defendant habitually kept a tall aluminum extension ladder leaning against the wooden fence immediately adjacent to the place where Plaintiff parked her car in the shared driveway.
+
+7. On multiple occasions before March 15, 2023, Plaintiff informed Defendant that she was concerned the ladder might fall onto her vehicle, particularly in windy conditions, and asked him to secure the ladder or move it. Defendant acknowledged Plaintiff’s concerns and represented that he would tie down the ladder or move it, but he failed to do so.
+
+8. Defendant at all relevant times had the ability to secure, tie down, relocate, or otherwise control the ladder and failed to take reasonable steps to do so.
+
+9. On March 15, 2023, a gust of wind caused the unsecured ladder to fall from the fence area and strike Plaintiff’s automobile while she was in the driveway, severely denting the hood and cracking the windshield.
+
+10. As a direct and proximate result of Defendant’s failure to secure the ladder, Plaintiff’s automobile suffered physical damage to the hood and windshield. The vehicle continued to operate but required bodywork and a new windshield, necessitating payment of Plaintiff’s insurance deductible and the rental of a replacement vehicle while repairs were made for over one week.
+
+11. Plaintiff’s out-of-pocket losses include the automobile repair costs (including the deductible) and rental car expenses. Plaintiff has no significant medical expenses or wage loss related to the incident.
+
+12. Plaintiff has timely filed this action within the applicable statute of limitations.
+
+COUNT I — NEGLIGENCE
+
+13. Plaintiff realleges and incorporates by reference the allegations in Paragraphs 1–12 as if fully set forth herein.
+
+14. Defendant owed Plaintiff a duty to exercise reasonable care in storing, securing, and maintaining the ladder, including the duty to avoid creating foreseeable risks of harm to persons or property lawfully using the shared driveway. See Brown v. Kendall, 60 Mass. (6 Met.) 292 (1850) (articulating duty to exercise ordinary care); Donoghue v. Stevenson, [1932] A.C. 562 (establishing general duty to avoid acts or omissions which are reasonably foreseeable to cause damage to others).
+
+15. Defendant breached that duty by negligently leaving a tall extension ladder unsecured and leaning against the fence next to the area where Plaintiff parked and used her vehicle, failing to secure or move the ladder despite having notice that it posed a foreseeable risk of falling in windy conditions and despite Plaintiff’s repeated warnings.
+
+16. Defendant’s breach was the direct and proximate cause of the ladder’s fall and the resulting damage to Plaintiff’s automobile. The fall was a foreseeable consequence of leaving a tall, unsecured ladder in a windy-prone outdoor location adjacent to a place where vehicles and people would be present. See Restatement (Second) of Torts § 282 (duty to control things and others to prevent unreasonable risk of harm); Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause and foreseeability principles).
+
+17. As a direct and proximate result of Defendant’s negligence, Plaintiff suffered property damage to her automobile, including but not limited to a dented hood and a cracked windshield, and incurred related out-of-pocket expenses for repairs, insurance deductible, and rental-car costs while her vehicle was being serviced.
+
+18. Plaintiff has suffered damages in an amount to be proven at trial, together with interest, costs, and such other and further relief as the Court deems just and proper.
+
+APPLICABLE LAW AND AUTHORITIES
+
+Plaintiff pleads the foregoing under governing Massachusetts law and common-law negligence principles, including but not limited to:
+- Brown v. Kendall, 60 Mass. (6 Met.) 292 (1850) (Massachusetts standard for ordinary care and negligence).
+- Donoghue v. Stevenson, [1932] A.C. 562 (establishing duty of care to avoid reasonably foreseeable harm).
+- Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (1928) (proximate cause and foreseeability).
+- Restatement (Second) of Torts §§ 282, 302B, 321, 328A, 436 (general principles on duty, foreseeability, breach, and proximate cause).
+- T.J. Hooper, 60 F.2d 737 (2d Cir. 1932) (custom and reasonable prudence).
+- Massachusetts Rules of Civil Procedure, Mass. R. Civ. P. 8(a) (general pleading standard) and Mass. R. Civ. P. 12–56 (procedural rules governing civil actions in Massachusetts courts).
+- Mass. Gen. Laws ch. 231 and ch. 260 (general statutory framework governing civil actions and statutes of limitations); in particular, plaintiff pleads compliance with applicable statutes of limitations, including any applicable provisions codified in chapter 260.
+- Relevant Massachusetts decisions applying negligence principles and foreseeability and proximate cause in property-damage and similar fact-pattern cases (see, e.g., leading tort authorities and SJC caselaw interpreting duty and breach under Massachusetts law).
+
+(These authorities are pleaded to provide the legal framework for Plaintiff’s negligence claim; Plaintiff reserves the right to supplement and refine the authorities cited with additional Massachusetts case law and statutory citations in the course of litigation, consistent with the Court’s rules and Massachusetts law.)
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff Emily Johnson requests that this Court enter judgment in her favor and against Defendant Mark Thompson as follows:
+
+A. Compensatory damages, in an amount to be proven at trial, for property damage to Plaintiff’s automobile, including repair costs (including the deductible) and rental-car expenses incurred while repairs were made;
+
+B. Pre- and post-judgment interest as allowed by law;
+
+C. Costs of suit and such other and further relief as this Court deems just and proper.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+DATED: December 1, 2025
+
+Respectfully submitted,
+
+/s/ Emily Johnson
+Emily Johnson, Pro Se
+123 Elm Street
+Springfield, MA 01105
+Phone: (617) 555-0123
+Email: psm1443@gmail.com
+
+Certificate of Service
+I hereby certify that a copy of the foregoing Complaint was served upon Defendant Mark Thompson in accordance with the Massachusetts Rules of Civil Procedure on [date of service to be inserted].
+
+/s/ Emily Johnson
+Emily Johnson
+
+Notes and Practical Matters (for Plaintiff’s convenience)
+- Plaintiff should fill in (or have the court clerk assign) the Civil Action number and the date of service in the Certificate of Service before filing.
+- If Plaintiff seeks specific dollar amounts for damages (repair bills, deductible, and rental charges), she should attach or be prepared to attach copies of invoices, insurance correspondence, receipts for rental car payments, and any other documentation at or before trial.
+- Plaintiff may consider verifying the case law citations and supplementing with additional Massachusetts Supreme Judicial Court decisions directly on point (e.g., decisions addressing negligent maintenance of objects on premises and proximate cause) in any subsequent filings or in response to motions.
+
+(End of Complaint)

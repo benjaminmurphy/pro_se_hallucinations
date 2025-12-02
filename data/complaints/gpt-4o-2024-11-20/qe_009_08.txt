@@ -1,0 +1,75 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**SPRINGFIELD DISTRICT COURT**  
+
+**Emily Carter,**  
+**Plaintiff**  
+v.  
+**John Thompson,**  
+**Defendant**  
+
+**COMPLAINT**  
+
+**PARTIES AND JURISDICTION**  
+
+1. The Plaintiff, Emily Carter, is an individual residing in Springfield, Massachusetts.  
+2. The Defendant, John Thompson, is an individual who, upon information and belief, resides in the Commonwealth of Massachusetts and owns and manages rental properties, including the apartment at issue in this matter, located at 123 Maple Street, Springfield, MA 01103.  
+3. This Court has jurisdiction under G.L. c. 218, § 19 because the amount in controversy does not exceed $50,000 and the property at issue is located within this Court's territorial jurisdiction.  
+4. Venue is proper in this Court because the Plaintiff resides in Springfield, Massachusetts, and the leasehold in question is also located in Springfield, Massachusetts.  
+
+**FACTUAL ALLEGATIONS**  
+
+5. On or about August 1, 2022, the Plaintiff entered into a residential lease agreement with the Defendant for the property located at 123 Maple Street, Springfield, MA 01103 (the "Apartment"). The agreed-upon monthly rental payment is $1,600.  
+6. Beginning in or around October 2025, the electrical wiring in one of the two bedrooms of the Apartment failed, leaving the outlets and overhead light in that room completely inoperable.  
+7. The Plaintiff promptly notified the Defendant of the electrical failure, and the Defendant initially sent an electrician to inspect the issue. The electrician informed both parties that the wiring in the room required a more substantial repair to ensure proper functionality.  
+8. Despite being aware of the issue, the Defendant has failed to promptly and adequately repair the defective wiring, citing difficulties related to the building's old wiring and ongoing quote comparisons.  
+9. As a result, the Plaintiff has been unable to use the affected bedroom, which she previously utilized as a home office.  
+10. In order to continue working, the Plaintiff has had to incur substantial expenses, including spending approximately $15 per day at local coffee shops and securing a coworking space membership for $150 per month.  
+11. The unusable condition of the bedroom has caused a significant disruption to the Plaintiff's use and enjoyment of the Apartment and has rendered the living space crowded and functionally insufficient for her needs.  
+
+**CAUSE OF ACTION**  
+
+**Breach of the Covenant of Quiet Enjoyment**  
+
+12. The Plaintiff realleges and incorporates by reference the foregoing paragraphs as if fully set forth herein.  
+13. Pursuant to G.L. c. 186, § 14, every residential lease in Massachusetts includes an implied covenant of quiet enjoyment.  
+14. The covenant of quiet enjoyment guarantees tenants the right to use and enjoy their rental premises free from substantial interference caused by the actions or omissions of their landlord.  
+15. By failing to repair the defective wiring in a timely manner, and by allowing the condition to persist for over six weeks, the Defendant has substantially interfered with the Plaintiff’s use and enjoyment of the Apartment.  
+16. The Defendant’s failure to address the wiring issue constitutes a violation of the covenant of quiet enjoyment under G.L. c. 186, § 14.  
+17. Under Massachusetts law, a violation of the covenant of quiet enjoyment constitutes not only a breach of the lease agreement but also an actionable tort entitling the aggrieved tenant to monetary damages. *Simon v. Solomon*, 385 Mass. 91, 95 (1982).  
+18. Massachusetts courts have found that substantial time without an essential feature of a rental property, such as electricity, constitutes a breach of the covenant of quiet enjoyment. *Doe v. New Bedford Hous. Auth.*, 417 Mass. 273, 285-86 (1994); *Manzaro v. McCann*, 401 Mass. 880, 881 (1988).  
+19. The Plaintiff has incurred actual damages as a result of this breach, including but not limited to out-of-pocket costs for alternative work accommodations and frustration, stress, and inconvenience caused by the cluttered and diminished functionality of the Apartment.  
+
+**PRAYER FOR RELIEF**  
+
+WHEREFORE, the Plaintiff respectfully requests that this Honorable Court enter judgment in her favor and grant the following relief:  
+
+a. A finding that the Defendant breached the covenant of quiet enjoyment under G.L. c. 186, § 14;  
+b. Compensatory damages for actual monetary losses incurred by the Plaintiff, including $15 per day spent on alternative workspace accommodations over the course of six weeks as well as a $150 coworking membership, for a total of at least $900;  
+c. An award of treble damages consistent with the requirements of G.L. c. 186, § 14;  
+d. Costs, attorneys’ fees (if applicable in pro se cases), and such other relief as the Court deems proper.  
+
+**DEMAND FOR JURY TRIAL**  
+
+The Plaintiff demands a trial by jury on all issues so triable.  
+
+Respectfully submitted,  
+
+**Emily Carter**  
+123 Maple Street  
+Springfield, MA 01103  
+Tel: (617) 555-0123  
+Email: psm1433@gmail.com  
+
+Dated: December 1, 2025  
+
+___  
+**CERTIFICATE OF SERVICE**  
+
+I, Emily Carter, hereby certify that a true and correct copy of the foregoing Complaint was served upon the Defendant, John Thompson, at his last known address via certified mail, return receipt requested, on this 1st day of December, 2025.  
+
+**Emily Carter**  
+(Signature)  
+
+--- 
+
+This draft should meet all legal requirements in Massachusetts while emphasizing your claim under the covenant of quiet enjoyment. Be sure to file the complaint properly and serve the Defendant as required.

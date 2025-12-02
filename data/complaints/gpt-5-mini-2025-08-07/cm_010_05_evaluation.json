@@ -1,0 +1,80 @@
+{
+  "complaint_file": "cm_010_05.txt",
+  "scenario_id": "cm_010_05",
+  "category": "custody_modification",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 5,
+  "case_citations": 0,
+  "statute_citations": 5,
+  "valid_citations": 0,
+  "invalid_citations": 0,
+  "supported_propositions": 0,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Mass. Gen. Laws ch. 209C (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 UCCJEA), governing jurisdictional and enforcement matters for child custody proceedings.": {
+      "raw_text": "Mass. Gen. Laws ch. 209C (Uniform Child Custody Jurisdiction and Enforcement Act \u2014 UCCJEA), governing jurisdictional and enforcement matters for child custody proceedings.",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this action pursuant to the Massachusetts Probate and Family Court's authority to modify custody and parenting time orders entered in the Commonwealth.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 208 (governing divorce and related ancillary matters including custody when arising from divorce actions).": {
+      "raw_text": "Mass. Gen. Laws ch. 208 (governing divorce and related ancillary matters including custody when arising from divorce actions).",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, custody and parenting-time orders may be modified upon a showing of a material and substantial change in circumstances and upon a demonstration that modification is in the best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Gen. Laws ch. 119 (general provisions concerning children and child welfare).": {
+      "raw_text": "Mass. Gen. Laws ch. 119 (general provisions concerning children and child welfare).",
+      "citation_type": "statute",
+      "proposition": "Under Massachusetts law, custody and parenting-time orders may be modified upon a showing of a material and substantial change in circumstances and upon a demonstration that modification is in the best interests of the child.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Mass. Prob. & Fam. Ct. Rules of Procedure (applicable procedural provisions for custody modification petitions).": {
+      "raw_text": "Mass. Prob. & Fam. Ct. Rules of Procedure (applicable procedural provisions for custody modification petitions).",
+      "citation_type": "statute",
+      "proposition": "Plaintiff requests that this Complaint be served upon Defendant in accordance with the Probate and Family Court rules and that appropriate notice of hearing be provided.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Massachusetts Child Support Guidelines (for any support adjustments attendant to custody changes).": {
+      "raw_text": "Massachusetts Child Support Guidelines (for any support adjustments attendant to custody changes).",
+      "citation_type": "statute",
+      "proposition": "D. Reserve and/or direct any adjustments to child support in accordance with the modified schedule and applicable child support statutes and guidelines;",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    }
+  }
+}

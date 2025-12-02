@@ -1,0 +1,30 @@
+{
+  "complaint_file": "ng_006_01.txt",
+  "category": "negligence",
+  "model_used": "gpt-5-mini",
+  "elements_satisfied": 5,
+  "elements_total": 5,
+  "all_elements_satisfied": true,
+  "elements": {
+    "duty": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges Defendant operates a rideshare service and that Defendant/its driver owed a duty to exercise reasonable care toward others using the roadway, including bicyclists (\u00b6\u00b63.1\u20133.3, 4.2). It also cites statutory and Restatement authority supporting that duty. Those factual allegations and legal references sufficiently plead a duty of care."
+    },
+    "breach": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges specific conduct constituting a breach: the driver opened the driver-side door into a marked bike lane without checking for bicyclists, was distracted by his phone, and failed to look or check mirrors (\u00b6\u00b63.2\u20133.5; 4.3(a)\u2013(d)). These factual allegations adequately plead a breach."
+    },
+    "causation_but_for": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the door was opened into the bike lane and struck Plaintiff before he could avoid contact, causing him to be thrown from his bicycle (\u00b6\u00b63.3\u20133.4), and expressly alleges the injuries resulted from the driver\u2019s actions (\u00b6\u00b63.6, 4.4). Those facts adequately plead but\u2011for causation (that the injury would not have occurred but for the driver opening the door into the bike lane)."
+    },
+    "causation_proximate": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges the harm was a foreseeable result of opening a vehicle door into an adjacent bike lane and expressly pleads proximate causation (\u00b64.4), with supporting authorities cited. The asserted risk (striking an adjacent bicyclist) is a foreseeable consequence of the alleged conduct, adequately pleading proximate cause."
+    },
+    "damages": {
+      "satisfied": true,
+      "reasoning": "Complaint alleges concrete economic and non\u2011economic injuries: road rash, a chipped tooth, bicycle damage, approximately $1,500 in medical/dental expenses, approximately $600 in lost wages, property damage and ongoing pain/emotional distress (\u00b63.6; \u00b64.5). These allegations sufficiently plead actual damages."
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "scenario_id": "ng_004_08",
+  "category": "negligence",
+  "model": "gpt-5-chat-latest",
+  "plaintiff": "Jessica Taylor",
+  "defendant": "Emily Rodriguez"
+}

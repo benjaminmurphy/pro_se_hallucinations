@@ -1,0 +1,84 @@
+```plaintext
+COMMONWEALTH OF MASSACHUSETTS  
+SOMERVILLE DISTRICT COURT  
+
+**EMILY JOHNSON**  
+45 Beacon Street  
+Somerville, MA 02143,  
+
+Plaintiff,  
+
+v.  
+
+**WHOLE FOODS MARKET**  
+45 Beacon Street  
+Somerville, MA 02143,  
+
+Defendant.  
+
+CIVIL ACTION NO.: [Leave Blank for Clerk]  
+
+**COMPLAINT**  
+
+**I. INTRODUCTION**  
+1. This is a personal injury action arising from Defendant's negligent maintenance of its premises, resulting in Plaintiff's fall and subsequent injuries. Plaintiff seeks compensation for her medical expenses, lost wages, pain and suffering, and other damages caused by Defendant’s failure to exercise due care.  
+
+**II. PARTIES**  
+2. Plaintiff, Emily Johnson, is an adult resident of Somerville, Massachusetts.  
+3. Defendant, Whole Foods Market, operates a grocery store located at 45 Beacon Street, Somerville, Massachusetts 02143.  
+
+**III. JURISDICTION AND VENUE**  
+4. This Court has jurisdiction over this personal injury action pursuant to G.L. c. 218, § 19 and G.L. c. 223, § 2.  
+5. Venue is proper in this Court pursuant to G.L. c. 223, § 8 because the events giving rise to the claim occurred at Defendant’s premises in Somerville, Massachusetts.  
+
+**IV. FACTUAL ALLEGATIONS**  
+6. On or about September 16, 2023, Plaintiff was lawfully shopping as a customer at Defendant’s grocery store located at 45 Beacon Street, Somerville, Massachusetts.  
+7. While walking down the dairy aisle, Plaintiff slipped and fell on a large puddle of spilled milk.  
+8. The spilled milk was of sufficient size that cart tracks were visible passing through it, demonstrating that the condition had existed for an extended period.  
+9. There were no warning signs, cones, or barriers placed near the spill to warn patrons of the hazardous condition.  
+10. A Whole Foods employee, who was approximately fifteen feet away, admitted to Plaintiff following her fall that he had noticed the spill “a few minutes ago” but had delayed addressing it because he was finishing another task.  
+11. As a result of the fall, Plaintiff sustained a hip sprain that required medical treatment, including physical therapy, and caused her to miss several shifts at her job at a local café.  
+12. Plaintiff has incurred approximately $2,000 in medical expenses and lost approximately $1,500 in wages due to her injuries. These damages are ongoing as of the date of filing.  
+13. Defendant, through its employees and agents, had a duty to maintain its premises in a reasonably safe condition for business invitees such as Plaintiff.  
+14. Defendant breached this duty by failing to promptly clean up the spill, failing to post warning signs, and failing to take other reasonable measures to address the hazardous condition.  
+
+**V. CAUSE OF ACTION: NEGLIGENCE**  
+15. Plaintiff re-alleges and incorporates by reference the foregoing paragraphs as though fully set forth herein.  
+16. Under Massachusetts law, property owners have a duty to exercise reasonable care to keep the premises safe for lawful visitors. See *Mounsey v. Ellard*, 363 Mass. 693, 706 (1973).  
+17. Defendant owed Plaintiff, as a lawful invitee, a duty of reasonable care to maintain its premises in a safe condition and to warn of any unreasonably dangerous conditions of which it was aware or reasonably should have been aware. See *Sheehan v. Roche Bros. Supermarkets, Inc.*, 448 Mass. 780, 783–84 (2007); *Oliveri v. Massachusetts Bay Transp. Auth.*, 363 Mass. 165, 167 (1973).  
+18. Defendant breached its duty of care by:  
+   a. Allowing an unreasonably hazardous condition (a substantial puddle of milk) to remain on the floor for an unreasonable length of time;  
+   b. Failing to adequately inspect or monitor the premises for hazards;  
+   c. Failing to promptly clean up the spill or cordon off the area; and  
+   d. Failing to warn customers of the hazardous condition.  
+19. As a direct and proximate result of Defendant’s negligence, Plaintiff suffered injuries, incurred medical expenses, lost wages, endured physical pain and suffering, and sustained loss of enjoyment of life.  
+20. Defendant’s negligence substantially contributed to Plaintiff’s injuries and the resulting damages.  
+
+**VI. DAMAGES**  
+21. As a result of Defendant’s negligence, Plaintiff has incurred special damages, including but not limited to:  
+   a. Approximately $2,000 in medical expenses;  
+   b. Approximately $1,500 in lost wages.  
+22. Plaintiff has also suffered general damages in the form of pain and suffering, emotional distress, and loss of enjoyment of life.  
+
+**VII. PRAYER FOR RELIEF**  
+WHEREFORE, Plaintiff respectfully requests that this Court enter judgment against Defendant and award Plaintiff the following relief:  
+A. Compensatory damages in an amount to be determined at trial but sufficient to compensate Plaintiff for her medical expenses, lost wages, pain and suffering, and other damages;  
+B. Interest on all damages pursuant to G.L. c. 231, § 6B;  
+C. Costs and attorneys’ fees as permitted by law; and  
+D. Such other and further relief as this Court deems just and proper.  
+
+**VIII. DEMAND FOR JURY TRIAL**  
+Pursuant to Rule 38 of the Massachusetts Rules of Civil Procedure, Plaintiff demands a trial by jury on all issues so triable.  
+
+Respectfully submitted,  
+
+Dated: December 1, 2025  
+
+**/s/ Emily Johnson**  
+Emily Johnson  
+Pro Se Plaintiff  
+45 Beacon Street  
+Somerville, MA 02143  
+Phone: (617) 555-0123  
+Email: psm1443@gmail.com  
+```

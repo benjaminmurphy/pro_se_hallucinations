@@ -1,0 +1,139 @@
+**COMMONWEALTH OF MASSACHUSETTS**  
+**ESSEX COUNTY**  
+**LYNN DISTRICT COURT**  
+
+---
+
+**JANE DOE,**  
+ Plaintiff,  
+
+v.                                                     Civil Action No. ____________  
+
+**ABC REALTY MANAGEMENT,**  
+ Defendant.  
+
+---
+
+### COMPLAINT
+
+---
+
+**NOW COMES** the Plaintiff, **Jane Doe**, and for her Complaint against the Defendant, **ABC Realty Management**, states as follows:
+
+---
+
+### I. PARTIES, JURISDICTION, AND VENUE
+
+1. Plaintiff Jane Doe (“Plaintiff”) is an individual residing at 123 Maple Street, Apartment 3B, Lynn, Massachusetts.  
+2. Defendant ABC Realty Management (“Defendant”) is, upon information and belief, a Massachusetts property management company with its principal place of business in Essex County, Massachusetts.  
+3. The events giving rise to this action occurred in Lynn, in Essex County, Massachusetts.  
+4. Pursuant to **G.L. c. 218, § 19**, this Court has subject matter jurisdiction because the amount in controversy is within the jurisdictional limits of the District Court.  
+5. Venue is proper in this Court pursuant to **G.L. c. 223, § 2**, because the cause of action arose in Lynn, Massachusetts, and Defendant conducts business there.  
+
+---
+
+### II. FACTUAL ALLEGATIONS
+
+6. At all relevant times, Defendant owned, operated, managed, and controlled the apartment building located at 123 Maple Street, Lynn, Massachusetts (“the Premises”).  
+7. Plaintiff resided on the third floor of the Premises.  
+8. Defendant, as landlord and property manager, was responsible for maintaining the common areas and ensuring that smoke detectors in hallways were operable and properly maintained, as required by **G.L. c. 148, §§ 26E and 26F**, and **527 C.M.R. 1.00** (Massachusetts Comprehensive Fire Safety Code).  
+9. For several months before September 15, 2023, the smoke detector in the common hallway immediately adjacent to Plaintiff’s apartment emitted a low battery “chirping” sound, indicating the battery was nearly depleted.  
+10. Eventually, an unidentified person removed the detector’s battery and left it on a nearby windowsill, rendering the alarm inoperative.  
+11. Plaintiff notified Defendant of the nonfunctioning smoke detector on at least three occasions over the course of those months.  
+12. Each time, Defendant stated it would “take care of it” but took no corrective action.  
+13. On or about **September 15, 2023**, a fire broke out in a first-floor unit of the Premises, reportedly originating in that tenant’s kitchen.  
+14. Because the hallway smoke detector outside Plaintiff’s unit had no battery, there was no alarm or warning of smoke or fire to residents on the upper floors.  
+15. Plaintiff only noticed the fire when smoke seeped into her apartment. By then, the common hallway was filled with thick smoke, seriously endangering her ability to evacuate.  
+16. Plaintiff suffered smoke inhalation, respiratory distress, and emotional trauma and was hospitalized overnight for treatment.  
+17. Plaintiff incurred approximately **$7,500** in medical expenses and approximately **$2,000** in lost wages due to missed work.  
+18. Plaintiff also suffered property damage to clothing, furniture, and personal belongings due to smoke and water exposure.  
+19. Defendant’s failure to maintain the smoke detector created an unreasonable risk of harm to tenants and was the direct and foreseeable cause of Plaintiff’s injuries.  
+20. All damages suffered by Plaintiff were the direct and proximate result of Defendant’s negligence.
+
+---
+
+### III. CAUSE OF ACTION – NEGLIGENCE
+
+21. Plaintiff realleges and incorporates paragraphs 1 through 20 as if fully set forth herein.  
+22. Defendant owed Plaintiff a duty of reasonable care to maintain the common areas of the apartment building, including ensuring that smoke detectors were installed and functioning as required by law.  
+23. A landlord in Massachusetts must act with reasonable care to maintain common areas in a safe condition for tenants and lawful visitors. **Mounsey v. Ellard**, 363 Mass. 693 (1973).  
+24. Defendant breached this duty by failing to inspect, maintain, and repair the smoke detector after repeated notice of its inoperative condition.  
+25. Defendant’s duty of care arises from both common law and statute, including but not limited to **G.L. c. 186, § 15**, **G.L. c. 143, § 3T**, and the Massachusetts State Fire Code, which collectively require landlords to ensure that required fire protection systems are functional.  
+26. Under **Restatement (Second) of Torts § 343**, adopted in Massachusetts (see **Dos Santos v. Coleta**, 465 Mass. 148 (2013)), a possessor of land is subject to liability for physical harm caused to invitees by a condition on the land if the possessor knows or should know of the condition and should realize it involves an unreasonable risk of harm.  
+27. Defendant had actual notice of the nonfunctioning smoke detector through Plaintiff’s repeated complaints.  
+28. Defendant also had constructive notice through the ongoing “chirping” alarm that directly indicated battery failure.  
+29. Defendant’s failure to repair or replace the battery within a reasonable time constituted a breach of its duty under Massachusetts negligence law, including **Banaghan v. Dewey**, 340 Mass. 73 (1959) (landlord liable for failure to maintain common areas in safe condition); **King v. G & M Realty Corp.**, 373 Mass. 658 (1977); **Foster v. The Loft, Inc.**, 26 Mass. App. Ct. 289 (1988).  
+30. Defendant’s negligence was a direct and proximate cause of Plaintiff’s injuries, as recognized under **Bernier v. Boston Edison Co.**, 380 Mass. 372 (1980) (defendant liable for harm that was reasonably foreseeable result of its conduct).  
+31. Plaintiff’s injuries were foreseeable and preventable had Defendant exercised ordinary care. **Yee v. American National Ins. Co.**, 353 Mass. 358 (1967).  
+32. Plaintiff’s status as a residential tenant places her squarely within the class of persons the statutory duties were intended to protect. **LeBlanc v. Logan Hilton Joint Venture**, 463 Mass. 316 (2012).  
+33. Defendant’s inaction also breached its implied warranty of habitability and duty to maintain safe premises recognized in **Young v. Garwacki**, 380 Mass. 162 (1980).  
+34. As a result, Plaintiff sustained personal injury, property damage, and associated economic losses.  
+35. Defendant’s misconduct constitutes negligence under Massachusetts law, entitling Plaintiff to compensatory damages.
+
+---
+
+### IV. DAMAGES
+
+36. Plaintiff suffered the following damages as a direct result of Defendant’s negligence:  
+   a. Medical expenses of approximately **$7,500**;  
+   b. Lost wages of approximately **$2,000**;  
+   c. Property damage to personal belongings, estimated at **$3,000**;  
+   d. Physical pain and suffering, emotional distress, and inconvenience.  
+37. Plaintiff reserves the right to amend the amount of damages as further information becomes available.
+
+---
+
+### V. PRAYER FOR RELIEF
+
+**WHEREFORE**, Plaintiff respectfully requests that this Honorable Court:
+
+A. Enter judgment in favor of Plaintiff and against Defendant for negligence;  
+B. Award Plaintiff compensatory damages in an amount to be determined at trial, but not less than **$12,500**, plus interest as provided by **G.L. c. 231, § 6B**;  
+C. Award costs of suit pursuant to **Mass. R. Civ. P. 54(d)**; and  
+D. Grant such other and further relief as this Court deems just and proper.
+
+---
+
+### VI. JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable as of right under **Mass. R. Civ. P. 38**.
+
+---
+
+### VII. CERTIFICATION PURSUANT TO MASS. R. CIV. P. 11
+
+I, the undersigned Plaintiff, certify that I have read the foregoing Complaint and that to the best of my knowledge, information, and belief, it is well‑grounded in fact and warranted by existing law or a good‑faith argument for the extension, modification, or reversal of existing law.
+
+---
+
+**Respectfully submitted,**  
+
+**Jane Doe, Pro Se**  
+123 Maple Street, Apt 3B  
+Lynn, MA 01902  
+Tel: (617) 555‑0123  
+Email: psm1443@gmail.com  
+
+Date: **December 1, 2025**  
+
+**Signature:** ___________________________  
+**Jane Doe**  
+
+---
+
+### AUTHORITIES CITED
+
+1. Mounsey v. Ellard, 363 Mass. 693 (1973)  
+2. Banaghan v. Dewey, 340 Mass. 73 (1959)  
+3. King v. G & M Realty Corp., 373 Mass. 658 (1977)  
+4. Bernier v. Boston Edison Co., 380 Mass. 372 (1980)  
+5. Young v. Garwacki, 380 Mass. 162 (1980)  
+6. Yee v. American National Ins. Co., 353 Mass. 358 (1967)  
+7. LeBlanc v. Logan Hilton Joint Venture, 463 Mass. 316 (2012)  
+8. Dos Santos v. Coleta, 465 Mass. 148 (2013)  
+9. Foster v. The Loft, Inc., 26 Mass. App. Ct. 289 (1988)  
+10. G.L. c. 148, §§ 26E–26F; G.L. c. 186, § 15; G.L. c. 231, § 6B; 527 C.M.R. 1.00  
+
+---
+
+**END OF COMPLAINT**

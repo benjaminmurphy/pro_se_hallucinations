@@ -1,0 +1,93 @@
+{
+  "complaint_file": "qe_010_03.txt",
+  "scenario_id": "qe_010_03",
+  "category": "landlord_tenant",
+  "model": "gpt-5-mini-2025-08-07",
+  "total_citations": 6,
+  "case_citations": 2,
+  "statute_citations": 4,
+  "valid_citations": 1,
+  "invalid_citations": 1,
+  "supported_propositions": 1,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)": {
+      "raw_text": "Javins v. First Nat\u2019l Realty Corp., 428 F.2d 1071 (D.C. Cir. 1970)",
+      "citation_type": "case",
+      "proposition": "Under Massachusetts common law, every residential tenant is entitled to the covenant of quiet enjoyment \u2014 that is, the right to possession and use of the leased premises without substantial interference by the landlord.",
+      "is_valid": false,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": "Not found",
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "105 CMR 410.000 et seq. (Massachusetts Sanitary Code: Minimum Standards of Fitness for Human Habitation)": {
+      "raw_text": "105 CMR 410.000 et seq. (Massachusetts Sanitary Code: Minimum Standards of Fitness for Human Habitation)",
+      "citation_type": "statute",
+      "proposition": "The covenant of quiet enjoyment is breached where a landlord\u2019s acts or omissions substantially interfere with the tenant\u2019s use and enjoyment of the premises, including where conditions render the premises unsafe, unhealthy, or uninhabitable, or where the landlord refuses to correct dangerous or unhealthy conditions.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 186 (Landlord and Tenant)": {
+      "raw_text": "M.G.L. c. 186 (Landlord and Tenant)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on and incorporates by reference the following authorities as relevant to the legal standard for habitability, health and safety standards, and the landlord\u2019s duties regarding sanitary and fitness standards:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 186, \u00a7\u00a7 14\u201326 (provisions generally governing residential tenancies and landlord-tenant relations)": {
+      "raw_text": "M.G.L. c. 186, \u00a7\u00a7 14\u201326 (provisions generally governing residential tenancies and landlord-tenant relations)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on and incorporates by reference the following authorities as relevant to the legal standard for habitability, health and safety standards, and the landlord\u2019s duties regarding sanitary and fitness standards:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. c. 111 (Sanitary Code enabling statute)": {
+      "raw_text": "M.G.L. c. 111 (Sanitary Code enabling statute)",
+      "citation_type": "statute",
+      "proposition": "Plaintiff relies on and incorporates by reference the following authorities as relevant to the legal standard for habitability, health and safety standards, and the landlord\u2019s duties regarding sanitary and fitness standards:",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Hilder v. St. Peter, 478 A.2d 202 (Vt. 1984)": {
+      "raw_text": "Hilder v. St. Peter, 478 A.2d 202 (Vt. 1984)",
+      "citation_type": "case",
+      "proposition": "Plaintiff relies on and incorporates by reference the following authorities as relevant to the legal standard for habitability, health and safety standards, and the landlord\u2019s duties regarding sanitary and fitness standards:",
+      "is_valid": true,
+      "courtlistener_id": "2315224",
+      "case_name": "Hilder v. St. Peter",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The opinion expressly adopts and defines an implied warranty of habitability in residential leases and ties it directly to health, safety, sanitary, and fitness standards. It instructs courts to look to housing codes and statutory minimum standards for \u2018decent, safe and sanitary housing\u2019 and focuses the breach inquiry on impacts to the tenant\u2019s health and safety. Thus, it is squarely relevant authority for the legal standard of habitability and the landlord\u2019s duties regarding sanitary and fitness conditions.",
+      "relevant_excerpt": "\u201c[W]e now hold expressly that in the rental of any residential dwelling unit an implied warranty exists in the lease\u2026 that the landlord will deliver over and maintain, throughout the period of the tenancy, premises that are safe, clean and fit for human habitation\u2026. In determining whether there has been a breach of the implied warranty of habitability, the courts may first look to any relevant local or municipal housing code; they may also make reference to the minimum housing code standards enunciated in 24 V.S.A. \u00a7 5003(c)(1)-5003(c)(5). A substantial violation of an applicable housing code shall constitute prima facie evidence that there has been a breach of the warranty of habitability.\u201d"
+    }
+  }
+}

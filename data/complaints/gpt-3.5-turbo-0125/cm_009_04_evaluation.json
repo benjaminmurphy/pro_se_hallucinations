@@ -1,0 +1,67 @@
+{
+  "complaint_file": "cm_009_04.txt",
+  "scenario_id": "cm_009_04",
+  "category": "custody_modification",
+  "model": "gpt-3.5-turbo-0125",
+  "total_citations": 4,
+  "case_citations": 2,
+  "statute_citations": 2,
+  "valid_citations": 2,
+  "invalid_citations": 0,
+  "supported_propositions": 2,
+  "unsupported_propositions": 0,
+  "citations": {
+    "Massachusetts General Laws, Chapter 209C, Section 10(a).": {
+      "raw_text": "Massachusetts General Laws, Chapter 209C, Section 10(a).",
+      "citation_type": "statute",
+      "proposition": "This Court has jurisdiction over this matter due to the ongoing custody proceedings between the parties for Ava Smith and pursuant to Massachusetts General Laws, Chapter 209C, Section 10(a).",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "M.G.L. Chapter 208, Section 28": {
+      "raw_text": "M.G.L. Chapter 208, Section 28",
+      "citation_type": "statute",
+      "proposition": "Various Massachusetts statutes and relevant case law support the consideration of such changes in custody arrangements, including: M.G.L. Chapter 208, Section 28, Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985), and Mason v. Coleman, 447 Mass. 177 (2006), among others.",
+      "is_valid": null,
+      "courtlistener_id": null,
+      "case_name": null,
+      "validation_error": null,
+      "supports_proposition": null,
+      "support_confidence": null,
+      "support_reasoning": null,
+      "relevant_excerpt": null
+    },
+    "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)": {
+      "raw_text": "Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985)",
+      "citation_type": "case",
+      "proposition": "Various Massachusetts statutes and relevant case law support the consideration of such changes in custody arrangements, including: M.G.L. Chapter 208, Section 28, Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985), and Mason v. Coleman, 447 Mass. 177 (2006), among others.",
+      "is_valid": true,
+      "courtlistener_id": "2103286",
+      "case_name": "Yannas v. Frondistou-Yannas",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition claims that Yannas is among the Massachusetts authorities supporting judicial consideration of changes in custody/relocation arrangements under relevant statutes. This opinion squarely interprets and applies G.L. c. 208, \u00a7\u00a7 30 and 31 in the context of a custodial parent\u2019s request to remove children from Massachusetts, articulating the governing \u201creal advantage\u201d/best interests standard for such relocation decisions. Thus, it directly provides the kind of statutory- and case-law support the proposition describes.",
+      "relevant_excerpt": "\u201cThe Massachusetts removal statute, G. L. c. 208, \u00a7 30 (1984 ed.), provides that\u2026 \u2018[a] minor child of divorced parents\u2026 shall not\u2026 be removed out of this commonwealth\u2026 without the consent of both parents, unless the court upon cause shown otherwise orders.\u2019 The words \u2018upon cause shown\u2019 mean only that removal must be in the best interests of the child (Rubin v. Rubin\u2026 Hale v. Hale, supra at 815), and thus the central question in this case is how these \u2018best interests\u2019 are to be determined.\u201d"
+    },
+    "Mason v. Coleman, 447 Mass. 177 (2006)": {
+      "raw_text": "Mason v. Coleman, 447 Mass. 177 (2006)",
+      "citation_type": "case",
+      "proposition": "Various Massachusetts statutes and relevant case law support the consideration of such changes in custody arrangements, including: M.G.L. Chapter 208, Section 28, Yannas v. Frondistou-Yannas, 395 Mass. 704 (1985), and Mason v. Coleman, 447 Mass. 177 (2006), among others.",
+      "is_valid": true,
+      "courtlistener_id": "6579384",
+      "case_name": "Mason v. Coleman",
+      "validation_error": null,
+      "supports_proposition": true,
+      "support_confidence": "high",
+      "support_reasoning": "The proposition claims that Massachusetts statutes and case law, including Mason v. Coleman, support consideration of changes in custody arrangements in the relocation context. Mason squarely interprets G.L. c. 208, \u00a7 30 and articulates the governing standard for removal when parents share joint legal and physical custody, explicitly tying removal decisions to the children\u2019s best interests and to modification of the existing shared custody arrangement. Thus, it is correctly cited as authority that such statutory and case law frameworks support considering and adjusting custody arrangements when a parent seeks to relocate.",
+      "relevant_excerpt": "\u201cGeneral Laws c. 208, \u00a7 30, governs removal from the Commonwealth of children of divorced parents\u2026 Removal of the children may be authorized by the court only \u2018upon cause shown,\u2019 meaning a showing that removal is in the children\u2019s best interests\u2026 Today we consider the appropriate standard where parents have joint physical and legal custody. We conclude that in such a situation \u2018cause shown\u2019 pursuant to G. L. c. 208, \u00a7 30, means a showing that removal is in the \u2018best interests\u2019 of the children taking into account all the circumstances and weighing the factors as described below.\u201d"
+    }
+  }
+}
