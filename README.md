@@ -15,7 +15,7 @@ COURTLISTENER_API_TOKEN=...
 
 ## Pipeline
 
-### 1. Hydrate  Generate scenario variants from fact patterns
+### 1. Hydrate: Generate scenario variants from fact patterns
 
 ```bash
 python main.py hydrate --category all
@@ -24,7 +24,7 @@ python main.py hydrate --category housing --variants 5
 
 Enriches raw fact patterns in `scenarios/fact_patterns.py` with realistic background information. Outputs to `scenarios/*.jsonl`.
 
-### 2. Generate  Create complaints from scenarios
+### 2. Generate: Create complaints from scenarios
 
 ```bash
 python main.py generate --category all --model gpt-4o
@@ -32,7 +32,7 @@ python main.py generate --category all --model gpt-4o
 
 Generates legal complaints for each hydrated scenario. Outputs to `data/complaints/{model}/`.
 
-### 3. Evaluate  Validate citations and check proposition support
+### 3. Evaluate: Validate citations and check proposition support
 
 ```bash
 python main.py evaluate --input data/complaints/gpt-4o-2024-11-20
@@ -45,7 +45,7 @@ For each complaint:
 
 Outputs `{complaint}_evaluation.json` files.
 
-### 4. Evaluate Elements  Check cause of action elements
+### 4. Evaluate Elements: Check cause of action elements
 
 ```bash
 python main.py evaluate-elements --input data/complaints/gpt-4o-2024-11-20
